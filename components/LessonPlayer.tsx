@@ -79,26 +79,31 @@ export default function LessonPlayer({
 
   if (step === "reading") {
     return (
-      <ReadingMode
-        paragraphs={lesson.paragraphs}
-        words={lesson.words}
-        onDone={() => setStep("flashcards")}
-      />
+      <div className="flex flex-col gap-4">
+        <p className="text-center text-sm font-bold text-duo-gray-dark">
+          這一課共有 {lesson.words.length} 個超過 B1 的單字，今天先練習其中 {lesson.practiceWords.length} 個
+        </p>
+        <ReadingMode
+          paragraphs={lesson.paragraphs}
+          words={lesson.words}
+          onDone={() => setStep("flashcards")}
+        />
+      </div>
     );
   }
 
   if (step === "flashcards") {
-    const word = lesson.words[flashcardIndex];
+    const word = lesson.practiceWords[flashcardIndex];
     return (
       <div className="flex flex-col gap-6">
         <p className="text-center text-sm font-bold text-duo-gray-dark">
-          新單字 {flashcardIndex + 1} / {lesson.words.length}
+          新單字 {flashcardIndex + 1} / {lesson.practiceWords.length}
         </p>
         <WordFlashcard word={word} />
         <button
           type="button"
           onClick={() => {
-            if (flashcardIndex + 1 >= lesson.words.length) {
+            if (flashcardIndex + 1 >= lesson.practiceWords.length) {
               setStep("exercises");
             } else {
               setFlashcardIndex((i) => i + 1);
@@ -106,7 +111,7 @@ export default function LessonPlayer({
           }}
           className="rounded-2xl border-b-4 border-duo-blue-dark bg-duo-blue py-3 text-center font-extrabold text-white active:translate-y-1 active:border-b-0"
         >
-          {flashcardIndex + 1 >= lesson.words.length ? "開始練習題 →" : "下一個單字"}
+          {flashcardIndex + 1 >= lesson.practiceWords.length ? "開始練習題 →" : "下一個單字"}
         </button>
       </div>
     );

@@ -45,5 +45,7 @@ next-env.d.ts
 # else here is generated locally from a legally-owned copy of the book.
 *.epub
 .local-books/
-content/**
-!content/**/manifest.json
+content/*
+!content/*/
+content/*/*
+!content/*/manifest.json

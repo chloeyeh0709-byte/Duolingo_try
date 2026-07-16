@@ -28,6 +28,10 @@ import type {
 
 type GeneratedWord = Omit<WordEntry, "surfaceForms" | "clozeAnswerSurfaceForm">;
 
+/** Caps how many words become flashcards/exercises in one sitting, so a lesson stays a few minutes long even when a section is vocabulary-dense. */
+const MAX_PRACTICE_WORDS = 20;
+const LEVEL_RANK: Record<string, number> = { C2: 0, C1: 1, B2: 2 };
+
 function shuffle<T>(items: T[]): T[] {
   const arr = [...items];
   for (let i = arr.length - 1; i > 0; i--) {
@@ -127,15 +131,27 @@ function buildLesson(
     clozeAnswerSurfaceForm: findClozeAnswer(w.exampleSentence, w.clozeSentence, w.lemma),
   }));
 
-  words.sort((a, b) => {
-    const ai = fullText.indexOf(a.exampleSentence.split(/\s+/)[0]);
-    const bi = fullText.indexOf(b.exampleSentence.split(/\s+/)[0]);
-    return (ai === -1 ? Infinity : ai) - (bi === -1 ? Infinity : bi);
-  });
+  const readingOrderIndex = (word: WordEntry): number => {
+    const i = fullText.indexOf(word.exampleSentence.split(/\s+/)[0]);
+    return i === -1 ? Infinity : i;
+  };
+
+  words.sort((a, b) => readingOrderIndex(a) - readingOrderIndex(b));
+
+  const practiceWords = [...words]
+    .sort((a, b) => {
+      const levelDiff = (LEVEL_RANK[a.level] ?? 3) - (LEVEL_RANK[b.level] ?? 3);
+      if (levelDiff !== 0) return levelDiff;
+      return readingOrderIndex(a) - readingOrderIndex(b);
+    })
+    .slice(0, MAX_PRACTICE_WORDS)
+    .sort((a, b) => readingOrderIndex(a) - readingOrderIndex(b));
 
   const exerciseTypes: LessonExercise["type"][] = ["multiple-choice", "cloze", "translation"];
   const exercises = shuffle(
-    words.map((word, i) => buildExercisesForWord(word, words, exerciseTypes[i % exerciseTypes.length]))
+    practiceWords.map((word, i) =>
+      buildExercisesForWord(word, practiceWords, exerciseTypes[i % exerciseTypes.length])
+    )
   );
 
   return {
@@ -145,6 +161,7 @@ function buildLesson(
     sectionIndex,
     paragraphs: raw.paragraphs,
     words,
+    practiceWords,
     exercises,
   };
 }

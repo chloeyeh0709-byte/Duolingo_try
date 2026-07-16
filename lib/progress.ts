@@ -83,8 +83,10 @@ export function getProgressSnapshot(): AppProgress {
   return cachedSnapshot;
 }
 
+const SERVER_SNAPSHOT: AppProgress = emptyProgress();
+
 export function getServerProgressSnapshot(): AppProgress {
-  return emptyProgress();
+  return SERVER_SNAPSHOT;
 }
 
 /** Bumps the daily streak the first time this is called on a given calendar day. */

@@ -29,11 +29,19 @@ export default function PathMap({ nodes }: { nodes: PathNode[] }) {
         const icon = node.status === "completed" ? "★" : node.status === "locked" ? "🔒" : "▶";
 
         const content = (
-          <div
-            className={`flex h-20 w-20 flex-col items-center justify-center rounded-full border-b-4 text-2xl font-extrabold transition-transform active:translate-y-1 active:shadow-none ${STATUS_STYLES[node.status]}`}
-          >
-            {icon}
-          </div>
+          <>
+            <div
+              className={`flex h-20 w-20 flex-col items-center justify-center rounded-full border-b-4 text-2xl font-extrabold transition-transform active:translate-y-1 active:shadow-none ${STATUS_STYLES[node.status]}`}
+            >
+              {icon}
+            </div>
+            <div className="text-center">
+              <p className="text-sm font-bold text-[color:var(--foreground)]">{node.title}</p>
+              {node.subtitle && (
+                <p className="text-xs font-semibold text-duo-gray-dark">{node.subtitle}</p>
+              )}
+            </div>
+          </>
         );
 
         return (
@@ -43,20 +51,14 @@ export default function PathMap({ nodes }: { nodes: PathNode[] }) {
             className="flex flex-col items-center gap-2"
           >
             {isLocked ? (
-              <div className="cursor-not-allowed" aria-disabled>
+              <div className="flex cursor-not-allowed flex-col items-center gap-2" aria-disabled>
                 {content}
               </div>
             ) : (
-              <Link href={node.href} className="group">
+              <Link href={node.href} className="group flex flex-col items-center gap-2">
                 {content}
               </Link>
             )}
-            <div className="text-center">
-              <p className="text-sm font-bold text-[color:var(--foreground)]">{node.title}</p>
-              {node.subtitle && (
-                <p className="text-xs font-semibold text-duo-gray-dark">{node.subtitle}</p>
-              )}
-            </div>
           </li>
         );
       })}

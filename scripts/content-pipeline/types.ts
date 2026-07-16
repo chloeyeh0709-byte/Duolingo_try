@@ -78,7 +78,10 @@ export interface Lesson {
   partTitle: string;
   sectionIndex: number;
   paragraphs: string[];
+  /** Every CEFR B2+ word found in this section - used for reading-mode highlighting. */
   words: WordEntry[];
+  /** A capped, level-prioritized subset of `words` used for flashcards + exercises, so a lesson stays a few minutes long even for vocabulary-dense sections. */
+  practiceWords: WordEntry[];
   exercises: LessonExercise[];
 }
 

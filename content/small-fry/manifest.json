@@ -1,0 +1,61 @@
+{
+  "slug": "small-fry",
+  "title": "Small Fry",
+  "author": "Lisa Brennan-Jobs",
+  "parts": [
+    {
+      "index": 1,
+      "title": "Hippies",
+      "sectionCount": 7,
+      "wordCount": 569
+    },
+    {
+      "index": 2,
+      "title": "Lifelines",
+      "sectionCount": 5,
+      "wordCount": 0
+    },
+    {
+      "index": 3,
+      "title": "Let’s Blast",
+      "sectionCount": 9,
+      "wordCount": 0
+    },
+    {
+      "index": 4,
+      "title": "Small Fry",
+      "sectionCount": 9,
+      "wordCount": 0
+    },
+    {
+      "index": 5,
+      "title": "Runaway",
+      "sectionCount": 12,
+      "wordCount": 0
+    },
+    {
+      "index": 6,
+      "title": "Small Nation",
+      "sectionCount": 14,
+      "wordCount": 0
+    },
+    {
+      "index": 7,
+      "title": "Marketable Skills",
+      "sectionCount": 7,
+      "wordCount": 0
+    },
+    {
+      "index": 8,
+      "title": "Flight",
+      "sectionCount": 3,
+      "wordCount": 0
+    },
+    {
+      "index": 9,
+      "title": "Coda",
+      "sectionCount": 7,
+      "wordCount": 0
+    }
+  ]
+}
