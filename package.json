@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "build:standalone": "tsx scripts/generate-standalone-content.ts && vite build --config standalone/vite.config.ts && cp standalone-dist/index.html docs/index.html"
+    "build:standalone": "tsx scripts/generate-standalone-content.ts && vite build --config standalone/vite.config.ts && cp standalone-dist/index.html docs/index.html && touch docs/.nojekyll"
   },
   "dependencies": {
     "adm-zip": "^0.6.0",
