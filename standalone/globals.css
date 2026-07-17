@@ -1,0 +1,45 @@
+@import "tailwindcss";
+@source "../components/**/*.tsx";
+@source "./App.tsx";
+
+:root {
+  --background: #ffffff;
+  --foreground: #3c3c3c;
+
+  /* Duolingo-inspired palette, see docs/duolingo-style-guide.md */
+  --color-duo-green: #58cc02;
+  --color-duo-green-dark: #58a700;
+  --color-duo-blue: #1cb0f6;
+  --color-duo-blue-dark: #1899d6;
+  --color-duo-red: #ff4b4b;
+  --color-duo-red-dark: #ea2b2b;
+  --color-duo-yellow: #ffc800;
+  --color-duo-yellow-dark: #e6b400;
+  --color-duo-purple: #ce82ff;
+  --color-duo-gray: #e5e5e5;
+  --color-duo-gray-dark: #afafaf;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-duo-green: var(--color-duo-green);
+  --color-duo-green-dark: var(--color-duo-green-dark);
+  --color-duo-blue: var(--color-duo-blue);
+  --color-duo-blue-dark: var(--color-duo-blue-dark);
+  --color-duo-red: var(--color-duo-red);
+  --color-duo-red-dark: var(--color-duo-red-dark);
+  --color-duo-yellow: var(--color-duo-yellow);
+  --color-duo-yellow-dark: var(--color-duo-yellow-dark);
+  --color-duo-purple: var(--color-duo-purple);
+  --color-duo-gray: var(--color-duo-gray);
+  --color-duo-gray-dark: var(--color-duo-gray-dark);
+  /* No next/font in the standalone build - use a rounded system font stack instead. */
+  --font-sans: ui-rounded, "SF Pro Rounded", "Segoe UI", "Noto Sans TC", system-ui, sans-serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}

@@ -53,3 +53,8 @@ content/*/raw/
 content/*/tokenized/
 content/*/cefr/
 content/*/parts-summary.json
+
+# Generated bundle of all lesson content for the standalone build (rebuild
+# with `npm run build:standalone`). standalone-dist/index.html - the actual
+# single-file deliverable - IS committed.
+standalone/content-data.ts
