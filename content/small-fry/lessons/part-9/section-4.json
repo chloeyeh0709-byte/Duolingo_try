@@ -1,0 +1,941 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 9,
+  "partTitle": "Coda",
+  "sectionIndex": 4,
+  "paragraphs": [
+    "I had already committed to study abroad at King’s College in London for my final year of college, and Kevin and Dorothy insisted that I go.",
+    "That year, near my dorm, the London Eye was lifted from the surface of the water.",
+    "Toward the end of my year abroad, I dated an English lawyer with a high-standing blond ruffle of hair.",
+    "“You should invite your father to your graduation,” he said.",
+    "“No way,” I said. I told him everything my father had done wrong.",
+    "“But he’s your father,” he said. He kept pressing, saying that it didn’t matter what one’s father had done; he was still one’s father, that fathers had done worse things and still should be invited to momentous events, and if I didn’t invite him, I’d regret it later when it was too late to fix. I was ambivalent, but in the end I sent my father and Laurene two tickets and a note.",
+    "Kevin and Dorothy, whom I invited and who planned to come, were deeply hurt that I’d invited my father, after all they had done for me when he had not, and decided not to come.",
+    "My mother was worried she wouldn’t be able to afford the trip, but at the last minute she got a consulting job with Hewlett-Packard, bought a flight, reserved a hotel room, and bought a stunning black cotton dress that was ruched up at the bottom like a parachute.",
+    "Later, when my father talked about that day, he said, several times, “Your mother was so graceful.” He did not know what I knew—that she’d carefully rationed her words to him, giving him a maximum of twenty-five. To him she spoke deliberately and carefully, to protect this economy.",
+    "My father and Laurene had slipped through the river gate of Winthrop House to watch me walk down the line and receive my diploma. When I came to join my mother, I found them standing beside her. “I don’t believe in genetics,” my father blurted out after we’d exchanged hellos. He sometimes made pronouncements like this. At other times he had talked about how powerful genes were. I didn’t know how to respond.",
+    "“What are you going to do next? Do you have a job?” he asked.",
+    "I was almost too embarrassed to say, because I knew he didn’t respect banking, or what he called “the straight and narrow,” and neither did I, and I withered under my imagination of his judgment.",
+    "“Tell him,” my mother nudged me, and I mumbled it. I would be starting work as an analyst at a bank in London. It was the wrong kind of job for an English major, and I felt foolish to have joined the normal hubbub of the world, and for being one of the people my father sometimes mocked, but Schroder Salomon Smith Barney would get me a visa so that I could live and work in London. I would be able to support myself.",
+    "After graduation, I would see my father once a year, if that. My younger sister, Eve, was born when I was away at college, but in a few magazines I came across in the following years and on his bio on his company website, he said he had three children, not four. Sometimes, he would be wonderful, but then he would say something unkind, so that I found myself guarded around him, happy to stay away.",
+    "A few weeks after graduation, my mother asked Kevin and Dorothy to provide a sheet with a detailed accounting of everything they’d spent on me, including the flights, books, vacations, and clothing for school. She sent this piece of paper to my father and, shortly after, he paid them back."
+  ],
+  "words": [
+    {
+      "lemma": "analyst",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A person who studies data or situations in detail, often for a job.",
+      "translationZh": "分析師",
+      "exampleSentence": "I would be starting work as an analyst at a bank in London.",
+      "clozeSentence": "I would be starting work as an _____ at a bank in London.",
+      "distractors": [
+        "A person who sells products in a store.",
+        "A person who repairs computers.",
+        "A person who teaches young children."
+      ],
+      "surfaceForms": [
+        "analyst"
+      ],
+      "clozeAnswerSurfaceForm": "analyst"
+    },
+    {
+      "lemma": "neither",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Not one nor the other of two things.",
+      "translationZh": "兩者皆非；兩者都不",
+      "exampleSentence": "I was almost too embarrassed to say, because I knew he didn’t respect banking, or what he called “the straight and narrow,” and neither did I, and I withered under my imagination of his judgment.",
+      "clozeSentence": "I was almost too embarrassed to say, because I knew he didn’t respect banking, or what he called “the straight and narrow,” and _____ did I, and I withered under my imagination of his judgment.",
+      "distractors": [
+        "Both of two things equally.",
+        "Only the first of two options.",
+        "Only the second of two options."
+      ],
+      "surfaceForms": [
+        "neither"
+      ],
+      "clozeAnswerSurfaceForm": "neither"
+    },
+    {
+      "lemma": "ambivalent",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Having mixed or contradictory feelings about something.",
+      "translationZh": "矛盾的；猶豫不決的",
+      "exampleSentence": "I was ambivalent, but in the end I sent my father and Laurene two tickets and a note.",
+      "clozeSentence": "I was _____, but in the end I sent my father and Laurene two tickets and a note.",
+      "distractors": [
+        "Feeling completely certain and decided.",
+        "Feeling extremely excited and eager.",
+        "Feeling calm and indifferent."
+      ],
+      "surfaceForms": [
+        "ambivalent"
+      ],
+      "clozeAnswerSurfaceForm": "ambivalent"
+    },
+    {
+      "lemma": "dorm",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A building with rooms where students live at college.",
+      "translationZh": "宿舍",
+      "exampleSentence": "That year, near my dorm, the London Eye was lifted from the surface of the water.",
+      "clozeSentence": "That year, near my _____, the London Eye was lifted from the surface of the water.",
+      "distractors": [
+        "A large public library.",
+        "A university lecture hall.",
+        "A school cafeteria."
+      ],
+      "surfaceForms": [
+        "dorm"
+      ],
+      "clozeAnswerSurfaceForm": "dorm"
+    },
+    {
+      "lemma": "deliberately",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "On purpose; in an intentional way.",
+      "translationZh": "故意地；刻意地",
+      "exampleSentence": "To him she spoke deliberately and carefully, to protect this economy.",
+      "clozeSentence": "To him she spoke _____ and carefully, to protect this economy.",
+      "distractors": [
+        "By accident, without intention.",
+        "In a hurried, careless way.",
+        "In a loud, public way."
+      ],
+      "surfaceForms": [
+        "deliberately"
+      ],
+      "clozeAnswerSurfaceForm": "deliberately"
+    },
+    {
+      "lemma": "high-standing",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Standing up high or prominently, especially of hair.",
+      "translationZh": "（頭髮）高聳的",
+      "exampleSentence": "Toward the end of my year abroad, I dated an English lawyer with a high-standing blond ruffle of hair.",
+      "clozeSentence": "Toward the end of my year abroad, I dated an English lawyer with a _____ blond ruffle of hair.",
+      "distractors": [
+        "Lying flat and smooth.",
+        "Cut extremely short.",
+        "Colored unnaturally bright."
+      ],
+      "surfaceForms": [
+        "high-standing"
+      ],
+      "clozeAnswerSurfaceForm": "high-standing"
+    },
+    {
+      "lemma": "ruffle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A gathered, wavy mass, as of tousled hair.",
+      "translationZh": "（頭髮）蓬鬆的波浪",
+      "exampleSentence": "Toward the end of my year abroad, I dated an English lawyer with a high-standing blond ruffle of hair.",
+      "clozeSentence": "Toward the end of my year abroad, I dated an English lawyer with a high-standing blond _____ of hair.",
+      "distractors": [
+        "A perfectly straight and flat style.",
+        "A tightly shaved, short style.",
+        "A neatly braided style."
+      ],
+      "surfaceForms": [
+        "ruffle"
+      ],
+      "clozeAnswerSurfaceForm": "ruffle"
+    },
+    {
+      "lemma": "momentous",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Very important, especially having a big future effect.",
+      "translationZh": "重大的；重要的",
+      "exampleSentence": "He kept pressing, saying that it didn’t matter what one’s father had done; he was still one’s father, that fathers had done worse things and still should be invited to momentous events, and if I didn’t invite him, I’d regret it later when it was too late to fix.",
+      "clozeSentence": "He kept pressing, saying that it didn’t matter what one’s father had done; he was still one’s father, that fathers had done worse things and still should be invited to _____ events, and if I didn’t invite him, I’d regret it later when it was too late to fix.",
+      "distractors": [
+        "Trivial and unimportant.",
+        "Brief and easily forgotten.",
+        "Common and unremarkable."
+      ],
+      "surfaceForms": [
+        "momentous"
+      ],
+      "clozeAnswerSurfaceForm": "momentous"
+    },
+    {
+      "lemma": "pronouncement",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A formal or authoritative statement or announcement.",
+      "translationZh": "正式宣告；聲明",
+      "exampleSentence": "He sometimes made pronouncements like this.",
+      "clozeSentence": "He sometimes made _____ like this.",
+      "distractors": [
+        "A private, secret thought.",
+        "A casual, unimportant remark.",
+        "A written apology."
+      ],
+      "surfaceForms": [
+        "pronouncements"
+      ],
+      "clozeAnswerSurfaceForm": "pronouncements"
+    },
+    {
+      "lemma": "bio",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A short account of a person's life or career.",
+      "translationZh": "簡介；小傳",
+      "exampleSentence": "My younger sister, Eve, was born when I was away at college, but in a few magazines I came across in the following years and on his bio on his company website, he said he had three children, not four.",
+      "clozeSentence": "My younger sister, Eve, was born when I was away at college, but in a few magazines I came across in the following years and on his _____ on his company website, he said he had three children, not four.",
+      "distractors": [
+        "A formal legal contract.",
+        "A detailed financial report.",
+        "A weekly work schedule."
+      ],
+      "surfaceForms": [
+        "bio"
+      ],
+      "clozeAnswerSurfaceForm": "bio"
+    },
+    {
+      "lemma": "consult",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Relating to giving expert professional advice, especially as a job.",
+      "translationZh": "諮詢顧問的",
+      "exampleSentence": "My mother was worried she wouldn’t be able to afford the trip, but at the last minute she got a consulting job with Hewlett-Packard, bought a flight, reserved a hotel room, and bought a stunning black cotton dress that was ruched up at the bottom like a parachute.",
+      "clozeSentence": "My mother was worried she wouldn’t be able to afford the trip, but at the last minute she got a _____ job with Hewlett-Packard, bought a flight, reserved a hotel room, and bought a stunning black cotton dress that was ruched up at the bottom like a parachute.",
+      "distractors": [
+        "Relating to manufacturing physical goods.",
+        "Relating to teaching young students.",
+        "Relating to repairing vehicles."
+      ],
+      "surfaceForms": [
+        "consulting"
+      ],
+      "clozeAnswerSurfaceForm": "consulting"
+    },
+    {
+      "lemma": "diploma",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "An official document showing completion of a course of study.",
+      "translationZh": "畢業證書；文憑",
+      "exampleSentence": "My father and Laurene had slipped through the river gate of Winthrop House to watch me walk down the line and receive my diploma.",
+      "clozeSentence": "My father and Laurene had slipped through the river gate of Winthrop House to watch me walk down the line and receive my _____.",
+      "distractors": [
+        "A formal letter of complaint.",
+        "A financial receipt for tuition.",
+        "A university course schedule."
+      ],
+      "surfaceForms": [
+        "diploma"
+      ],
+      "clozeAnswerSurfaceForm": "diploma"
+    },
+    {
+      "lemma": "ruched",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "Gathered into small folds or pleats, of fabric.",
+      "translationZh": "（布料）打褶的",
+      "exampleSentence": "My mother was worried she wouldn’t be able to afford the trip, but at the last minute she got a consulting job with Hewlett-Packard, bought a flight, reserved a hotel room, and bought a stunning black cotton dress that was ruched up at the bottom like a parachute.",
+      "clozeSentence": "My mother was worried she wouldn’t be able to afford the trip, but at the last minute she got a consulting job with Hewlett-Packard, bought a flight, reserved a hotel room, and bought a stunning black cotton dress that was _____ up at the bottom like a parachute.",
+      "distractors": [
+        "Ironed completely smooth and flat.",
+        "Dyed a single solid color.",
+        "Cut into a straight, simple line."
+      ],
+      "surfaceForms": [
+        "ruched"
+      ],
+      "clozeAnswerSurfaceForm": "ruched"
+    },
+    {
+      "lemma": "blurt",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To say something suddenly and without thinking.",
+      "translationZh": "脫口而出",
+      "exampleSentence": "“I don’t believe in genetics,” my father blurted out after we’d exchanged hellos.",
+      "clozeSentence": "“I don’t believe in genetics,” my father _____ out after we’d exchanged hellos.",
+      "distractors": [
+        "To speak slowly after careful thought.",
+        "To remain silent on purpose.",
+        "To whisper something secretly."
+      ],
+      "surfaceForms": [
+        "blurted"
+      ],
+      "clozeAnswerSurfaceForm": "blurted"
+    },
+    {
+      "lemma": "mumble",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To say something quietly and unclearly.",
+      "translationZh": "喃喃低語；含糊地說",
+      "exampleSentence": "“Tell him,” my mother nudged me, and I mumbled it.",
+      "clozeSentence": "“Tell him,” my mother nudged me, and I _____ it.",
+      "distractors": [
+        "To shout something loudly and clearly.",
+        "To sing a song joyfully.",
+        "To remain completely silent."
+      ],
+      "surfaceForms": [
+        "mumbled"
+      ],
+      "clozeAnswerSurfaceForm": "mumbled"
+    },
+    {
+      "lemma": "nudge",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To push someone gently, often to get their attention.",
+      "translationZh": "輕推；輕觸提醒",
+      "exampleSentence": "“Tell him,” my mother nudged me, and I mumbled it.",
+      "clozeSentence": "“Tell him,” my mother _____ me, and I mumbled it.",
+      "distractors": [
+        "To push someone forcefully away.",
+        "To shout loudly at someone.",
+        "To completely ignore someone."
+      ],
+      "surfaceForms": [
+        "nudged"
+      ],
+      "clozeAnswerSurfaceForm": "nudged"
+    },
+    {
+      "lemma": "mock",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To make fun of someone in a scornful way.",
+      "translationZh": "嘲笑",
+      "exampleSentence": "It was the wrong kind of job for an English major, and I felt foolish to have joined the normal hubbub of the world, and for being one of the people my father sometimes mocked, but Schroder Salomon Smith Barney would get me a visa so that I could live and work in London.",
+      "clozeSentence": "It was the wrong kind of job for an English major, and I felt foolish to have joined the normal hubbub of the world, and for being one of the people my father sometimes _____, but Schroder Salomon Smith Barney would get me a visa so that I could live and work in London.",
+      "distractors": [
+        "To praise someone sincerely.",
+        "To help someone in need.",
+        "To ignore someone politely."
+      ],
+      "surfaceForms": [
+        "mocked"
+      ],
+      "clozeAnswerSurfaceForm": "mocked"
+    },
+    {
+      "lemma": "hubbub",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A loud, confused noise made by a crowd of people.",
+      "translationZh": "喧鬧；嘈雜聲",
+      "exampleSentence": "It was the wrong kind of job for an English major, and I felt foolish to have joined the normal hubbub of the world, and for being one of the people my father sometimes mocked, but Schroder Salomon Smith Barney would get me a visa so that I could live and work in London.",
+      "clozeSentence": "It was the wrong kind of job for an English major, and I felt foolish to have joined the normal _____ of the world, and for being one of the people my father sometimes mocked, but Schroder Salomon Smith Barney would get me a visa so that I could live and work in London.",
+      "distractors": [
+        "A quiet, peaceful silence.",
+        "A single clear voice.",
+        "A soft musical melody."
+      ],
+      "surfaceForms": [
+        "hubbub"
+      ],
+      "clozeAnswerSurfaceForm": "hubbub"
+    },
+    {
+      "lemma": "unkind",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Not kind; showing a lack of care for others' feelings.",
+      "translationZh": "不友善的；刻薄的",
+      "exampleSentence": "Sometimes, he would be wonderful, but then he would say something unkind, so that I found myself guarded around him, happy to stay away.",
+      "clozeSentence": "Sometimes, he would be wonderful, but then he would say something _____, so that I found myself guarded around him, happy to stay away.",
+      "distractors": [
+        "Extremely generous and caring.",
+        "Calm and emotionally neutral.",
+        "Overly cautious and shy."
+      ],
+      "surfaceForms": [
+        "unkind"
+      ],
+      "clozeAnswerSurfaceForm": "unkind"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "ambivalent",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Having mixed or contradictory feelings about something.",
+      "translationZh": "矛盾的；猶豫不決的",
+      "exampleSentence": "I was ambivalent, but in the end I sent my father and Laurene two tickets and a note.",
+      "clozeSentence": "I was _____, but in the end I sent my father and Laurene two tickets and a note.",
+      "distractors": [
+        "Feeling completely certain and decided.",
+        "Feeling extremely excited and eager.",
+        "Feeling calm and indifferent."
+      ],
+      "surfaceForms": [
+        "ambivalent"
+      ],
+      "clozeAnswerSurfaceForm": "ambivalent"
+    },
+    {
+      "lemma": "analyst",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A person who studies data or situations in detail, often for a job.",
+      "translationZh": "分析師",
+      "exampleSentence": "I would be starting work as an analyst at a bank in London.",
+      "clozeSentence": "I would be starting work as an _____ at a bank in London.",
+      "distractors": [
+        "A person who sells products in a store.",
+        "A person who repairs computers.",
+        "A person who teaches young children."
+      ],
+      "surfaceForms": [
+        "analyst"
+      ],
+      "clozeAnswerSurfaceForm": "analyst"
+    },
+    {
+      "lemma": "neither",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Not one nor the other of two things.",
+      "translationZh": "兩者皆非；兩者都不",
+      "exampleSentence": "I was almost too embarrassed to say, because I knew he didn’t respect banking, or what he called “the straight and narrow,” and neither did I, and I withered under my imagination of his judgment.",
+      "clozeSentence": "I was almost too embarrassed to say, because I knew he didn’t respect banking, or what he called “the straight and narrow,” and _____ did I, and I withered under my imagination of his judgment.",
+      "distractors": [
+        "Both of two things equally.",
+        "Only the first of two options.",
+        "Only the second of two options."
+      ],
+      "surfaceForms": [
+        "neither"
+      ],
+      "clozeAnswerSurfaceForm": "neither"
+    },
+    {
+      "lemma": "dorm",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A building with rooms where students live at college.",
+      "translationZh": "宿舍",
+      "exampleSentence": "That year, near my dorm, the London Eye was lifted from the surface of the water.",
+      "clozeSentence": "That year, near my _____, the London Eye was lifted from the surface of the water.",
+      "distractors": [
+        "A large public library.",
+        "A university lecture hall.",
+        "A school cafeteria."
+      ],
+      "surfaceForms": [
+        "dorm"
+      ],
+      "clozeAnswerSurfaceForm": "dorm"
+    },
+    {
+      "lemma": "high-standing",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Standing up high or prominently, especially of hair.",
+      "translationZh": "（頭髮）高聳的",
+      "exampleSentence": "Toward the end of my year abroad, I dated an English lawyer with a high-standing blond ruffle of hair.",
+      "clozeSentence": "Toward the end of my year abroad, I dated an English lawyer with a _____ blond ruffle of hair.",
+      "distractors": [
+        "Lying flat and smooth.",
+        "Cut extremely short.",
+        "Colored unnaturally bright."
+      ],
+      "surfaceForms": [
+        "high-standing"
+      ],
+      "clozeAnswerSurfaceForm": "high-standing"
+    },
+    {
+      "lemma": "deliberately",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "On purpose; in an intentional way.",
+      "translationZh": "故意地；刻意地",
+      "exampleSentence": "To him she spoke deliberately and carefully, to protect this economy.",
+      "clozeSentence": "To him she spoke _____ and carefully, to protect this economy.",
+      "distractors": [
+        "By accident, without intention.",
+        "In a hurried, careless way.",
+        "In a loud, public way."
+      ],
+      "surfaceForms": [
+        "deliberately"
+      ],
+      "clozeAnswerSurfaceForm": "deliberately"
+    },
+    {
+      "lemma": "ruffle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A gathered, wavy mass, as of tousled hair.",
+      "translationZh": "（頭髮）蓬鬆的波浪",
+      "exampleSentence": "Toward the end of my year abroad, I dated an English lawyer with a high-standing blond ruffle of hair.",
+      "clozeSentence": "Toward the end of my year abroad, I dated an English lawyer with a high-standing blond _____ of hair.",
+      "distractors": [
+        "A perfectly straight and flat style.",
+        "A tightly shaved, short style.",
+        "A neatly braided style."
+      ],
+      "surfaceForms": [
+        "ruffle"
+      ],
+      "clozeAnswerSurfaceForm": "ruffle"
+    },
+    {
+      "lemma": "pronouncement",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A formal or authoritative statement or announcement.",
+      "translationZh": "正式宣告；聲明",
+      "exampleSentence": "He sometimes made pronouncements like this.",
+      "clozeSentence": "He sometimes made _____ like this.",
+      "distractors": [
+        "A private, secret thought.",
+        "A casual, unimportant remark.",
+        "A written apology."
+      ],
+      "surfaceForms": [
+        "pronouncements"
+      ],
+      "clozeAnswerSurfaceForm": "pronouncements"
+    },
+    {
+      "lemma": "momentous",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Very important, especially having a big future effect.",
+      "translationZh": "重大的；重要的",
+      "exampleSentence": "He kept pressing, saying that it didn’t matter what one’s father had done; he was still one’s father, that fathers had done worse things and still should be invited to momentous events, and if I didn’t invite him, I’d regret it later when it was too late to fix.",
+      "clozeSentence": "He kept pressing, saying that it didn’t matter what one’s father had done; he was still one’s father, that fathers had done worse things and still should be invited to _____ events, and if I didn’t invite him, I’d regret it later when it was too late to fix.",
+      "distractors": [
+        "Trivial and unimportant.",
+        "Brief and easily forgotten.",
+        "Common and unremarkable."
+      ],
+      "surfaceForms": [
+        "momentous"
+      ],
+      "clozeAnswerSurfaceForm": "momentous"
+    },
+    {
+      "lemma": "ruched",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "Gathered into small folds or pleats, of fabric.",
+      "translationZh": "（布料）打褶的",
+      "exampleSentence": "My mother was worried she wouldn’t be able to afford the trip, but at the last minute she got a consulting job with Hewlett-Packard, bought a flight, reserved a hotel room, and bought a stunning black cotton dress that was ruched up at the bottom like a parachute.",
+      "clozeSentence": "My mother was worried she wouldn’t be able to afford the trip, but at the last minute she got a consulting job with Hewlett-Packard, bought a flight, reserved a hotel room, and bought a stunning black cotton dress that was _____ up at the bottom like a parachute.",
+      "distractors": [
+        "Ironed completely smooth and flat.",
+        "Dyed a single solid color.",
+        "Cut into a straight, simple line."
+      ],
+      "surfaceForms": [
+        "ruched"
+      ],
+      "clozeAnswerSurfaceForm": "ruched"
+    },
+    {
+      "lemma": "bio",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A short account of a person's life or career.",
+      "translationZh": "簡介；小傳",
+      "exampleSentence": "My younger sister, Eve, was born when I was away at college, but in a few magazines I came across in the following years and on his bio on his company website, he said he had three children, not four.",
+      "clozeSentence": "My younger sister, Eve, was born when I was away at college, but in a few magazines I came across in the following years and on his _____ on his company website, he said he had three children, not four.",
+      "distractors": [
+        "A formal legal contract.",
+        "A detailed financial report.",
+        "A weekly work schedule."
+      ],
+      "surfaceForms": [
+        "bio"
+      ],
+      "clozeAnswerSurfaceForm": "bio"
+    },
+    {
+      "lemma": "consult",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Relating to giving expert professional advice, especially as a job.",
+      "translationZh": "諮詢顧問的",
+      "exampleSentence": "My mother was worried she wouldn’t be able to afford the trip, but at the last minute she got a consulting job with Hewlett-Packard, bought a flight, reserved a hotel room, and bought a stunning black cotton dress that was ruched up at the bottom like a parachute.",
+      "clozeSentence": "My mother was worried she wouldn’t be able to afford the trip, but at the last minute she got a _____ job with Hewlett-Packard, bought a flight, reserved a hotel room, and bought a stunning black cotton dress that was ruched up at the bottom like a parachute.",
+      "distractors": [
+        "Relating to manufacturing physical goods.",
+        "Relating to teaching young students.",
+        "Relating to repairing vehicles."
+      ],
+      "surfaceForms": [
+        "consulting"
+      ],
+      "clozeAnswerSurfaceForm": "consulting"
+    },
+    {
+      "lemma": "diploma",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "An official document showing completion of a course of study.",
+      "translationZh": "畢業證書；文憑",
+      "exampleSentence": "My father and Laurene had slipped through the river gate of Winthrop House to watch me walk down the line and receive my diploma.",
+      "clozeSentence": "My father and Laurene had slipped through the river gate of Winthrop House to watch me walk down the line and receive my _____.",
+      "distractors": [
+        "A formal letter of complaint.",
+        "A financial receipt for tuition.",
+        "A university course schedule."
+      ],
+      "surfaceForms": [
+        "diploma"
+      ],
+      "clozeAnswerSurfaceForm": "diploma"
+    },
+    {
+      "lemma": "blurt",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To say something suddenly and without thinking.",
+      "translationZh": "脫口而出",
+      "exampleSentence": "“I don’t believe in genetics,” my father blurted out after we’d exchanged hellos.",
+      "clozeSentence": "“I don’t believe in genetics,” my father _____ out after we’d exchanged hellos.",
+      "distractors": [
+        "To speak slowly after careful thought.",
+        "To remain silent on purpose.",
+        "To whisper something secretly."
+      ],
+      "surfaceForms": [
+        "blurted"
+      ],
+      "clozeAnswerSurfaceForm": "blurted"
+    },
+    {
+      "lemma": "mumble",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To say something quietly and unclearly.",
+      "translationZh": "喃喃低語；含糊地說",
+      "exampleSentence": "“Tell him,” my mother nudged me, and I mumbled it.",
+      "clozeSentence": "“Tell him,” my mother nudged me, and I _____ it.",
+      "distractors": [
+        "To shout something loudly and clearly.",
+        "To sing a song joyfully.",
+        "To remain completely silent."
+      ],
+      "surfaceForms": [
+        "mumbled"
+      ],
+      "clozeAnswerSurfaceForm": "mumbled"
+    },
+    {
+      "lemma": "nudge",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To push someone gently, often to get their attention.",
+      "translationZh": "輕推；輕觸提醒",
+      "exampleSentence": "“Tell him,” my mother nudged me, and I mumbled it.",
+      "clozeSentence": "“Tell him,” my mother _____ me, and I mumbled it.",
+      "distractors": [
+        "To push someone forcefully away.",
+        "To shout loudly at someone.",
+        "To completely ignore someone."
+      ],
+      "surfaceForms": [
+        "nudged"
+      ],
+      "clozeAnswerSurfaceForm": "nudged"
+    },
+    {
+      "lemma": "hubbub",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A loud, confused noise made by a crowd of people.",
+      "translationZh": "喧鬧；嘈雜聲",
+      "exampleSentence": "It was the wrong kind of job for an English major, and I felt foolish to have joined the normal hubbub of the world, and for being one of the people my father sometimes mocked, but Schroder Salomon Smith Barney would get me a visa so that I could live and work in London.",
+      "clozeSentence": "It was the wrong kind of job for an English major, and I felt foolish to have joined the normal _____ of the world, and for being one of the people my father sometimes mocked, but Schroder Salomon Smith Barney would get me a visa so that I could live and work in London.",
+      "distractors": [
+        "A quiet, peaceful silence.",
+        "A single clear voice.",
+        "A soft musical melody."
+      ],
+      "surfaceForms": [
+        "hubbub"
+      ],
+      "clozeAnswerSurfaceForm": "hubbub"
+    },
+    {
+      "lemma": "mock",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To make fun of someone in a scornful way.",
+      "translationZh": "嘲笑",
+      "exampleSentence": "It was the wrong kind of job for an English major, and I felt foolish to have joined the normal hubbub of the world, and for being one of the people my father sometimes mocked, but Schroder Salomon Smith Barney would get me a visa so that I could live and work in London.",
+      "clozeSentence": "It was the wrong kind of job for an English major, and I felt foolish to have joined the normal hubbub of the world, and for being one of the people my father sometimes _____, but Schroder Salomon Smith Barney would get me a visa so that I could live and work in London.",
+      "distractors": [
+        "To praise someone sincerely.",
+        "To help someone in need.",
+        "To ignore someone politely."
+      ],
+      "surfaceForms": [
+        "mocked"
+      ],
+      "clozeAnswerSurfaceForm": "mocked"
+    },
+    {
+      "lemma": "unkind",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Not kind; showing a lack of care for others' feelings.",
+      "translationZh": "不友善的；刻薄的",
+      "exampleSentence": "Sometimes, he would be wonderful, but then he would say something unkind, so that I found myself guarded around him, happy to stay away.",
+      "clozeSentence": "Sometimes, he would be wonderful, but then he would say something _____, so that I found myself guarded around him, happy to stay away.",
+      "distractors": [
+        "Extremely generous and caring.",
+        "Calm and emotionally neutral.",
+        "Overly cautious and shy."
+      ],
+      "surfaceForms": [
+        "unkind"
+      ],
+      "clozeAnswerSurfaceForm": "unkind"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "cloze",
+      "wordLemma": "bio",
+      "prompt": "My younger sister, Eve, was born when I was away at college, but in a few magazines I came across in the following years and on his _____ on his company website, he said he had three children, not four.",
+      "options": [
+        "bio",
+        "unkind",
+        "analyst",
+        "consulting"
+      ],
+      "answer": "bio"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "diploma",
+      "prompt": "diploma",
+      "options": [
+        "A financial receipt for tuition.",
+        "A formal letter of complaint.",
+        "An official document showing completion of a course of study.",
+        "A university course schedule."
+      ],
+      "answer": "An official document showing completion of a course of study."
+    },
+    {
+      "type": "translation",
+      "wordLemma": "consult",
+      "prompt": "諮詢顧問的",
+      "options": [
+        "high-standing",
+        "nudge",
+        "consult",
+        "neither"
+      ],
+      "answer": "consult"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "hubbub",
+      "prompt": "It was the wrong kind of job for an English major, and I felt foolish to have joined the normal _____ of the world, and for being one of the people my father sometimes mocked, but Schroder Salomon Smith Barney would get me a visa so that I could live and work in London.",
+      "options": [
+        "ambivalent",
+        "unkind",
+        "diploma",
+        "hubbub"
+      ],
+      "answer": "hubbub"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "blurt",
+      "prompt": "“I don’t believe in genetics,” my father _____ out after we’d exchanged hellos.",
+      "options": [
+        "momentous",
+        "blurted",
+        "analyst",
+        "hubbub"
+      ],
+      "answer": "blurted"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "nudge",
+      "prompt": "nudge",
+      "options": [
+        "To push someone forcefully away.",
+        "To push someone gently, often to get their attention.",
+        "To shout loudly at someone.",
+        "To completely ignore someone."
+      ],
+      "answer": "To push someone gently, often to get their attention."
+    },
+    {
+      "type": "translation",
+      "wordLemma": "momentous",
+      "prompt": "重大的；重要的",
+      "options": [
+        "deliberately",
+        "diploma",
+        "momentous",
+        "ruched"
+      ],
+      "answer": "momentous"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "ruched",
+      "prompt": "ruched",
+      "options": [
+        "Gathered into small folds or pleats, of fabric.",
+        "Cut into a straight, simple line.",
+        "Dyed a single solid color.",
+        "Ironed completely smooth and flat."
+      ],
+      "answer": "Gathered into small folds or pleats, of fabric."
+    },
+    {
+      "type": "translation",
+      "wordLemma": "neither",
+      "prompt": "兩者皆非；兩者都不",
+      "options": [
+        "diploma",
+        "neither",
+        "high-standing",
+        "momentous"
+      ],
+      "answer": "neither"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "analyst",
+      "prompt": "I would be starting work as an _____ at a bank in London.",
+      "options": [
+        "bio",
+        "momentous",
+        "analyst",
+        "diploma"
+      ],
+      "answer": "analyst"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "high-standing",
+      "prompt": "Toward the end of my year abroad, I dated an English lawyer with a _____ blond ruffle of hair.",
+      "options": [
+        "diploma",
+        "bio",
+        "ambivalent",
+        "high-standing"
+      ],
+      "answer": "high-standing"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "deliberately",
+      "prompt": "故意地；刻意地",
+      "options": [
+        "hubbub",
+        "neither",
+        "deliberately",
+        "blurt"
+      ],
+      "answer": "deliberately"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "ruffle",
+      "prompt": "ruffle",
+      "options": [
+        "A neatly braided style.",
+        "A tightly shaved, short style.",
+        "A perfectly straight and flat style.",
+        "A gathered, wavy mass, as of tousled hair."
+      ],
+      "answer": "A gathered, wavy mass, as of tousled hair."
+    },
+    {
+      "type": "translation",
+      "wordLemma": "mumble",
+      "prompt": "喃喃低語；含糊地說",
+      "options": [
+        "mumble",
+        "nudge",
+        "pronouncement",
+        "ambivalent"
+      ],
+      "answer": "mumble"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "mock",
+      "prompt": "嘲笑",
+      "options": [
+        "mock",
+        "high-standing",
+        "diploma",
+        "deliberately"
+      ],
+      "answer": "mock"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "pronouncement",
+      "prompt": "He sometimes made _____ like this.",
+      "options": [
+        "bio",
+        "dorm",
+        "pronouncements",
+        "deliberately"
+      ],
+      "answer": "pronouncements"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "unkind",
+      "prompt": "unkind",
+      "options": [
+        "Extremely generous and caring.",
+        "Overly cautious and shy.",
+        "Not kind; showing a lack of care for others' feelings.",
+        "Calm and emotionally neutral."
+      ],
+      "answer": "Not kind; showing a lack of care for others' feelings."
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "ambivalent",
+      "prompt": "ambivalent",
+      "options": [
+        "Feeling calm and indifferent.",
+        "Having mixed or contradictory feelings about something.",
+        "Feeling extremely excited and eager.",
+        "Feeling completely certain and decided."
+      ],
+      "answer": "Having mixed or contradictory feelings about something."
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "dorm",
+      "prompt": "dorm",
+      "options": [
+        "A building with rooms where students live at college.",
+        "A university lecture hall.",
+        "A large public library.",
+        "A school cafeteria."
+      ],
+      "answer": "A building with rooms where students live at college."
+    }
+  ]
+}

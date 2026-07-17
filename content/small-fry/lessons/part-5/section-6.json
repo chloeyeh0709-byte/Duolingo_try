@@ -1,0 +1,1432 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 5,
+  "partTitle": "Runaway",
+  "sectionIndex": 6,
+  "paragraphs": [
+    "Soon after I returned, my mother and I bought a couch, a chair, and an ottoman at the mall.",
+    "Wings made of white feathers hung in a children’s store window display. “When I was a kid, my mother told me all children are born with wings, but the doctors cut them off at birth. The scapulae are what remain. Isn’t that strange?”",
+    "We walked past Woolworth’s, with its tubes of watermelon-flavored lip gloss and packets of press-on nails, past the restaurant Bravo Fono, where we still went sometimes with my father, and into Ralph Lauren. The store was half outside. Cement planters came up to my waist and held impatiens with swollen green seed pods that popped open when I squeezed them, spraying tiny yellow seeds and springing back to a horizontal curl.",
+    "“Hey, what do you think of this couch? Do you like it?” she asked. It was two cushions wide. I sat; the cushions did not spring back, but sank slowly under my weight.",
+    "“I like it,” I said. “Is it expensive?”",
+    "She looked at a price tag pinned to the side and took a sharp breath.",
+    "I knew she hated the couch we had, the one we’d taken from Steve’s house years before; it was nothing she would have chosen for herself. It made her feel, I think, like her life was composed of the castoffs of other lives.",
+    "She bought the couch, along with its matching chair and ottoman, on her new credit card. It was, by far, the largest purchase we’d ever made. To reduce the cost, she took it in the natural cotton linen it came in—the color of sand—instead of having it re-covered. We were both giddy afterward, as if the mall was a different place to us now, opened up.",
+    "We must have more money, I guessed. Why else was she buying big things? She’d wanted a new couch for a long time. Where was she getting the money? I didn’t know. She said no, always. This time, yes. If I asked why, it might pop. She seemed happy and confident, and I thought this is how we should have been at the mall all along, and maybe this is what the future would be like.",
+    "At Banana Republic we tried on the same jean jacket in different sizes. It was nicely boxy, with a collar made of stone-colored corduroy. I tried not to act excited; I knew not to push. But she bought them both. Both! Compared with a couch, two jackets were nothing. We walked out of the store with the weighted paper bags.",
+    "“That,” I said, pointing to a sweater and skirt in a shop window. The small, minimalist shop sold expensive clothing from Switzerland. The long skirt was dark gray cashmere, the sweater was made of maroon angora with fabric teddy bears appliquéd. “That’s the kind of thing you should wear.” It maybe could have done without the bears, I thought.",
+    "“Where would I wear it?” she asked.",
+    "“Anywhere,” I said. “To parent-teacher conferences. Out to dinner or lunch.” I imagined another life for her.",
+    "“I don’t really like it,” she said.",
+    "“Just try it on. You can’t tell on the hanger.” I’d heard someone say that in another shop. When she came out of the changing room, still ambivalent, she looked exactly right. I insisted, the saleswoman insisted, and she bought the set.",
+    "When we were almost home, we stopped at the stop sign of the four-way intersection before the turn to our block. My mother began to make the turn, but continued to spin the car past ninety-degrees, missing our street as if by accident. “Oops,” she said, the steering wheel kinked as far as it would go.",
+    "She made a full circle, and we came back to our starting position. But again, when the time came to turn, she missed it.",
+    "“Oops again!” she said, laughing.",
+    "She spun us round and round, as if we were caught in a vortex: sidewalk, lawn, tree, house; sidewalk, lawn, tree, house.",
+    "“Turn now!” I yelled each time we approached our street.",
+    "“I just … can’t seem … to turn!” she said. Bushes grew halfway up the houses, so they looked like faces with beards, watching us as we spun. She went round and round until we were both dizzy, and then—finally—she made the turn and took us home.",
+    "At home that night we heated up chicken potpies in the microwave and watched Masterpiece Theatre sitting on the floor in front of the television. She wanted to read Andy Warhol’s diaries out loud to me in bed before sleep, even though I was too old to be read to, and I let her.",
+    "“You’re a Simpleton,” I said, as a joke, a few days later when we were stopped at a gas station filling up and she said she liked the smell of gasoline. I’d never called her that before. I might have gotten the word from the Mock Turtle’s Story in Alice in Wonderland, parts of which she also liked to read aloud to me. When I said the word, I wanted her to deny it. I wanted her to get mad at me: how dare I call her Simpleton—it wasn’t true. But she only laughed.",
+    "A couple months later, the new couch, chair, and ottoman arrived upholstered in the dun-colored linen with down-filled cushions and pillows. She gave the old ones away. She wore the skirt and sweater together a few times, for me, and then she must have given those away too. I called her Simpleton when she made mistakes—forgetting directions, insisting that Italian ice cream wasn’t different from or better than the American variety. It made her laugh. I’d been spending more time with my father and Laurene, absorbing their ideas, their sophistication. I’d been to New York, I understood the importance of low-fat, watched Laurene add oil carefully and sparingly to salad dressings. I’d learned that gelato was different from, and better than, ice cream.",
+    "One day, driving somewhere, I noticed a speck of paint on her jeans she hadn’t noticed to wash off and said it again: “You’re a Simpleton.” This time she burst into tears, pulled over, and leaned on the steering wheel, surprising us both, and I never said it again."
+  ],
+  "words": [
+    {
+      "lemma": "ottoman",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a low padded seat or footstool without a back",
+      "translationZh": "矮凳；腳凳",
+      "exampleSentence": "Soon after I returned, my mother and I bought a couch, a chair, and an ottoman at the mall.",
+      "clozeSentence": "Soon after I returned, my mother and I bought a couch, a chair, and an _____ at the mall.",
+      "distractors": [
+        "a tall bookshelf with many shelves",
+        "a full-sized bed frame",
+        "a folding dining table"
+      ],
+      "surfaceForms": [
+        "ottoman"
+      ],
+      "clozeAnswerSurfaceForm": "ottoman"
+    },
+    {
+      "lemma": "saleswoman",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a woman who sells goods in a store",
+      "translationZh": "女售貨員",
+      "exampleSentence": "I insisted, the saleswoman insisted, and she bought the set.",
+      "clozeSentence": "I insisted, the _____ insisted, and she bought the set.",
+      "distractors": [
+        "a woman who manages a company's finances",
+        "a woman who designs clothing",
+        "a woman who cleans a store after hours"
+      ],
+      "surfaceForms": [
+        "saleswoman"
+      ],
+      "clozeAnswerSurfaceForm": "saleswoman"
+    },
+    {
+      "lemma": "ambivalent",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "having mixed or uncertain feelings about something",
+      "translationZh": "矛盾的；猶豫不決的",
+      "exampleSentence": "When she came out of the changing room, still ambivalent, she looked exactly right.",
+      "clozeSentence": "When she came out of the changing room, still _____, she looked exactly right.",
+      "distractors": [
+        "completely certain and confident",
+        "extremely excited and enthusiastic",
+        "totally indifferent and uninterested"
+      ],
+      "surfaceForms": [
+        "ambivalent"
+      ],
+      "clozeAnswerSurfaceForm": "ambivalent"
+    },
+    {
+      "lemma": "intersection",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a place where roads cross",
+      "translationZh": "十字路口；交叉點",
+      "exampleSentence": "When we were almost home, we stopped at the stop sign of the four-way intersection before the turn to our block.",
+      "clozeSentence": "When we were almost home, we stopped at the stop sign of the four-way _____ before the turn to our block.",
+      "distractors": [
+        "a straight road with no turns",
+        "a bridge over a river",
+        "a parking area beside a building"
+      ],
+      "surfaceForms": [
+        "intersection"
+      ],
+      "clozeAnswerSurfaceForm": "intersection"
+    },
+    {
+      "lemma": "angora",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "soft wool or fabric made from angora rabbit or goat hair",
+      "translationZh": "安哥拉毛料",
+      "exampleSentence": "The long skirt was dark gray cashmere, the sweater was made of maroon angora with fabric teddy bears appliquéd.",
+      "clozeSentence": "The long skirt was dark gray cashmere, the sweater was made of maroon _____ with fabric teddy bears appliquéd.",
+      "distractors": [
+        "a rough fabric made from hemp fiber",
+        "a stretchy synthetic sports fabric",
+        "a heavy waterproof canvas"
+      ],
+      "surfaceForms": [
+        "angora"
+      ],
+      "clozeAnswerSurfaceForm": "angora"
+    },
+    {
+      "lemma": "cashmere",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "fine soft wool from cashmere goats",
+      "translationZh": "喀什米爾羊毛；喀什米爾山羊絨",
+      "exampleSentence": "The long skirt was dark gray cashmere, the sweater was made of maroon angora with fabric teddy bears appliquéd.",
+      "clozeSentence": "The long skirt was dark gray _____, the sweater was made of maroon angora with fabric teddy bears appliquéd.",
+      "distractors": [
+        "a rough fabric made of hemp",
+        "a shiny synthetic fabric",
+        "a thick waterproof material"
+      ],
+      "surfaceForms": [
+        "cashmere"
+      ],
+      "clozeAnswerSurfaceForm": "cashmere"
+    },
+    {
+      "lemma": "fabric",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "cloth or textile material",
+      "translationZh": "布料；織物",
+      "exampleSentence": "The long skirt was dark gray cashmere, the sweater was made of maroon angora with fabric teddy bears appliquéd.",
+      "clozeSentence": "The long skirt was dark gray cashmere, the sweater was made of maroon angora with _____ teddy bears appliquéd.",
+      "distractors": [
+        "a hard plastic material",
+        "a type of thin metal sheet",
+        "a type of building stone"
+      ],
+      "surfaceForms": [
+        "fabric"
+      ],
+      "clozeAnswerSurfaceForm": "fabric"
+    },
+    {
+      "lemma": "maroon",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a dark brownish-red color",
+      "translationZh": "栗紅色；暗紅褐色",
+      "exampleSentence": "The long skirt was dark gray cashmere, the sweater was made of maroon angora with fabric teddy bears appliquéd.",
+      "clozeSentence": "The long skirt was dark gray cashmere, the sweater was made of _____ angora with fabric teddy bears appliquéd.",
+      "distractors": [
+        "a pale sky blue color",
+        "a bright lemon yellow color",
+        "a soft mint green color"
+      ],
+      "surfaceForms": [
+        "maroon"
+      ],
+      "clozeAnswerSurfaceForm": "maroon"
+    },
+    {
+      "lemma": "minimalist",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "simple and plain, using very few elements",
+      "translationZh": "極簡風格的",
+      "exampleSentence": "The small, minimalist shop sold expensive clothing from Switzerland.",
+      "clozeSentence": "The small, _____ shop sold expensive clothing from Switzerland.",
+      "distractors": [
+        "extremely decorated and ornate",
+        "brightly colored and patterned",
+        "old-fashioned and cluttered"
+      ],
+      "surfaceForms": [
+        "minimalist"
+      ],
+      "clozeAnswerSurfaceForm": "minimalist"
+    },
+    {
+      "lemma": "scapula",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "the shoulder blade bone",
+      "translationZh": "肩胛骨",
+      "exampleSentence": "The scapulae are what remain.",
+      "clozeSentence": "The _____ are what remain.",
+      "distractors": [
+        "the bone in the lower leg",
+        "the small bones of the fingers",
+        "the bone at the base of the spine"
+      ],
+      "surfaceForms": [
+        "scapulae"
+      ],
+      "clozeAnswerSurfaceForm": "scapulae"
+    },
+    {
+      "lemma": "giddy",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "feeling excited and slightly dizzy with happiness",
+      "translationZh": "興奮頭暈的；欣喜若狂的",
+      "exampleSentence": "We were both giddy afterward, as if the mall was a different place to us now, opened up.",
+      "clozeSentence": "We were both _____ afterward, as if the mall was a different place to us now, opened up.",
+      "distractors": [
+        "feeling calm and completely relaxed",
+        "feeling sad and disappointed",
+        "feeling tired and sleepy"
+      ],
+      "surfaceForms": [
+        "giddy"
+      ],
+      "clozeAnswerSurfaceForm": "giddy"
+    },
+    {
+      "lemma": "gloss",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a shiny, smooth surface or coating",
+      "translationZh": "光澤；亮光劑",
+      "exampleSentence": "We walked past Woolworth’s, with its tubes of watermelon-flavored lip gloss and packets of press-on nails, past the restaurant Bravo Fono, where we still went sometimes with my father, and into Ralph Lauren.",
+      "clozeSentence": "We walked past Woolworth’s, with its tubes of watermelon-flavored lip _____ and packets of press-on nails, past the restaurant Bravo Fono, where we still went sometimes with my father, and into Ralph Lauren.",
+      "distractors": [
+        "a rough, matte surface",
+        "a dark stain or mark",
+        "a strong scent or fragrance"
+      ],
+      "surfaceForms": [
+        "gloss"
+      ],
+      "clozeAnswerSurfaceForm": "gloss"
+    },
+    {
+      "lemma": "packet",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a small paper or plastic container for goods",
+      "translationZh": "小包裝；包",
+      "exampleSentence": "We walked past Woolworth’s, with its tubes of watermelon-flavored lip gloss and packets of press-on nails, past the restaurant Bravo Fono, where we still went sometimes with my father, and into Ralph Lauren.",
+      "clozeSentence": "We walked past Woolworth’s, with its tubes of watermelon-flavored lip gloss and _____ of press-on nails, past the restaurant Bravo Fono, where we still went sometimes with my father, and into Ralph Lauren.",
+      "distractors": [
+        "a large wooden crate",
+        "a metal storage tank",
+        "a glass display case"
+      ],
+      "surfaceForms": [
+        "packets"
+      ],
+      "clozeAnswerSurfaceForm": "packets"
+    },
+    {
+      "lemma": "curl",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a spiral or curved shape",
+      "translationZh": "捲曲的形狀",
+      "exampleSentence": "Cement planters came up to my waist and held impatiens with swollen green seed pods that popped open when I squeezed them, spraying tiny yellow seeds and springing back to a horizontal curl.",
+      "clozeSentence": "Cement planters came up to my waist and held impatiens with swollen green seed pods that popped open when I squeezed them, spraying tiny yellow seeds and springing back to a horizontal _____.",
+      "distractors": [
+        "a straight flat line",
+        "a sharp pointed edge",
+        "a large round hole"
+      ],
+      "surfaceForms": [
+        "curl"
+      ],
+      "clozeAnswerSurfaceForm": "curl"
+    },
+    {
+      "lemma": "horizontal",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "flat and level, parallel to the ground",
+      "translationZh": "水平的",
+      "exampleSentence": "Cement planters came up to my waist and held impatiens with swollen green seed pods that popped open when I squeezed them, spraying tiny yellow seeds and springing back to a horizontal curl.",
+      "clozeSentence": "Cement planters came up to my waist and held impatiens with swollen green seed pods that popped open when I squeezed them, spraying tiny yellow seeds and springing back to a _____ curl.",
+      "distractors": [
+        "standing straight up and down",
+        "curved into a circle",
+        "twisted into a spiral"
+      ],
+      "surfaceForms": [
+        "horizontal"
+      ],
+      "clozeAnswerSurfaceForm": "horizontal"
+    },
+    {
+      "lemma": "planter",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a container for growing plants",
+      "translationZh": "花盆；種植容器",
+      "exampleSentence": "Cement planters came up to my waist and held impatiens with swollen green seed pods that popped open when I squeezed them, spraying tiny yellow seeds and springing back to a horizontal curl.",
+      "clozeSentence": "Cement _____ came up to my waist and held impatiens with swollen green seed pods that popped open when I squeezed them, spraying tiny yellow seeds and springing back to a horizontal curl.",
+      "distractors": [
+        "a small hand tool for digging",
+        "a fence around a garden",
+        "a bag for storing seeds"
+      ],
+      "surfaceForms": [
+        "planters"
+      ],
+      "clozeAnswerSurfaceForm": "planters"
+    },
+    {
+      "lemma": "pod",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a long seed case of certain plants",
+      "translationZh": "（植物的）豆莢、種莢",
+      "exampleSentence": "Cement planters came up to my waist and held impatiens with swollen green seed pods that popped open when I squeezed them, spraying tiny yellow seeds and springing back to a horizontal curl.",
+      "clozeSentence": "Cement planters came up to my waist and held impatiens with swollen green seed _____ that popped open when I squeezed them, spraying tiny yellow seeds and springing back to a horizontal curl.",
+      "distractors": [
+        "the root of a plant underground",
+        "a single flower petal",
+        "the trunk of a small tree"
+      ],
+      "surfaceForms": [
+        "pods"
+      ],
+      "clozeAnswerSurfaceForm": "pods"
+    },
+    {
+      "lemma": "spray",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "scattering liquid in fine drops",
+      "translationZh": "噴灑",
+      "exampleSentence": "Cement planters came up to my waist and held impatiens with swollen green seed pods that popped open when I squeezed them, spraying tiny yellow seeds and springing back to a horizontal curl.",
+      "clozeSentence": "Cement planters came up to my waist and held impatiens with swollen green seed pods that popped open when I squeezed them, _____ tiny yellow seeds and springing back to a horizontal curl.",
+      "distractors": [
+        "collecting into one large pile",
+        "freezing into a solid block",
+        "sinking slowly to the bottom"
+      ],
+      "surfaceForms": [
+        "spraying"
+      ],
+      "clozeAnswerSurfaceForm": "spraying"
+    },
+    {
+      "lemma": "squeeze",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "pressed firmly from opposite sides",
+      "translationZh": "擠壓",
+      "exampleSentence": "Cement planters came up to my waist and held impatiens with swollen green seed pods that popped open when I squeezed them, spraying tiny yellow seeds and springing back to a horizontal curl.",
+      "clozeSentence": "Cement planters came up to my waist and held impatiens with swollen green seed pods that popped open when I _____ them, spraying tiny yellow seeds and springing back to a horizontal curl.",
+      "distractors": [
+        "thrown forcefully into the air",
+        "left completely untouched",
+        "cut cleanly in half"
+      ],
+      "surfaceForms": [
+        "squeezed"
+      ],
+      "clozeAnswerSurfaceForm": "squeezed"
+    },
+    {
+      "lemma": "waist",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the narrow part of the body between the ribs and hips",
+      "translationZh": "腰部",
+      "exampleSentence": "Cement planters came up to my waist and held impatiens with swollen green seed pods that popped open when I squeezed them, spraying tiny yellow seeds and springing back to a horizontal curl.",
+      "clozeSentence": "Cement planters came up to my _____ and held impatiens with swollen green seed pods that popped open when I squeezed them, spraying tiny yellow seeds and springing back to a horizontal curl.",
+      "distractors": [
+        "the top of the shoulder",
+        "the back of the knee",
+        "the base of the neck"
+      ],
+      "surfaceForms": [
+        "waist"
+      ],
+      "clozeAnswerSurfaceForm": "waist"
+    },
+    {
+      "lemma": "boxy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "square or block-shaped rather than curved",
+      "translationZh": "方正的；箱型的",
+      "exampleSentence": "It was nicely boxy, with a collar made of stone-colored corduroy.",
+      "clozeSentence": "It was nicely _____, with a collar made of stone-colored corduroy.",
+      "distractors": [
+        "curved and flowing in shape",
+        "extremely thin and narrow",
+        "soft and shapeless"
+      ],
+      "surfaceForms": [
+        "boxy"
+      ],
+      "clozeAnswerSurfaceForm": "boxy"
+    },
+    {
+      "lemma": "castoffs",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "things (especially clothes) that have been discarded by someone else",
+      "translationZh": "別人用剩／丟棄的舊物",
+      "exampleSentence": "It made her feel, I think, like her life was composed of the castoffs of other lives.",
+      "clozeSentence": "It made her feel, I think, like her life was composed of the _____ of other lives.",
+      "distractors": [
+        "brand-new items bought specially",
+        "handmade gifts given with love",
+        "expensive items kept in storage"
+      ],
+      "surfaceForms": [
+        "castoffs"
+      ],
+      "clozeAnswerSurfaceForm": "castoffs"
+    },
+    {
+      "lemma": "corduroy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a thick cotton fabric with raised parallel ridges",
+      "translationZh": "燈芯絨",
+      "exampleSentence": "It was nicely boxy, with a collar made of stone-colored corduroy.",
+      "clozeSentence": "It was nicely boxy, with a collar made of stone-colored _____.",
+      "distractors": [
+        "a thin, smooth silk fabric",
+        "a stretchy see-through fabric",
+        "a heavy metal chain mesh"
+      ],
+      "surfaceForms": [
+        "corduroy"
+      ],
+      "clozeAnswerSurfaceForm": "corduroy"
+    },
+    {
+      "lemma": "nicely",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "in a pleasant or satisfactory way",
+      "translationZh": "恰到好處地；漂亮地",
+      "exampleSentence": "It was nicely boxy, with a collar made of stone-colored corduroy.",
+      "clozeSentence": "It was _____ boxy, with a collar made of stone-colored corduroy.",
+      "distractors": [
+        "in a rough and careless way",
+        "in an extremely expensive way",
+        "in a confusing way"
+      ],
+      "surfaceForms": [
+        "nicely"
+      ],
+      "clozeAnswerSurfaceForm": "nicely"
+    },
+    {
+      "lemma": "purchase",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the act of buying something",
+      "translationZh": "購買（行為）",
+      "exampleSentence": "It was, by far, the largest purchase we’d ever made.",
+      "clozeSentence": "It was, by far, the largest _____ we’d ever made.",
+      "distractors": [
+        "the act of selling something",
+        "the act of repairing something",
+        "the act of borrowing something"
+      ],
+      "surfaceForms": [
+        "purchase"
+      ],
+      "clozeAnswerSurfaceForm": "purchase"
+    },
+    {
+      "lemma": "lawn",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "an area of grass, usually near a house",
+      "translationZh": "草坪",
+      "exampleSentence": "She spun us round and round, as if we were caught in a vortex: sidewalk, lawn, tree, house; sidewalk, lawn, tree, house.",
+      "clozeSentence": "She spun us round and round, as if we were caught in a vortex: sidewalk, _____, tree, house; sidewalk, lawn, tree, house.",
+      "distractors": [
+        "a paved area for parking cars",
+        "a fenced area for growing vegetables",
+        "a covered porch attached to a house"
+      ],
+      "surfaceForms": [
+        "lawn"
+      ],
+      "clozeAnswerSurfaceForm": "lawn"
+    },
+    {
+      "lemma": "tag",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a small label attached to an item",
+      "translationZh": "標籤",
+      "exampleSentence": "She looked at a price tag pinned to the side and took a sharp breath.",
+      "clozeSentence": "She looked at a price _____ pinned to the side and took a sharp breath.",
+      "distractors": [
+        "a small pocket sewn into clothing",
+        "a decorative button",
+        "a zipper on a bag"
+      ],
+      "surfaceForms": [
+        "tag"
+      ],
+      "clozeAnswerSurfaceForm": "tag"
+    },
+    {
+      "lemma": "vortex",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "a mass of spinning air or water, like a whirlpool",
+      "translationZh": "漩渦",
+      "exampleSentence": "She spun us round and round, as if we were caught in a vortex: sidewalk, lawn, tree, house; sidewalk, lawn, tree, house.",
+      "clozeSentence": "She spun us round and round, as if we were caught in a _____: sidewalk, lawn, tree, house; sidewalk, lawn, tree, house.",
+      "distractors": [
+        "a still, calm pool of water",
+        "a straight narrow tunnel",
+        "a gentle breeze"
+      ],
+      "surfaceForms": [
+        "vortex"
+      ],
+      "clozeAnswerSurfaceForm": "vortex"
+    },
+    {
+      "lemma": "linen",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a fabric made from the flax plant",
+      "translationZh": "亞麻布",
+      "exampleSentence": "To reduce the cost, she took it in the natural cotton linen it came in—the color of sand—instead of having it re-covered.",
+      "clozeSentence": "To reduce the cost, she took it in the natural cotton _____ it came in—the color of sand—instead of having it re-covered.",
+      "distractors": [
+        "a fabric made entirely of plastic fibers",
+        "a heavy metal chain",
+        "a type of thick rubber"
+      ],
+      "surfaceForms": [
+        "linen"
+      ],
+      "clozeAnswerSurfaceForm": "linen"
+    },
+    {
+      "lemma": "down-filled",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "stuffed with soft feathers, for warmth",
+      "translationZh": "填充羽絨的",
+      "exampleSentence": "A couple months later, the new couch, chair, and ottoman arrived upholstered in the dun-colored linen with down-filled cushions and pillows.",
+      "clozeSentence": "A couple months later, the new couch, chair, and ottoman arrived upholstered in the dun-colored linen with _____ cushions and pillows.",
+      "distractors": [
+        "made entirely of hard plastic",
+        "stuffed with sand for weight",
+        "woven from thin wire"
+      ],
+      "surfaceForms": [
+        "down-filled"
+      ],
+      "clozeAnswerSurfaceForm": "down-filled"
+    },
+    {
+      "lemma": "dun-colored",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "having a dull grayish-brown color",
+      "translationZh": "暗褐灰色的",
+      "exampleSentence": "A couple months later, the new couch, chair, and ottoman arrived upholstered in the dun-colored linen with down-filled cushions and pillows.",
+      "clozeSentence": "A couple months later, the new couch, chair, and ottoman arrived upholstered in the _____ linen with down-filled cushions and pillows.",
+      "distractors": [
+        "bright and vividly colorful",
+        "pure white and spotless",
+        "shiny metallic silver"
+      ],
+      "surfaceForms": [
+        "dun-colored"
+      ],
+      "clozeAnswerSurfaceForm": "dun-colored"
+    },
+    {
+      "lemma": "microwave",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "an appliance that heats food quickly using radiation",
+      "translationZh": "微波爐",
+      "exampleSentence": "At home that night we heated up chicken potpies in the microwave and watched Masterpiece Theatre sitting on the floor in front of the television.",
+      "clozeSentence": "At home that night we heated up chicken potpies in the _____ and watched Masterpiece Theatre sitting on the floor in front of the television.",
+      "distractors": [
+        "an appliance that washes dishes",
+        "an appliance that keeps food cold",
+        "an appliance that grinds coffee beans"
+      ],
+      "surfaceForms": [
+        "microwave"
+      ],
+      "clozeAnswerSurfaceForm": "microwave"
+    },
+    {
+      "lemma": "upholster",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "covered with fabric padding, as furniture",
+      "translationZh": "（家具）裝上襯墊布套的",
+      "exampleSentence": "A couple months later, the new couch, chair, and ottoman arrived upholstered in the dun-colored linen with down-filled cushions and pillows.",
+      "clozeSentence": "A couple months later, the new couch, chair, and ottoman arrived _____ in the dun-colored linen with down-filled cushions and pillows.",
+      "distractors": [
+        "painted with a fresh coat of paint",
+        "carved from a single piece of wood",
+        "left bare with no covering"
+      ],
+      "surfaceForms": [
+        "upholstered"
+      ],
+      "clozeAnswerSurfaceForm": "upholstered"
+    },
+    {
+      "lemma": "conference",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a large formal meeting for discussion",
+      "translationZh": "會議",
+      "exampleSentence": "“To parent-teacher conferences.",
+      "clozeSentence": "“To parent-teacher _____.",
+      "distractors": [
+        "a private one-on-one chat",
+        "a written report",
+        "a social party or celebration"
+      ],
+      "surfaceForms": [
+        "conferences"
+      ],
+      "clozeAnswerSurfaceForm": "conferences"
+    },
+    {
+      "lemma": "dressing",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a sauce added to food, especially salad",
+      "translationZh": "（沙拉）醬汁",
+      "exampleSentence": "I’d been to New York, I understood the importance of low-fat, watched Laurene add oil carefully and sparingly to salad dressings.",
+      "clozeSentence": "I’d been to New York, I understood the importance of low-fat, watched Laurene add oil carefully and sparingly to salad _____.",
+      "distractors": [
+        "a garnish made of fresh herbs only",
+        "a hot soup served before a meal",
+        "a dessert served after a meal"
+      ],
+      "surfaceForms": [
+        "dressings"
+      ],
+      "clozeAnswerSurfaceForm": "dressings"
+    },
+    {
+      "lemma": "gelato",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a rich Italian-style ice cream",
+      "translationZh": "義式冰淇淋",
+      "exampleSentence": "I’d learned that gelato was different from, and better than, ice cream.",
+      "clozeSentence": "I’d learned that _____ was different from, and better than, ice cream.",
+      "distractors": [
+        "a light fruit-flavored drink",
+        "a type of baked pastry",
+        "a frozen fruit juice bar"
+      ],
+      "surfaceForms": [
+        "gelato"
+      ],
+      "clozeAnswerSurfaceForm": "gelato"
+    },
+    {
+      "lemma": "low-fat",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "containing a small amount of fat",
+      "translationZh": "低脂的",
+      "exampleSentence": "I’d been to New York, I understood the importance of low-fat, watched Laurene add oil carefully and sparingly to salad dressings.",
+      "clozeSentence": "I’d been to New York, I understood the importance of _____, watched Laurene add oil carefully and sparingly to salad dressings.",
+      "distractors": [
+        "containing a large amount of sugar",
+        "completely free of any flavor",
+        "prepared without any cooking"
+      ],
+      "surfaceForms": [
+        "low-fat"
+      ],
+      "clozeAnswerSurfaceForm": "low-fat"
+    },
+    {
+      "lemma": "sophistication",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "refined knowledge, taste, or experience",
+      "translationZh": "世故；老練成熟",
+      "exampleSentence": "I’d been spending more time with my father and Laurene, absorbing their ideas, their sophistication.",
+      "clozeSentence": "I’d been spending more time with my father and Laurene, absorbing their ideas, their _____.",
+      "distractors": [
+        "a lack of experience or knowledge",
+        "a strong sense of humor",
+        "a tendency to act impulsively"
+      ],
+      "surfaceForms": [
+        "sophistication"
+      ],
+      "clozeAnswerSurfaceForm": "sophistication"
+    },
+    {
+      "lemma": "sparingly",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "in a small amount; not generously",
+      "translationZh": "節省地；謹慎少量地",
+      "exampleSentence": "I’d been to New York, I understood the importance of low-fat, watched Laurene add oil carefully and sparingly to salad dressings.",
+      "clozeSentence": "I’d been to New York, I understood the importance of low-fat, watched Laurene add oil carefully and _____ to salad dressings.",
+      "distractors": [
+        "in a generous, abundant amount",
+        "in a careless, wasteful manner",
+        "on a regular daily schedule"
+      ],
+      "surfaceForms": [
+        "sparingly"
+      ],
+      "clozeAnswerSurfaceForm": "sparingly"
+    },
+    {
+      "lemma": "spin",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to turn around quickly in a circle",
+      "translationZh": "旋轉；打轉",
+      "exampleSentence": "My mother began to make the turn, but continued to spin the car past ninety-degrees, missing our street as if by accident.",
+      "clozeSentence": "My mother began to make the turn, but continued to _____ the car past ninety-degrees, missing our street as if by accident.",
+      "distractors": [
+        "to stop moving completely",
+        "to move slowly in a straight line",
+        "to fall over suddenly"
+      ],
+      "surfaceForms": [
+        "spin",
+        "spun"
+      ],
+      "clozeAnswerSurfaceForm": "spin"
+    },
+    {
+      "lemma": "kink",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "bent or twisted sharply out of its normal shape",
+      "translationZh": "（物體）扭結；打結彎曲",
+      "exampleSentence": "“Oops,” she said, the steering wheel kinked as far as it would go.",
+      "clozeSentence": "“Oops,” she said, the steering wheel _____ as far as it would go.",
+      "distractors": [
+        "worn smooth from years of use",
+        "polished to a bright shine",
+        "broken cleanly into two pieces"
+      ],
+      "surfaceForms": [
+        "kinked"
+      ],
+      "clozeAnswerSurfaceForm": "kinked"
+    },
+    {
+      "lemma": "steer",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "controlling the direction of a vehicle",
+      "translationZh": "駕駛；轉動方向盤",
+      "exampleSentence": "“Oops,” she said, the steering wheel kinked as far as it would go.",
+      "clozeSentence": "“Oops,” she said, the _____ wheel kinked as far as it would go.",
+      "distractors": [
+        "cleaning the inside of a car",
+        "checking the oil level of a car",
+        "washing the outside of a car"
+      ],
+      "surfaceForms": [
+        "steering"
+      ],
+      "clozeAnswerSurfaceForm": "steering"
+    },
+    {
+      "lemma": "gasoline",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "fuel used to power engines, especially in cars",
+      "translationZh": "汽油",
+      "exampleSentence": "“You’re a Simpleton,” I said, as a joke, a few days later when we were stopped at a gas station filling up and she said she liked the smell of gasoline.",
+      "clozeSentence": "“You’re a Simpleton,” I said, as a joke, a few days later when we were stopped at a gas station filling up and she said she liked the smell of _____.",
+      "distractors": [
+        "a lubricant used to reduce engine friction",
+        "a coolant used to lower engine temperature",
+        "a type of cleaning solvent"
+      ],
+      "surfaceForms": [
+        "gasoline"
+      ],
+      "clozeAnswerSurfaceForm": "gasoline"
+    },
+    {
+      "lemma": "speck",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a very small spot or particle",
+      "translationZh": "一小點；微粒",
+      "exampleSentence": "One day, driving somewhere, I noticed a speck of paint on her jeans she hadn’t noticed to wash off and said it again: “You’re a Simpleton.” This time she burst into tears, pulled over, and leaned on the steering wheel, surprising us both, and I never said it again.",
+      "clozeSentence": "One day, driving somewhere, I noticed a _____ of paint on her jeans she hadn’t noticed to wash off and said it again: “You’re a Simpleton.” This time she burst into tears, pulled over, and leaned on the steering wheel, surprising us both, and I never said it again.",
+      "distractors": [
+        "a large noticeable stain",
+        "a bright flashing light",
+        "a loud sudden noise"
+      ],
+      "surfaceForms": [
+        "speck"
+      ],
+      "clozeAnswerSurfaceForm": "speck"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "ottoman",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a low padded seat or footstool without a back",
+      "translationZh": "矮凳；腳凳",
+      "exampleSentence": "Soon after I returned, my mother and I bought a couch, a chair, and an ottoman at the mall.",
+      "clozeSentence": "Soon after I returned, my mother and I bought a couch, a chair, and an _____ at the mall.",
+      "distractors": [
+        "a tall bookshelf with many shelves",
+        "a full-sized bed frame",
+        "a folding dining table"
+      ],
+      "surfaceForms": [
+        "ottoman"
+      ],
+      "clozeAnswerSurfaceForm": "ottoman"
+    },
+    {
+      "lemma": "saleswoman",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a woman who sells goods in a store",
+      "translationZh": "女售貨員",
+      "exampleSentence": "I insisted, the saleswoman insisted, and she bought the set.",
+      "clozeSentence": "I insisted, the _____ insisted, and she bought the set.",
+      "distractors": [
+        "a woman who manages a company's finances",
+        "a woman who designs clothing",
+        "a woman who cleans a store after hours"
+      ],
+      "surfaceForms": [
+        "saleswoman"
+      ],
+      "clozeAnswerSurfaceForm": "saleswoman"
+    },
+    {
+      "lemma": "ambivalent",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "having mixed or uncertain feelings about something",
+      "translationZh": "矛盾的；猶豫不決的",
+      "exampleSentence": "When she came out of the changing room, still ambivalent, she looked exactly right.",
+      "clozeSentence": "When she came out of the changing room, still _____, she looked exactly right.",
+      "distractors": [
+        "completely certain and confident",
+        "extremely excited and enthusiastic",
+        "totally indifferent and uninterested"
+      ],
+      "surfaceForms": [
+        "ambivalent"
+      ],
+      "clozeAnswerSurfaceForm": "ambivalent"
+    },
+    {
+      "lemma": "intersection",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a place where roads cross",
+      "translationZh": "十字路口；交叉點",
+      "exampleSentence": "When we were almost home, we stopped at the stop sign of the four-way intersection before the turn to our block.",
+      "clozeSentence": "When we were almost home, we stopped at the stop sign of the four-way _____ before the turn to our block.",
+      "distractors": [
+        "a straight road with no turns",
+        "a bridge over a river",
+        "a parking area beside a building"
+      ],
+      "surfaceForms": [
+        "intersection"
+      ],
+      "clozeAnswerSurfaceForm": "intersection"
+    },
+    {
+      "lemma": "scapula",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "the shoulder blade bone",
+      "translationZh": "肩胛骨",
+      "exampleSentence": "The scapulae are what remain.",
+      "clozeSentence": "The _____ are what remain.",
+      "distractors": [
+        "the bone in the lower leg",
+        "the small bones of the fingers",
+        "the bone at the base of the spine"
+      ],
+      "surfaceForms": [
+        "scapulae"
+      ],
+      "clozeAnswerSurfaceForm": "scapulae"
+    },
+    {
+      "lemma": "angora",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "soft wool or fabric made from angora rabbit or goat hair",
+      "translationZh": "安哥拉毛料",
+      "exampleSentence": "The long skirt was dark gray cashmere, the sweater was made of maroon angora with fabric teddy bears appliquéd.",
+      "clozeSentence": "The long skirt was dark gray cashmere, the sweater was made of maroon _____ with fabric teddy bears appliquéd.",
+      "distractors": [
+        "a rough fabric made from hemp fiber",
+        "a stretchy synthetic sports fabric",
+        "a heavy waterproof canvas"
+      ],
+      "surfaceForms": [
+        "angora"
+      ],
+      "clozeAnswerSurfaceForm": "angora"
+    },
+    {
+      "lemma": "cashmere",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "fine soft wool from cashmere goats",
+      "translationZh": "喀什米爾羊毛；喀什米爾山羊絨",
+      "exampleSentence": "The long skirt was dark gray cashmere, the sweater was made of maroon angora with fabric teddy bears appliquéd.",
+      "clozeSentence": "The long skirt was dark gray _____, the sweater was made of maroon angora with fabric teddy bears appliquéd.",
+      "distractors": [
+        "a rough fabric made of hemp",
+        "a shiny synthetic fabric",
+        "a thick waterproof material"
+      ],
+      "surfaceForms": [
+        "cashmere"
+      ],
+      "clozeAnswerSurfaceForm": "cashmere"
+    },
+    {
+      "lemma": "fabric",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "cloth or textile material",
+      "translationZh": "布料；織物",
+      "exampleSentence": "The long skirt was dark gray cashmere, the sweater was made of maroon angora with fabric teddy bears appliquéd.",
+      "clozeSentence": "The long skirt was dark gray cashmere, the sweater was made of maroon angora with _____ teddy bears appliquéd.",
+      "distractors": [
+        "a hard plastic material",
+        "a type of thin metal sheet",
+        "a type of building stone"
+      ],
+      "surfaceForms": [
+        "fabric"
+      ],
+      "clozeAnswerSurfaceForm": "fabric"
+    },
+    {
+      "lemma": "maroon",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a dark brownish-red color",
+      "translationZh": "栗紅色；暗紅褐色",
+      "exampleSentence": "The long skirt was dark gray cashmere, the sweater was made of maroon angora with fabric teddy bears appliquéd.",
+      "clozeSentence": "The long skirt was dark gray cashmere, the sweater was made of _____ angora with fabric teddy bears appliquéd.",
+      "distractors": [
+        "a pale sky blue color",
+        "a bright lemon yellow color",
+        "a soft mint green color"
+      ],
+      "surfaceForms": [
+        "maroon"
+      ],
+      "clozeAnswerSurfaceForm": "maroon"
+    },
+    {
+      "lemma": "minimalist",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "simple and plain, using very few elements",
+      "translationZh": "極簡風格的",
+      "exampleSentence": "The small, minimalist shop sold expensive clothing from Switzerland.",
+      "clozeSentence": "The small, _____ shop sold expensive clothing from Switzerland.",
+      "distractors": [
+        "extremely decorated and ornate",
+        "brightly colored and patterned",
+        "old-fashioned and cluttered"
+      ],
+      "surfaceForms": [
+        "minimalist"
+      ],
+      "clozeAnswerSurfaceForm": "minimalist"
+    },
+    {
+      "lemma": "giddy",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "feeling excited and slightly dizzy with happiness",
+      "translationZh": "興奮頭暈的；欣喜若狂的",
+      "exampleSentence": "We were both giddy afterward, as if the mall was a different place to us now, opened up.",
+      "clozeSentence": "We were both _____ afterward, as if the mall was a different place to us now, opened up.",
+      "distractors": [
+        "feeling calm and completely relaxed",
+        "feeling sad and disappointed",
+        "feeling tired and sleepy"
+      ],
+      "surfaceForms": [
+        "giddy"
+      ],
+      "clozeAnswerSurfaceForm": "giddy"
+    },
+    {
+      "lemma": "gloss",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a shiny, smooth surface or coating",
+      "translationZh": "光澤；亮光劑",
+      "exampleSentence": "We walked past Woolworth’s, with its tubes of watermelon-flavored lip gloss and packets of press-on nails, past the restaurant Bravo Fono, where we still went sometimes with my father, and into Ralph Lauren.",
+      "clozeSentence": "We walked past Woolworth’s, with its tubes of watermelon-flavored lip _____ and packets of press-on nails, past the restaurant Bravo Fono, where we still went sometimes with my father, and into Ralph Lauren.",
+      "distractors": [
+        "a rough, matte surface",
+        "a dark stain or mark",
+        "a strong scent or fragrance"
+      ],
+      "surfaceForms": [
+        "gloss"
+      ],
+      "clozeAnswerSurfaceForm": "gloss"
+    },
+    {
+      "lemma": "packet",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a small paper or plastic container for goods",
+      "translationZh": "小包裝；包",
+      "exampleSentence": "We walked past Woolworth’s, with its tubes of watermelon-flavored lip gloss and packets of press-on nails, past the restaurant Bravo Fono, where we still went sometimes with my father, and into Ralph Lauren.",
+      "clozeSentence": "We walked past Woolworth’s, with its tubes of watermelon-flavored lip gloss and _____ of press-on nails, past the restaurant Bravo Fono, where we still went sometimes with my father, and into Ralph Lauren.",
+      "distractors": [
+        "a large wooden crate",
+        "a metal storage tank",
+        "a glass display case"
+      ],
+      "surfaceForms": [
+        "packets"
+      ],
+      "clozeAnswerSurfaceForm": "packets"
+    },
+    {
+      "lemma": "castoffs",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "things (especially clothes) that have been discarded by someone else",
+      "translationZh": "別人用剩／丟棄的舊物",
+      "exampleSentence": "It made her feel, I think, like her life was composed of the castoffs of other lives.",
+      "clozeSentence": "It made her feel, I think, like her life was composed of the _____ of other lives.",
+      "distractors": [
+        "brand-new items bought specially",
+        "handmade gifts given with love",
+        "expensive items kept in storage"
+      ],
+      "surfaceForms": [
+        "castoffs"
+      ],
+      "clozeAnswerSurfaceForm": "castoffs"
+    },
+    {
+      "lemma": "vortex",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "a mass of spinning air or water, like a whirlpool",
+      "translationZh": "漩渦",
+      "exampleSentence": "She spun us round and round, as if we were caught in a vortex: sidewalk, lawn, tree, house; sidewalk, lawn, tree, house.",
+      "clozeSentence": "She spun us round and round, as if we were caught in a _____: sidewalk, lawn, tree, house; sidewalk, lawn, tree, house.",
+      "distractors": [
+        "a still, calm pool of water",
+        "a straight narrow tunnel",
+        "a gentle breeze"
+      ],
+      "surfaceForms": [
+        "vortex"
+      ],
+      "clozeAnswerSurfaceForm": "vortex"
+    },
+    {
+      "lemma": "dun-colored",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "having a dull grayish-brown color",
+      "translationZh": "暗褐灰色的",
+      "exampleSentence": "A couple months later, the new couch, chair, and ottoman arrived upholstered in the dun-colored linen with down-filled cushions and pillows.",
+      "clozeSentence": "A couple months later, the new couch, chair, and ottoman arrived upholstered in the _____ linen with down-filled cushions and pillows.",
+      "distractors": [
+        "bright and vividly colorful",
+        "pure white and spotless",
+        "shiny metallic silver"
+      ],
+      "surfaceForms": [
+        "dun-colored"
+      ],
+      "clozeAnswerSurfaceForm": "dun-colored"
+    },
+    {
+      "lemma": "upholster",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "covered with fabric padding, as furniture",
+      "translationZh": "（家具）裝上襯墊布套的",
+      "exampleSentence": "A couple months later, the new couch, chair, and ottoman arrived upholstered in the dun-colored linen with down-filled cushions and pillows.",
+      "clozeSentence": "A couple months later, the new couch, chair, and ottoman arrived _____ in the dun-colored linen with down-filled cushions and pillows.",
+      "distractors": [
+        "painted with a fresh coat of paint",
+        "carved from a single piece of wood",
+        "left bare with no covering"
+      ],
+      "surfaceForms": [
+        "upholstered"
+      ],
+      "clozeAnswerSurfaceForm": "upholstered"
+    },
+    {
+      "lemma": "sophistication",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "refined knowledge, taste, or experience",
+      "translationZh": "世故；老練成熟",
+      "exampleSentence": "I’d been spending more time with my father and Laurene, absorbing their ideas, their sophistication.",
+      "clozeSentence": "I’d been spending more time with my father and Laurene, absorbing their ideas, their _____.",
+      "distractors": [
+        "a lack of experience or knowledge",
+        "a strong sense of humor",
+        "a tendency to act impulsively"
+      ],
+      "surfaceForms": [
+        "sophistication"
+      ],
+      "clozeAnswerSurfaceForm": "sophistication"
+    },
+    {
+      "lemma": "sparingly",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "in a small amount; not generously",
+      "translationZh": "節省地；謹慎少量地",
+      "exampleSentence": "I’d been to New York, I understood the importance of low-fat, watched Laurene add oil carefully and sparingly to salad dressings.",
+      "clozeSentence": "I’d been to New York, I understood the importance of low-fat, watched Laurene add oil carefully and _____ to salad dressings.",
+      "distractors": [
+        "in a generous, abundant amount",
+        "in a careless, wasteful manner",
+        "on a regular daily schedule"
+      ],
+      "surfaceForms": [
+        "sparingly"
+      ],
+      "clozeAnswerSurfaceForm": "sparingly"
+    },
+    {
+      "lemma": "kink",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "bent or twisted sharply out of its normal shape",
+      "translationZh": "（物體）扭結；打結彎曲",
+      "exampleSentence": "“Oops,” she said, the steering wheel kinked as far as it would go.",
+      "clozeSentence": "“Oops,” she said, the steering wheel _____ as far as it would go.",
+      "distractors": [
+        "worn smooth from years of use",
+        "polished to a bright shine",
+        "broken cleanly into two pieces"
+      ],
+      "surfaceForms": [
+        "kinked"
+      ],
+      "clozeAnswerSurfaceForm": "kinked"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "cloze",
+      "wordLemma": "upholster",
+      "prompt": "A couple months later, the new couch, chair, and ottoman arrived _____ in the dun-colored linen with down-filled cushions and pillows.",
+      "options": [
+        "angora",
+        "upholstered",
+        "castoffs",
+        "ottoman"
+      ],
+      "answer": "upholstered"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "castoffs",
+      "prompt": "It made her feel, I think, like her life was composed of the _____ of other lives.",
+      "options": [
+        "maroon",
+        "sophistication",
+        "castoffs",
+        "ambivalent"
+      ],
+      "answer": "castoffs"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "scapula",
+      "prompt": "The _____ are what remain.",
+      "options": [
+        "sparingly",
+        "scapulae",
+        "saleswoman",
+        "intersection"
+      ],
+      "answer": "scapulae"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "packet",
+      "prompt": "packet",
+      "options": [
+        "a glass display case",
+        "a small paper or plastic container for goods",
+        "a large wooden crate",
+        "a metal storage tank"
+      ],
+      "answer": "a small paper or plastic container for goods"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "dun-colored",
+      "prompt": "dun-colored",
+      "options": [
+        "having a dull grayish-brown color",
+        "shiny metallic silver",
+        "pure white and spotless",
+        "bright and vividly colorful"
+      ],
+      "answer": "having a dull grayish-brown color"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "sophistication",
+      "prompt": "世故；老練成熟",
+      "options": [
+        "ambivalent",
+        "ottoman",
+        "vortex",
+        "sophistication"
+      ],
+      "answer": "sophistication"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "ambivalent",
+      "prompt": "矛盾的；猶豫不決的",
+      "options": [
+        "packet",
+        "ambivalent",
+        "sparingly",
+        "angora"
+      ],
+      "answer": "ambivalent"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "intersection",
+      "prompt": "intersection",
+      "options": [
+        "a place where roads cross",
+        "a straight road with no turns",
+        "a bridge over a river",
+        "a parking area beside a building"
+      ],
+      "answer": "a place where roads cross"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "maroon",
+      "prompt": "栗紅色；暗紅褐色",
+      "options": [
+        "intersection",
+        "castoffs",
+        "minimalist",
+        "maroon"
+      ],
+      "answer": "maroon"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "vortex",
+      "prompt": "漩渦",
+      "options": [
+        "angora",
+        "vortex",
+        "intersection",
+        "castoffs"
+      ],
+      "answer": "vortex"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "sparingly",
+      "prompt": "sparingly",
+      "options": [
+        "in a small amount; not generously",
+        "on a regular daily schedule",
+        "in a generous, abundant amount",
+        "in a careless, wasteful manner"
+      ],
+      "answer": "in a small amount; not generously"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "kink",
+      "prompt": "“Oops,” she said, the steering wheel _____ as far as it would go.",
+      "options": [
+        "kinked",
+        "packets",
+        "cashmere",
+        "ottoman"
+      ],
+      "answer": "kinked"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "ottoman",
+      "prompt": "ottoman",
+      "options": [
+        "a folding dining table",
+        "a low padded seat or footstool without a back",
+        "a full-sized bed frame",
+        "a tall bookshelf with many shelves"
+      ],
+      "answer": "a low padded seat or footstool without a back"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "cashmere",
+      "prompt": "cashmere",
+      "options": [
+        "a shiny synthetic fabric",
+        "fine soft wool from cashmere goats",
+        "a thick waterproof material",
+        "a rough fabric made of hemp"
+      ],
+      "answer": "fine soft wool from cashmere goats"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "angora",
+      "prompt": "安哥拉毛料",
+      "options": [
+        "vortex",
+        "minimalist",
+        "angora",
+        "intersection"
+      ],
+      "answer": "angora"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "saleswoman",
+      "prompt": "I insisted, the _____ insisted, and she bought the set.",
+      "options": [
+        "intersection",
+        "gloss",
+        "saleswoman",
+        "ottoman"
+      ],
+      "answer": "saleswoman"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "gloss",
+      "prompt": "光澤；亮光劑",
+      "options": [
+        "gloss",
+        "giddy",
+        "dun-colored",
+        "ambivalent"
+      ],
+      "answer": "gloss"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "giddy",
+      "prompt": "We were both _____ afterward, as if the mall was a different place to us now, opened up.",
+      "options": [
+        "vortex",
+        "castoffs",
+        "giddy",
+        "fabric"
+      ],
+      "answer": "giddy"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "fabric",
+      "prompt": "The long skirt was dark gray cashmere, the sweater was made of maroon angora with _____ teddy bears appliquéd.",
+      "options": [
+        "vortex",
+        "fabric",
+        "sparingly",
+        "dun-colored"
+      ],
+      "answer": "fabric"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "minimalist",
+      "prompt": "minimalist",
+      "options": [
+        "old-fashioned and cluttered",
+        "brightly colored and patterned",
+        "simple and plain, using very few elements",
+        "extremely decorated and ornate"
+      ],
+      "answer": "simple and plain, using very few elements"
+    }
+  ]
+}

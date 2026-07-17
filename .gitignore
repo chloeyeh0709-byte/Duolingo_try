@@ -40,12 +40,16 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Book source files and generated lesson content are copyrighted material.
-# Only the manifest (titles/counts, no book text) is committed; everything
-# else here is generated locally from a legally-owned copy of the book.
+# The source .epub itself is never committed (large binary, not needed to
+# run the app - only the pipeline needs it, locally, to regenerate content).
 *.epub
 .local-books/
-content/*
-!content/*/
-content/*/*
-!content/*/manifest.json
+
+# Build intermediates from the content pipeline (raw extracted text,
+# tokenized word lists, per-section CEFR candidate data) aren't needed to
+# run the app and are regenerable from the .epub, so they stay out of git.
+# content/*/lessons/ and content/*/manifest.json ARE committed.
+content/*/raw/
+content/*/tokenized/
+content/*/cefr/
+content/*/parts-summary.json

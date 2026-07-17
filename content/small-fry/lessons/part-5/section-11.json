@@ -1,0 +1,790 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 5,
+  "partTitle": "Runaway",
+  "sectionIndex": 11,
+  "paragraphs": [
+    "Reed was six months old by now. I went over to see them the week I returned from Japan, and my father asked me to change his diaper. “It’s part of being in this family, Lis,” he said. “You haven’t done it for a while.”",
+    "I took my brother on my hip, walked past the bank of French doors in the hallway and up the curve in the stone stairway, careful to hold the railing. In the rooms upstairs, my father had replaced the floors with foot-wide boards of Douglas fir, a silky, soft texture to the wood. In my brother’s room, a carpenter had built a set of wooden shelves in the same wood that connected to a high changing table.",
+    "I set my brother down on the table, opened the straps on the sides of the diaper, cleaned him, then turned to grab a diaper, as I’d done before.",
+    "In the three weeks I’d been in Japan, he’d learned to roll. No one had told me. I heard the thunk of his skull hitting the wooden floor. I looked down at him, face up on the floor. There was a pause, and I thought that maybe he wouldn’t cry, and they would not notice, and everything would somehow return to normal. One second later, he began to wail. I scooped him into my arms and heard the sound of their bare feet running from the kitchen.",
+    "On the way to the hospital, Laurene nursed him. I sat beside her in the back seat, hoping there would be a chance to be helpful. I wanted to go back to the moment just before it happened.",
+    "My father drove. He was silent. Finally he said, venom quiet: “Lis, you should learn to understand the impact of your actions on other people.” It couldn’t be undone. I’d meant to protect Reed; now this mistake would become part of the lore, as if I had done nothing good before or after.",
+    "But the changing table did not have a lip or fence. The cushion was flat—the curved foam pads that dip in the center had not been invented yet. And the diapers were stacked out of reach.",
+    "“I’m sorry,” I said. “I’m so sorry.”"
+  ],
+  "words": [
+    {
+      "lemma": "scoop",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to lift or pick someone or something up with a swift, curved movement",
+      "translationZh": "一把抱起；舀起",
+      "exampleSentence": "I scooped him into my arms and heard the sound of their bare feet running from the kitchen.",
+      "clozeSentence": "I _____ him into my arms and heard the sound of their bare feet running from the kitchen.",
+      "distractors": [
+        "to push someone away suddenly",
+        "to carry something on one's back",
+        "to drop something onto the floor"
+      ],
+      "surfaceForms": [
+        "scooped"
+      ],
+      "clozeAnswerSurfaceForm": "scooped"
+    },
+    {
+      "lemma": "skull",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the bony structure of the head that protects the brain",
+      "translationZh": "頭骨",
+      "exampleSentence": "I heard the thunk of his skull hitting the wooden floor.",
+      "clozeSentence": "I heard the thunk of his _____ hitting the wooden floor.",
+      "distractors": [
+        "the muscles that support the neck",
+        "the joint connecting the jaw to the ear",
+        "the soft tissue covering the scalp"
+      ],
+      "surfaceForms": [
+        "skull"
+      ],
+      "clozeAnswerSurfaceForm": "skull"
+    },
+    {
+      "lemma": "stairway",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a set of stairs connecting different levels of a building",
+      "translationZh": "樓梯",
+      "exampleSentence": "I took my brother on my hip, walked past the bank of French doors in the hallway and up the curve in the stone stairway, careful to hold the railing.",
+      "clozeSentence": "I took my brother on my hip, walked past the bank of French doors in the hallway and up the curve in the stone _____, careful to hold the railing.",
+      "distractors": [
+        "a narrow hallway with no windows",
+        "a covered porch at a building's entrance",
+        "an elevator used to move between floors"
+      ],
+      "surfaceForms": [
+        "stairway"
+      ],
+      "clozeAnswerSurfaceForm": "stairway"
+    },
+    {
+      "lemma": "strap",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "a narrow strip of material used to fasten or hold something in place",
+      "translationZh": "帶子；扣帶",
+      "exampleSentence": "I set my brother down on the table, opened the straps on the sides of the diaper, cleaned him, then turned to grab a diaper, as I’d done before.",
+      "clozeSentence": "I set my brother down on the table, opened the _____ on the sides of the diaper, cleaned him, then turned to grab a diaper, as I’d done before.",
+      "distractors": [
+        "a small metal clip used for papers",
+        "a soft cushion placed under a table",
+        "a decorative ribbon tied in a bow"
+      ],
+      "surfaceForms": [
+        "straps"
+      ],
+      "clozeAnswerSurfaceForm": "straps"
+    },
+    {
+      "lemma": "thunk",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a dull, heavy sound made when something solid hits a surface",
+      "translationZh": "砰的一聲（沉悶撞擊聲）",
+      "exampleSentence": "I heard the thunk of his skull hitting the wooden floor.",
+      "clozeSentence": "I heard the _____ of his skull hitting the wooden floor.",
+      "distractors": [
+        "a sharp, high-pitched ringing sound",
+        "a soft whisper barely heard",
+        "a long, continuous humming sound"
+      ],
+      "surfaceForms": [
+        "thunk"
+      ],
+      "clozeAnswerSurfaceForm": "thunk"
+    },
+    {
+      "lemma": "carpenter",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "a person who makes and builds things out of wood",
+      "translationZh": "木匠",
+      "exampleSentence": "In my brother’s room, a carpenter had built a set of wooden shelves in the same wood that connected to a high changing table.",
+      "clozeSentence": "In my brother’s room, a _____ had built a set of wooden shelves in the same wood that connected to a high changing table.",
+      "distractors": [
+        "a person who repairs electrical wiring",
+        "a person who designs clothing",
+        "a person who paints houses"
+      ],
+      "surfaceForms": [
+        "carpenter"
+      ],
+      "clozeAnswerSurfaceForm": "carpenter"
+    },
+    {
+      "lemma": "fir",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a type of evergreen tree with needle-like leaves, often used for timber",
+      "translationZh": "冷杉",
+      "exampleSentence": "In the rooms upstairs, my father had replaced the floors with foot-wide boards of Douglas fir, a silky, soft texture to the wood.",
+      "clozeSentence": "In the rooms upstairs, my father had replaced the floors with foot-wide boards of Douglas _____, a silky, soft texture to the wood.",
+      "distractors": [
+        "a type of flowering shrub",
+        "a tropical fruit tree",
+        "a kind of tall desert cactus"
+      ],
+      "surfaceForms": [
+        "fir"
+      ],
+      "clozeAnswerSurfaceForm": "fir"
+    },
+    {
+      "lemma": "silky",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "smooth and soft, like silk",
+      "translationZh": "絲滑的",
+      "exampleSentence": "In the rooms upstairs, my father had replaced the floors with foot-wide boards of Douglas fir, a silky, soft texture to the wood.",
+      "clozeSentence": "In the rooms upstairs, my father had replaced the floors with foot-wide boards of Douglas fir, a _____, soft texture to the wood.",
+      "distractors": [
+        "rough and coarse to the touch",
+        "hard and stiff in texture",
+        "sticky and difficult to clean"
+      ],
+      "surfaceForms": [
+        "silky"
+      ],
+      "clozeAnswerSurfaceForm": "silky"
+    },
+    {
+      "lemma": "texture",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the way a surface or material feels to the touch",
+      "translationZh": "質地；紋理",
+      "exampleSentence": "In the rooms upstairs, my father had replaced the floors with foot-wide boards of Douglas fir, a silky, soft texture to the wood.",
+      "clozeSentence": "In the rooms upstairs, my father had replaced the floors with foot-wide boards of Douglas fir, a silky, soft _____ to the wood.",
+      "distractors": [
+        "the color a material appears to be",
+        "the smell given off by a surface",
+        "the sound a material makes when moved"
+      ],
+      "surfaceForms": [
+        "texture"
+      ],
+      "clozeAnswerSurfaceForm": "texture"
+    },
+    {
+      "lemma": "lore",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "traditional stories, knowledge, or beliefs passed down within a family or group",
+      "translationZh": "傳說；口傳知識",
+      "exampleSentence": "I’d meant to protect Reed; now this mistake would become part of the lore, as if I had done nothing good before or after.",
+      "clozeSentence": "I’d meant to protect Reed; now this mistake would become part of the _____, as if I had done nothing good before or after.",
+      "distractors": [
+        "a formal written contract",
+        "a strict set of legal rules",
+        "a detailed scientific report"
+      ],
+      "surfaceForms": [
+        "lore"
+      ],
+      "clozeAnswerSurfaceForm": "lore"
+    },
+    {
+      "lemma": "dip",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to curve or slope downward in the middle",
+      "translationZh": "凹陷；向下彎",
+      "exampleSentence": "The cushion was flat—the curved foam pads that dip in the center had not been invented yet.",
+      "clozeSentence": "The cushion was flat—the curved foam pads that _____ in the center had not been invented yet.",
+      "distractors": [
+        "to rise sharply upward",
+        "to spin rapidly in place",
+        "to expand outward on all sides"
+      ],
+      "surfaceForms": [
+        "dip"
+      ],
+      "clozeAnswerSurfaceForm": "dip"
+    },
+    {
+      "lemma": "foam",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a soft, light material made of many small bubbles, used for cushioning",
+      "translationZh": "泡棉；海綿",
+      "exampleSentence": "The cushion was flat—the curved foam pads that dip in the center had not been invented yet.",
+      "clozeSentence": "The cushion was flat—the curved _____ pads that dip in the center had not been invented yet.",
+      "distractors": [
+        "a hard, dense type of wood",
+        "a smooth sheet of glass",
+        "a thick woolen fabric"
+      ],
+      "surfaceForms": [
+        "foam"
+      ],
+      "clozeAnswerSurfaceForm": "foam"
+    },
+    {
+      "lemma": "pad",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a thick, soft piece of material used for cushioning or protection",
+      "translationZh": "墊子；軟墊",
+      "exampleSentence": "The cushion was flat—the curved foam pads that dip in the center had not been invented yet.",
+      "clozeSentence": "The cushion was flat—the curved foam _____ that dip in the center had not been invented yet.",
+      "distractors": [
+        "a thin sheet of metal",
+        "a small wooden box",
+        "a long strip of rope"
+      ],
+      "surfaceForms": [
+        "pads"
+      ],
+      "clozeAnswerSurfaceForm": "pads"
+    },
+    {
+      "lemma": "wail",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to cry out loudly in pain, grief, or distress",
+      "translationZh": "嚎啕大哭",
+      "exampleSentence": "One second later, he began to wail.",
+      "clozeSentence": "One second later, he began to _____.",
+      "distractors": [
+        "to laugh quietly to oneself",
+        "to whisper something secretly",
+        "to sleep peacefully and silently"
+      ],
+      "surfaceForms": [
+        "wail"
+      ],
+      "clozeAnswerSurfaceForm": "wail"
+    },
+    {
+      "lemma": "venom",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "bitterness or hatred expressed in someone's words or tone",
+      "translationZh": "惡意；怨毒（語氣中的）",
+      "exampleSentence": "Finally he said, venom quiet: “Lis, you should learn to understand the impact of your actions on other people.” It couldn’t be undone.",
+      "clozeSentence": "Finally he said, _____ quiet: “Lis, you should learn to understand the impact of your actions on other people.” It couldn’t be undone.",
+      "distractors": [
+        "a strong feeling of joy or excitement",
+        "a sense of deep confusion",
+        "a calm and gentle tone of voice"
+      ],
+      "surfaceForms": [
+        "venom"
+      ],
+      "clozeAnswerSurfaceForm": "venom"
+    },
+    {
+      "lemma": "stack",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to place things in a neat pile, one on top of another",
+      "translationZh": "堆疊",
+      "exampleSentence": "And the diapers were stacked out of reach.",
+      "clozeSentence": "And the diapers were _____ out of reach.",
+      "distractors": [
+        "to spread things out in a row",
+        "to hide things out of sight",
+        "to sort things into separate boxes"
+      ],
+      "surfaceForms": [
+        "stacked"
+      ],
+      "clozeAnswerSurfaceForm": "stacked"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "strap",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "a narrow strip of material used to fasten or hold something in place",
+      "translationZh": "帶子；扣帶",
+      "exampleSentence": "I set my brother down on the table, opened the straps on the sides of the diaper, cleaned him, then turned to grab a diaper, as I’d done before.",
+      "clozeSentence": "I set my brother down on the table, opened the _____ on the sides of the diaper, cleaned him, then turned to grab a diaper, as I’d done before.",
+      "distractors": [
+        "a small metal clip used for papers",
+        "a soft cushion placed under a table",
+        "a decorative ribbon tied in a bow"
+      ],
+      "surfaceForms": [
+        "straps"
+      ],
+      "clozeAnswerSurfaceForm": "straps"
+    },
+    {
+      "lemma": "thunk",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a dull, heavy sound made when something solid hits a surface",
+      "translationZh": "砰的一聲（沉悶撞擊聲）",
+      "exampleSentence": "I heard the thunk of his skull hitting the wooden floor.",
+      "clozeSentence": "I heard the _____ of his skull hitting the wooden floor.",
+      "distractors": [
+        "a sharp, high-pitched ringing sound",
+        "a soft whisper barely heard",
+        "a long, continuous humming sound"
+      ],
+      "surfaceForms": [
+        "thunk"
+      ],
+      "clozeAnswerSurfaceForm": "thunk"
+    },
+    {
+      "lemma": "scoop",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to lift or pick someone or something up with a swift, curved movement",
+      "translationZh": "一把抱起；舀起",
+      "exampleSentence": "I scooped him into my arms and heard the sound of their bare feet running from the kitchen.",
+      "clozeSentence": "I _____ him into my arms and heard the sound of their bare feet running from the kitchen.",
+      "distractors": [
+        "to push someone away suddenly",
+        "to carry something on one's back",
+        "to drop something onto the floor"
+      ],
+      "surfaceForms": [
+        "scooped"
+      ],
+      "clozeAnswerSurfaceForm": "scooped"
+    },
+    {
+      "lemma": "skull",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the bony structure of the head that protects the brain",
+      "translationZh": "頭骨",
+      "exampleSentence": "I heard the thunk of his skull hitting the wooden floor.",
+      "clozeSentence": "I heard the thunk of his _____ hitting the wooden floor.",
+      "distractors": [
+        "the muscles that support the neck",
+        "the joint connecting the jaw to the ear",
+        "the soft tissue covering the scalp"
+      ],
+      "surfaceForms": [
+        "skull"
+      ],
+      "clozeAnswerSurfaceForm": "skull"
+    },
+    {
+      "lemma": "stairway",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a set of stairs connecting different levels of a building",
+      "translationZh": "樓梯",
+      "exampleSentence": "I took my brother on my hip, walked past the bank of French doors in the hallway and up the curve in the stone stairway, careful to hold the railing.",
+      "clozeSentence": "I took my brother on my hip, walked past the bank of French doors in the hallway and up the curve in the stone _____, careful to hold the railing.",
+      "distractors": [
+        "a narrow hallway with no windows",
+        "a covered porch at a building's entrance",
+        "an elevator used to move between floors"
+      ],
+      "surfaceForms": [
+        "stairway"
+      ],
+      "clozeAnswerSurfaceForm": "stairway"
+    },
+    {
+      "lemma": "carpenter",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "a person who makes and builds things out of wood",
+      "translationZh": "木匠",
+      "exampleSentence": "In my brother’s room, a carpenter had built a set of wooden shelves in the same wood that connected to a high changing table.",
+      "clozeSentence": "In my brother’s room, a _____ had built a set of wooden shelves in the same wood that connected to a high changing table.",
+      "distractors": [
+        "a person who repairs electrical wiring",
+        "a person who designs clothing",
+        "a person who paints houses"
+      ],
+      "surfaceForms": [
+        "carpenter"
+      ],
+      "clozeAnswerSurfaceForm": "carpenter"
+    },
+    {
+      "lemma": "fir",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a type of evergreen tree with needle-like leaves, often used for timber",
+      "translationZh": "冷杉",
+      "exampleSentence": "In the rooms upstairs, my father had replaced the floors with foot-wide boards of Douglas fir, a silky, soft texture to the wood.",
+      "clozeSentence": "In the rooms upstairs, my father had replaced the floors with foot-wide boards of Douglas _____, a silky, soft texture to the wood.",
+      "distractors": [
+        "a type of flowering shrub",
+        "a tropical fruit tree",
+        "a kind of tall desert cactus"
+      ],
+      "surfaceForms": [
+        "fir"
+      ],
+      "clozeAnswerSurfaceForm": "fir"
+    },
+    {
+      "lemma": "silky",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "smooth and soft, like silk",
+      "translationZh": "絲滑的",
+      "exampleSentence": "In the rooms upstairs, my father had replaced the floors with foot-wide boards of Douglas fir, a silky, soft texture to the wood.",
+      "clozeSentence": "In the rooms upstairs, my father had replaced the floors with foot-wide boards of Douglas fir, a _____, soft texture to the wood.",
+      "distractors": [
+        "rough and coarse to the touch",
+        "hard and stiff in texture",
+        "sticky and difficult to clean"
+      ],
+      "surfaceForms": [
+        "silky"
+      ],
+      "clozeAnswerSurfaceForm": "silky"
+    },
+    {
+      "lemma": "texture",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the way a surface or material feels to the touch",
+      "translationZh": "質地；紋理",
+      "exampleSentence": "In the rooms upstairs, my father had replaced the floors with foot-wide boards of Douglas fir, a silky, soft texture to the wood.",
+      "clozeSentence": "In the rooms upstairs, my father had replaced the floors with foot-wide boards of Douglas fir, a silky, soft _____ to the wood.",
+      "distractors": [
+        "the color a material appears to be",
+        "the smell given off by a surface",
+        "the sound a material makes when moved"
+      ],
+      "surfaceForms": [
+        "texture"
+      ],
+      "clozeAnswerSurfaceForm": "texture"
+    },
+    {
+      "lemma": "lore",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "traditional stories, knowledge, or beliefs passed down within a family or group",
+      "translationZh": "傳說；口傳知識",
+      "exampleSentence": "I’d meant to protect Reed; now this mistake would become part of the lore, as if I had done nothing good before or after.",
+      "clozeSentence": "I’d meant to protect Reed; now this mistake would become part of the _____, as if I had done nothing good before or after.",
+      "distractors": [
+        "a formal written contract",
+        "a strict set of legal rules",
+        "a detailed scientific report"
+      ],
+      "surfaceForms": [
+        "lore"
+      ],
+      "clozeAnswerSurfaceForm": "lore"
+    },
+    {
+      "lemma": "dip",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to curve or slope downward in the middle",
+      "translationZh": "凹陷；向下彎",
+      "exampleSentence": "The cushion was flat—the curved foam pads that dip in the center had not been invented yet.",
+      "clozeSentence": "The cushion was flat—the curved foam pads that _____ in the center had not been invented yet.",
+      "distractors": [
+        "to rise sharply upward",
+        "to spin rapidly in place",
+        "to expand outward on all sides"
+      ],
+      "surfaceForms": [
+        "dip"
+      ],
+      "clozeAnswerSurfaceForm": "dip"
+    },
+    {
+      "lemma": "foam",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a soft, light material made of many small bubbles, used for cushioning",
+      "translationZh": "泡棉；海綿",
+      "exampleSentence": "The cushion was flat—the curved foam pads that dip in the center had not been invented yet.",
+      "clozeSentence": "The cushion was flat—the curved _____ pads that dip in the center had not been invented yet.",
+      "distractors": [
+        "a hard, dense type of wood",
+        "a smooth sheet of glass",
+        "a thick woolen fabric"
+      ],
+      "surfaceForms": [
+        "foam"
+      ],
+      "clozeAnswerSurfaceForm": "foam"
+    },
+    {
+      "lemma": "pad",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a thick, soft piece of material used for cushioning or protection",
+      "translationZh": "墊子；軟墊",
+      "exampleSentence": "The cushion was flat—the curved foam pads that dip in the center had not been invented yet.",
+      "clozeSentence": "The cushion was flat—the curved foam _____ that dip in the center had not been invented yet.",
+      "distractors": [
+        "a thin sheet of metal",
+        "a small wooden box",
+        "a long strip of rope"
+      ],
+      "surfaceForms": [
+        "pads"
+      ],
+      "clozeAnswerSurfaceForm": "pads"
+    },
+    {
+      "lemma": "wail",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to cry out loudly in pain, grief, or distress",
+      "translationZh": "嚎啕大哭",
+      "exampleSentence": "One second later, he began to wail.",
+      "clozeSentence": "One second later, he began to _____.",
+      "distractors": [
+        "to laugh quietly to oneself",
+        "to whisper something secretly",
+        "to sleep peacefully and silently"
+      ],
+      "surfaceForms": [
+        "wail"
+      ],
+      "clozeAnswerSurfaceForm": "wail"
+    },
+    {
+      "lemma": "venom",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "bitterness or hatred expressed in someone's words or tone",
+      "translationZh": "惡意；怨毒（語氣中的）",
+      "exampleSentence": "Finally he said, venom quiet: “Lis, you should learn to understand the impact of your actions on other people.” It couldn’t be undone.",
+      "clozeSentence": "Finally he said, _____ quiet: “Lis, you should learn to understand the impact of your actions on other people.” It couldn’t be undone.",
+      "distractors": [
+        "a strong feeling of joy or excitement",
+        "a sense of deep confusion",
+        "a calm and gentle tone of voice"
+      ],
+      "surfaceForms": [
+        "venom"
+      ],
+      "clozeAnswerSurfaceForm": "venom"
+    },
+    {
+      "lemma": "stack",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to place things in a neat pile, one on top of another",
+      "translationZh": "堆疊",
+      "exampleSentence": "And the diapers were stacked out of reach.",
+      "clozeSentence": "And the diapers were _____ out of reach.",
+      "distractors": [
+        "to spread things out in a row",
+        "to hide things out of sight",
+        "to sort things into separate boxes"
+      ],
+      "surfaceForms": [
+        "stacked"
+      ],
+      "clozeAnswerSurfaceForm": "stacked"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "translation",
+      "wordLemma": "carpenter",
+      "prompt": "木匠",
+      "options": [
+        "stairway",
+        "dip",
+        "texture",
+        "carpenter"
+      ],
+      "answer": "carpenter"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "stack",
+      "prompt": "stack",
+      "options": [
+        "to spread things out in a row",
+        "to sort things into separate boxes",
+        "to place things in a neat pile, one on top of another",
+        "to hide things out of sight"
+      ],
+      "answer": "to place things in a neat pile, one on top of another"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "scoop",
+      "prompt": "一把抱起；舀起",
+      "options": [
+        "skull",
+        "scoop",
+        "lore",
+        "wail"
+      ],
+      "answer": "scoop"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "wail",
+      "prompt": "One second later, he began to _____.",
+      "options": [
+        "dip",
+        "wail",
+        "foam",
+        "carpenter"
+      ],
+      "answer": "wail"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "strap",
+      "prompt": "strap",
+      "options": [
+        "a decorative ribbon tied in a bow",
+        "a narrow strip of material used to fasten or hold something in place",
+        "a small metal clip used for papers",
+        "a soft cushion placed under a table"
+      ],
+      "answer": "a narrow strip of material used to fasten or hold something in place"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "venom",
+      "prompt": "惡意；怨毒（語氣中的）",
+      "options": [
+        "thunk",
+        "strap",
+        "carpenter",
+        "venom"
+      ],
+      "answer": "venom"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "texture",
+      "prompt": "質地；紋理",
+      "options": [
+        "venom",
+        "scoop",
+        "texture",
+        "carpenter"
+      ],
+      "answer": "texture"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "fir",
+      "prompt": "fir",
+      "options": [
+        "a tropical fruit tree",
+        "a type of flowering shrub",
+        "a type of evergreen tree with needle-like leaves, often used for timber",
+        "a kind of tall desert cactus"
+      ],
+      "answer": "a type of evergreen tree with needle-like leaves, often used for timber"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "dip",
+      "prompt": "The cushion was flat—the curved foam pads that _____ in the center had not been invented yet.",
+      "options": [
+        "foam",
+        "stairway",
+        "dip",
+        "skull"
+      ],
+      "answer": "dip"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "thunk",
+      "prompt": "I heard the _____ of his skull hitting the wooden floor.",
+      "options": [
+        "wail",
+        "thunk",
+        "dip",
+        "stacked"
+      ],
+      "answer": "thunk"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "foam",
+      "prompt": "泡棉；海綿",
+      "options": [
+        "wail",
+        "strap",
+        "skull",
+        "foam"
+      ],
+      "answer": "foam"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "silky",
+      "prompt": "In the rooms upstairs, my father had replaced the floors with foot-wide boards of Douglas fir, a _____, soft texture to the wood.",
+      "options": [
+        "pads",
+        "dip",
+        "fir",
+        "silky"
+      ],
+      "answer": "silky"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "stairway",
+      "prompt": "I took my brother on my hip, walked past the bank of French doors in the hallway and up the curve in the stone _____, careful to hold the railing.",
+      "options": [
+        "stairway",
+        "skull",
+        "silky",
+        "foam"
+      ],
+      "answer": "stairway"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "skull",
+      "prompt": "skull",
+      "options": [
+        "the soft tissue covering the scalp",
+        "the joint connecting the jaw to the ear",
+        "the muscles that support the neck",
+        "the bony structure of the head that protects the brain"
+      ],
+      "answer": "the bony structure of the head that protects the brain"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "lore",
+      "prompt": "lore",
+      "options": [
+        "a formal written contract",
+        "a detailed scientific report",
+        "a strict set of legal rules",
+        "traditional stories, knowledge, or beliefs passed down within a family or group"
+      ],
+      "answer": "traditional stories, knowledge, or beliefs passed down within a family or group"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "pad",
+      "prompt": "pad",
+      "options": [
+        "a long strip of rope",
+        "a thick, soft piece of material used for cushioning or protection",
+        "a thin sheet of metal",
+        "a small wooden box"
+      ],
+      "answer": "a thick, soft piece of material used for cushioning or protection"
+    }
+  ]
+}

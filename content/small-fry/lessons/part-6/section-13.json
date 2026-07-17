@@ -1,0 +1,1449 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 6,
+  "partTitle": "Small Nation",
+  "sectionIndex": 13,
+  "paragraphs": [
+    "When I was staying with my father, I babysat for the neighbors’ son, age three. They lived on Waverley, a block down. The family had a two-story wood-shingled house painted light blue, with a white picket fence and a backyard littered with trucks and robots. The parents, Kevin and Dorothy, were both lawyers. I looked forward to eating crackers, soy cheese, and cookies—foods we didn’t have at my father’s house—and reading in a chair under a lamp.",
+    "We’d met in the neighborhood one weekend on a walk with my father and my sleeping brother. From the sidewalk my father called out to Kevin, who worked on his car in the open garage, visible from the street. This reminded my father of his father, Paul. Kevin looked and seemed like someone from a lineage of more upstanding, straightforward men. My father and Kevin became friends, going on walks around the neighborhood. Sometimes on weekends we’d drop by their house and sit in the backyard. The car was a Morgan, with a long, vented muzzle, black lacquer paint, glistening chrome exhaust pipes, and a fine red stripe.",
+    "Kevin and Dorothy seemed to like me, and overpaid me for babysitting. They invited me to join them one Saturday afternoon on a drive to the ocean, and we wound up the curving road through flecks of light to the clearing at Skyline, passing a restaurant called Alice’s, where swarms of motorcyclists also stopped to eat. Then farther, toward the beach, the landscape changed to hills.",
+    "Dorothy lent me a scarf to wear over my hair, Kevin lent me a windbreaker.",
+    "“How’s it going over there?” he shouted over the roar of the wind and the engine. He meant my dad’s house.",
+    "“It’s all right,” I said. “Maybe a little cold.”",
+    "“Cold?” he shouted.",
+    "“There’s no heat downstairs,” I yelled over the wind.",
+    "“What?”",
+    "“He won’t fix it.” We’d reached a stop sign at the crest of a hill. “I have to do the dishes every night and they don’t have heat down there. Or a dishwasher. I mean, it’s broken.”",
+    "“Why don’t they get a new one?”",
+    "“I don’t know.”",
+    "This would change during my last year of high school, when, tired of doing the dishes by hand, I thought to call a dishwasher repairman. He fixed the machine in ten minutes for forty dollars—it was only a rubber gasket, decayed into lace. When I told my father that the old brown machine was working again, he frowned, and the next week, after years without a working dishwasher, a new Miele dishwasher was installed.",
+    "“Like Cinderella,” Kevin said. This was the kind of sympathy I was going for, and what I believed about myself sometimes, looking through the photos late at night.",
+    "“And they make me babysit a lot,” I said.",
+    "“Oh,” Kevin said. He seemed to sympathize, but it was clear this was a lesser offense, and diluted the rest.",
+    "“And they won’t get a couch,” I said. Later, I would learn which complaints worked, and which ones, however strongly I felt aggrieved, didn’t trigger much sympathy in others.",
+    "He won’t even get a couch, I said, to anyone who would listen.",
+    "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand oriental rug, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me. But I didn’t stop insisting. Whatever we’d lost before would be regained, we could catch up—if only he’d get a couch.",
+    "“The worst thing is,” I said, “I get really lonely at night. I just wish my father would say goodnight sometimes. Like, even once a week.”",
+    "Kevin shook his head and smiled. He smiled like this, not saying anything and shaking his head, when something made him angry, I would learn later. He had long eyelashes, sparkling eyes, a cleft in his chin, and seemed like a real adult to me then, another species of person from my father, who was more boyish—even though they were around the same age.",
+    "Much later, after I’d spent a lot more time with them and even lived at their house, Kevin and Dorothy would go against my father’s wishes and pay for me to finish college. I think they did it for their own reasons—connected to their own history and sense of justice. It made them furious that my father might get away with cutting my college tuition payments, just because he had more power.",
+    "“I wish there was someone in that house who was thinking of you,” Dorothy said. “Someone thinking, What does Lisa need?”",
+    "Complaining to them, about the heat, the goodnight, the couch, was a relief, and gave me a dual role: I was not only in this pitiable situation, but watching it; I was both the one hurt and the narrator of the hurt. I was meek, wishing someone would make my father do the two or three things I could not get him to do myself; telling others about it—and receiving their sympathy—gave me a power I didn’t have inside it.",
+    "We got back after the drive, windswept, and they made tea."
+  ],
+  "words": [
+    {
+      "lemma": "meek",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Quiet, gentle, and easily controlled by others",
+      "translationZh": "溫順的；順從的",
+      "exampleSentence": "I was meek, wishing someone would make my father do the two or three things I could not get him to do myself; telling others about it—and receiving their sympathy—gave me a power I didn’t have inside it.",
+      "clozeSentence": "I was _____, wishing someone would make my father do the two or three things I could not get him to do myself; telling others about it—and receiving their sympathy—gave me a power I didn’t have inside it.",
+      "distractors": [
+        "Loud and demanding",
+        "Confident and assertive",
+        "Angry and aggressive"
+      ],
+      "surfaceForms": [
+        "meek"
+      ],
+      "clozeAnswerSurfaceForm": "meek"
+    },
+    {
+      "lemma": "backyard",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The area of land behind a house",
+      "translationZh": "後院",
+      "exampleSentence": "The family had a two-story wood-shingled house painted light blue, with a white picket fence and a backyard littered with trucks and robots.",
+      "clozeSentence": "The family had a two-story wood-shingled house painted light blue, with a white picket fence and a _____ littered with trucks and robots.",
+      "distractors": [
+        "The front entrance of a building",
+        "A room used for cooking",
+        "A public park in a city"
+      ],
+      "surfaceForms": [
+        "backyard"
+      ],
+      "clozeAnswerSurfaceForm": "backyard"
+    },
+    {
+      "lemma": "exhaust",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The system that releases waste gases from an engine",
+      "translationZh": "排氣（管）",
+      "exampleSentence": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, glistening chrome exhaust pipes, and a fine red stripe.",
+      "clozeSentence": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, glistening chrome _____ pipes, and a fine red stripe.",
+      "distractors": [
+        "The system that starts an engine",
+        "A container for storing fuel",
+        "A device that measures speed"
+      ],
+      "surfaceForms": [
+        "exhaust"
+      ],
+      "clozeAnswerSurfaceForm": "exhaust"
+    },
+    {
+      "lemma": "grand",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Impressive in size or style; magnificent",
+      "translationZh": "壯麗的；宏偉的",
+      "exampleSentence": "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand oriental rug, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "clozeSentence": "The fact was, there were other places to sit—the Eames chairs with ottomans, a _____ oriental rug, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "distractors": [
+        "Small and unnoticeable",
+        "Old and broken down",
+        "Plain and ordinary"
+      ],
+      "surfaceForms": [
+        "grand"
+      ],
+      "clozeAnswerSurfaceForm": "grand"
+    },
+    {
+      "lemma": "litter",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To scatter objects untidily over an area",
+      "translationZh": "使凌亂散落",
+      "exampleSentence": "The family had a two-story wood-shingled house painted light blue, with a white picket fence and a backyard littered with trucks and robots.",
+      "clozeSentence": "The family had a two-story wood-shingled house painted light blue, with a white picket fence and a backyard _____ with trucks and robots.",
+      "distractors": [
+        "To carefully organize and arrange",
+        "To completely remove and clean",
+        "To build or construct something"
+      ],
+      "surfaceForms": [
+        "littered"
+      ],
+      "clozeAnswerSurfaceForm": "littered"
+    },
+    {
+      "lemma": "rug",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A piece of thick fabric used to cover part of a floor",
+      "translationZh": "地毯",
+      "exampleSentence": "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand oriental rug, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "clozeSentence": "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand oriental _____, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "distractors": [
+        "A large piece of furniture for sitting",
+        "A curtain used to cover a window",
+        "A blanket used for sleeping"
+      ],
+      "surfaceForms": [
+        "rug"
+      ],
+      "clozeAnswerSurfaceForm": "rug"
+    },
+    {
+      "lemma": "chrome",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A shiny, silver-colored metal coating used to decorate objects",
+      "translationZh": "鉻；鍍鉻的",
+      "exampleSentence": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, glistening chrome exhaust pipes, and a fine red stripe.",
+      "clozeSentence": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, glistening _____ exhaust pipes, and a fine red stripe.",
+      "distractors": [
+        "A soft woolen fabric",
+        "A dull black paint",
+        "A type of transparent glass"
+      ],
+      "surfaceForms": [
+        "chrome"
+      ],
+      "clozeAnswerSurfaceForm": "chrome"
+    },
+    {
+      "lemma": "fleck",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A small spot, mark, or particle of something",
+      "translationZh": "斑點；細小碎片",
+      "exampleSentence": "They invited me to join them one Saturday afternoon on a drive to the ocean, and we wound up the curving road through flecks of light to the clearing at Skyline, passing a restaurant called Alice’s, where swarms of motorcyclists also stopped to eat.",
+      "clozeSentence": "They invited me to join them one Saturday afternoon on a drive to the ocean, and we wound up the curving road through _____ of light to the clearing at Skyline, passing a restaurant called Alice’s, where swarms of motorcyclists also stopped to eat.",
+      "distractors": [
+        "A large, solid block",
+        "A long, thin line",
+        "A deep, dark shadow"
+      ],
+      "surfaceForms": [
+        "flecks"
+      ],
+      "clozeAnswerSurfaceForm": "flecks"
+    },
+    {
+      "lemma": "glisten",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To shine with a sparkling light, often because wet or polished",
+      "translationZh": "閃閃發光",
+      "exampleSentence": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, glistening chrome exhaust pipes, and a fine red stripe.",
+      "clozeSentence": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, _____ chrome exhaust pipes, and a fine red stripe.",
+      "distractors": [
+        "To become dull and faded",
+        "To make a loud noise",
+        "To grow larger over time"
+      ],
+      "surfaceForms": [
+        "glistening"
+      ],
+      "clozeAnswerSurfaceForm": "glistening"
+    },
+    {
+      "lemma": "insistence",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The act of demanding something firmly and repeatedly",
+      "translationZh": "堅持",
+      "exampleSentence": "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand oriental rug, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "clozeSentence": "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand oriental rug, the kitchen table, my desk—so that my _____ on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "distractors": [
+        "A sudden change of mind",
+        "A quiet agreement without argument",
+        "A formal written request"
+      ],
+      "surfaceForms": [
+        "insistence"
+      ],
+      "clozeAnswerSurfaceForm": "insistence"
+    },
+    {
+      "lemma": "lacquer",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A hard, glossy coating applied to a surface for protection or shine",
+      "translationZh": "漆；亮光漆",
+      "exampleSentence": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, glistening chrome exhaust pipes, and a fine red stripe.",
+      "clozeSentence": "The car was a Morgan, with a long, vented muzzle, black _____ paint, glistening chrome exhaust pipes, and a fine red stripe.",
+      "distractors": [
+        "A soft cushioning material",
+        "A type of adhesive tape",
+        "A dull, matte finish"
+      ],
+      "surfaceForms": [
+        "lacquer"
+      ],
+      "clozeAnswerSurfaceForm": "lacquer"
+    },
+    {
+      "lemma": "motorcyclist",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A person who rides a motorcycle",
+      "translationZh": "騎摩托車的人",
+      "exampleSentence": "They invited me to join them one Saturday afternoon on a drive to the ocean, and we wound up the curving road through flecks of light to the clearing at Skyline, passing a restaurant called Alice’s, where swarms of motorcyclists also stopped to eat.",
+      "clozeSentence": "They invited me to join them one Saturday afternoon on a drive to the ocean, and we wound up the curving road through flecks of light to the clearing at Skyline, passing a restaurant called Alice’s, where swarms of _____ also stopped to eat.",
+      "distractors": [
+        "A person who repairs bicycles",
+        "A person who drives a bus",
+        "A person who sells vehicles"
+      ],
+      "surfaceForms": [
+        "motorcyclists"
+      ],
+      "clozeAnswerSurfaceForm": "motorcyclists"
+    },
+    {
+      "lemma": "muzzle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The projecting front part of an animal's head, or a similar front section of an object",
+      "translationZh": "（動物的）口鼻部；（物體的）前端",
+      "exampleSentence": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, glistening chrome exhaust pipes, and a fine red stripe.",
+      "clozeSentence": "The car was a Morgan, with a long, vented _____, black lacquer paint, glistening chrome exhaust pipes, and a fine red stripe.",
+      "distractors": [
+        "The rear section of a vehicle",
+        "A round, spinning wheel",
+        "A soft interior lining"
+      ],
+      "surfaceForms": [
+        "muzzle"
+      ],
+      "clozeAnswerSurfaceForm": "muzzle"
+    },
+    {
+      "lemma": "oriental",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Relating to or in the style of East Asia",
+      "translationZh": "東方風格的",
+      "exampleSentence": "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand oriental rug, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "clozeSentence": "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand _____ rug, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "distractors": [
+        "Relating to Western Europe",
+        "Relating to modern technology",
+        "Relating to the sea or ocean"
+      ],
+      "surfaceForms": [
+        "oriental"
+      ],
+      "clozeAnswerSurfaceForm": "oriental"
+    },
+    {
+      "lemma": "ottoman",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A low, cushioned seat or footstool without a back",
+      "translationZh": "矮凳；腳凳",
+      "exampleSentence": "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand oriental rug, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "clozeSentence": "The fact was, there were other places to sit—the Eames chairs with _____, a grand oriental rug, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "distractors": [
+        "A tall bookshelf",
+        "A hanging light fixture",
+        "A folding table"
+      ],
+      "surfaceForms": [
+        "ottomans"
+      ],
+      "clozeAnswerSurfaceForm": "ottomans"
+    },
+    {
+      "lemma": "picket",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A pointed wooden stake used to build a fence",
+      "translationZh": "尖木樁（圍籬用）",
+      "exampleSentence": "The family had a two-story wood-shingled house painted light blue, with a white picket fence and a backyard littered with trucks and robots.",
+      "clozeSentence": "The family had a two-story wood-shingled house painted light blue, with a white _____ fence and a backyard littered with trucks and robots.",
+      "distractors": [
+        "A tall metal gate",
+        "A thick brick wall",
+        "A wire used for electricity"
+      ],
+      "surfaceForms": [
+        "picket"
+      ],
+      "clozeAnswerSurfaceForm": "picket"
+    },
+    {
+      "lemma": "two-story",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Having two levels or floors",
+      "translationZh": "兩層樓的",
+      "exampleSentence": "The family had a two-story wood-shingled house painted light blue, with a white picket fence and a backyard littered with trucks and robots.",
+      "clozeSentence": "The family had a _____ wood-shingled house painted light blue, with a white picket fence and a backyard littered with trucks and robots.",
+      "distractors": [
+        "Having only one large room",
+        "Built entirely underground",
+        "Made without any walls"
+      ],
+      "surfaceForms": [
+        "two-story"
+      ],
+      "clozeAnswerSurfaceForm": "two-story"
+    },
+    {
+      "lemma": "vent",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Having an opening that allows air, gas, or liquid to pass through",
+      "translationZh": "有通風口的",
+      "exampleSentence": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, glistening chrome exhaust pipes, and a fine red stripe.",
+      "clozeSentence": "The car was a Morgan, with a long, _____ muzzle, black lacquer paint, glistening chrome exhaust pipes, and a fine red stripe.",
+      "distractors": [
+        "Completely sealed and airtight",
+        "Covered in a thick layer of paint",
+        "Extremely heavy and solid"
+      ],
+      "surfaceForms": [
+        "vented"
+      ],
+      "clozeAnswerSurfaceForm": "vented"
+    },
+    {
+      "lemma": "wood-shingled",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Covered with thin overlapping pieces of wood on the outside",
+      "translationZh": "鋪木瓦的",
+      "exampleSentence": "The family had a two-story wood-shingled house painted light blue, with a white picket fence and a backyard littered with trucks and robots.",
+      "clozeSentence": "The family had a two-story _____ house painted light blue, with a white picket fence and a backyard littered with trucks and robots.",
+      "distractors": [
+        "Painted entirely in bright colors",
+        "Built with large glass windows",
+        "Covered with soft fabric"
+      ],
+      "surfaceForms": [
+        "wood-shingled"
+      ],
+      "clozeAnswerSurfaceForm": "wood-shingled"
+    },
+    {
+      "lemma": "straightforward",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Honest and direct in behavior or manner",
+      "translationZh": "正直坦率的；直截了當的",
+      "exampleSentence": "Kevin looked and seemed like someone from a lineage of more upstanding, straightforward men.",
+      "clozeSentence": "Kevin looked and seemed like someone from a lineage of more upstanding, _____ men.",
+      "distractors": [
+        "Secretive and dishonest",
+        "Confused and uncertain",
+        "Extremely shy and quiet"
+      ],
+      "surfaceForms": [
+        "straightforward"
+      ],
+      "clozeAnswerSurfaceForm": "straightforward"
+    },
+    {
+      "lemma": "lineage",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A line of ancestors or descendants; family history",
+      "translationZh": "血統；家系",
+      "exampleSentence": "Kevin looked and seemed like someone from a lineage of more upstanding, straightforward men.",
+      "clozeSentence": "Kevin looked and seemed like someone from a _____ of more upstanding, straightforward men.",
+      "distractors": [
+        "A group of close friends",
+        "A collection of legal documents",
+        "A list of daily tasks"
+      ],
+      "surfaceForms": [
+        "lineage"
+      ],
+      "clozeAnswerSurfaceForm": "lineage"
+    },
+    {
+      "lemma": "overpay",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To pay someone more than what is fair or expected",
+      "translationZh": "多付（薪水）",
+      "exampleSentence": "Kevin and Dorothy seemed to like me, and overpaid me for babysitting.",
+      "clozeSentence": "Kevin and Dorothy seemed to like me, and _____ me for babysitting.",
+      "distractors": [
+        "To pay exactly the right amount",
+        "To refuse to pay at all",
+        "To pay much later than expected"
+      ],
+      "surfaceForms": [
+        "overpaid"
+      ],
+      "clozeAnswerSurfaceForm": "overpaid"
+    },
+    {
+      "lemma": "upstanding",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Honest, respectable, and having strong moral character",
+      "translationZh": "正直的；令人尊敬的",
+      "exampleSentence": "Kevin looked and seemed like someone from a lineage of more upstanding, straightforward men.",
+      "clozeSentence": "Kevin looked and seemed like someone from a lineage of more _____, straightforward men.",
+      "distractors": [
+        "Dishonest and untrustworthy",
+        "Shy and withdrawn",
+        "Careless and irresponsible"
+      ],
+      "surfaceForms": [
+        "upstanding"
+      ],
+      "clozeAnswerSurfaceForm": "upstanding"
+    },
+    {
+      "lemma": "windbreaker",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A light jacket designed to protect against wind",
+      "translationZh": "風衣；防風外套",
+      "exampleSentence": "Dorothy lent me a scarf to wear over my hair, Kevin lent me a windbreaker.",
+      "clozeSentence": "Dorothy lent me a scarf to wear over my hair, Kevin lent me a _____.",
+      "distractors": [
+        "A heavy wool winter coat",
+        "A formal suit jacket",
+        "A waterproof rain boot"
+      ],
+      "surfaceForms": [
+        "windbreaker"
+      ],
+      "clozeAnswerSurfaceForm": "windbreaker"
+    },
+    {
+      "lemma": "windswept",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Having a disheveled appearance from exposure to strong wind",
+      "translationZh": "風吹亂的；風掃過的",
+      "exampleSentence": "We got back after the drive, windswept, and they made tea.",
+      "clozeSentence": "We got back after the drive, _____, and they made tea.",
+      "distractors": [
+        "Perfectly neat and tidy",
+        "Covered in dust",
+        "Soaked completely in water"
+      ],
+      "surfaceForms": [
+        "windswept"
+      ],
+      "clozeAnswerSurfaceForm": "windswept"
+    },
+    {
+      "lemma": "repairman",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A person whose job is to fix broken machines or items",
+      "translationZh": "修理工",
+      "exampleSentence": "This would change during my last year of high school, when, tired of doing the dishes by hand, I thought to call a dishwasher repairman.",
+      "clozeSentence": "This would change during my last year of high school, when, tired of doing the dishes by hand, I thought to call a dishwasher _____.",
+      "distractors": [
+        "A person who sells new appliances",
+        "A person who cleans houses",
+        "A person who designs machines"
+      ],
+      "surfaceForms": [
+        "repairman"
+      ],
+      "clozeAnswerSurfaceForm": "repairman"
+    },
+    {
+      "lemma": "roar",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A loud, deep sound",
+      "translationZh": "轟鳴聲；咆哮聲",
+      "exampleSentence": "“How’s it going over there?” he shouted over the roar of the wind and the engine.",
+      "clozeSentence": "“How’s it going over there?” he shouted over the _____ of the wind and the engine.",
+      "distractors": [
+        "A soft, gentle whisper",
+        "A short, high-pitched beep",
+        "A slow, rhythmic tapping"
+      ],
+      "surfaceForms": [
+        "roar"
+      ],
+      "clozeAnswerSurfaceForm": "roar"
+    },
+    {
+      "lemma": "decay",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To slowly break down or rot over time",
+      "translationZh": "腐爛；衰敗",
+      "exampleSentence": "He fixed the machine in ten minutes for forty dollars—it was only a rubber gasket, decayed into lace.",
+      "clozeSentence": "He fixed the machine in ten minutes for forty dollars—it was only a rubber gasket, _____ into lace.",
+      "distractors": [
+        "To grow stronger and healthier",
+        "To become brighter in color",
+        "To increase rapidly in size"
+      ],
+      "surfaceForms": [
+        "decayed"
+      ],
+      "clozeAnswerSurfaceForm": "decayed"
+    },
+    {
+      "lemma": "eyelash",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The short hairs that grow along the edge of the eyelid",
+      "translationZh": "睫毛",
+      "exampleSentence": "He had long eyelashes, sparkling eyes, a cleft in his chin, and seemed like a real adult to me then, another species of person from my father, who was more boyish—even though they were around the same age.",
+      "clozeSentence": "He had long _____, sparkling eyes, a cleft in his chin, and seemed like a real adult to me then, another species of person from my father, who was more boyish—even though they were around the same age.",
+      "distractors": [
+        "The thin hairs on the arm",
+        "The line where the lips meet",
+        "The skin around the eyes"
+      ],
+      "surfaceForms": [
+        "eyelashes"
+      ],
+      "clozeAnswerSurfaceForm": "eyelashes"
+    },
+    {
+      "lemma": "offense",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "An act that breaks a rule or causes harm",
+      "translationZh": "過錯；冒犯",
+      "exampleSentence": "He seemed to sympathize, but it was clear this was a lesser offense, and diluted the rest.",
+      "clozeSentence": "He seemed to sympathize, but it was clear this was a lesser _____, and diluted the rest.",
+      "distractors": [
+        "An act of kindness or generosity",
+        "A formal celebration or event",
+        "A type of legal contract"
+      ],
+      "surfaceForms": [
+        "offense"
+      ],
+      "clozeAnswerSurfaceForm": "offense"
+    },
+    {
+      "lemma": "sympathize",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To show understanding and care for someone's feelings",
+      "translationZh": "同情；體諒",
+      "exampleSentence": "He seemed to sympathize, but it was clear this was a lesser offense, and diluted the rest.",
+      "clozeSentence": "He seemed to _____, but it was clear this was a lesser offense, and diluted the rest.",
+      "distractors": [
+        "To completely ignore someone's feelings",
+        "To argue strongly against someone",
+        "To laugh at someone's misfortune"
+      ],
+      "surfaceForms": [
+        "sympathize"
+      ],
+      "clozeAnswerSurfaceForm": "sympathize"
+    },
+    {
+      "lemma": "boyish",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Having qualities typically associated with a young boy",
+      "translationZh": "男孩子氣的；孩子般的",
+      "exampleSentence": "He had long eyelashes, sparkling eyes, a cleft in his chin, and seemed like a real adult to me then, another species of person from my father, who was more boyish—even though they were around the same age.",
+      "clozeSentence": "He had long eyelashes, sparkling eyes, a cleft in his chin, and seemed like a real adult to me then, another species of person from my father, who was more _____—even though they were around the same age.",
+      "distractors": [
+        "Having qualities typical of an elderly person",
+        "Extremely serious and formal",
+        "Physically very tall and strong"
+      ],
+      "surfaceForms": [
+        "boyish"
+      ],
+      "clozeAnswerSurfaceForm": "boyish—even"
+    },
+    {
+      "lemma": "cleave",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A visible split or indentation, especially in the chin",
+      "translationZh": "裂縫；（下巴的）凹陷",
+      "exampleSentence": "He had long eyelashes, sparkling eyes, a cleft in his chin, and seemed like a real adult to me then, another species of person from my father, who was more boyish—even though they were around the same age.",
+      "clozeSentence": "He had long eyelashes, sparkling eyes, a _____ in his chin, and seemed like a real adult to me then, another species of person from my father, who was more boyish—even though they were around the same age.",
+      "distractors": [
+        "A round bump or swelling",
+        "A dark patch of skin",
+        "A soft, curved surface"
+      ],
+      "surfaceForms": [
+        "cleft"
+      ],
+      "clozeAnswerSurfaceForm": "cleft"
+    },
+    {
+      "lemma": "dilute",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To make something weaker by reducing its strength or impact",
+      "translationZh": "稀釋；削弱",
+      "exampleSentence": "He seemed to sympathize, but it was clear this was a lesser offense, and diluted the rest.",
+      "clozeSentence": "He seemed to sympathize, but it was clear this was a lesser offense, and _____ the rest.",
+      "distractors": [
+        "To make something much stronger",
+        "To completely remove something",
+        "To repeat something several times"
+      ],
+      "surfaceForms": [
+        "diluted"
+      ],
+      "clozeAnswerSurfaceForm": "diluted"
+    },
+    {
+      "lemma": "gasket",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "A rubber or metal seal used to prevent leaks in machinery",
+      "translationZh": "墊圈；密封墊",
+      "exampleSentence": "He fixed the machine in ten minutes for forty dollars—it was only a rubber gasket, decayed into lace.",
+      "clozeSentence": "He fixed the machine in ten minutes for forty dollars—it was only a rubber _____, decayed into lace.",
+      "distractors": [
+        "A small screw used to tighten parts",
+        "A tool used to measure length",
+        "A type of electrical wire"
+      ],
+      "surfaceForms": [
+        "gasket"
+      ],
+      "clozeAnswerSurfaceForm": "gasket"
+    },
+    {
+      "lemma": "lace",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A delicate fabric with a fine, open, web-like pattern",
+      "translationZh": "蕾絲；花邊",
+      "exampleSentence": "He fixed the machine in ten minutes for forty dollars—it was only a rubber gasket, decayed into lace.",
+      "clozeSentence": "He fixed the machine in ten minutes for forty dollars—it was only a rubber gasket, decayed into _____.",
+      "distractors": [
+        "A thick, heavy leather material",
+        "A smooth, solid sheet of plastic",
+        "A rough, coarse rope"
+      ],
+      "surfaceForms": [
+        "lace"
+      ],
+      "clozeAnswerSurfaceForm": "lace"
+    },
+    {
+      "lemma": "furious",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Extremely angry",
+      "translationZh": "狂怒的；非常生氣的",
+      "exampleSentence": "It made them furious that my father might get away with cutting my college tuition payments, just because he had more power.",
+      "clozeSentence": "It made them _____ that my father might get away with cutting my college tuition payments, just because he had more power.",
+      "distractors": [
+        "Extremely calm and peaceful",
+        "Very tired and sleepy",
+        "Deeply confused"
+      ],
+      "surfaceForms": [
+        "furious"
+      ],
+      "clozeAnswerSurfaceForm": "furious"
+    },
+    {
+      "lemma": "payment",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "An amount of money given in exchange for something",
+      "translationZh": "付款；款項",
+      "exampleSentence": "It made them furious that my father might get away with cutting my college tuition payments, just because he had more power.",
+      "clozeSentence": "It made them furious that my father might get away with cutting my college tuition _____, just because he had more power.",
+      "distractors": [
+        "A written record of expenses",
+        "A type of loan agreement",
+        "A reduction in price"
+      ],
+      "surfaceForms": [
+        "payments"
+      ],
+      "clozeAnswerSurfaceForm": "payments"
+    },
+    {
+      "lemma": "tuition",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Money paid for teaching or instruction, especially at a university",
+      "translationZh": "學費",
+      "exampleSentence": "It made them furious that my father might get away with cutting my college tuition payments, just because he had more power.",
+      "clozeSentence": "It made them furious that my father might get away with cutting my college _____ payments, just because he had more power.",
+      "distractors": [
+        "Money saved for retirement",
+        "A scholarship given for good grades",
+        "A fine paid for breaking a rule"
+      ],
+      "surfaceForms": [
+        "tuition"
+      ],
+      "clozeAnswerSurfaceForm": "tuition"
+    },
+    {
+      "lemma": "crest",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The highest point of a hill or wave",
+      "translationZh": "山頂；頂峰",
+      "exampleSentence": "“He won’t fix it.” We’d reached a stop sign at the crest of a hill.",
+      "clozeSentence": "“He won’t fix it.” We’d reached a stop sign at the _____ of a hill.",
+      "distractors": [
+        "The bottom of a valley",
+        "The middle section of a road",
+        "A flat, open field"
+      ],
+      "surfaceForms": [
+        "crest"
+      ],
+      "clozeAnswerSurfaceForm": "crest"
+    },
+    {
+      "lemma": "aggrieve",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Feeling resentment because of unfair treatment",
+      "translationZh": "感到委屈的；憤憤不平的",
+      "exampleSentence": "Later, I would learn which complaints worked, and which ones, however strongly I felt aggrieved, didn’t trigger much sympathy in others.",
+      "clozeSentence": "Later, I would learn which complaints worked, and which ones, however strongly I felt _____, didn’t trigger much sympathy in others.",
+      "distractors": [
+        "Feeling calm and satisfied",
+        "Feeling proud and accomplished",
+        "Feeling sleepy and relaxed"
+      ],
+      "surfaceForms": [
+        "aggrieved"
+      ],
+      "clozeAnswerSurfaceForm": "aggrieved"
+    },
+    {
+      "lemma": "narrator",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A person who tells or narrates a story",
+      "translationZh": "敘述者",
+      "exampleSentence": "Complaining to them, about the heat, the goodnight, the couch, was a relief, and gave me a dual role: I was not only in this pitiable situation, but watching it; I was both the one hurt and the narrator of the hurt.",
+      "clozeSentence": "Complaining to them, about the heat, the goodnight, the couch, was a relief, and gave me a dual role: I was not only in this pitiable situation, but watching it; I was both the one hurt and the _____ of the hurt.",
+      "distractors": [
+        "A person who listens silently",
+        "A person who judges a competition",
+        "A person who repairs machines"
+      ],
+      "surfaceForms": [
+        "narrator"
+      ],
+      "clozeAnswerSurfaceForm": "narrator"
+    },
+    {
+      "lemma": "relief",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A feeling of comfort after the removal of stress or pain",
+      "translationZh": "寬慰；解脫",
+      "exampleSentence": "Complaining to them, about the heat, the goodnight, the couch, was a relief, and gave me a dual role: I was not only in this pitiable situation, but watching it; I was both the one hurt and the narrator of the hurt.",
+      "clozeSentence": "Complaining to them, about the heat, the goodnight, the couch, was a _____, and gave me a dual role: I was not only in this pitiable situation, but watching it; I was both the one hurt and the narrator of the hurt.",
+      "distractors": [
+        "A feeling of sudden fear",
+        "A state of deep confusion",
+        "A moment of intense excitement"
+      ],
+      "surfaceForms": [
+        "relief"
+      ],
+      "clozeAnswerSurfaceForm": "relief"
+    },
+    {
+      "lemma": "dual",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Consisting of two parts or having two purposes",
+      "translationZh": "雙重的；兩者兼具的",
+      "exampleSentence": "Complaining to them, about the heat, the goodnight, the couch, was a relief, and gave me a dual role: I was not only in this pitiable situation, but watching it; I was both the one hurt and the narrator of the hurt.",
+      "clozeSentence": "Complaining to them, about the heat, the goodnight, the couch, was a relief, and gave me a _____ role: I was not only in this pitiable situation, but watching it; I was both the one hurt and the narrator of the hurt.",
+      "distractors": [
+        "Consisting of many different parts",
+        "Having no clear purpose",
+        "Belonging to only one person"
+      ],
+      "surfaceForms": [
+        "dual"
+      ],
+      "clozeAnswerSurfaceForm": "dual"
+    },
+    {
+      "lemma": "pitiable",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Deserving or causing feelings of pity or sadness",
+      "translationZh": "可憐的；令人同情的",
+      "exampleSentence": "Complaining to them, about the heat, the goodnight, the couch, was a relief, and gave me a dual role: I was not only in this pitiable situation, but watching it; I was both the one hurt and the narrator of the hurt.",
+      "clozeSentence": "Complaining to them, about the heat, the goodnight, the couch, was a relief, and gave me a dual role: I was not only in this _____ situation, but watching it; I was both the one hurt and the narrator of the hurt.",
+      "distractors": [
+        "Deserving admiration and respect",
+        "Causing feelings of joy",
+        "Deserving punishment"
+      ],
+      "surfaceForms": [
+        "pitiable"
+      ],
+      "clozeAnswerSurfaceForm": "pitiable"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "meek",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Quiet, gentle, and easily controlled by others",
+      "translationZh": "溫順的；順從的",
+      "exampleSentence": "I was meek, wishing someone would make my father do the two or three things I could not get him to do myself; telling others about it—and receiving their sympathy—gave me a power I didn’t have inside it.",
+      "clozeSentence": "I was _____, wishing someone would make my father do the two or three things I could not get him to do myself; telling others about it—and receiving their sympathy—gave me a power I didn’t have inside it.",
+      "distractors": [
+        "Loud and demanding",
+        "Confident and assertive",
+        "Angry and aggressive"
+      ],
+      "surfaceForms": [
+        "meek"
+      ],
+      "clozeAnswerSurfaceForm": "meek"
+    },
+    {
+      "lemma": "lacquer",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A hard, glossy coating applied to a surface for protection or shine",
+      "translationZh": "漆；亮光漆",
+      "exampleSentence": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, glistening chrome exhaust pipes, and a fine red stripe.",
+      "clozeSentence": "The car was a Morgan, with a long, vented muzzle, black _____ paint, glistening chrome exhaust pipes, and a fine red stripe.",
+      "distractors": [
+        "A soft cushioning material",
+        "A type of adhesive tape",
+        "A dull, matte finish"
+      ],
+      "surfaceForms": [
+        "lacquer"
+      ],
+      "clozeAnswerSurfaceForm": "lacquer"
+    },
+    {
+      "lemma": "backyard",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The area of land behind a house",
+      "translationZh": "後院",
+      "exampleSentence": "The family had a two-story wood-shingled house painted light blue, with a white picket fence and a backyard littered with trucks and robots.",
+      "clozeSentence": "The family had a two-story wood-shingled house painted light blue, with a white picket fence and a _____ littered with trucks and robots.",
+      "distractors": [
+        "The front entrance of a building",
+        "A room used for cooking",
+        "A public park in a city"
+      ],
+      "surfaceForms": [
+        "backyard"
+      ],
+      "clozeAnswerSurfaceForm": "backyard"
+    },
+    {
+      "lemma": "exhaust",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The system that releases waste gases from an engine",
+      "translationZh": "排氣（管）",
+      "exampleSentence": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, glistening chrome exhaust pipes, and a fine red stripe.",
+      "clozeSentence": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, glistening chrome _____ pipes, and a fine red stripe.",
+      "distractors": [
+        "The system that starts an engine",
+        "A container for storing fuel",
+        "A device that measures speed"
+      ],
+      "surfaceForms": [
+        "exhaust"
+      ],
+      "clozeAnswerSurfaceForm": "exhaust"
+    },
+    {
+      "lemma": "grand",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Impressive in size or style; magnificent",
+      "translationZh": "壯麗的；宏偉的",
+      "exampleSentence": "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand oriental rug, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "clozeSentence": "The fact was, there were other places to sit—the Eames chairs with ottomans, a _____ oriental rug, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "distractors": [
+        "Small and unnoticeable",
+        "Old and broken down",
+        "Plain and ordinary"
+      ],
+      "surfaceForms": [
+        "grand"
+      ],
+      "clozeAnswerSurfaceForm": "grand"
+    },
+    {
+      "lemma": "litter",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To scatter objects untidily over an area",
+      "translationZh": "使凌亂散落",
+      "exampleSentence": "The family had a two-story wood-shingled house painted light blue, with a white picket fence and a backyard littered with trucks and robots.",
+      "clozeSentence": "The family had a two-story wood-shingled house painted light blue, with a white picket fence and a backyard _____ with trucks and robots.",
+      "distractors": [
+        "To carefully organize and arrange",
+        "To completely remove and clean",
+        "To build or construct something"
+      ],
+      "surfaceForms": [
+        "littered"
+      ],
+      "clozeAnswerSurfaceForm": "littered"
+    },
+    {
+      "lemma": "rug",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A piece of thick fabric used to cover part of a floor",
+      "translationZh": "地毯",
+      "exampleSentence": "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand oriental rug, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "clozeSentence": "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand oriental _____, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "distractors": [
+        "A large piece of furniture for sitting",
+        "A curtain used to cover a window",
+        "A blanket used for sleeping"
+      ],
+      "surfaceForms": [
+        "rug"
+      ],
+      "clozeAnswerSurfaceForm": "rug"
+    },
+    {
+      "lemma": "chrome",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A shiny, silver-colored metal coating used to decorate objects",
+      "translationZh": "鉻；鍍鉻的",
+      "exampleSentence": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, glistening chrome exhaust pipes, and a fine red stripe.",
+      "clozeSentence": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, glistening _____ exhaust pipes, and a fine red stripe.",
+      "distractors": [
+        "A soft woolen fabric",
+        "A dull black paint",
+        "A type of transparent glass"
+      ],
+      "surfaceForms": [
+        "chrome"
+      ],
+      "clozeAnswerSurfaceForm": "chrome"
+    },
+    {
+      "lemma": "fleck",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A small spot, mark, or particle of something",
+      "translationZh": "斑點；細小碎片",
+      "exampleSentence": "They invited me to join them one Saturday afternoon on a drive to the ocean, and we wound up the curving road through flecks of light to the clearing at Skyline, passing a restaurant called Alice’s, where swarms of motorcyclists also stopped to eat.",
+      "clozeSentence": "They invited me to join them one Saturday afternoon on a drive to the ocean, and we wound up the curving road through _____ of light to the clearing at Skyline, passing a restaurant called Alice’s, where swarms of motorcyclists also stopped to eat.",
+      "distractors": [
+        "A large, solid block",
+        "A long, thin line",
+        "A deep, dark shadow"
+      ],
+      "surfaceForms": [
+        "flecks"
+      ],
+      "clozeAnswerSurfaceForm": "flecks"
+    },
+    {
+      "lemma": "glisten",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To shine with a sparkling light, often because wet or polished",
+      "translationZh": "閃閃發光",
+      "exampleSentence": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, glistening chrome exhaust pipes, and a fine red stripe.",
+      "clozeSentence": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, _____ chrome exhaust pipes, and a fine red stripe.",
+      "distractors": [
+        "To become dull and faded",
+        "To make a loud noise",
+        "To grow larger over time"
+      ],
+      "surfaceForms": [
+        "glistening"
+      ],
+      "clozeAnswerSurfaceForm": "glistening"
+    },
+    {
+      "lemma": "insistence",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The act of demanding something firmly and repeatedly",
+      "translationZh": "堅持",
+      "exampleSentence": "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand oriental rug, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "clozeSentence": "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand oriental rug, the kitchen table, my desk—so that my _____ on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "distractors": [
+        "A sudden change of mind",
+        "A quiet agreement without argument",
+        "A formal written request"
+      ],
+      "surfaceForms": [
+        "insistence"
+      ],
+      "clozeAnswerSurfaceForm": "insistence"
+    },
+    {
+      "lemma": "motorcyclist",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A person who rides a motorcycle",
+      "translationZh": "騎摩托車的人",
+      "exampleSentence": "They invited me to join them one Saturday afternoon on a drive to the ocean, and we wound up the curving road through flecks of light to the clearing at Skyline, passing a restaurant called Alice’s, where swarms of motorcyclists also stopped to eat.",
+      "clozeSentence": "They invited me to join them one Saturday afternoon on a drive to the ocean, and we wound up the curving road through flecks of light to the clearing at Skyline, passing a restaurant called Alice’s, where swarms of _____ also stopped to eat.",
+      "distractors": [
+        "A person who repairs bicycles",
+        "A person who drives a bus",
+        "A person who sells vehicles"
+      ],
+      "surfaceForms": [
+        "motorcyclists"
+      ],
+      "clozeAnswerSurfaceForm": "motorcyclists"
+    },
+    {
+      "lemma": "muzzle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The projecting front part of an animal's head, or a similar front section of an object",
+      "translationZh": "（動物的）口鼻部；（物體的）前端",
+      "exampleSentence": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, glistening chrome exhaust pipes, and a fine red stripe.",
+      "clozeSentence": "The car was a Morgan, with a long, vented _____, black lacquer paint, glistening chrome exhaust pipes, and a fine red stripe.",
+      "distractors": [
+        "The rear section of a vehicle",
+        "A round, spinning wheel",
+        "A soft interior lining"
+      ],
+      "surfaceForms": [
+        "muzzle"
+      ],
+      "clozeAnswerSurfaceForm": "muzzle"
+    },
+    {
+      "lemma": "oriental",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Relating to or in the style of East Asia",
+      "translationZh": "東方風格的",
+      "exampleSentence": "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand oriental rug, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "clozeSentence": "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand _____ rug, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "distractors": [
+        "Relating to Western Europe",
+        "Relating to modern technology",
+        "Relating to the sea or ocean"
+      ],
+      "surfaceForms": [
+        "oriental"
+      ],
+      "clozeAnswerSurfaceForm": "oriental"
+    },
+    {
+      "lemma": "lineage",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A line of ancestors or descendants; family history",
+      "translationZh": "血統；家系",
+      "exampleSentence": "Kevin looked and seemed like someone from a lineage of more upstanding, straightforward men.",
+      "clozeSentence": "Kevin looked and seemed like someone from a _____ of more upstanding, straightforward men.",
+      "distractors": [
+        "A group of close friends",
+        "A collection of legal documents",
+        "A list of daily tasks"
+      ],
+      "surfaceForms": [
+        "lineage"
+      ],
+      "clozeAnswerSurfaceForm": "lineage"
+    },
+    {
+      "lemma": "upstanding",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Honest, respectable, and having strong moral character",
+      "translationZh": "正直的；令人尊敬的",
+      "exampleSentence": "Kevin looked and seemed like someone from a lineage of more upstanding, straightforward men.",
+      "clozeSentence": "Kevin looked and seemed like someone from a lineage of more _____, straightforward men.",
+      "distractors": [
+        "Dishonest and untrustworthy",
+        "Shy and withdrawn",
+        "Careless and irresponsible"
+      ],
+      "surfaceForms": [
+        "upstanding"
+      ],
+      "clozeAnswerSurfaceForm": "upstanding"
+    },
+    {
+      "lemma": "gasket",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "A rubber or metal seal used to prevent leaks in machinery",
+      "translationZh": "墊圈；密封墊",
+      "exampleSentence": "He fixed the machine in ten minutes for forty dollars—it was only a rubber gasket, decayed into lace.",
+      "clozeSentence": "He fixed the machine in ten minutes for forty dollars—it was only a rubber _____, decayed into lace.",
+      "distractors": [
+        "A small screw used to tighten parts",
+        "A tool used to measure length",
+        "A type of electrical wire"
+      ],
+      "surfaceForms": [
+        "gasket"
+      ],
+      "clozeAnswerSurfaceForm": "gasket"
+    },
+    {
+      "lemma": "cleave",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A visible split or indentation, especially in the chin",
+      "translationZh": "裂縫；（下巴的）凹陷",
+      "exampleSentence": "He had long eyelashes, sparkling eyes, a cleft in his chin, and seemed like a real adult to me then, another species of person from my father, who was more boyish—even though they were around the same age.",
+      "clozeSentence": "He had long eyelashes, sparkling eyes, a _____ in his chin, and seemed like a real adult to me then, another species of person from my father, who was more boyish—even though they were around the same age.",
+      "distractors": [
+        "A round bump or swelling",
+        "A dark patch of skin",
+        "A soft, curved surface"
+      ],
+      "surfaceForms": [
+        "cleft"
+      ],
+      "clozeAnswerSurfaceForm": "cleft"
+    },
+    {
+      "lemma": "aggrieve",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Feeling resentment because of unfair treatment",
+      "translationZh": "感到委屈的；憤憤不平的",
+      "exampleSentence": "Later, I would learn which complaints worked, and which ones, however strongly I felt aggrieved, didn’t trigger much sympathy in others.",
+      "clozeSentence": "Later, I would learn which complaints worked, and which ones, however strongly I felt _____, didn’t trigger much sympathy in others.",
+      "distractors": [
+        "Feeling calm and satisfied",
+        "Feeling proud and accomplished",
+        "Feeling sleepy and relaxed"
+      ],
+      "surfaceForms": [
+        "aggrieved"
+      ],
+      "clozeAnswerSurfaceForm": "aggrieved"
+    },
+    {
+      "lemma": "pitiable",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Deserving or causing feelings of pity or sadness",
+      "translationZh": "可憐的；令人同情的",
+      "exampleSentence": "Complaining to them, about the heat, the goodnight, the couch, was a relief, and gave me a dual role: I was not only in this pitiable situation, but watching it; I was both the one hurt and the narrator of the hurt.",
+      "clozeSentence": "Complaining to them, about the heat, the goodnight, the couch, was a relief, and gave me a dual role: I was not only in this _____ situation, but watching it; I was both the one hurt and the narrator of the hurt.",
+      "distractors": [
+        "Deserving admiration and respect",
+        "Causing feelings of joy",
+        "Deserving punishment"
+      ],
+      "surfaceForms": [
+        "pitiable"
+      ],
+      "clozeAnswerSurfaceForm": "pitiable"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "translation",
+      "wordLemma": "cleave",
+      "prompt": "裂縫；（下巴的）凹陷",
+      "options": [
+        "upstanding",
+        "oriental",
+        "meek",
+        "cleave"
+      ],
+      "answer": "cleave"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "pitiable",
+      "prompt": "Complaining to them, about the heat, the goodnight, the couch, was a relief, and gave me a dual role: I was not only in this _____ situation, but watching it; I was both the one hurt and the narrator of the hurt.",
+      "options": [
+        "lineage",
+        "chrome",
+        "upstanding",
+        "pitiable"
+      ],
+      "answer": "pitiable"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "lineage",
+      "prompt": "血統；家系",
+      "options": [
+        "muzzle",
+        "gasket",
+        "lineage",
+        "grand"
+      ],
+      "answer": "lineage"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "aggrieve",
+      "prompt": "aggrieve",
+      "options": [
+        "Feeling sleepy and relaxed",
+        "Feeling proud and accomplished",
+        "Feeling resentment because of unfair treatment",
+        "Feeling calm and satisfied"
+      ],
+      "answer": "Feeling resentment because of unfair treatment"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "motorcyclist",
+      "prompt": "騎摩托車的人",
+      "options": [
+        "chrome",
+        "glisten",
+        "motorcyclist",
+        "cleave"
+      ],
+      "answer": "motorcyclist"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "exhaust",
+      "prompt": "exhaust",
+      "options": [
+        "A device that measures speed",
+        "The system that releases waste gases from an engine",
+        "A container for storing fuel",
+        "The system that starts an engine"
+      ],
+      "answer": "The system that releases waste gases from an engine"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "insistence",
+      "prompt": "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand oriental rug, the kitchen table, my desk—so that my _____ on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "options": [
+        "lacquer",
+        "insistence",
+        "gasket",
+        "cleft"
+      ],
+      "answer": "insistence"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "fleck",
+      "prompt": "斑點；細小碎片",
+      "options": [
+        "fleck",
+        "chrome",
+        "exhaust",
+        "insistence"
+      ],
+      "answer": "fleck"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "upstanding",
+      "prompt": "upstanding",
+      "options": [
+        "Careless and irresponsible",
+        "Dishonest and untrustworthy",
+        "Honest, respectable, and having strong moral character",
+        "Shy and withdrawn"
+      ],
+      "answer": "Honest, respectable, and having strong moral character"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "oriental",
+      "prompt": "The fact was, there were other places to sit—the Eames chairs with ottomans, a grand _____ rug, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "options": [
+        "oriental",
+        "lineage",
+        "exhaust",
+        "chrome"
+      ],
+      "answer": "oriental"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "lacquer",
+      "prompt": "The car was a Morgan, with a long, vented muzzle, black _____ paint, glistening chrome exhaust pipes, and a fine red stripe.",
+      "options": [
+        "exhaust",
+        "littered",
+        "aggrieved",
+        "lacquer"
+      ],
+      "answer": "lacquer"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "backyard",
+      "prompt": "後院",
+      "options": [
+        "gasket",
+        "meek",
+        "lacquer",
+        "backyard"
+      ],
+      "answer": "backyard"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "meek",
+      "prompt": "meek",
+      "options": [
+        "Quiet, gentle, and easily controlled by others",
+        "Confident and assertive",
+        "Loud and demanding",
+        "Angry and aggressive"
+      ],
+      "answer": "Quiet, gentle, and easily controlled by others"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "grand",
+      "prompt": "The fact was, there were other places to sit—the Eames chairs with ottomans, a _____ oriental rug, the kitchen table, my desk—so that my insistence on getting a couch, and my strong feelings about the lack of one, confused even me.",
+      "options": [
+        "glistening",
+        "motorcyclists",
+        "grand",
+        "muzzle"
+      ],
+      "answer": "grand"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "rug",
+      "prompt": "rug",
+      "options": [
+        "A piece of thick fabric used to cover part of a floor",
+        "A blanket used for sleeping",
+        "A curtain used to cover a window",
+        "A large piece of furniture for sitting"
+      ],
+      "answer": "A piece of thick fabric used to cover part of a floor"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "muzzle",
+      "prompt": "muzzle",
+      "options": [
+        "A soft interior lining",
+        "A round, spinning wheel",
+        "The rear section of a vehicle",
+        "The projecting front part of an animal's head, or a similar front section of an object"
+      ],
+      "answer": "The projecting front part of an animal's head, or a similar front section of an object"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "litter",
+      "prompt": "使凌亂散落",
+      "options": [
+        "insistence",
+        "litter",
+        "gasket",
+        "lineage"
+      ],
+      "answer": "litter"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "glisten",
+      "prompt": "glisten",
+      "options": [
+        "To shine with a sparkling light, often because wet or polished",
+        "To grow larger over time",
+        "To become dull and faded",
+        "To make a loud noise"
+      ],
+      "answer": "To shine with a sparkling light, often because wet or polished"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "chrome",
+      "prompt": "The car was a Morgan, with a long, vented muzzle, black lacquer paint, glistening _____ exhaust pipes, and a fine red stripe.",
+      "options": [
+        "aggrieved",
+        "flecks",
+        "chrome",
+        "littered"
+      ],
+      "answer": "chrome"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "gasket",
+      "prompt": "He fixed the machine in ten minutes for forty dollars—it was only a rubber _____, decayed into lace.",
+      "options": [
+        "motorcyclists",
+        "chrome",
+        "gasket",
+        "exhaust"
+      ],
+      "answer": "gasket"
+    }
+  ]
+}

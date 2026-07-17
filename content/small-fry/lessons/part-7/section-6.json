@@ -1,0 +1,1534 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 7,
+  "partTitle": "Marketable Skills",
+  "sectionIndex": 6,
+  "paragraphs": [
+    "At my mother’s house I was vaguely aware that at some point, maybe when I left for college, the child-support checks from Jeff Howson would stop arriving. My mother had no other reliable source of income. She must have been aware of this too, and also wanted to be independent of my father.",
+    "She approached each new moneymaking idea with fervor and optimism. She admired Mrs. Fields, who made the chocolate chip cookies, and Nancy of Nancy’s Quiche, women who’d made a fortune in business. But what she failed to account for is that it wasn’t just the quality of the product that turned ideas into money, but business savvy—marketing and strategy know-how.",
+    "Once my mother planned to have a garage sale, but until the day before, she didn’t put up any signs. We had nice things to sell, nicer things than in most garage sales, but few people knew about it; almost no one came. She was likewise not methodical about selling her art. When her stencils didn’t sell at Neiman Marcus or Smith & Hawken, or get snapped up via word of mouth, she was discouraged, and put her hope in a new project, floor cloths—paintings that went on the floor. They were colorful acrylic squares and rectangles of unmounted canvas—deep plum and rich orange and all different shades of green. Ripe fruits, blossoms, and leaves in patterns, some stenciled, some painted, lacquered with expensive Jolly Glaze she poured over the paint to protect it that cracked pleasingly like the surface of old porcelain. She and her friend were both working on them, but her friend had no artistic training; hers were far better.",
+    "Canvases were strung up along the walls of her studio in various states of completion, along with used stencil patterns hanging up to dry. I liked sitting in the garage with her as she painted. She seemed to forget about me and dissolved into a deeper part of herself. When she tapped the stencil brush up and down, it sounded like a faraway woodpecker.",
+    "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine. The top layer of the glob of paint was hard, but if I pressed, wet paint inside came oozing out. To clean the paintbrushes, she knocked them against the inside walls of the metal jar of turpentine.",
+    "When we heard my father call out, we left the garage and went to find him in the house. He hadn’t come over for years; I wasn’t sure why he’d come this day. He stood in the middle of the kitchen, too straight, wearing a gray sweatshirt with a hood threaded with a red cord that hung on either side of the neck. He looked around as if mildly disappointed.",
+    "“Steve,” she said. “How are you doing?”",
+    "“Great,” he said. “What are you working on?” He moved his shoulder and scapula like he was carving a semicircle in the air.",
+    "“Floor cloths,” she said.",
+    "“What’s that?” he asked.",
+    "“They’re paintings, but underfoot,” she said, toeing a pomegranate painted on a piece of canvas under the sink. “They’re mats, really, for in the kitchen, or wherever, but they’ve got a protective coating. Anyway, I’m doing them with a friend, and we think there’s definitely a market. We might sell them at Macy’s or Neiman Marcus.”",
+    "I knew she wanted his approval and recognition; we both wanted it. He knew about business; he knew about money and the world; he was a success. She became voluble but also unsure, especially when he was about to be unkind—as if she knew he was going to be cruel and knew how to smoke out the meanness first.",
+    "I watched them take their places as if in a familiar choreography: she had said she wanted to be free of him, and he had said he wanted to be free of her, but yet, after all these years, they were still entangled; they would thrash around in a single net, becoming more stuck.",
+    "“I’m also doing stencils,” she said.",
+    "“Show me,” he said. She took him through the screen door under the purple blossoms and the greedy whine of bees into the cool studio. I followed them. He looked around, putting his face up close to each painting, saying nothing—as if he knew what to look for. We hung back near the door where it was still warm, waiting for a verdict.",
+    "“You know, Chris,” he finally said, in a friendly tone, “you might as well just have some more kids.”",
+    "As he left the garage, he seemed lighter, looser. He waved, walked to his car, and drove away. My mother and I stood in shock at the back of the driveway."
+  ],
+  "words": [
+    {
+      "lemma": "child-support",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "money paid regularly to help raise a child, usually after separation",
+      "translationZh": "子女撫養費",
+      "exampleSentence": "At my mother’s house I was vaguely aware that at some point, maybe when I left for college, the child-support checks from Jeff Howson would stop arriving.",
+      "clozeSentence": "At my mother’s house I was vaguely aware that at some point, maybe when I left for college, the _____ checks from Jeff Howson would stop arriving.",
+      "distractors": [
+        "money saved for a child's education",
+        "a gift given on a child's birthday",
+        "an allowance a child earns from chores"
+      ],
+      "surfaceForms": [
+        "child-support"
+      ],
+      "clozeAnswerSurfaceForm": "child-support"
+    },
+    {
+      "lemma": "vaguely",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "in a way that is not clear or precise",
+      "translationZh": "模糊地；隱約地",
+      "exampleSentence": "At my mother’s house I was vaguely aware that at some point, maybe when I left for college, the child-support checks from Jeff Howson would stop arriving.",
+      "clozeSentence": "At my mother’s house I was _____ aware that at some point, maybe when I left for college, the child-support checks from Jeff Howson would stop arriving.",
+      "distractors": [
+        "in a very clear and exact way",
+        "in an extremely urgent way",
+        "in a loud, obvious way"
+      ],
+      "surfaceForms": [
+        "vaguely"
+      ],
+      "clozeAnswerSurfaceForm": "vaguely"
+    },
+    {
+      "lemma": "carmine",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a deep purplish-red color or pigment",
+      "translationZh": "洋紅色；胭脂紅",
+      "exampleSentence": "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "clozeSentence": "I picked at the splotches on the board she used as a palette—indigo, _____, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "distractors": [
+        "a pale sky blue",
+        "a bright lemon yellow",
+        "a dull olive green"
+      ],
+      "surfaceForms": [
+        "carmine"
+      ],
+      "clozeAnswerSurfaceForm": "carmine"
+    },
+    {
+      "lemma": "choreography",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "a planned sequence of movements, as in dance",
+      "translationZh": "編舞；(比喻)刻意安排的一套動作",
+      "exampleSentence": "I watched them take their places as if in a familiar choreography: she had said she wanted to be free of him, and he had said he wanted to be free of her, but yet, after all these years, they were still entangled; they would thrash around in a single net, becoming more stuck.",
+      "clozeSentence": "I watched them take their places as if in a familiar _____: she had said she wanted to be free of him, and he had said he wanted to be free of her, but yet, after all these years, they were still entangled; they would thrash around in a single net, becoming more stuck.",
+      "distractors": [
+        "a random, unplanned series of events",
+        "a written record of past events",
+        "a formal legal agreement"
+      ],
+      "surfaceForms": [
+        "choreography"
+      ],
+      "clozeAnswerSurfaceForm": "choreography"
+    },
+    {
+      "lemma": "entangle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to become twisted together or caught up in something",
+      "translationZh": "糾纏；纏繞",
+      "exampleSentence": "I watched them take their places as if in a familiar choreography: she had said she wanted to be free of him, and he had said he wanted to be free of her, but yet, after all these years, they were still entangled; they would thrash around in a single net, becoming more stuck.",
+      "clozeSentence": "I watched them take their places as if in a familiar choreography: she had said she wanted to be free of him, and he had said he wanted to be free of her, but yet, after all these years, they were still _____; they would thrash around in a single net, becoming more stuck.",
+      "distractors": [
+        "to become completely separated",
+        "to become clean and organized",
+        "to become invisible"
+      ],
+      "surfaceForms": [
+        "entangled"
+      ],
+      "clozeAnswerSurfaceForm": "entangled"
+    },
+    {
+      "lemma": "indigo",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a deep blue-purple color",
+      "translationZh": "靛藍色",
+      "exampleSentence": "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "clozeSentence": "I picked at the splotches on the board she used as a palette—_____, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "distractors": [
+        "a bright orange color",
+        "a pale beige color",
+        "a dark forest green"
+      ],
+      "surfaceForms": [
+        "indigo"
+      ],
+      "clozeAnswerSurfaceForm": "palette—indigo"
+    },
+    {
+      "lemma": "palette",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a board on which an artist mixes colors",
+      "translationZh": "調色板",
+      "exampleSentence": "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "clozeSentence": "I picked at the splotches on the board she used as a _____—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "distractors": [
+        "a brush used to apply paint",
+        "a frame that holds a canvas",
+        "a cloth used to wipe hands"
+      ],
+      "surfaceForms": [
+        "palette"
+      ],
+      "clozeAnswerSurfaceForm": "palette—indigo"
+    },
+    {
+      "lemma": "pasty",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "resembling paste; pale and thick in appearance",
+      "translationZh": "糊狀的；蒼白的",
+      "exampleSentence": "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "clozeSentence": "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, _____ brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "distractors": [
+        "bright and glossy",
+        "thin and watery",
+        "sharp and metallic"
+      ],
+      "surfaceForms": [
+        "pasty"
+      ],
+      "clozeAnswerSurfaceForm": "pasty"
+    },
+    {
+      "lemma": "recognition",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "acknowledgment or praise for one's achievements",
+      "translationZh": "認可；肯定",
+      "exampleSentence": "I knew she wanted his approval and recognition; we both wanted it.",
+      "clozeSentence": "I knew she wanted his approval and _____; we both wanted it.",
+      "distractors": [
+        "a strong feeling of jealousy",
+        "a written apology",
+        "financial support"
+      ],
+      "surfaceForms": [
+        "recognition"
+      ],
+      "clozeAnswerSurfaceForm": "recognition"
+    },
+    {
+      "lemma": "splotch",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "an irregularly shaped mark or spot",
+      "translationZh": "污漬；斑點",
+      "exampleSentence": "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "clozeSentence": "I picked at the _____ on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "distractors": [
+        "a straight, thin line",
+        "a perfectly round circle",
+        "a hole cut through material"
+      ],
+      "surfaceForms": [
+        "splotches"
+      ],
+      "clozeAnswerSurfaceForm": "splotches"
+    },
+    {
+      "lemma": "thrash",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to move violently or wildly",
+      "translationZh": "掙扎；猛烈擺動",
+      "exampleSentence": "I watched them take their places as if in a familiar choreography: she had said she wanted to be free of him, and he had said he wanted to be free of her, but yet, after all these years, they were still entangled; they would thrash around in a single net, becoming more stuck.",
+      "clozeSentence": "I watched them take their places as if in a familiar choreography: she had said she wanted to be free of him, and he had said he wanted to be free of her, but yet, after all these years, they were still entangled; they would _____ around in a single net, becoming more stuck.",
+      "distractors": [
+        "to remain perfectly still",
+        "to move slowly and gracefully",
+        "to disappear silently"
+      ],
+      "surfaceForms": [
+        "thrash"
+      ],
+      "clozeAnswerSurfaceForm": "thrash"
+    },
+    {
+      "lemma": "whine",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a high-pitched, complaining sound",
+      "translationZh": "嗡嗡聲；哀鳴",
+      "exampleSentence": "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "clozeSentence": "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito _____.",
+      "distractors": [
+        "a deep, low rumble",
+        "a sudden loud bang",
+        "a soft, silent pause"
+      ],
+      "surfaceForms": [
+        "whine"
+      ],
+      "clozeAnswerSurfaceForm": "whine"
+    },
+    {
+      "lemma": "fervor",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "intense and passionate enthusiasm",
+      "translationZh": "熱情；狂熱",
+      "exampleSentence": "She approached each new moneymaking idea with fervor and optimism.",
+      "clozeSentence": "She approached each new moneymaking idea with _____ and optimism.",
+      "distractors": [
+        "a calm and detached attitude",
+        "a feeling of deep suspicion",
+        "a sense of quiet regret"
+      ],
+      "surfaceForms": [
+        "fervor"
+      ],
+      "clozeAnswerSurfaceForm": "fervor"
+    },
+    {
+      "lemma": "likewise",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "in the same way; also",
+      "translationZh": "同樣地；也",
+      "exampleSentence": "She was likewise not methodical about selling her art.",
+      "clozeSentence": "She was _____ not methodical about selling her art.",
+      "distractors": [
+        "in a completely different way",
+        "for a short period of time",
+        "without any reason"
+      ],
+      "surfaceForms": [
+        "likewise"
+      ],
+      "clozeAnswerSurfaceForm": "likewise"
+    },
+    {
+      "lemma": "meanness",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "unkind or cruel behavior",
+      "translationZh": "刻薄；卑劣",
+      "exampleSentence": "She became voluble but also unsure, especially when he was about to be unkind—as if she knew he was going to be cruel and knew how to smoke out the meanness first.",
+      "clozeSentence": "She became voluble but also unsure, especially when he was about to be unkind—as if she knew he was going to be cruel and knew how to smoke out the _____ first.",
+      "distractors": [
+        "great generosity",
+        "deep sadness",
+        "quiet shyness"
+      ],
+      "surfaceForms": [
+        "meanness"
+      ],
+      "clozeAnswerSurfaceForm": "meanness"
+    },
+    {
+      "lemma": "methodical",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "done in a careful, organized, and systematic way",
+      "translationZh": "有條理的；按部就班的",
+      "exampleSentence": "She was likewise not methodical about selling her art.",
+      "clozeSentence": "She was likewise not _____ about selling her art.",
+      "distractors": [
+        "done quickly without much thought",
+        "done in secret",
+        "done with great enthusiasm"
+      ],
+      "surfaceForms": [
+        "methodical"
+      ],
+      "clozeAnswerSurfaceForm": "methodical"
+    },
+    {
+      "lemma": "moneymaking",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "designed or able to produce profit",
+      "translationZh": "賺錢的；能獲利的",
+      "exampleSentence": "She approached each new moneymaking idea with fervor and optimism.",
+      "clozeSentence": "She approached each new _____ idea with fervor and optimism.",
+      "distractors": [
+        "designed to save time",
+        "intended purely for entertainment",
+        "meant to help others for free"
+      ],
+      "surfaceForms": [
+        "moneymaking"
+      ],
+      "clozeAnswerSurfaceForm": "moneymaking"
+    },
+    {
+      "lemma": "optimism",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "hopefulness and confidence about the future",
+      "translationZh": "樂觀",
+      "exampleSentence": "She approached each new moneymaking idea with fervor and optimism.",
+      "clozeSentence": "She approached each new moneymaking idea with fervor and _____.",
+      "distractors": [
+        "worry and fear about the future",
+        "a lack of interest in anything",
+        "extreme anger"
+      ],
+      "surfaceForms": [
+        "optimism"
+      ],
+      "clozeAnswerSurfaceForm": "optimism"
+    },
+    {
+      "lemma": "unkind",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "not kind; lacking sympathy or consideration",
+      "translationZh": "不友善的；刻薄的",
+      "exampleSentence": "She became voluble but also unsure, especially when he was about to be unkind—as if she knew he was going to be cruel and knew how to smoke out the meanness first.",
+      "clozeSentence": "She became voluble but also unsure, especially when he was about to be _____—as if she knew he was going to be cruel and knew how to smoke out the meanness first.",
+      "distractors": [
+        "very generous and warm",
+        "quiet and reserved",
+        "extremely intelligent"
+      ],
+      "surfaceForms": [
+        "unkind"
+      ],
+      "clozeAnswerSurfaceForm": "unkind—as"
+    },
+    {
+      "lemma": "unsure",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "not certain or confident about something",
+      "translationZh": "不確定的；沒把握的",
+      "exampleSentence": "She became voluble but also unsure, especially when he was about to be unkind—as if she knew he was going to be cruel and knew how to smoke out the meanness first.",
+      "clozeSentence": "She became voluble but also _____, especially when he was about to be unkind—as if she knew he was going to be cruel and knew how to smoke out the meanness first.",
+      "distractors": [
+        "completely confident and certain",
+        "very talkative and cheerful",
+        "physically tired"
+      ],
+      "surfaceForms": [
+        "unsure"
+      ],
+      "clozeAnswerSurfaceForm": "unsure"
+    },
+    {
+      "lemma": "voluble",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "talking a great deal, fluently and rapidly",
+      "translationZh": "健談的；滔滔不絕的",
+      "exampleSentence": "She became voluble but also unsure, especially when he was about to be unkind—as if she knew he was going to be cruel and knew how to smoke out the meanness first.",
+      "clozeSentence": "She became _____ but also unsure, especially when he was about to be unkind—as if she knew he was going to be cruel and knew how to smoke out the meanness first.",
+      "distractors": [
+        "silent and withdrawn",
+        "calm and unemotional",
+        "confused and forgetful"
+      ],
+      "surfaceForms": [
+        "voluble"
+      ],
+      "clozeAnswerSurfaceForm": "voluble"
+    },
+    {
+      "lemma": "chip",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a small piece or fragment of something",
+      "translationZh": "小塊；碎片(如巧克力豆)",
+      "exampleSentence": "Fields, who made the chocolate chip cookies, and Nancy of Nancy’s Quiche, women who’d made a fortune in business.",
+      "clozeSentence": "Fields, who made the chocolate _____ cookies, and Nancy of Nancy’s Quiche, women who’d made a fortune in business.",
+      "distractors": [
+        "a whole, uncut piece",
+        "a liquid poured over food",
+        "a type of cooking pot"
+      ],
+      "surfaceForms": [
+        "chip"
+      ],
+      "clozeAnswerSurfaceForm": "chip"
+    },
+    {
+      "lemma": "know-how",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "practical knowledge or skill in doing something",
+      "translationZh": "專門技能；訣竅",
+      "exampleSentence": "But what she failed to account for is that it wasn’t just the quality of the product that turned ideas into money, but business savvy—marketing and strategy know-how.",
+      "clozeSentence": "But what she failed to account for is that it wasn’t just the quality of the product that turned ideas into money, but business savvy—marketing and strategy _____.",
+      "distractors": [
+        "a formal academic degree",
+        "a large sum of borrowed money",
+        "a written legal contract"
+      ],
+      "surfaceForms": [
+        "know-how"
+      ],
+      "clozeAnswerSurfaceForm": "know-how"
+    },
+    {
+      "lemma": "savvy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "practical knowledge and good judgment",
+      "translationZh": "精明；實務判斷力",
+      "exampleSentence": "But what she failed to account for is that it wasn’t just the quality of the product that turned ideas into money, but business savvy—marketing and strategy know-how.",
+      "clozeSentence": "But what she failed to account for is that it wasn’t just the quality of the product that turned ideas into money, but business _____—marketing and strategy know-how.",
+      "distractors": [
+        "a formal certificate of achievement",
+        "a large amount of debt",
+        "a strict set of rules"
+      ],
+      "surfaceForms": [
+        "savvy"
+      ],
+      "clozeAnswerSurfaceForm": "savvy—marketing"
+    },
+    {
+      "lemma": "verdict",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "a formal decision or judgment",
+      "translationZh": "裁決；定論",
+      "exampleSentence": "We hung back near the door where it was still warm, waiting for a verdict.",
+      "clozeSentence": "We hung back near the door where it was still warm, waiting for a _____.",
+      "distractors": [
+        "a casual suggestion",
+        "a written invitation",
+        "a financial reward"
+      ],
+      "surfaceForms": [
+        "verdict"
+      ],
+      "clozeAnswerSurfaceForm": "verdict"
+    },
+    {
+      "lemma": "project",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a planned piece of work with a specific goal",
+      "translationZh": "企劃；專案",
+      "exampleSentence": "When her stencils didn’t sell at Neiman Marcus or Smith & Hawken, or get snapped up via word of mouth, she was discouraged, and put her hope in a new project, floor cloths—paintings that went on the floor.",
+      "clozeSentence": "When her stencils didn’t sell at Neiman Marcus or Smith & Hawken, or get snapped up via word of mouth, she was discouraged, and put her hope in a new _____, floor cloths—paintings that went on the floor.",
+      "distractors": [
+        "a sudden unexpected event",
+        "a small daily chore",
+        "a formal complaint"
+      ],
+      "surfaceForms": [
+        "project"
+      ],
+      "clozeAnswerSurfaceForm": "project"
+    },
+    {
+      "lemma": "snap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to be bought or taken quickly and eagerly",
+      "translationZh": "被搶購一空",
+      "exampleSentence": "When her stencils didn’t sell at Neiman Marcus or Smith & Hawken, or get snapped up via word of mouth, she was discouraged, and put her hope in a new project, floor cloths—paintings that went on the floor.",
+      "clozeSentence": "When her stencils didn’t sell at Neiman Marcus or Smith & Hawken, or get _____ up via word of mouth, she was discouraged, and put her hope in a new project, floor cloths—paintings that went on the floor.",
+      "distractors": [
+        "to be ignored completely",
+        "to be returned for a refund",
+        "to be stored away for later"
+      ],
+      "surfaceForms": [
+        "snapped"
+      ],
+      "clozeAnswerSurfaceForm": "snapped"
+    },
+    {
+      "lemma": "stencil",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a template with cut-out shapes used to apply a pattern",
+      "translationZh": "模板；印花圖案",
+      "exampleSentence": "When her stencils didn’t sell at Neiman Marcus or Smith & Hawken, or get snapped up via word of mouth, she was discouraged, and put her hope in a new project, floor cloths—paintings that went on the floor.",
+      "clozeSentence": "When her _____ didn’t sell at Neiman Marcus or Smith & Hawken, or get snapped up via word of mouth, she was discouraged, and put her hope in a new project, floor cloths—paintings that went on the floor.",
+      "distractors": [
+        "a finished painting ready to sell",
+        "a piece of raw canvas",
+        "a container for storing paint"
+      ],
+      "surfaceForms": [
+        "stencils",
+        "stenciled",
+        "stencil"
+      ],
+      "clozeAnswerSurfaceForm": "stencils"
+    },
+    {
+      "lemma": "woodpecker",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a bird that pecks holes in trees with its beak",
+      "translationZh": "啄木鳥",
+      "exampleSentence": "When she tapped the stencil brush up and down, it sounded like a faraway woodpecker.",
+      "clozeSentence": "When she tapped the stencil brush up and down, it sounded like a faraway _____.",
+      "distractors": [
+        "a bird known for its colorful singing",
+        "a large bird that cannot fly",
+        "a bird that hunts at night"
+      ],
+      "surfaceForms": [
+        "woodpecker"
+      ],
+      "clozeAnswerSurfaceForm": "woodpecker"
+    },
+    {
+      "lemma": "acrylic",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "made of a type of synthetic material or paint",
+      "translationZh": "壓克力的；(顏料)丙烯的",
+      "exampleSentence": "They were colorful acrylic squares and rectangles of unmounted canvas—deep plum and rich orange and all different shades of green.",
+      "clozeSentence": "They were colorful _____ squares and rectangles of unmounted canvas—deep plum and rich orange and all different shades of green.",
+      "distractors": [
+        "made of natural wood",
+        "made of thin glass",
+        "made of woven cotton"
+      ],
+      "surfaceForms": [
+        "acrylic"
+      ],
+      "clozeAnswerSurfaceForm": "acrylic"
+    },
+    {
+      "lemma": "canvas",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a strong, heavy cloth used for painting on",
+      "translationZh": "畫布",
+      "exampleSentence": "They were colorful acrylic squares and rectangles of unmounted canvas—deep plum and rich orange and all different shades of green.",
+      "clozeSentence": "They were colorful acrylic squares and rectangles of unmounted _____—deep plum and rich orange and all different shades of green.",
+      "distractors": [
+        "a thin sheet of paper",
+        "a wooden picture frame",
+        "a roll of colored tape"
+      ],
+      "surfaceForms": [
+        "canvas",
+        "canvases"
+      ],
+      "clozeAnswerSurfaceForm": "canvas—deep"
+    },
+    {
+      "lemma": "glob",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a small, soft lump or mass of something",
+      "translationZh": "一團(軟狀物)",
+      "exampleSentence": "The top layer of the glob of paint was hard, but if I pressed, wet paint inside came oozing out.",
+      "clozeSentence": "The top layer of the _____ of paint was hard, but if I pressed, wet paint inside came oozing out.",
+      "distractors": [
+        "a thin, flat sheet",
+        "a sharp, pointed tool",
+        "a hollow container"
+      ],
+      "surfaceForms": [
+        "glob"
+      ],
+      "clozeAnswerSurfaceForm": "glob"
+    },
+    {
+      "lemma": "ooze",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to flow slowly and thickly out of something",
+      "translationZh": "緩緩滲出；流出",
+      "exampleSentence": "The top layer of the glob of paint was hard, but if I pressed, wet paint inside came oozing out.",
+      "clozeSentence": "The top layer of the glob of paint was hard, but if I pressed, wet paint inside came _____ out.",
+      "distractors": [
+        "to burst out suddenly and loudly",
+        "to evaporate into the air",
+        "to freeze solid instantly"
+      ],
+      "surfaceForms": [
+        "oozing"
+      ],
+      "clozeAnswerSurfaceForm": "oozing"
+    },
+    {
+      "lemma": "plum",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a dark purplish-red color, like the fruit",
+      "translationZh": "深紫紅色",
+      "exampleSentence": "They were colorful acrylic squares and rectangles of unmounted canvas—deep plum and rich orange and all different shades of green.",
+      "clozeSentence": "They were colorful acrylic squares and rectangles of unmounted canvas—deep _____ and rich orange and all different shades of green.",
+      "distractors": [
+        "a bright, light yellow color",
+        "a pale, faded gray",
+        "a shiny metallic silver"
+      ],
+      "surfaceForms": [
+        "plum"
+      ],
+      "clozeAnswerSurfaceForm": "plum"
+    },
+    {
+      "lemma": "unmounted",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "not fixed onto a backing or frame",
+      "translationZh": "未裝裱的；未固定框架的",
+      "exampleSentence": "They were colorful acrylic squares and rectangles of unmounted canvas—deep plum and rich orange and all different shades of green.",
+      "clozeSentence": "They were colorful acrylic squares and rectangles of _____ canvas—deep plum and rich orange and all different shades of green.",
+      "distractors": [
+        "fully framed and displayed",
+        "cut into small pieces",
+        "painted in bright colors"
+      ],
+      "surfaceForms": [
+        "unmounted"
+      ],
+      "clozeAnswerSurfaceForm": "unmounted"
+    },
+    {
+      "lemma": "blossom",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a flower, especially on a fruit tree",
+      "translationZh": "花朵；花(尤指果樹的花)",
+      "exampleSentence": "Ripe fruits, blossoms, and leaves in patterns, some stenciled, some painted, lacquered with expensive Jolly Glaze she poured over the paint to protect it that cracked pleasingly like the surface of old porcelain.",
+      "clozeSentence": "Ripe fruits, _____, and leaves in patterns, some stenciled, some painted, lacquered with expensive Jolly Glaze she poured over the paint to protect it that cracked pleasingly like the surface of old porcelain.",
+      "distractors": [
+        "a ripe piece of fruit",
+        "a thick tree trunk",
+        "a small green insect"
+      ],
+      "surfaceForms": [
+        "blossoms"
+      ],
+      "clozeAnswerSurfaceForm": "blossoms"
+    },
+    {
+      "lemma": "crack",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to break with lines on the surface, without falling apart",
+      "translationZh": "產生裂紋；龜裂",
+      "exampleSentence": "Ripe fruits, blossoms, and leaves in patterns, some stenciled, some painted, lacquered with expensive Jolly Glaze she poured over the paint to protect it that cracked pleasingly like the surface of old porcelain.",
+      "clozeSentence": "Ripe fruits, blossoms, and leaves in patterns, some stenciled, some painted, lacquered with expensive Jolly Glaze she poured over the paint to protect it that _____ pleasingly like the surface of old porcelain.",
+      "distractors": [
+        "to shine brightly",
+        "to melt completely",
+        "to grow larger in size"
+      ],
+      "surfaceForms": [
+        "cracked"
+      ],
+      "clozeAnswerSurfaceForm": "cracked"
+    },
+    {
+      "lemma": "lacquer",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to coat something with a hard, glossy protective finish",
+      "translationZh": "上漆；塗上光亮保護層",
+      "exampleSentence": "Ripe fruits, blossoms, and leaves in patterns, some stenciled, some painted, lacquered with expensive Jolly Glaze she poured over the paint to protect it that cracked pleasingly like the surface of old porcelain.",
+      "clozeSentence": "Ripe fruits, blossoms, and leaves in patterns, some stenciled, some painted, _____ with expensive Jolly Glaze she poured over the paint to protect it that cracked pleasingly like the surface of old porcelain.",
+      "distractors": [
+        "to scrub something clean with water",
+        "to cut something into small pieces",
+        "to leave something exposed to air"
+      ],
+      "surfaceForms": [
+        "lacquered"
+      ],
+      "clozeAnswerSurfaceForm": "lacquered"
+    },
+    {
+      "lemma": "pleasingly",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "in a way that gives satisfaction or pleasure",
+      "translationZh": "令人愉悅地",
+      "exampleSentence": "Ripe fruits, blossoms, and leaves in patterns, some stenciled, some painted, lacquered with expensive Jolly Glaze she poured over the paint to protect it that cracked pleasingly like the surface of old porcelain.",
+      "clozeSentence": "Ripe fruits, blossoms, and leaves in patterns, some stenciled, some painted, lacquered with expensive Jolly Glaze she poured over the paint to protect it that cracked _____ like the surface of old porcelain.",
+      "distractors": [
+        "in a way that causes annoyance",
+        "in a confusing, unclear way",
+        "in an extremely loud way"
+      ],
+      "surfaceForms": [
+        "pleasingly"
+      ],
+      "clozeAnswerSurfaceForm": "pleasingly"
+    },
+    {
+      "lemma": "porcelain",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a hard, white, fine ceramic material",
+      "translationZh": "瓷器",
+      "exampleSentence": "Ripe fruits, blossoms, and leaves in patterns, some stenciled, some painted, lacquered with expensive Jolly Glaze she poured over the paint to protect it that cracked pleasingly like the surface of old porcelain.",
+      "clozeSentence": "Ripe fruits, blossoms, and leaves in patterns, some stenciled, some painted, lacquered with expensive Jolly Glaze she poured over the paint to protect it that cracked pleasingly like the surface of old _____.",
+      "distractors": [
+        "a soft woven fabric",
+        "a flexible rubber material",
+        "a heavy dark metal"
+      ],
+      "surfaceForms": [
+        "porcelain"
+      ],
+      "clozeAnswerSurfaceForm": "porcelain"
+    },
+    {
+      "lemma": "completion",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the state of being finished",
+      "translationZh": "完成；完工",
+      "exampleSentence": "Canvases were strung up along the walls of her studio in various states of completion, along with used stencil patterns hanging up to dry.",
+      "clozeSentence": "Canvases were strung up along the walls of her studio in various states of _____, along with used stencil patterns hanging up to dry.",
+      "distractors": [
+        "the state of just beginning",
+        "a state of confusion",
+        "a temporary pause in work"
+      ],
+      "surfaceForms": [
+        "completion"
+      ],
+      "clozeAnswerSurfaceForm": "completion"
+    },
+    {
+      "lemma": "paintbrush",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a brush used for applying paint",
+      "translationZh": "畫筆",
+      "exampleSentence": "To clean the paintbrushes, she knocked them against the inside walls of the metal jar of turpentine.",
+      "clozeSentence": "To clean the _____, she knocked them against the inside walls of the metal jar of turpentine.",
+      "distractors": [
+        "a tool used for cutting paper",
+        "a container for mixing colors",
+        "a cloth used to wipe surfaces"
+      ],
+      "surfaceForms": [
+        "paintbrushes"
+      ],
+      "clozeAnswerSurfaceForm": "paintbrushes"
+    },
+    {
+      "lemma": "turpentine",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a liquid used to thin paint or clean brushes",
+      "translationZh": "松節油",
+      "exampleSentence": "To clean the paintbrushes, she knocked them against the inside walls of the metal jar of turpentine.",
+      "clozeSentence": "To clean the paintbrushes, she knocked them against the inside walls of the metal jar of _____.",
+      "distractors": [
+        "a sweet syrup used in cooking",
+        "a strong glue for repairs",
+        "a fragrant oil used in perfume"
+      ],
+      "surfaceForms": [
+        "turpentine"
+      ],
+      "clozeAnswerSurfaceForm": "turpentine"
+    },
+    {
+      "lemma": "hood",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a covering for the head, attached to a piece of clothing",
+      "translationZh": "兜帽；連帽",
+      "exampleSentence": "He stood in the middle of the kitchen, too straight, wearing a gray sweatshirt with a hood threaded with a red cord that hung on either side of the neck.",
+      "clozeSentence": "He stood in the middle of the kitchen, too straight, wearing a gray sweatshirt with a _____ threaded with a red cord that hung on either side of the neck.",
+      "distractors": [
+        "a pocket sewn into a garment",
+        "a belt worn around the waist",
+        "a button used to fasten clothing"
+      ],
+      "surfaceForms": [
+        "hood"
+      ],
+      "clozeAnswerSurfaceForm": "hood"
+    },
+    {
+      "lemma": "mildly",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to a small degree; not strongly",
+      "translationZh": "輕微地；稍微",
+      "exampleSentence": "He looked around as if mildly disappointed.",
+      "clozeSentence": "He looked around as if _____ disappointed.",
+      "distractors": [
+        "to an extreme degree",
+        "in a sudden, violent way",
+        "permanently and completely"
+      ],
+      "surfaceForms": [
+        "mildly"
+      ],
+      "clozeAnswerSurfaceForm": "mildly"
+    },
+    {
+      "lemma": "thread",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to pass a cord or string through something",
+      "translationZh": "穿線；穿繩",
+      "exampleSentence": "He stood in the middle of the kitchen, too straight, wearing a gray sweatshirt with a hood threaded with a red cord that hung on either side of the neck.",
+      "clozeSentence": "He stood in the middle of the kitchen, too straight, wearing a gray sweatshirt with a hood _____ with a red cord that hung on either side of the neck.",
+      "distractors": [
+        "to cut something into pieces",
+        "to paint a pattern onto fabric",
+        "to fold something into a square"
+      ],
+      "surfaceForms": [
+        "threaded"
+      ],
+      "clozeAnswerSurfaceForm": "threaded"
+    },
+    {
+      "lemma": "carve",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to cut or shape something with a movement",
+      "translationZh": "雕刻；(以動作)劃出",
+      "exampleSentence": "“What are you working on?” He moved his shoulder and scapula like he was carving a semicircle in the air.",
+      "clozeSentence": "“What are you working on?” He moved his shoulder and scapula like he was _____ a semicircle in the air.",
+      "distractors": [
+        "to paint something with bright colors",
+        "to lift something heavy",
+        "to fold something in half"
+      ],
+      "surfaceForms": [
+        "carving"
+      ],
+      "clozeAnswerSurfaceForm": "carving"
+    },
+    {
+      "lemma": "pomegranate",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a round fruit with a tough red skin and many seeds",
+      "translationZh": "石榴",
+      "exampleSentence": "“They’re paintings, but underfoot,” she said, toeing a pomegranate painted on a piece of canvas under the sink.",
+      "clozeSentence": "“They’re paintings, but underfoot,” she said, toeing a _____ painted on a piece of canvas under the sink.",
+      "distractors": [
+        "a long yellow tropical fruit",
+        "a small green citrus fruit",
+        "a soft purple berry"
+      ],
+      "surfaceForms": [
+        "pomegranate"
+      ],
+      "clozeAnswerSurfaceForm": "pomegranate"
+    },
+    {
+      "lemma": "underfoot",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "on the ground, under one's feet",
+      "translationZh": "在腳下",
+      "exampleSentence": "“They’re paintings, but underfoot,” she said, toeing a pomegranate painted on a piece of canvas under the sink.",
+      "clozeSentence": "“They’re paintings, but _____,” she said, toeing a pomegranate painted on a piece of canvas under the sink.",
+      "distractors": [
+        "high up on the wall",
+        "hidden inside a drawer",
+        "far away in the distance"
+      ],
+      "surfaceForms": [
+        "underfoot"
+      ],
+      "clozeAnswerSurfaceForm": "underfoot"
+    },
+    {
+      "lemma": "friendly",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "kind and pleasant in manner",
+      "translationZh": "友善的",
+      "exampleSentence": "“You know, Chris,” he finally said, in a friendly tone, “you might as well just have some more kids.”",
+      "clozeSentence": "“You know, Chris,” he finally said, in a _____ tone, “you might as well just have some more kids.”",
+      "distractors": [
+        "cold and distant",
+        "loud and aggressive",
+        "nervous and uncertain"
+      ],
+      "surfaceForms": [
+        "friendly"
+      ],
+      "clozeAnswerSurfaceForm": "friendly"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "child-support",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "money paid regularly to help raise a child, usually after separation",
+      "translationZh": "子女撫養費",
+      "exampleSentence": "At my mother’s house I was vaguely aware that at some point, maybe when I left for college, the child-support checks from Jeff Howson would stop arriving.",
+      "clozeSentence": "At my mother’s house I was vaguely aware that at some point, maybe when I left for college, the _____ checks from Jeff Howson would stop arriving.",
+      "distractors": [
+        "money saved for a child's education",
+        "a gift given on a child's birthday",
+        "an allowance a child earns from chores"
+      ],
+      "surfaceForms": [
+        "child-support"
+      ],
+      "clozeAnswerSurfaceForm": "child-support"
+    },
+    {
+      "lemma": "vaguely",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "in a way that is not clear or precise",
+      "translationZh": "模糊地；隱約地",
+      "exampleSentence": "At my mother’s house I was vaguely aware that at some point, maybe when I left for college, the child-support checks from Jeff Howson would stop arriving.",
+      "clozeSentence": "At my mother’s house I was _____ aware that at some point, maybe when I left for college, the child-support checks from Jeff Howson would stop arriving.",
+      "distractors": [
+        "in a very clear and exact way",
+        "in an extremely urgent way",
+        "in a loud, obvious way"
+      ],
+      "surfaceForms": [
+        "vaguely"
+      ],
+      "clozeAnswerSurfaceForm": "vaguely"
+    },
+    {
+      "lemma": "choreography",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "a planned sequence of movements, as in dance",
+      "translationZh": "編舞；(比喻)刻意安排的一套動作",
+      "exampleSentence": "I watched them take their places as if in a familiar choreography: she had said she wanted to be free of him, and he had said he wanted to be free of her, but yet, after all these years, they were still entangled; they would thrash around in a single net, becoming more stuck.",
+      "clozeSentence": "I watched them take their places as if in a familiar _____: she had said she wanted to be free of him, and he had said he wanted to be free of her, but yet, after all these years, they were still entangled; they would thrash around in a single net, becoming more stuck.",
+      "distractors": [
+        "a random, unplanned series of events",
+        "a written record of past events",
+        "a formal legal agreement"
+      ],
+      "surfaceForms": [
+        "choreography"
+      ],
+      "clozeAnswerSurfaceForm": "choreography"
+    },
+    {
+      "lemma": "carmine",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a deep purplish-red color or pigment",
+      "translationZh": "洋紅色；胭脂紅",
+      "exampleSentence": "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "clozeSentence": "I picked at the splotches on the board she used as a palette—indigo, _____, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "distractors": [
+        "a pale sky blue",
+        "a bright lemon yellow",
+        "a dull olive green"
+      ],
+      "surfaceForms": [
+        "carmine"
+      ],
+      "clozeAnswerSurfaceForm": "carmine"
+    },
+    {
+      "lemma": "entangle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to become twisted together or caught up in something",
+      "translationZh": "糾纏；纏繞",
+      "exampleSentence": "I watched them take their places as if in a familiar choreography: she had said she wanted to be free of him, and he had said he wanted to be free of her, but yet, after all these years, they were still entangled; they would thrash around in a single net, becoming more stuck.",
+      "clozeSentence": "I watched them take their places as if in a familiar choreography: she had said she wanted to be free of him, and he had said he wanted to be free of her, but yet, after all these years, they were still _____; they would thrash around in a single net, becoming more stuck.",
+      "distractors": [
+        "to become completely separated",
+        "to become clean and organized",
+        "to become invisible"
+      ],
+      "surfaceForms": [
+        "entangled"
+      ],
+      "clozeAnswerSurfaceForm": "entangled"
+    },
+    {
+      "lemma": "indigo",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a deep blue-purple color",
+      "translationZh": "靛藍色",
+      "exampleSentence": "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "clozeSentence": "I picked at the splotches on the board she used as a palette—_____, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "distractors": [
+        "a bright orange color",
+        "a pale beige color",
+        "a dark forest green"
+      ],
+      "surfaceForms": [
+        "indigo"
+      ],
+      "clozeAnswerSurfaceForm": "palette—indigo"
+    },
+    {
+      "lemma": "palette",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a board on which an artist mixes colors",
+      "translationZh": "調色板",
+      "exampleSentence": "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "clozeSentence": "I picked at the splotches on the board she used as a _____—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "distractors": [
+        "a brush used to apply paint",
+        "a frame that holds a canvas",
+        "a cloth used to wipe hands"
+      ],
+      "surfaceForms": [
+        "palette"
+      ],
+      "clozeAnswerSurfaceForm": "palette—indigo"
+    },
+    {
+      "lemma": "pasty",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "resembling paste; pale and thick in appearance",
+      "translationZh": "糊狀的；蒼白的",
+      "exampleSentence": "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "clozeSentence": "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, _____ brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "distractors": [
+        "bright and glossy",
+        "thin and watery",
+        "sharp and metallic"
+      ],
+      "surfaceForms": [
+        "pasty"
+      ],
+      "clozeAnswerSurfaceForm": "pasty"
+    },
+    {
+      "lemma": "recognition",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "acknowledgment or praise for one's achievements",
+      "translationZh": "認可；肯定",
+      "exampleSentence": "I knew she wanted his approval and recognition; we both wanted it.",
+      "clozeSentence": "I knew she wanted his approval and _____; we both wanted it.",
+      "distractors": [
+        "a strong feeling of jealousy",
+        "a written apology",
+        "financial support"
+      ],
+      "surfaceForms": [
+        "recognition"
+      ],
+      "clozeAnswerSurfaceForm": "recognition"
+    },
+    {
+      "lemma": "splotch",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "an irregularly shaped mark or spot",
+      "translationZh": "污漬；斑點",
+      "exampleSentence": "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "clozeSentence": "I picked at the _____ on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "distractors": [
+        "a straight, thin line",
+        "a perfectly round circle",
+        "a hole cut through material"
+      ],
+      "surfaceForms": [
+        "splotches"
+      ],
+      "clozeAnswerSurfaceForm": "splotches"
+    },
+    {
+      "lemma": "thrash",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to move violently or wildly",
+      "translationZh": "掙扎；猛烈擺動",
+      "exampleSentence": "I watched them take their places as if in a familiar choreography: she had said she wanted to be free of him, and he had said he wanted to be free of her, but yet, after all these years, they were still entangled; they would thrash around in a single net, becoming more stuck.",
+      "clozeSentence": "I watched them take their places as if in a familiar choreography: she had said she wanted to be free of him, and he had said he wanted to be free of her, but yet, after all these years, they were still entangled; they would _____ around in a single net, becoming more stuck.",
+      "distractors": [
+        "to remain perfectly still",
+        "to move slowly and gracefully",
+        "to disappear silently"
+      ],
+      "surfaceForms": [
+        "thrash"
+      ],
+      "clozeAnswerSurfaceForm": "thrash"
+    },
+    {
+      "lemma": "whine",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a high-pitched, complaining sound",
+      "translationZh": "嗡嗡聲；哀鳴",
+      "exampleSentence": "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "clozeSentence": "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, pasty brown but when mixed with water became electric yellow, the color of a mosquito _____.",
+      "distractors": [
+        "a deep, low rumble",
+        "a sudden loud bang",
+        "a soft, silent pause"
+      ],
+      "surfaceForms": [
+        "whine"
+      ],
+      "clozeAnswerSurfaceForm": "whine"
+    },
+    {
+      "lemma": "fervor",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "intense and passionate enthusiasm",
+      "translationZh": "熱情；狂熱",
+      "exampleSentence": "She approached each new moneymaking idea with fervor and optimism.",
+      "clozeSentence": "She approached each new moneymaking idea with _____ and optimism.",
+      "distractors": [
+        "a calm and detached attitude",
+        "a feeling of deep suspicion",
+        "a sense of quiet regret"
+      ],
+      "surfaceForms": [
+        "fervor"
+      ],
+      "clozeAnswerSurfaceForm": "fervor"
+    },
+    {
+      "lemma": "methodical",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "done in a careful, organized, and systematic way",
+      "translationZh": "有條理的；按部就班的",
+      "exampleSentence": "She was likewise not methodical about selling her art.",
+      "clozeSentence": "She was likewise not _____ about selling her art.",
+      "distractors": [
+        "done quickly without much thought",
+        "done in secret",
+        "done with great enthusiasm"
+      ],
+      "surfaceForms": [
+        "methodical"
+      ],
+      "clozeAnswerSurfaceForm": "methodical"
+    },
+    {
+      "lemma": "voluble",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "talking a great deal, fluently and rapidly",
+      "translationZh": "健談的；滔滔不絕的",
+      "exampleSentence": "She became voluble but also unsure, especially when he was about to be unkind—as if she knew he was going to be cruel and knew how to smoke out the meanness first.",
+      "clozeSentence": "She became _____ but also unsure, especially when he was about to be unkind—as if she knew he was going to be cruel and knew how to smoke out the meanness first.",
+      "distractors": [
+        "silent and withdrawn",
+        "calm and unemotional",
+        "confused and forgetful"
+      ],
+      "surfaceForms": [
+        "voluble"
+      ],
+      "clozeAnswerSurfaceForm": "voluble"
+    },
+    {
+      "lemma": "likewise",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "in the same way; also",
+      "translationZh": "同樣地；也",
+      "exampleSentence": "She was likewise not methodical about selling her art.",
+      "clozeSentence": "She was _____ not methodical about selling her art.",
+      "distractors": [
+        "in a completely different way",
+        "for a short period of time",
+        "without any reason"
+      ],
+      "surfaceForms": [
+        "likewise"
+      ],
+      "clozeAnswerSurfaceForm": "likewise"
+    },
+    {
+      "lemma": "meanness",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "unkind or cruel behavior",
+      "translationZh": "刻薄；卑劣",
+      "exampleSentence": "She became voluble but also unsure, especially when he was about to be unkind—as if she knew he was going to be cruel and knew how to smoke out the meanness first.",
+      "clozeSentence": "She became voluble but also unsure, especially when he was about to be unkind—as if she knew he was going to be cruel and knew how to smoke out the _____ first.",
+      "distractors": [
+        "great generosity",
+        "deep sadness",
+        "quiet shyness"
+      ],
+      "surfaceForms": [
+        "meanness"
+      ],
+      "clozeAnswerSurfaceForm": "meanness"
+    },
+    {
+      "lemma": "moneymaking",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "designed or able to produce profit",
+      "translationZh": "賺錢的；能獲利的",
+      "exampleSentence": "She approached each new moneymaking idea with fervor and optimism.",
+      "clozeSentence": "She approached each new _____ idea with fervor and optimism.",
+      "distractors": [
+        "designed to save time",
+        "intended purely for entertainment",
+        "meant to help others for free"
+      ],
+      "surfaceForms": [
+        "moneymaking"
+      ],
+      "clozeAnswerSurfaceForm": "moneymaking"
+    },
+    {
+      "lemma": "optimism",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "hopefulness and confidence about the future",
+      "translationZh": "樂觀",
+      "exampleSentence": "She approached each new moneymaking idea with fervor and optimism.",
+      "clozeSentence": "She approached each new moneymaking idea with fervor and _____.",
+      "distractors": [
+        "worry and fear about the future",
+        "a lack of interest in anything",
+        "extreme anger"
+      ],
+      "surfaceForms": [
+        "optimism"
+      ],
+      "clozeAnswerSurfaceForm": "optimism"
+    },
+    {
+      "lemma": "verdict",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "a formal decision or judgment",
+      "translationZh": "裁決；定論",
+      "exampleSentence": "We hung back near the door where it was still warm, waiting for a verdict.",
+      "clozeSentence": "We hung back near the door where it was still warm, waiting for a _____.",
+      "distractors": [
+        "a casual suggestion",
+        "a written invitation",
+        "a financial reward"
+      ],
+      "surfaceForms": [
+        "verdict"
+      ],
+      "clozeAnswerSurfaceForm": "verdict"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "translation",
+      "wordLemma": "voluble",
+      "prompt": "健談的；滔滔不絕的",
+      "options": [
+        "recognition",
+        "vaguely",
+        "voluble",
+        "methodical"
+      ],
+      "answer": "voluble"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "pasty",
+      "prompt": "I picked at the splotches on the board she used as a palette—indigo, carmine, white, gamboge, which seemed to be a dull, _____ brown but when mixed with water became electric yellow, the color of a mosquito whine.",
+      "options": [
+        "carmine",
+        "meanness",
+        "pasty",
+        "fervor"
+      ],
+      "answer": "pasty"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "palette",
+      "prompt": "palette",
+      "options": [
+        "a brush used to apply paint",
+        "a board on which an artist mixes colors",
+        "a frame that holds a canvas",
+        "a cloth used to wipe hands"
+      ],
+      "answer": "a board on which an artist mixes colors"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "whine",
+      "prompt": "嗡嗡聲；哀鳴",
+      "options": [
+        "whine",
+        "child-support",
+        "pasty",
+        "moneymaking"
+      ],
+      "answer": "whine"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "vaguely",
+      "prompt": "At my mother’s house I was _____ aware that at some point, maybe when I left for college, the child-support checks from Jeff Howson would stop arriving.",
+      "options": [
+        "methodical",
+        "palette—indigo",
+        "palette—indigo",
+        "vaguely"
+      ],
+      "answer": "vaguely"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "meanness",
+      "prompt": "She became voluble but also unsure, especially when he was about to be unkind—as if she knew he was going to be cruel and knew how to smoke out the _____ first.",
+      "options": [
+        "fervor",
+        "child-support",
+        "likewise",
+        "meanness"
+      ],
+      "answer": "meanness"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "recognition",
+      "prompt": "認可；肯定",
+      "options": [
+        "choreography",
+        "thrash",
+        "entangle",
+        "recognition"
+      ],
+      "answer": "recognition"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "moneymaking",
+      "prompt": "賺錢的；能獲利的",
+      "options": [
+        "vaguely",
+        "thrash",
+        "moneymaking",
+        "palette"
+      ],
+      "answer": "moneymaking"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "splotch",
+      "prompt": "splotch",
+      "options": [
+        "a straight, thin line",
+        "a hole cut through material",
+        "an irregularly shaped mark or spot",
+        "a perfectly round circle"
+      ],
+      "answer": "an irregularly shaped mark or spot"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "optimism",
+      "prompt": "optimism",
+      "options": [
+        "extreme anger",
+        "worry and fear about the future",
+        "a lack of interest in anything",
+        "hopefulness and confidence about the future"
+      ],
+      "answer": "hopefulness and confidence about the future"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "entangle",
+      "prompt": "I watched them take their places as if in a familiar choreography: she had said she wanted to be free of him, and he had said he wanted to be free of her, but yet, after all these years, they were still _____; they would thrash around in a single net, becoming more stuck.",
+      "options": [
+        "entangled",
+        "moneymaking",
+        "carmine",
+        "recognition"
+      ],
+      "answer": "entangled"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "methodical",
+      "prompt": "She was likewise not _____ about selling her art.",
+      "options": [
+        "methodical",
+        "whine",
+        "child-support",
+        "splotches"
+      ],
+      "answer": "methodical"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "thrash",
+      "prompt": "I watched them take their places as if in a familiar choreography: she had said she wanted to be free of him, and he had said he wanted to be free of her, but yet, after all these years, they were still entangled; they would _____ around in a single net, becoming more stuck.",
+      "options": [
+        "thrash",
+        "carmine",
+        "splotches",
+        "verdict"
+      ],
+      "answer": "thrash"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "indigo",
+      "prompt": "靛藍色",
+      "options": [
+        "indigo",
+        "recognition",
+        "child-support",
+        "moneymaking"
+      ],
+      "answer": "indigo"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "child-support",
+      "prompt": "child-support",
+      "options": [
+        "an allowance a child earns from chores",
+        "a gift given on a child's birthday",
+        "money saved for a child's education",
+        "money paid regularly to help raise a child, usually after separation"
+      ],
+      "answer": "money paid regularly to help raise a child, usually after separation"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "verdict",
+      "prompt": "We hung back near the door where it was still warm, waiting for a _____.",
+      "options": [
+        "verdict",
+        "moneymaking",
+        "whine",
+        "likewise"
+      ],
+      "answer": "verdict"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "carmine",
+      "prompt": "carmine",
+      "options": [
+        "a dull olive green",
+        "a pale sky blue",
+        "a deep purplish-red color or pigment",
+        "a bright lemon yellow"
+      ],
+      "answer": "a deep purplish-red color or pigment"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "choreography",
+      "prompt": "編舞；(比喻)刻意安排的一套動作",
+      "options": [
+        "palette",
+        "optimism",
+        "verdict",
+        "choreography"
+      ],
+      "answer": "choreography"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "likewise",
+      "prompt": "likewise",
+      "options": [
+        "for a short period of time",
+        "in a completely different way",
+        "without any reason",
+        "in the same way; also"
+      ],
+      "answer": "in the same way; also"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "fervor",
+      "prompt": "fervor",
+      "options": [
+        "a sense of quiet regret",
+        "a calm and detached attitude",
+        "intense and passionate enthusiasm",
+        "a feeling of deep suspicion"
+      ],
+      "answer": "intense and passionate enthusiasm"
+    }
+  ]
+}

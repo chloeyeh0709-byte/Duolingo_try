@@ -1,0 +1,1138 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 7,
+  "partTitle": "Marketable Skills",
+  "sectionIndex": 5,
+  "paragraphs": [
+    "“You’ve got to trust in your life,” my father said, coming into my room that night as I sat at my desk copying notes in small handwriting on small note cards for memorization. “If you trust your intuition, and listen to it, it will speak louder. Ever heard of the concept Be Here Now?”",
+    "What did it mean? Something about existing in the moment. But I had homework to do. I found most of the work boring, motivating myself with the idea of Harvard. To be here now was to be miserable.",
+    "“Lis,” he said.",
+    "“What?”",
+    "“You should smoke some pot,” he said.",
+    "I was too serious, was the implication. But I didn’t trust him. I was a junior. Grades mattered.",
+    "“I’ll do it with you,” he said. “If you want.”",
+    "“No, thanks,” I said. He’d make me lose my motivation in a stupor of weed (or so I imagined). Then he could say, See, she wasn’t worth it.",
+    "“You’ll be a hippie someday,” he said. “Trust me.”",
+    "“No, I won’t,” I said. I knew he meant the word as some kind of shorthand for peace and relaxation. But I’d known hippies before I’d known him—men who wore brown and let their hair grow. The memory left a dusty taste in my mouth.",
+    "“Suit yourself,” he said, and walked out of my room, springing on the heels of his Birkenstocks, whistling, as if to parade his own peace and happiness before me.",
+    "Later that night I dreamt that a classmate I hardly knew named Josh and I hovered, side by side, above the hills that wrinkled up west of the town. Josh and I were in the same English class and also on the staff of the school newspaper, but we’d hardly ever talked. In the dream we were wearing special backpacks that allowed us to float. We bobbed in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore. The city was more vivid than in life, both far away and near, the perspective foreshortened, the way certain atmospheric conditions will make distant things appear alternately far away and very close.",
+    "In the dream I looked at Josh, joy welling up like a balloon rising from my chest into my throat. I was so excited I had to be careful to say the words slowly, to not let them rip out: “Let’s go,” I said. We bobbed slowly forward toward the great metropolis—the most thrilling city I knew.",
+    "The next morning in class, I leaned over my desk and tapped him on the shoulder before Mrs. Paugh arrived.",
+    "“Hey, I had a dream about you last night.”",
+    "He turned around to face me. “Uh-oh,” he said, smiling. “What was it about?”",
+    "“We flew to San Francisco. Floated, actually. I mean we had these flotational backpacks.”",
+    "“Well, we should do it then,” he said. “We should—” but then Mrs. Paugh arrived, and Josh turned to face the front, and class began."
+  ],
+  "words": [
+    {
+      "lemma": "memorization",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the act of learning something so it can be recalled exactly",
+      "translationZh": "記憶；背誦",
+      "exampleSentence": "“You’ve got to trust in your life,” my father said, coming into my room that night as I sat at my desk copying notes in small handwriting on small note cards for memorization.",
+      "clozeSentence": "“You’ve got to trust in your life,” my father said, coming into my room that night as I sat at my desk copying notes in small handwriting on small note cards for _____.",
+      "distractors": [
+        "the act of writing something down permanently",
+        "the process of forgetting something",
+        "the process of translating a text"
+      ],
+      "surfaceForms": [
+        "memorization"
+      ],
+      "clozeAnswerSurfaceForm": "memorization"
+    },
+    {
+      "lemma": "flotational",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "designed to help something float",
+      "translationZh": "有助漂浮的；浮力的",
+      "exampleSentence": "I mean we had these flotational backpacks.”",
+      "clozeSentence": "I mean we had these _____ backpacks.”",
+      "distractors": [
+        "designed to keep something warm",
+        "designed to make something heavier",
+        "designed to block out sound"
+      ],
+      "surfaceForms": [
+        "flotational"
+      ],
+      "clozeAnswerSurfaceForm": "flotational"
+    },
+    {
+      "lemma": "implication",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "something suggested without being directly stated",
+      "translationZh": "暗示；言外之意",
+      "exampleSentence": "I was too serious, was the implication.",
+      "clozeSentence": "I was too serious, was the _____.",
+      "distractors": [
+        "a direct, clear statement of fact",
+        "a formal written apology",
+        "a loud public announcement"
+      ],
+      "surfaceForms": [
+        "implication"
+      ],
+      "clozeAnswerSurfaceForm": "implication"
+    },
+    {
+      "lemma": "relaxation",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the state of being free from tension or stress",
+      "translationZh": "放鬆；休息",
+      "exampleSentence": "I knew he meant the word as some kind of shorthand for peace and relaxation.",
+      "clozeSentence": "I knew he meant the word as some kind of shorthand for peace and _____.",
+      "distractors": [
+        "a state of extreme excitement",
+        "a feeling of confusion",
+        "a period of hard labor"
+      ],
+      "surfaceForms": [
+        "relaxation"
+      ],
+      "clozeAnswerSurfaceForm": "relaxation"
+    },
+    {
+      "lemma": "rip",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to tear or burst out suddenly and forcefully",
+      "translationZh": "猛然衝出；撕裂",
+      "exampleSentence": "I was so excited I had to be careful to say the words slowly, to not let them rip out: “Let’s go,” I said.",
+      "clozeSentence": "I was so excited I had to be careful to say the words slowly, to not let them _____ out: “Let’s go,” I said.",
+      "distractors": [
+        "to move slowly and quietly",
+        "to disappear without a trace",
+        "to become completely silent"
+      ],
+      "surfaceForms": [
+        "rip"
+      ],
+      "clozeAnswerSurfaceForm": "rip"
+    },
+    {
+      "lemma": "shorthand",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a simple way of representing a more complex idea",
+      "translationZh": "簡稱；簡便的表達方式",
+      "exampleSentence": "I knew he meant the word as some kind of shorthand for peace and relaxation.",
+      "clozeSentence": "I knew he meant the word as some kind of _____ for peace and relaxation.",
+      "distractors": [
+        "a formal legal contract",
+        "a detailed scientific report",
+        "a type of musical instrument"
+      ],
+      "surfaceForms": [
+        "shorthand"
+      ],
+      "clozeAnswerSurfaceForm": "shorthand"
+    },
+    {
+      "lemma": "intuition",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "the ability to understand something instinctively, without reasoning",
+      "translationZh": "直覺",
+      "exampleSentence": "“If you trust your intuition, and listen to it, it will speak louder.",
+      "clozeSentence": "“If you trust your _____, and listen to it, it will speak louder.",
+      "distractors": [
+        "a skill learned through years of study",
+        "a rule enforced by law",
+        "a memory of a past event"
+      ],
+      "surfaceForms": [
+        "intuition"
+      ],
+      "clozeAnswerSurfaceForm": "intuition"
+    },
+    {
+      "lemma": "stupor",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a state of near-unconsciousness or dazed confusion",
+      "translationZh": "恍惚；不省人事的狀態",
+      "exampleSentence": "He’d make me lose my motivation in a stupor of weed (or so I imagined).",
+      "clozeSentence": "He’d make me lose my motivation in a _____ of weed (or so I imagined).",
+      "distractors": [
+        "a state of high energy and alertness",
+        "a feeling of deep happiness",
+        "a period of intense concentration"
+      ],
+      "surfaceForms": [
+        "stupor"
+      ],
+      "clozeAnswerSurfaceForm": "stupor"
+    },
+    {
+      "lemma": "weed",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "marijuana; a plant smoked as a drug (informal)",
+      "translationZh": "大麻(俗稱)",
+      "exampleSentence": "He’d make me lose my motivation in a stupor of weed (or so I imagined).",
+      "clozeSentence": "He’d make me lose my motivation in a stupor of _____ (or so I imagined).",
+      "distractors": [
+        "a type of strong alcohol",
+        "a prescription medicine for pain",
+        "a caffeinated drink"
+      ],
+      "surfaceForms": [
+        "weed"
+      ],
+      "clozeAnswerSurfaceForm": "weed"
+    },
+    {
+      "lemma": "alternately",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "happening in turns, one after the other",
+      "translationZh": "交替地；輪流地",
+      "exampleSentence": "The city was more vivid than in life, both far away and near, the perspective foreshortened, the way certain atmospheric conditions will make distant things appear alternately far away and very close.",
+      "clozeSentence": "The city was more vivid than in life, both far away and near, the perspective foreshortened, the way certain atmospheric conditions will make distant things appear _____ far away and very close.",
+      "distractors": [
+        "happening only once",
+        "happening at exactly the same time",
+        "happening in a random, chaotic way"
+      ],
+      "surfaceForms": [
+        "alternately"
+      ],
+      "clozeAnswerSurfaceForm": "alternately"
+    },
+    {
+      "lemma": "atmospheric",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "relating to the atmosphere or the mood created by surroundings",
+      "translationZh": "大氣的；氛圍的",
+      "exampleSentence": "The city was more vivid than in life, both far away and near, the perspective foreshortened, the way certain atmospheric conditions will make distant things appear alternately far away and very close.",
+      "clozeSentence": "The city was more vivid than in life, both far away and near, the perspective foreshortened, the way certain _____ conditions will make distant things appear alternately far away and very close.",
+      "distractors": [
+        "relating to underground structures",
+        "concerned with financial matters",
+        "related to physical exercise"
+      ],
+      "surfaceForms": [
+        "atmospheric"
+      ],
+      "clozeAnswerSurfaceForm": "atmospheric"
+    },
+    {
+      "lemma": "foreshorten",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to make something appear shorter than it is, due to perspective",
+      "translationZh": "透視縮短；因視角而顯得較短",
+      "exampleSentence": "The city was more vivid than in life, both far away and near, the perspective foreshortened, the way certain atmospheric conditions will make distant things appear alternately far away and very close.",
+      "clozeSentence": "The city was more vivid than in life, both far away and near, the perspective _____, the way certain atmospheric conditions will make distant things appear alternately far away and very close.",
+      "distractors": [
+        "to make something appear brighter",
+        "to make something appear larger than it is",
+        "to make something disappear completely"
+      ],
+      "surfaceForms": [
+        "foreshortened"
+      ],
+      "clozeAnswerSurfaceForm": "foreshortened"
+    },
+    {
+      "lemma": "perspective",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a way of viewing objects that shows depth and distance",
+      "translationZh": "透視；視角",
+      "exampleSentence": "The city was more vivid than in life, both far away and near, the perspective foreshortened, the way certain atmospheric conditions will make distant things appear alternately far away and very close.",
+      "clozeSentence": "The city was more vivid than in life, both far away and near, the _____ foreshortened, the way certain atmospheric conditions will make distant things appear alternately far away and very close.",
+      "distractors": [
+        "a sudden change in weather",
+        "a type of musical rhythm",
+        "a legal agreement between parties"
+      ],
+      "surfaceForms": [
+        "perspective"
+      ],
+      "clozeAnswerSurfaceForm": "perspective"
+    },
+    {
+      "lemma": "hippie",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a person who rejects conventional society, often linked to peace and freedom",
+      "translationZh": "嬉皮",
+      "exampleSentence": "“You’ll be a hippie someday,” he said.",
+      "clozeSentence": "“You’ll be a _____ someday,” he said.",
+      "distractors": [
+        "a person who works in finance",
+        "a strict military officer",
+        "a professional athlete"
+      ],
+      "surfaceForms": [
+        "hippie",
+        "hippies"
+      ],
+      "clozeAnswerSurfaceForm": "hippie"
+    },
+    {
+      "lemma": "parade",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to display something openly, often to impress others",
+      "translationZh": "炫耀；展示",
+      "exampleSentence": "“Suit yourself,” he said, and walked out of my room, springing on the heels of his Birkenstocks, whistling, as if to parade his own peace and happiness before me.",
+      "clozeSentence": "“Suit yourself,” he said, and walked out of my room, springing on the heels of his Birkenstocks, whistling, as if to _____ his own peace and happiness before me.",
+      "distractors": [
+        "to hide something carefully",
+        "to destroy something completely",
+        "to give something away for free"
+      ],
+      "surfaceForms": [
+        "parade"
+      ],
+      "clozeAnswerSurfaceForm": "parade"
+    },
+    {
+      "lemma": "hover",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to stay in one place in the air",
+      "translationZh": "盤旋；懸浮",
+      "exampleSentence": "Later that night I dreamt that a classmate I hardly knew named Josh and I hovered, side by side, above the hills that wrinkled up west of the town.",
+      "clozeSentence": "Later that night I dreamt that a classmate I hardly knew named Josh and I _____, side by side, above the hills that wrinkled up west of the town.",
+      "distractors": [
+        "to fall rapidly to the ground",
+        "to move forward very fast",
+        "to disappear suddenly"
+      ],
+      "surfaceForms": [
+        "hovered"
+      ],
+      "clozeAnswerSurfaceForm": "hovered"
+    },
+    {
+      "lemma": "wrinkle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to form small folds or creases",
+      "translationZh": "起皺；形成皺褶",
+      "exampleSentence": "Later that night I dreamt that a classmate I hardly knew named Josh and I hovered, side by side, above the hills that wrinkled up west of the town.",
+      "clozeSentence": "Later that night I dreamt that a classmate I hardly knew named Josh and I hovered, side by side, above the hills that _____ up west of the town.",
+      "distractors": [
+        "to flatten out completely",
+        "to become brightly colored",
+        "to grow taller suddenly"
+      ],
+      "surfaceForms": [
+        "wrinkled"
+      ],
+      "clozeAnswerSurfaceForm": "wrinkled"
+    },
+    {
+      "lemma": "throat",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the passage at the back of the mouth and neck",
+      "translationZh": "喉嚨",
+      "exampleSentence": "In the dream I looked at Josh, joy welling up like a balloon rising from my chest into my throat.",
+      "clozeSentence": "In the dream I looked at Josh, joy welling up like a balloon rising from my chest into my _____.",
+      "distractors": [
+        "the center of the chest",
+        "the top of the head",
+        "the inside of the ear"
+      ],
+      "surfaceForms": [
+        "throat"
+      ],
+      "clozeAnswerSurfaceForm": "throat"
+    },
+    {
+      "lemma": "arc",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a curved line or shape",
+      "translationZh": "弧線；弧形",
+      "exampleSentence": "We bobbed in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "clozeSentence": "We bobbed in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel _____ and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "distractors": [
+        "a straight, flat surface",
+        "a sharp, pointed edge",
+        "a deep hole in the ground"
+      ],
+      "surfaceForms": [
+        "arcs"
+      ],
+      "clozeAnswerSurfaceForm": "arcs"
+    },
+    {
+      "lemma": "bob",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to move gently up and down",
+      "translationZh": "上下漂浮；輕輕晃動",
+      "exampleSentence": "We bobbed in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "clozeSentence": "We _____ in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "distractors": [
+        "to move quickly in a straight line",
+        "to remain completely still",
+        "to sink slowly downward"
+      ],
+      "surfaceForms": [
+        "bobbed"
+      ],
+      "clozeAnswerSurfaceForm": "bobbed"
+    },
+    {
+      "lemma": "friendly",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "kind and pleasant; easy to like",
+      "translationZh": "友善的；宜人的",
+      "exampleSentence": "We bobbed in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "clozeSentence": "We bobbed in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, _____ Pacific Ocean lapping against the shore.",
+      "distractors": [
+        "cold and unwelcoming",
+        "dangerous and threatening",
+        "mysterious and unclear"
+      ],
+      "surfaceForms": [
+        "friendly"
+      ],
+      "clozeAnswerSurfaceForm": "friendly"
+    },
+    {
+      "lemma": "lap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "(of water) to move gently against something with soft sounds",
+      "translationZh": "(水)輕拍；拍打",
+      "exampleSentence": "We bobbed in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "clozeSentence": "We bobbed in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, friendly Pacific Ocean _____ against the shore.",
+      "distractors": [
+        "to crash violently against something",
+        "to freeze into solid ice",
+        "to evaporate completely"
+      ],
+      "surfaceForms": [
+        "lapping"
+      ],
+      "clozeAnswerSurfaceForm": "lapping"
+    },
+    {
+      "lemma": "lazily",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "in a slow, relaxed way, without much effort",
+      "translationZh": "懶洋洋地",
+      "exampleSentence": "We bobbed in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "clozeSentence": "We bobbed in the air, _____, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "distractors": [
+        "in a hurried, urgent way",
+        "in a nervous, anxious way",
+        "in a loud, aggressive way"
+      ],
+      "surfaceForms": [
+        "lazily"
+      ],
+      "clozeAnswerSurfaceForm": "lazily"
+    },
+    {
+      "lemma": "metropolis",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a large, important city",
+      "translationZh": "大都市",
+      "exampleSentence": "We bobbed slowly forward toward the great metropolis—the most thrilling city I knew.",
+      "clozeSentence": "We bobbed slowly forward toward the great _____—the most thrilling city I knew.",
+      "distractors": [
+        "a small quiet village",
+        "a rural farming area",
+        "an isolated island"
+      ],
+      "surfaceForms": [
+        "metropolis"
+      ],
+      "clozeAnswerSurfaceForm": "metropolis—the"
+    },
+    {
+      "lemma": "pastel",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a pale, soft shade of color",
+      "translationZh": "粉彩色的；淡色的",
+      "exampleSentence": "We bobbed in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "clozeSentence": "We bobbed in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting _____ arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "distractors": [
+        "a bright, dark, intense color",
+        "a shiny, metallic surface",
+        "a black and white pattern"
+      ],
+      "surfaceForms": [
+        "pastel"
+      ],
+      "clozeAnswerSurfaceForm": "pastel"
+    },
+    {
+      "lemma": "slant",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to lean or slope at an angle",
+      "translationZh": "傾斜",
+      "exampleSentence": "We bobbed in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "clozeSentence": "We bobbed in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in _____ pastel arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "distractors": [
+        "to stand perfectly upright",
+        "to spin around quickly",
+        "to shrink in size"
+      ],
+      "surfaceForms": [
+        "slanting"
+      ],
+      "clozeAnswerSurfaceForm": "slanting"
+    },
+    {
+      "lemma": "spike",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a tall, narrow, pointed shape",
+      "translationZh": "尖狀物；尖峰",
+      "exampleSentence": "We bobbed in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "clozeSentence": "We bobbed in the air, lazily, looking toward San Francisco in the distance: the _____ and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "distractors": [
+        "a wide, flat surface",
+        "a soft, rounded shape",
+        "a deep, hollow space"
+      ],
+      "surfaceForms": [
+        "spikes"
+      ],
+      "clozeAnswerSurfaceForm": "spikes"
+    },
+    {
+      "lemma": "thrill",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "causing a sudden feeling of excitement",
+      "translationZh": "使興奮的；令人激動的",
+      "exampleSentence": "We bobbed slowly forward toward the great metropolis—the most thrilling city I knew.",
+      "clozeSentence": "We bobbed slowly forward toward the great metropolis—the most _____ city I knew.",
+      "distractors": [
+        "causing a feeling of boredom",
+        "causing a feeling of sadness",
+        "causing a feeling of confusion"
+      ],
+      "surfaceForms": [
+        "thrilling"
+      ],
+      "clozeAnswerSurfaceForm": "thrilling"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "memorization",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the act of learning something so it can be recalled exactly",
+      "translationZh": "記憶；背誦",
+      "exampleSentence": "“You’ve got to trust in your life,” my father said, coming into my room that night as I sat at my desk copying notes in small handwriting on small note cards for memorization.",
+      "clozeSentence": "“You’ve got to trust in your life,” my father said, coming into my room that night as I sat at my desk copying notes in small handwriting on small note cards for _____.",
+      "distractors": [
+        "the act of writing something down permanently",
+        "the process of forgetting something",
+        "the process of translating a text"
+      ],
+      "surfaceForms": [
+        "memorization"
+      ],
+      "clozeAnswerSurfaceForm": "memorization"
+    },
+    {
+      "lemma": "flotational",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "designed to help something float",
+      "translationZh": "有助漂浮的；浮力的",
+      "exampleSentence": "I mean we had these flotational backpacks.”",
+      "clozeSentence": "I mean we had these _____ backpacks.”",
+      "distractors": [
+        "designed to keep something warm",
+        "designed to make something heavier",
+        "designed to block out sound"
+      ],
+      "surfaceForms": [
+        "flotational"
+      ],
+      "clozeAnswerSurfaceForm": "flotational"
+    },
+    {
+      "lemma": "implication",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "something suggested without being directly stated",
+      "translationZh": "暗示；言外之意",
+      "exampleSentence": "I was too serious, was the implication.",
+      "clozeSentence": "I was too serious, was the _____.",
+      "distractors": [
+        "a direct, clear statement of fact",
+        "a formal written apology",
+        "a loud public announcement"
+      ],
+      "surfaceForms": [
+        "implication"
+      ],
+      "clozeAnswerSurfaceForm": "implication"
+    },
+    {
+      "lemma": "relaxation",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the state of being free from tension or stress",
+      "translationZh": "放鬆；休息",
+      "exampleSentence": "I knew he meant the word as some kind of shorthand for peace and relaxation.",
+      "clozeSentence": "I knew he meant the word as some kind of shorthand for peace and _____.",
+      "distractors": [
+        "a state of extreme excitement",
+        "a feeling of confusion",
+        "a period of hard labor"
+      ],
+      "surfaceForms": [
+        "relaxation"
+      ],
+      "clozeAnswerSurfaceForm": "relaxation"
+    },
+    {
+      "lemma": "rip",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to tear or burst out suddenly and forcefully",
+      "translationZh": "猛然衝出；撕裂",
+      "exampleSentence": "I was so excited I had to be careful to say the words slowly, to not let them rip out: “Let’s go,” I said.",
+      "clozeSentence": "I was so excited I had to be careful to say the words slowly, to not let them _____ out: “Let’s go,” I said.",
+      "distractors": [
+        "to move slowly and quietly",
+        "to disappear without a trace",
+        "to become completely silent"
+      ],
+      "surfaceForms": [
+        "rip"
+      ],
+      "clozeAnswerSurfaceForm": "rip"
+    },
+    {
+      "lemma": "shorthand",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a simple way of representing a more complex idea",
+      "translationZh": "簡稱；簡便的表達方式",
+      "exampleSentence": "I knew he meant the word as some kind of shorthand for peace and relaxation.",
+      "clozeSentence": "I knew he meant the word as some kind of _____ for peace and relaxation.",
+      "distractors": [
+        "a formal legal contract",
+        "a detailed scientific report",
+        "a type of musical instrument"
+      ],
+      "surfaceForms": [
+        "shorthand"
+      ],
+      "clozeAnswerSurfaceForm": "shorthand"
+    },
+    {
+      "lemma": "intuition",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "the ability to understand something instinctively, without reasoning",
+      "translationZh": "直覺",
+      "exampleSentence": "“If you trust your intuition, and listen to it, it will speak louder.",
+      "clozeSentence": "“If you trust your _____, and listen to it, it will speak louder.",
+      "distractors": [
+        "a skill learned through years of study",
+        "a rule enforced by law",
+        "a memory of a past event"
+      ],
+      "surfaceForms": [
+        "intuition"
+      ],
+      "clozeAnswerSurfaceForm": "intuition"
+    },
+    {
+      "lemma": "stupor",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a state of near-unconsciousness or dazed confusion",
+      "translationZh": "恍惚；不省人事的狀態",
+      "exampleSentence": "He’d make me lose my motivation in a stupor of weed (or so I imagined).",
+      "clozeSentence": "He’d make me lose my motivation in a _____ of weed (or so I imagined).",
+      "distractors": [
+        "a state of high energy and alertness",
+        "a feeling of deep happiness",
+        "a period of intense concentration"
+      ],
+      "surfaceForms": [
+        "stupor"
+      ],
+      "clozeAnswerSurfaceForm": "stupor"
+    },
+    {
+      "lemma": "weed",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "marijuana; a plant smoked as a drug (informal)",
+      "translationZh": "大麻(俗稱)",
+      "exampleSentence": "He’d make me lose my motivation in a stupor of weed (or so I imagined).",
+      "clozeSentence": "He’d make me lose my motivation in a stupor of _____ (or so I imagined).",
+      "distractors": [
+        "a type of strong alcohol",
+        "a prescription medicine for pain",
+        "a caffeinated drink"
+      ],
+      "surfaceForms": [
+        "weed"
+      ],
+      "clozeAnswerSurfaceForm": "weed"
+    },
+    {
+      "lemma": "atmospheric",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "relating to the atmosphere or the mood created by surroundings",
+      "translationZh": "大氣的；氛圍的",
+      "exampleSentence": "The city was more vivid than in life, both far away and near, the perspective foreshortened, the way certain atmospheric conditions will make distant things appear alternately far away and very close.",
+      "clozeSentence": "The city was more vivid than in life, both far away and near, the perspective foreshortened, the way certain _____ conditions will make distant things appear alternately far away and very close.",
+      "distractors": [
+        "relating to underground structures",
+        "concerned with financial matters",
+        "related to physical exercise"
+      ],
+      "surfaceForms": [
+        "atmospheric"
+      ],
+      "clozeAnswerSurfaceForm": "atmospheric"
+    },
+    {
+      "lemma": "foreshorten",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to make something appear shorter than it is, due to perspective",
+      "translationZh": "透視縮短；因視角而顯得較短",
+      "exampleSentence": "The city was more vivid than in life, both far away and near, the perspective foreshortened, the way certain atmospheric conditions will make distant things appear alternately far away and very close.",
+      "clozeSentence": "The city was more vivid than in life, both far away and near, the perspective _____, the way certain atmospheric conditions will make distant things appear alternately far away and very close.",
+      "distractors": [
+        "to make something appear brighter",
+        "to make something appear larger than it is",
+        "to make something disappear completely"
+      ],
+      "surfaceForms": [
+        "foreshortened"
+      ],
+      "clozeAnswerSurfaceForm": "foreshortened"
+    },
+    {
+      "lemma": "alternately",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "happening in turns, one after the other",
+      "translationZh": "交替地；輪流地",
+      "exampleSentence": "The city was more vivid than in life, both far away and near, the perspective foreshortened, the way certain atmospheric conditions will make distant things appear alternately far away and very close.",
+      "clozeSentence": "The city was more vivid than in life, both far away and near, the perspective foreshortened, the way certain atmospheric conditions will make distant things appear _____ far away and very close.",
+      "distractors": [
+        "happening only once",
+        "happening at exactly the same time",
+        "happening in a random, chaotic way"
+      ],
+      "surfaceForms": [
+        "alternately"
+      ],
+      "clozeAnswerSurfaceForm": "alternately"
+    },
+    {
+      "lemma": "perspective",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a way of viewing objects that shows depth and distance",
+      "translationZh": "透視；視角",
+      "exampleSentence": "The city was more vivid than in life, both far away and near, the perspective foreshortened, the way certain atmospheric conditions will make distant things appear alternately far away and very close.",
+      "clozeSentence": "The city was more vivid than in life, both far away and near, the _____ foreshortened, the way certain atmospheric conditions will make distant things appear alternately far away and very close.",
+      "distractors": [
+        "a sudden change in weather",
+        "a type of musical rhythm",
+        "a legal agreement between parties"
+      ],
+      "surfaceForms": [
+        "perspective"
+      ],
+      "clozeAnswerSurfaceForm": "perspective"
+    },
+    {
+      "lemma": "hippie",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a person who rejects conventional society, often linked to peace and freedom",
+      "translationZh": "嬉皮",
+      "exampleSentence": "“You’ll be a hippie someday,” he said.",
+      "clozeSentence": "“You’ll be a _____ someday,” he said.",
+      "distractors": [
+        "a person who works in finance",
+        "a strict military officer",
+        "a professional athlete"
+      ],
+      "surfaceForms": [
+        "hippie",
+        "hippies"
+      ],
+      "clozeAnswerSurfaceForm": "hippie"
+    },
+    {
+      "lemma": "parade",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to display something openly, often to impress others",
+      "translationZh": "炫耀；展示",
+      "exampleSentence": "“Suit yourself,” he said, and walked out of my room, springing on the heels of his Birkenstocks, whistling, as if to parade his own peace and happiness before me.",
+      "clozeSentence": "“Suit yourself,” he said, and walked out of my room, springing on the heels of his Birkenstocks, whistling, as if to _____ his own peace and happiness before me.",
+      "distractors": [
+        "to hide something carefully",
+        "to destroy something completely",
+        "to give something away for free"
+      ],
+      "surfaceForms": [
+        "parade"
+      ],
+      "clozeAnswerSurfaceForm": "parade"
+    },
+    {
+      "lemma": "hover",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to stay in one place in the air",
+      "translationZh": "盤旋；懸浮",
+      "exampleSentence": "Later that night I dreamt that a classmate I hardly knew named Josh and I hovered, side by side, above the hills that wrinkled up west of the town.",
+      "clozeSentence": "Later that night I dreamt that a classmate I hardly knew named Josh and I _____, side by side, above the hills that wrinkled up west of the town.",
+      "distractors": [
+        "to fall rapidly to the ground",
+        "to move forward very fast",
+        "to disappear suddenly"
+      ],
+      "surfaceForms": [
+        "hovered"
+      ],
+      "clozeAnswerSurfaceForm": "hovered"
+    },
+    {
+      "lemma": "wrinkle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to form small folds or creases",
+      "translationZh": "起皺；形成皺褶",
+      "exampleSentence": "Later that night I dreamt that a classmate I hardly knew named Josh and I hovered, side by side, above the hills that wrinkled up west of the town.",
+      "clozeSentence": "Later that night I dreamt that a classmate I hardly knew named Josh and I hovered, side by side, above the hills that _____ up west of the town.",
+      "distractors": [
+        "to flatten out completely",
+        "to become brightly colored",
+        "to grow taller suddenly"
+      ],
+      "surfaceForms": [
+        "wrinkled"
+      ],
+      "clozeAnswerSurfaceForm": "wrinkled"
+    },
+    {
+      "lemma": "throat",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the passage at the back of the mouth and neck",
+      "translationZh": "喉嚨",
+      "exampleSentence": "In the dream I looked at Josh, joy welling up like a balloon rising from my chest into my throat.",
+      "clozeSentence": "In the dream I looked at Josh, joy welling up like a balloon rising from my chest into my _____.",
+      "distractors": [
+        "the center of the chest",
+        "the top of the head",
+        "the inside of the ear"
+      ],
+      "surfaceForms": [
+        "throat"
+      ],
+      "clozeAnswerSurfaceForm": "throat"
+    },
+    {
+      "lemma": "arc",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a curved line or shape",
+      "translationZh": "弧線；弧形",
+      "exampleSentence": "We bobbed in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "clozeSentence": "We bobbed in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel _____ and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "distractors": [
+        "a straight, flat surface",
+        "a sharp, pointed edge",
+        "a deep hole in the ground"
+      ],
+      "surfaceForms": [
+        "arcs"
+      ],
+      "clozeAnswerSurfaceForm": "arcs"
+    },
+    {
+      "lemma": "bob",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to move gently up and down",
+      "translationZh": "上下漂浮；輕輕晃動",
+      "exampleSentence": "We bobbed in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "clozeSentence": "We _____ in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "distractors": [
+        "to move quickly in a straight line",
+        "to remain completely still",
+        "to sink slowly downward"
+      ],
+      "surfaceForms": [
+        "bobbed"
+      ],
+      "clozeAnswerSurfaceForm": "bobbed"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "cloze",
+      "wordLemma": "stupor",
+      "prompt": "He’d make me lose my motivation in a _____ of weed (or so I imagined).",
+      "options": [
+        "hippie",
+        "rip",
+        "atmospheric",
+        "stupor"
+      ],
+      "answer": "stupor"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "parade",
+      "prompt": "炫耀；展示",
+      "options": [
+        "implication",
+        "bob",
+        "parade",
+        "memorization"
+      ],
+      "answer": "parade"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "memorization",
+      "prompt": "memorization",
+      "options": [
+        "the act of writing something down permanently",
+        "the act of learning something so it can be recalled exactly",
+        "the process of forgetting something",
+        "the process of translating a text"
+      ],
+      "answer": "the act of learning something so it can be recalled exactly"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "shorthand",
+      "prompt": "簡稱；簡便的表達方式",
+      "options": [
+        "relaxation",
+        "wrinkle",
+        "stupor",
+        "shorthand"
+      ],
+      "answer": "shorthand"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "weed",
+      "prompt": "大麻(俗稱)",
+      "options": [
+        "parade",
+        "atmospheric",
+        "shorthand",
+        "weed"
+      ],
+      "answer": "weed"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "relaxation",
+      "prompt": "relaxation",
+      "options": [
+        "a feeling of confusion",
+        "the state of being free from tension or stress",
+        "a period of hard labor",
+        "a state of extreme excitement"
+      ],
+      "answer": "the state of being free from tension or stress"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "perspective",
+      "prompt": "perspective",
+      "options": [
+        "a legal agreement between parties",
+        "a sudden change in weather",
+        "a way of viewing objects that shows depth and distance",
+        "a type of musical rhythm"
+      ],
+      "answer": "a way of viewing objects that shows depth and distance"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "implication",
+      "prompt": "暗示；言外之意",
+      "options": [
+        "shorthand",
+        "foreshorten",
+        "implication",
+        "alternately"
+      ],
+      "answer": "implication"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "flotational",
+      "prompt": "I mean we had these _____ backpacks.”",
+      "options": [
+        "flotational",
+        "shorthand",
+        "hovered",
+        "bobbed"
+      ],
+      "answer": "flotational"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "hover",
+      "prompt": "hover",
+      "options": [
+        "to move forward very fast",
+        "to fall rapidly to the ground",
+        "to stay in one place in the air",
+        "to disappear suddenly"
+      ],
+      "answer": "to stay in one place in the air"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "wrinkle",
+      "prompt": "Later that night I dreamt that a classmate I hardly knew named Josh and I hovered, side by side, above the hills that _____ up west of the town.",
+      "options": [
+        "hippie",
+        "wrinkled",
+        "flotational",
+        "intuition"
+      ],
+      "answer": "wrinkled"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "hippie",
+      "prompt": "“You’ll be a _____ someday,” he said.",
+      "options": [
+        "memorization",
+        "implication",
+        "hippie",
+        "perspective"
+      ],
+      "answer": "hippie"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "bob",
+      "prompt": "We _____ in the air, lazily, looking toward San Francisco in the distance: the spikes and glints of high buildings and Victorian houses in slanting pastel arcs and, beyond them, the bright, friendly Pacific Ocean lapping against the shore.",
+      "options": [
+        "bobbed",
+        "hippie",
+        "atmospheric",
+        "wrinkled"
+      ],
+      "answer": "bobbed"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "intuition",
+      "prompt": "intuition",
+      "options": [
+        "the ability to understand something instinctively, without reasoning",
+        "a skill learned through years of study",
+        "a rule enforced by law",
+        "a memory of a past event"
+      ],
+      "answer": "the ability to understand something instinctively, without reasoning"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "foreshorten",
+      "prompt": "The city was more vivid than in life, both far away and near, the perspective _____, the way certain atmospheric conditions will make distant things appear alternately far away and very close.",
+      "options": [
+        "intuition",
+        "atmospheric",
+        "implication",
+        "foreshortened"
+      ],
+      "answer": "foreshortened"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "atmospheric",
+      "prompt": "atmospheric",
+      "options": [
+        "relating to the atmosphere or the mood created by surroundings",
+        "relating to underground structures",
+        "related to physical exercise",
+        "concerned with financial matters"
+      ],
+      "answer": "relating to the atmosphere or the mood created by surroundings"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "rip",
+      "prompt": "I was so excited I had to be careful to say the words slowly, to not let them _____ out: “Let’s go,” I said.",
+      "options": [
+        "rip",
+        "wrinkled",
+        "hovered",
+        "alternately"
+      ],
+      "answer": "rip"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "arc",
+      "prompt": "arc",
+      "options": [
+        "a deep hole in the ground",
+        "a curved line or shape",
+        "a sharp, pointed edge",
+        "a straight, flat surface"
+      ],
+      "answer": "a curved line or shape"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "alternately",
+      "prompt": "交替地；輪流地",
+      "options": [
+        "intuition",
+        "memorization",
+        "arc",
+        "alternately"
+      ],
+      "answer": "alternately"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "throat",
+      "prompt": "喉嚨",
+      "options": [
+        "hippie",
+        "throat",
+        "relaxation",
+        "wrinkle"
+      ],
+      "answer": "throat"
+    }
+  ]
+}

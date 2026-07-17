@@ -1,0 +1,1589 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 5,
+  "partTitle": "Runaway",
+  "sectionIndex": 5,
+  "paragraphs": [
+    "That spring, my father invited me on a trip to New York with him and Laurene.",
+    "“She’s a great dancer,” he said on the flight. Laurene and I flanked him in the leather seats at the front of business class. He looked at her and ran his hand over her hair the way you might with a sleeping child.",
+    "“I’m an all right dancer,” she said, but I knew she must be better than I was, as he’d seen me perform once in a concert and didn’t mention that I danced too.",
+    "Laurene had taken me to lunch once before this in her white VW Rabbit convertible, taking time out from Stanford’s business school, where she was in her final semester. She seemed rushed, didn’t talk to me or look at me as she drove, but looked straight ahead, as if she wasn’t sure how to relate to a child. She held the gearshift differently from my mother, with less grip, pushing it forward with the heel of her hand. She was pretty, but a different pretty from Tina, who didn’t wear makeup and who didn’t seem interested in the way she looked.",
+    "We walked through the Stanford Shopping Center. She walked fast, with her feet pointed out to the sides; she wore black suede shoes with metal clocks on the tops. “Let’s go to the Opera Cafe,” she said. “They make a great chicken Caesar salad without much fat.” This talk of fat was new and enticing—another, more sophisticated world I wanted to be part of in which women watched the amount of fat they ate. I didn’t think of myself as thin or fat. I didn’t go out to eat very often, and looked forward to sampling one of the outlandishly tall cakes so large they looked unreal, like sculptures by Claes Oldenburg. I hoped we’d get more than salads.",
+    "But we had to eat quickly; we didn’t have time for dessert. Laurene’s blonde bangs fell over her forehead, curling out from a cowlick at the hairline. When she touched objects, she did it firmly, with precision, as if she knew what she wanted to take before she touched it. I liked the way she held the menu, the steering wheel, the tube of lipstick.",
+    "At first, New York City smelled of yeast. Warm pretzels, exhaust, steam.",
+    "Laurene took us to Wall Street and showed us around the trading floor, where she’d worked just out of college.",
+    "“They used to switch the phones,” she said, of a circular bank of white telephones, each one with a white twisting cord hanging down, “as a joke. They’d hang the earpiece of one phone on the base of another, crossing the cords. So when someone needed to do a trade, and they were in a rush, they’d pick up a phone, dial the number, and then realize they were using an earpiece that didn’t match the keypad.”",
+    "Laurene’s friend Shell, a large brunette woman who wore red lipstick and spoke loudly, with a New York accent, came to visit us at the suite at the Carlyle Hotel. She stood beside the piano, playing a few notes. They talked about people I didn’t know, calling them “total losers.”",
+    "That afternoon, my father said, “There’s something I want to show you two.” We took a taxi to a tall building and then a freight elevator with blankets for walls up to the very top. My ears popped. The elevator opened onto a dusty, windy space, full of watery light.",
+    "It was an apartment at the top of a building called the San Remo. It was still under renovation, and it took me a few minutes to grasp that it was his apartment. The ceilings were at least twice the height of ordinary ceilings. Pieces of cardboard covered the floor; he lifted one up to show us the marble below, a glossy deep black that also lined the walls. He told us that I. M. Pei designed the apartment in 1982, and when one of the quarries ran out, they’d had to find another one and replace the old marble with the new marble. Otherwise the blacks wouldn’t match. Construction had lasted six years and it was still unfinished.",
+    "“It’s incredible,” Laurene said, looking around.",
+    "Other than a bank of windows along two sides, all the surfaces in the apartment were black marble. I swept up a line of dust with my finger; the marble gleamed beneath. We stood in the main room, with its triple-height ceilings and windows, gaping fireplace, black walls and floor. The staircase looked wet, dripping down from the second floor, each level of stair opening wider than the last, like molasses poured from a jar. He said it was based on the design of a staircase by Michelangelo.",
+    "It was hard to tell how a person could possibly be comfortable in such a place. It was hard-edged like rich people’s apartments in movies. It was opulent, the opposite of the counterculture ideals he talked about, a showcase made to impress. Yes, he had the Porsche and the nice suits, but I’d believed he thought the best things were simple things, so that looking at this apartment felt like a shock. Maybe his ideals were only for me, an excuse not to be generous with me. Maybe he was bifurcated, and couldn’t help trying to impress other people in the obvious ways rich people do, even as I’d thought, with his holey jeans, his strange diet, his emphasis on simplicity, his crumbling house, he didn’t care.",
+    "“It was supposed to be the ultimate bachelor pad,” he said sadly. “Oh well.”",
+    "We went out onto the balcony, a line of stone balustrades like candlesticks wrapped around the corner. From up this high, New York smelled like nothing. The wind made a sound like a sheet flapping. Below us, Central Park looked like it was cut out of the concrete.",
+    "“It’s a great view, isn’t it?” he asked.",
+    "“It is,” I said.",
+    "“This is amazing, Steve,” Laurene said, with a lightness to her voice I wished I felt too. He grabbed her and I looked away. I felt stuck, unable to talk, my feet heavy on the ground."
+  ],
+  "words": [
+    {
+      "lemma": "freight",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "goods transported by truck, train, ship, or aircraft",
+      "translationZh": "貨運；貨物",
+      "exampleSentence": "That afternoon, my father said, “There’s something I want to show you two.” We took a taxi to a tall building and then a freight elevator with blankets for walls up to the very top.",
+      "clozeSentence": "That afternoon, my father said, “There’s something I want to show you two.” We took a taxi to a tall building and then a _____ elevator with blankets for walls up to the very top.",
+      "distractors": [
+        "passengers traveling for leisure",
+        "mail delivered by hand",
+        "fuel used to power vehicles"
+      ],
+      "surfaceForms": [
+        "freight"
+      ],
+      "clozeAnswerSurfaceForm": "freight"
+    },
+    {
+      "lemma": "convertible",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a car with a roof that can be folded down or removed",
+      "translationZh": "敞篷車",
+      "exampleSentence": "Laurene had taken me to lunch once before this in her white VW Rabbit convertible, taking time out from Stanford’s business school, where she was in her final semester.",
+      "clozeSentence": "Laurene had taken me to lunch once before this in her white VW Rabbit _____, taking time out from Stanford’s business school, where she was in her final semester.",
+      "distractors": [
+        "a car built to carry heavy cargo",
+        "a very small car for one person",
+        "a car powered only by electricity"
+      ],
+      "surfaceForms": [
+        "convertible"
+      ],
+      "clozeAnswerSurfaceForm": "convertible"
+    },
+    {
+      "lemma": "flank",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "positioned on each side of someone or something",
+      "translationZh": "位於……兩側；夾在中間",
+      "exampleSentence": "Laurene and I flanked him in the leather seats at the front of business class.",
+      "clozeSentence": "Laurene and I _____ him in the leather seats at the front of business class.",
+      "distractors": [
+        "left completely alone in a room",
+        "placed far away in another building",
+        "hidden behind a curtain"
+      ],
+      "surfaceForms": [
+        "flanked"
+      ],
+      "clozeAnswerSurfaceForm": "flanked"
+    },
+    {
+      "lemma": "gearshift",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the lever used to change gears in a vehicle",
+      "translationZh": "（汽車的）排檔桿",
+      "exampleSentence": "She held the gearshift differently from my mother, with less grip, pushing it forward with the heel of her hand.",
+      "clozeSentence": "She held the _____ differently from my mother, with less grip, pushing it forward with the heel of her hand.",
+      "distractors": [
+        "the pedal used to brake a vehicle",
+        "the wheel used to steer a vehicle",
+        "the mirror used to see behind a vehicle"
+      ],
+      "surfaceForms": [
+        "gearshift"
+      ],
+      "clozeAnswerSurfaceForm": "gearshift"
+    },
+    {
+      "lemma": "grip",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a firm hold on something",
+      "translationZh": "抓緊；握力",
+      "exampleSentence": "She held the gearshift differently from my mother, with less grip, pushing it forward with the heel of her hand.",
+      "clozeSentence": "She held the gearshift differently from my mother, with less _____, pushing it forward with the heel of her hand.",
+      "distractors": [
+        "a loose, careless hold",
+        "a decorative pattern",
+        "a sudden loud noise"
+      ],
+      "surfaceForms": [
+        "grip"
+      ],
+      "clozeAnswerSurfaceForm": "grip"
+    },
+    {
+      "lemma": "suede",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "soft leather with a slightly rough surface",
+      "translationZh": "麂皮；絨面革",
+      "exampleSentence": "She walked fast, with her feet pointed out to the sides; she wore black suede shoes with metal clocks on the tops.",
+      "clozeSentence": "She walked fast, with her feet pointed out to the sides; she wore black _____ shoes with metal clocks on the tops.",
+      "distractors": [
+        "shiny smooth patent leather",
+        "thick woven cotton",
+        "clear waterproof plastic"
+      ],
+      "surfaceForms": [
+        "suede"
+      ],
+      "clozeAnswerSurfaceForm": "suede"
+    },
+    {
+      "lemma": "gleam",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "shone with a soft or brief light",
+      "translationZh": "閃爍微光；發亮",
+      "exampleSentence": "I swept up a line of dust with my finger; the marble gleamed beneath.",
+      "clozeSentence": "I swept up a line of dust with my finger; the marble _____ beneath.",
+      "distractors": [
+        "remained completely dark",
+        "made a loud grinding noise",
+        "smelled strongly of dust"
+      ],
+      "surfaceForms": [
+        "gleamed"
+      ],
+      "clozeAnswerSurfaceForm": "gleamed"
+    },
+    {
+      "lemma": "outlandishly",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "in a strange and unfamiliar way",
+      "translationZh": "古怪地；離奇地",
+      "exampleSentence": "I didn’t go out to eat very often, and looked forward to sampling one of the outlandishly tall cakes so large they looked unreal, like sculptures by Claes Oldenburg.",
+      "clozeSentence": "I didn’t go out to eat very often, and looked forward to sampling one of the _____ tall cakes so large they looked unreal, like sculptures by Claes Oldenburg.",
+      "distractors": [
+        "in a very ordinary, familiar way",
+        "in a quiet and modest way",
+        "in a slow and careful way"
+      ],
+      "surfaceForms": [
+        "outlandishly"
+      ],
+      "clozeAnswerSurfaceForm": "outlandishly"
+    },
+    {
+      "lemma": "steer",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "controlling the direction of a vehicle",
+      "translationZh": "駕駛；掌控方向",
+      "exampleSentence": "I liked the way she held the menu, the steering wheel, the tube of lipstick.",
+      "clozeSentence": "I liked the way she held the menu, the _____ wheel, the tube of lipstick.",
+      "distractors": [
+        "cleaning the interior of a vehicle",
+        "repairing a broken engine",
+        "refueling a vehicle with gas"
+      ],
+      "surfaceForms": [
+        "steering"
+      ],
+      "clozeAnswerSurfaceForm": "steering"
+    },
+    {
+      "lemma": "sweep",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "moved something (like dust) using a brush in one motion",
+      "translationZh": "用（手或掃帚）掃過",
+      "exampleSentence": "I swept up a line of dust with my finger; the marble gleamed beneath.",
+      "clozeSentence": "I _____ up a line of dust with my finger; the marble gleamed beneath.",
+      "distractors": [
+        "pressed down firmly and held still",
+        "poured liquid slowly over a surface",
+        "cut something into small pieces"
+      ],
+      "surfaceForms": [
+        "swept"
+      ],
+      "clozeAnswerSurfaceForm": "swept"
+    },
+    {
+      "lemma": "unreal",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "so remarkable or strange it seems not real; incredible",
+      "translationZh": "（口語）不真實的；令人難以置信的",
+      "exampleSentence": "I didn’t go out to eat very often, and looked forward to sampling one of the outlandishly tall cakes so large they looked unreal, like sculptures by Claes Oldenburg.",
+      "clozeSentence": "I didn’t go out to eat very often, and looked forward to sampling one of the outlandishly tall cakes so large they looked _____, like sculptures by Claes Oldenburg.",
+      "distractors": [
+        "completely ordinary and expected",
+        "very small in size",
+        "extremely dull and boring"
+      ],
+      "surfaceForms": [
+        "unreal"
+      ],
+      "clozeAnswerSurfaceForm": "unreal"
+    },
+    {
+      "lemma": "balustrade",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a row of small posts supporting a railing",
+      "translationZh": "（欄杆的）扶手柱列；欄杆",
+      "exampleSentence": "We went out onto the balcony, a line of stone balustrades like candlesticks wrapped around the corner.",
+      "clozeSentence": "We went out onto the balcony, a line of stone _____ like candlesticks wrapped around the corner.",
+      "distractors": [
+        "a tall decorative column supporting a roof",
+        "a narrow spiral staircase",
+        "a glass wall separating rooms"
+      ],
+      "surfaceForms": [
+        "balustrades"
+      ],
+      "clozeAnswerSurfaceForm": "balustrades"
+    },
+    {
+      "lemma": "fireplace",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a structure in a room where a fire can be lit",
+      "translationZh": "壁爐",
+      "exampleSentence": "We stood in the main room, with its triple-height ceilings and windows, gaping fireplace, black walls and floor.",
+      "clozeSentence": "We stood in the main room, with its triple-height ceilings and windows, gaping _____, black walls and floor.",
+      "distractors": [
+        "a large window facing the street",
+        "a cupboard for storing dishes",
+        "a raised platform for sitting"
+      ],
+      "surfaceForms": [
+        "fireplace"
+      ],
+      "clozeAnswerSurfaceForm": "fireplace"
+    },
+    {
+      "lemma": "cord",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a length of flexible material like thick string or wire",
+      "translationZh": "細繩；電線",
+      "exampleSentence": "“They used to switch the phones,” she said, of a circular bank of white telephones, each one with a white twisting cord hanging down, “as a joke.",
+      "clozeSentence": "“They used to switch the phones,” she said, of a circular bank of white telephones, each one with a white twisting _____ hanging down, “as a joke.",
+      "distractors": [
+        "a flat sheet of glass",
+        "a heavy wooden plank",
+        "a small metal coin"
+      ],
+      "surfaceForms": [
+        "cord",
+        "cords"
+      ],
+      "clozeAnswerSurfaceForm": "cord"
+    },
+    {
+      "lemma": "entice",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "attractive and tempting",
+      "translationZh": "誘人的；吸引人的",
+      "exampleSentence": "“They make a great chicken Caesar salad without much fat.” This talk of fat was new and enticing—another, more sophisticated world I wanted to be part of in which women watched the amount of fat they ate.",
+      "clozeSentence": "“They make a great chicken Caesar salad without much fat.” This talk of fat was new and _____—another, more sophisticated world I wanted to be part of in which women watched the amount of fat they ate.",
+      "distractors": [
+        "boring and unremarkable",
+        "frightening and threatening",
+        "confusing and unclear"
+      ],
+      "surfaceForms": [
+        "enticing"
+      ],
+      "clozeAnswerSurfaceForm": "enticing—another"
+    },
+    {
+      "lemma": "sophisticate",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "having refined knowledge, taste, or experience of the world",
+      "translationZh": "世故的；老練精緻的",
+      "exampleSentence": "“They make a great chicken Caesar salad without much fat.” This talk of fat was new and enticing—another, more sophisticated world I wanted to be part of in which women watched the amount of fat they ate.",
+      "clozeSentence": "“They make a great chicken Caesar salad without much fat.” This talk of fat was new and enticing—another, more _____ world I wanted to be part of in which women watched the amount of fat they ate.",
+      "distractors": [
+        "simple and inexperienced",
+        "loud and careless",
+        "outdated and old-fashioned"
+      ],
+      "surfaceForms": [
+        "sophisticated"
+      ],
+      "clozeAnswerSurfaceForm": "sophisticated"
+    },
+    {
+      "lemma": "ceiling",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the inner surface of the top of a room",
+      "translationZh": "天花板",
+      "exampleSentence": "The ceilings were at least twice the height of ordinary ceilings.",
+      "clozeSentence": "The _____ were at least twice the height of ordinary ceilings.",
+      "distractors": [
+        "the outer wall of a building",
+        "the floor of the ground level",
+        "the surface of a staircase"
+      ],
+      "surfaceForms": [
+        "ceilings"
+      ],
+      "clozeAnswerSurfaceForm": "ceilings"
+    },
+    {
+      "lemma": "drip",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "falling in drops, or letting liquid fall in drops",
+      "translationZh": "滴落",
+      "exampleSentence": "The staircase looked wet, dripping down from the second floor, each level of stair opening wider than the last, like molasses poured from a jar.",
+      "clozeSentence": "The staircase looked wet, _____ down from the second floor, each level of stair opening wider than the last, like molasses poured from a jar.",
+      "distractors": [
+        "burning brightly with flame",
+        "freezing into solid ice",
+        "vibrating with loud sound"
+      ],
+      "surfaceForms": [
+        "dripping"
+      ],
+      "clozeAnswerSurfaceForm": "dripping"
+    },
+    {
+      "lemma": "flap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "moving up and down or side to side, as in wind",
+      "translationZh": "（旗子、布等）隨風飄動、拍動",
+      "exampleSentence": "The wind made a sound like a sheet flapping.",
+      "clozeSentence": "The wind made a sound like a sheet _____.",
+      "distractors": [
+        "hanging perfectly motionless",
+        "wrapped tightly around a pole",
+        "torn completely into pieces"
+      ],
+      "surfaceForms": [
+        "flapping"
+      ],
+      "clozeAnswerSurfaceForm": "flapping"
+    },
+    {
+      "lemma": "molasses",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a thick, dark, sweet syrup made from sugar",
+      "translationZh": "糖蜜；黑糖漿",
+      "exampleSentence": "The staircase looked wet, dripping down from the second floor, each level of stair opening wider than the last, like molasses poured from a jar.",
+      "clozeSentence": "The staircase looked wet, dripping down from the second floor, each level of stair opening wider than the last, like _____ poured from a jar.",
+      "distractors": [
+        "a clear, thin cooking oil",
+        "a dry powdered spice",
+        "a fizzy carbonated drink"
+      ],
+      "surfaceForms": [
+        "molasses"
+      ],
+      "clozeAnswerSurfaceForm": "molasses"
+    },
+    {
+      "lemma": "staircase",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a set of stairs",
+      "translationZh": "樓梯",
+      "exampleSentence": "The staircase looked wet, dripping down from the second floor, each level of stair opening wider than the last, like molasses poured from a jar.",
+      "clozeSentence": "The _____ looked wet, dripping down from the second floor, each level of stair opening wider than the last, like molasses poured from a jar.",
+      "distractors": [
+        "an elevator inside a building",
+        "a sloped ramp for wheelchairs",
+        "a narrow hallway between rooms"
+      ],
+      "surfaceForms": [
+        "staircase"
+      ],
+      "clozeAnswerSurfaceForm": "staircase"
+    },
+    {
+      "lemma": "watery",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "thin and weak, resembling water",
+      "translationZh": "水汪汪的；稀薄如水的",
+      "exampleSentence": "The elevator opened onto a dusty, windy space, full of watery light.",
+      "clozeSentence": "The elevator opened onto a dusty, windy space, full of _____ light.",
+      "distractors": [
+        "thick and heavy",
+        "bright and colorful",
+        "dry and dusty"
+      ],
+      "surfaceForms": [
+        "watery"
+      ],
+      "clozeAnswerSurfaceForm": "watery"
+    },
+    {
+      "lemma": "brunette",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a woman with dark brown hair",
+      "translationZh": "深褐髮色的女子",
+      "exampleSentence": "Laurene’s friend Shell, a large brunette woman who wore red lipstick and spoke loudly, with a New York accent, came to visit us at the suite at the Carlyle Hotel.",
+      "clozeSentence": "Laurene’s friend Shell, a large _____ woman who wore red lipstick and spoke loudly, with a New York accent, came to visit us at the suite at the Carlyle Hotel.",
+      "distractors": [
+        "a woman with bright red hair",
+        "a woman with curly gray hair",
+        "a woman wearing a wig"
+      ],
+      "surfaceForms": [
+        "brunette"
+      ],
+      "clozeAnswerSurfaceForm": "brunette"
+    },
+    {
+      "lemma": "cowlick",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a piece of hair that grows in a different direction and won't lie flat",
+      "translationZh": "（頭髮的）旋；翹起的一撮頭髮",
+      "exampleSentence": "Laurene’s blonde bangs fell over her forehead, curling out from a cowlick at the hairline.",
+      "clozeSentence": "Laurene’s blonde bangs fell over her forehead, curling out from a _____ at the hairline.",
+      "distractors": [
+        "a decorative hair accessory",
+        "a bald patch on the head",
+        "a type of tight braid"
+      ],
+      "surfaceForms": [
+        "cowlick"
+      ],
+      "clozeAnswerSurfaceForm": "cowlick"
+    },
+    {
+      "lemma": "curl",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "bending or twisting into a spiral shape",
+      "translationZh": "捲曲",
+      "exampleSentence": "Laurene’s blonde bangs fell over her forehead, curling out from a cowlick at the hairline.",
+      "clozeSentence": "Laurene’s blonde bangs fell over her forehead, _____ out from a cowlick at the hairline.",
+      "distractors": [
+        "lying perfectly flat and straight",
+        "growing very long and thin",
+        "turning completely gray"
+      ],
+      "surfaceForms": [
+        "curling"
+      ],
+      "clozeAnswerSurfaceForm": "curling"
+    },
+    {
+      "lemma": "hairline",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the edge of hair growth on the forehead",
+      "translationZh": "髮際線",
+      "exampleSentence": "Laurene’s blonde bangs fell over her forehead, curling out from a cowlick at the hairline.",
+      "clozeSentence": "Laurene’s blonde bangs fell over her forehead, curling out from a cowlick at the _____.",
+      "distractors": [
+        "a thin scar on the skin",
+        "the part in the middle of hair",
+        "a curl at the back of the neck"
+      ],
+      "surfaceForms": [
+        "hairline"
+      ],
+      "clozeAnswerSurfaceForm": "hairline"
+    },
+    {
+      "lemma": "suite",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a set of connected rooms, especially in a hotel",
+      "translationZh": "（旅館的）套房",
+      "exampleSentence": "Laurene’s friend Shell, a large brunette woman who wore red lipstick and spoke loudly, with a New York accent, came to visit us at the suite at the Carlyle Hotel.",
+      "clozeSentence": "Laurene’s friend Shell, a large brunette woman who wore red lipstick and spoke loudly, with a New York accent, came to visit us at the _____ at the Carlyle Hotel.",
+      "distractors": [
+        "a single small room with no furniture",
+        "a shared dormitory with many beds",
+        "an outdoor terrace or balcony"
+      ],
+      "surfaceForms": [
+        "suite"
+      ],
+      "clozeAnswerSurfaceForm": "suite"
+    },
+    {
+      "lemma": "precision",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "the quality of being exact and accurate",
+      "translationZh": "精確；精準",
+      "exampleSentence": "When she touched objects, she did it firmly, with precision, as if she knew what she wanted to take before she touched it.",
+      "clozeSentence": "When she touched objects, she did it firmly, with _____, as if she knew what she wanted to take before she touched it.",
+      "distractors": [
+        "a lack of confidence in one's actions",
+        "a sudden change of plans",
+        "a strong emotional reaction"
+      ],
+      "surfaceForms": [
+        "precision"
+      ],
+      "clozeAnswerSurfaceForm": "precision"
+    },
+    {
+      "lemma": "yeast",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a substance used to make bread rise and to make alcohol",
+      "translationZh": "酵母",
+      "exampleSentence": "At first, New York City smelled of yeast.",
+      "clozeSentence": "At first, New York City smelled of _____.",
+      "distractors": [
+        "a sweet spice used in baking",
+        "a type of edible mushroom",
+        "a preservative used to stop spoiling"
+      ],
+      "surfaceForms": [
+        "yeast"
+      ],
+      "clozeAnswerSurfaceForm": "yeast"
+    },
+    {
+      "lemma": "exhaust",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "waste gas released from an engine",
+      "translationZh": "（引擎排出的）廢氣",
+      "exampleSentence": "Warm pretzels, exhaust, steam.",
+      "clozeSentence": "Warm pretzels, _____, steam.",
+      "distractors": [
+        "a strong pleasant fragrance",
+        "steam from boiling water",
+        "smoke from a wood fire"
+      ],
+      "surfaceForms": [
+        "exhaust"
+      ],
+      "clozeAnswerSurfaceForm": "exhaust"
+    },
+    {
+      "lemma": "pretzel",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a salty bread snack twisted into a knot shape",
+      "translationZh": "蝴蝶脆餅；扭結餅",
+      "exampleSentence": "Warm pretzels, exhaust, steam.",
+      "clozeSentence": "Warm _____, exhaust, steam.",
+      "distractors": [
+        "a round loaf of plain bread",
+        "a sweet frosted pastry",
+        "a type of soft cheese"
+      ],
+      "surfaceForms": [
+        "pretzels"
+      ],
+      "clozeAnswerSurfaceForm": "pretzels"
+    },
+    {
+      "lemma": "earpiece",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the part of a telephone or device that fits against the ear",
+      "translationZh": "（電話的）聽筒；耳機",
+      "exampleSentence": "They’d hang the earpiece of one phone on the base of another, crossing the cords.",
+      "clozeSentence": "They’d hang the _____ of one phone on the base of another, crossing the cords.",
+      "distractors": [
+        "the button used to dial a number",
+        "the cord that connects to the wall",
+        "the screen that displays text"
+      ],
+      "surfaceForms": [
+        "earpiece"
+      ],
+      "clozeAnswerSurfaceForm": "earpiece"
+    },
+    {
+      "lemma": "keypad",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a set of buttons for entering numbers, as on a phone",
+      "translationZh": "數字鍵盤",
+      "exampleSentence": "So when someone needed to do a trade, and they were in a rush, they’d pick up a phone, dial the number, and then realize they were using an earpiece that didn’t match the keypad.”",
+      "clozeSentence": "So when someone needed to do a trade, and they were in a rush, they’d pick up a phone, dial the number, and then realize they were using an earpiece that didn’t match the _____.”",
+      "distractors": [
+        "a screen that shows a video image",
+        "a small speaker for sound",
+        "a battery that powers a device"
+      ],
+      "surfaceForms": [
+        "keypad"
+      ],
+      "clozeAnswerSurfaceForm": "keypad"
+    },
+    {
+      "lemma": "counterculture",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a lifestyle and values opposed to mainstream society",
+      "translationZh": "反主流文化",
+      "exampleSentence": "It was opulent, the opposite of the counterculture ideals he talked about, a showcase made to impress.",
+      "clozeSentence": "It was opulent, the opposite of the _____ ideals he talked about, a showcase made to impress.",
+      "distractors": [
+        "the official government policy of a country",
+        "a traditional religious ceremony",
+        "a style of classical architecture"
+      ],
+      "surfaceForms": [
+        "counterculture"
+      ],
+      "clozeAnswerSurfaceForm": "counterculture"
+    },
+    {
+      "lemma": "grasp",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to understand something, or to hold firmly",
+      "translationZh": "理解；掌握；抓住",
+      "exampleSentence": "It was still under renovation, and it took me a few minutes to grasp that it was his apartment.",
+      "clozeSentence": "It was still under renovation, and it took me a few minutes to _____ that it was his apartment.",
+      "distractors": [
+        "to completely forget something",
+        "to politely refuse something",
+        "to loudly announce something"
+      ],
+      "surfaceForms": [
+        "grasp"
+      ],
+      "clozeAnswerSurfaceForm": "grasp"
+    },
+    {
+      "lemma": "hard-edged",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "having a sharp, harsh, or severe quality",
+      "translationZh": "稜角分明的；銳利強硬的",
+      "exampleSentence": "It was hard-edged like rich people’s apartments in movies.",
+      "clozeSentence": "It was _____ like rich people’s apartments in movies.",
+      "distractors": [
+        "soft and comfortable in feel",
+        "warm and welcoming in tone",
+        "faded and barely visible"
+      ],
+      "surfaceForms": [
+        "hard-edged"
+      ],
+      "clozeAnswerSurfaceForm": "hard-edged"
+    },
+    {
+      "lemma": "opulent",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "rich, luxurious, and expensive-looking",
+      "translationZh": "奢華的；富麗堂皇的",
+      "exampleSentence": "It was opulent, the opposite of the counterculture ideals he talked about, a showcase made to impress.",
+      "clozeSentence": "It was _____, the opposite of the counterculture ideals he talked about, a showcase made to impress.",
+      "distractors": [
+        "plain and inexpensive-looking",
+        "old and poorly maintained",
+        "small and cramped"
+      ],
+      "surfaceForms": [
+        "opulent"
+      ],
+      "clozeAnswerSurfaceForm": "opulent"
+    },
+    {
+      "lemma": "renovation",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the process of repairing and improving a building",
+      "translationZh": "翻新；整修",
+      "exampleSentence": "It was still under renovation, and it took me a few minutes to grasp that it was his apartment.",
+      "clozeSentence": "It was still under _____, and it took me a few minutes to grasp that it was his apartment.",
+      "distractors": [
+        "the process of demolishing a building completely",
+        "the process of designing a building from scratch",
+        "the process of selling a property"
+      ],
+      "surfaceForms": [
+        "renovation"
+      ],
+      "clozeAnswerSurfaceForm": "renovation"
+    },
+    {
+      "lemma": "showcase",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "something designed to display something impressively",
+      "translationZh": "展示；展現（優點）",
+      "exampleSentence": "It was opulent, the opposite of the counterculture ideals he talked about, a showcase made to impress.",
+      "clozeSentence": "It was opulent, the opposite of the counterculture ideals he talked about, a _____ made to impress.",
+      "distractors": [
+        "a place to hide something secretly",
+        "a container for storing tools",
+        "a form of punishment"
+      ],
+      "surfaceForms": [
+        "showcase"
+      ],
+      "clozeAnswerSurfaceForm": "showcase"
+    },
+    {
+      "lemma": "cardboard",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a stiff material made of layered paper, used for boxes",
+      "translationZh": "紙板",
+      "exampleSentence": "Pieces of cardboard covered the floor; he lifted one up to show us the marble below, a glossy deep black that also lined the walls.",
+      "clozeSentence": "Pieces of _____ covered the floor; he lifted one up to show us the marble below, a glossy deep black that also lined the walls.",
+      "distractors": [
+        "a thin transparent plastic sheet",
+        "a soft woven fabric",
+        "a heavy solid metal sheet"
+      ],
+      "surfaceForms": [
+        "cardboard"
+      ],
+      "clozeAnswerSurfaceForm": "cardboard"
+    },
+    {
+      "lemma": "glossy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "smooth and shiny",
+      "translationZh": "光滑亮麗的；有光澤的",
+      "exampleSentence": "Pieces of cardboard covered the floor; he lifted one up to show us the marble below, a glossy deep black that also lined the walls.",
+      "clozeSentence": "Pieces of cardboard covered the floor; he lifted one up to show us the marble below, a _____ deep black that also lined the walls.",
+      "distractors": [
+        "rough and dull in texture",
+        "cracked and brittle",
+        "faded and discolored"
+      ],
+      "surfaceForms": [
+        "glossy"
+      ],
+      "clozeAnswerSurfaceForm": "glossy"
+    },
+    {
+      "lemma": "quarry",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "a place where stone is dug out of the ground",
+      "translationZh": "採石場",
+      "exampleSentence": "Pei designed the apartment in 1982, and when one of the quarries ran out, they’d had to find another one and replace the old marble with the new marble.",
+      "clozeSentence": "Pei designed the apartment in 1982, and when one of the _____ ran out, they’d had to find another one and replace the old marble with the new marble.",
+      "distractors": [
+        "a place where crops are grown",
+        "a place where ships are built",
+        "a place where animals are kept for farming"
+      ],
+      "surfaceForms": [
+        "quarries"
+      ],
+      "clozeAnswerSurfaceForm": "quarries"
+    },
+    {
+      "lemma": "unfinished",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "not yet completed",
+      "translationZh": "未完成的",
+      "exampleSentence": "Construction had lasted six years and it was still unfinished.",
+      "clozeSentence": "Construction had lasted six years and it was still _____.",
+      "distractors": [
+        "fully completed and polished",
+        "abandoned and destroyed",
+        "sold and no longer owned"
+      ],
+      "surfaceForms": [
+        "unfinished"
+      ],
+      "clozeAnswerSurfaceForm": "unfinished"
+    },
+    {
+      "lemma": "bachelor",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "an unmarried man",
+      "translationZh": "單身漢",
+      "exampleSentence": "“It was supposed to be the ultimate bachelor pad,” he said sadly.",
+      "clozeSentence": "“It was supposed to be the ultimate _____ pad,” he said sadly.",
+      "distractors": [
+        "a married man with children",
+        "a young student just beginning college",
+        "a man who has recently retired"
+      ],
+      "surfaceForms": [
+        "bachelor"
+      ],
+      "clozeAnswerSurfaceForm": "bachelor"
+    },
+    {
+      "lemma": "pad",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a soft cushioned place to live, or a small flat (informal)",
+      "translationZh": "（口語）住處；公寓",
+      "exampleSentence": "“It was supposed to be the ultimate bachelor pad,” he said sadly.",
+      "clozeSentence": "“It was supposed to be the ultimate bachelor _____,” he said sadly.",
+      "distractors": [
+        "a small storage closet",
+        "a formal office building",
+        "a large public park"
+      ],
+      "surfaceForms": [
+        "pad"
+      ],
+      "clozeAnswerSurfaceForm": "pad"
+    },
+    {
+      "lemma": "ultimate",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "being the best or most extreme example of its kind",
+      "translationZh": "終極的；最高的",
+      "exampleSentence": "“It was supposed to be the ultimate bachelor pad,” he said sadly.",
+      "clozeSentence": "“It was supposed to be the _____ bachelor pad,” he said sadly.",
+      "distractors": [
+        "being the most ordinary and average",
+        "being temporary and short-lived",
+        "being the very first of its kind"
+      ],
+      "surfaceForms": [
+        "ultimate"
+      ],
+      "clozeAnswerSurfaceForm": "ultimate"
+    },
+    {
+      "lemma": "bifurcate",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "divided into two branches or parts",
+      "translationZh": "分裂成兩部分的；分歧的",
+      "exampleSentence": "Maybe he was bifurcated, and couldn’t help trying to impress other people in the obvious ways rich people do, even as I’d thought, with his holey jeans, his strange diet, his emphasis on simplicity, his crumbling house, he didn’t care.",
+      "clozeSentence": "Maybe he was _____, and couldn’t help trying to impress other people in the obvious ways rich people do, even as I’d thought, with his holey jeans, his strange diet, his emphasis on simplicity, his crumbling house, he didn’t care.",
+      "distractors": [
+        "united into a single whole",
+        "worn out and exhausted",
+        "hidden from public view"
+      ],
+      "surfaceForms": [
+        "bifurcated"
+      ],
+      "clozeAnswerSurfaceForm": "bifurcated"
+    },
+    {
+      "lemma": "crumble",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "breaking into small pieces, falling apart",
+      "translationZh": "（建築物等）逐漸崩塌、剝落",
+      "exampleSentence": "Maybe he was bifurcated, and couldn’t help trying to impress other people in the obvious ways rich people do, even as I’d thought, with his holey jeans, his strange diet, his emphasis on simplicity, his crumbling house, he didn’t care.",
+      "clozeSentence": "Maybe he was bifurcated, and couldn’t help trying to impress other people in the obvious ways rich people do, even as I’d thought, with his holey jeans, his strange diet, his emphasis on simplicity, his _____ house, he didn’t care.",
+      "distractors": [
+        "being freshly painted and repaired",
+        "growing larger and stronger",
+        "shining brightly under new lights"
+      ],
+      "surfaceForms": [
+        "crumbling"
+      ],
+      "clozeAnswerSurfaceForm": "crumbling"
+    },
+    {
+      "lemma": "holey",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "full of holes",
+      "translationZh": "有破洞的",
+      "exampleSentence": "Maybe he was bifurcated, and couldn’t help trying to impress other people in the obvious ways rich people do, even as I’d thought, with his holey jeans, his strange diet, his emphasis on simplicity, his crumbling house, he didn’t care.",
+      "clozeSentence": "Maybe he was bifurcated, and couldn’t help trying to impress other people in the obvious ways rich people do, even as I’d thought, with his _____ jeans, his strange diet, his emphasis on simplicity, his crumbling house, he didn’t care.",
+      "distractors": [
+        "brand new and unworn",
+        "tightly fitted and smooth",
+        "made of thick heavy material"
+      ],
+      "surfaceForms": [
+        "holey"
+      ],
+      "clozeAnswerSurfaceForm": "holey"
+    },
+    {
+      "lemma": "simplicity",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "the quality of being simple, uncomplicated",
+      "translationZh": "簡樸；簡單",
+      "exampleSentence": "Maybe he was bifurcated, and couldn’t help trying to impress other people in the obvious ways rich people do, even as I’d thought, with his holey jeans, his strange diet, his emphasis on simplicity, his crumbling house, he didn’t care.",
+      "clozeSentence": "Maybe he was bifurcated, and couldn’t help trying to impress other people in the obvious ways rich people do, even as I’d thought, with his holey jeans, his strange diet, his emphasis on _____, his crumbling house, he didn’t care.",
+      "distractors": [
+        "the quality of being extremely expensive",
+        "the quality of being confusing and complex",
+        "the quality of being loud and dramatic"
+      ],
+      "surfaceForms": [
+        "simplicity"
+      ],
+      "clozeAnswerSurfaceForm": "simplicity"
+    },
+    {
+      "lemma": "concrete",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a hard building material made from cement, sand, and water",
+      "translationZh": "混凝土",
+      "exampleSentence": "Below us, Central Park looked like it was cut out of the concrete.",
+      "clozeSentence": "Below us, Central Park looked like it was cut out of the _____.",
+      "distractors": [
+        "a soft type of clay used in pottery",
+        "a lightweight fabric used for tents",
+        "a type of polished wood flooring"
+      ],
+      "surfaceForms": [
+        "concrete"
+      ],
+      "clozeAnswerSurfaceForm": "concrete"
+    },
+    {
+      "lemma": "amaze",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "causing great surprise or wonder",
+      "translationZh": "令人驚嘆的",
+      "exampleSentence": "“This is amazing, Steve,” Laurene said, with a lightness to her voice I wished I felt too.",
+      "clozeSentence": "“This is _____, Steve,” Laurene said, with a lightness to her voice I wished I felt too.",
+      "distractors": [
+        "causing mild boredom",
+        "causing slight annoyance",
+        "causing deep sadness"
+      ],
+      "surfaceForms": [
+        "amazing"
+      ],
+      "clozeAnswerSurfaceForm": "amazing"
+    },
+    {
+      "lemma": "lightness",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the quality of being light in weight, mood, or tone",
+      "translationZh": "輕盈；輕快（語氣）",
+      "exampleSentence": "“This is amazing, Steve,” Laurene said, with a lightness to her voice I wished I felt too.",
+      "clozeSentence": "“This is amazing, Steve,” Laurene said, with a _____ to her voice I wished I felt too.",
+      "distractors": [
+        "a feeling of deep worry",
+        "a sense of great importance",
+        "a tone of strong anger"
+      ],
+      "surfaceForms": [
+        "lightness"
+      ],
+      "clozeAnswerSurfaceForm": "lightness"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "freight",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "goods transported by truck, train, ship, or aircraft",
+      "translationZh": "貨運；貨物",
+      "exampleSentence": "That afternoon, my father said, “There’s something I want to show you two.” We took a taxi to a tall building and then a freight elevator with blankets for walls up to the very top.",
+      "clozeSentence": "That afternoon, my father said, “There’s something I want to show you two.” We took a taxi to a tall building and then a _____ elevator with blankets for walls up to the very top.",
+      "distractors": [
+        "passengers traveling for leisure",
+        "mail delivered by hand",
+        "fuel used to power vehicles"
+      ],
+      "surfaceForms": [
+        "freight"
+      ],
+      "clozeAnswerSurfaceForm": "freight"
+    },
+    {
+      "lemma": "flank",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "positioned on each side of someone or something",
+      "translationZh": "位於……兩側；夾在中間",
+      "exampleSentence": "Laurene and I flanked him in the leather seats at the front of business class.",
+      "clozeSentence": "Laurene and I _____ him in the leather seats at the front of business class.",
+      "distractors": [
+        "left completely alone in a room",
+        "placed far away in another building",
+        "hidden behind a curtain"
+      ],
+      "surfaceForms": [
+        "flanked"
+      ],
+      "clozeAnswerSurfaceForm": "flanked"
+    },
+    {
+      "lemma": "convertible",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a car with a roof that can be folded down or removed",
+      "translationZh": "敞篷車",
+      "exampleSentence": "Laurene had taken me to lunch once before this in her white VW Rabbit convertible, taking time out from Stanford’s business school, where she was in her final semester.",
+      "clozeSentence": "Laurene had taken me to lunch once before this in her white VW Rabbit _____, taking time out from Stanford’s business school, where she was in her final semester.",
+      "distractors": [
+        "a car built to carry heavy cargo",
+        "a very small car for one person",
+        "a car powered only by electricity"
+      ],
+      "surfaceForms": [
+        "convertible"
+      ],
+      "clozeAnswerSurfaceForm": "convertible"
+    },
+    {
+      "lemma": "gearshift",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the lever used to change gears in a vehicle",
+      "translationZh": "（汽車的）排檔桿",
+      "exampleSentence": "She held the gearshift differently from my mother, with less grip, pushing it forward with the heel of her hand.",
+      "clozeSentence": "She held the _____ differently from my mother, with less grip, pushing it forward with the heel of her hand.",
+      "distractors": [
+        "the pedal used to brake a vehicle",
+        "the wheel used to steer a vehicle",
+        "the mirror used to see behind a vehicle"
+      ],
+      "surfaceForms": [
+        "gearshift"
+      ],
+      "clozeAnswerSurfaceForm": "gearshift"
+    },
+    {
+      "lemma": "grip",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a firm hold on something",
+      "translationZh": "抓緊；握力",
+      "exampleSentence": "She held the gearshift differently from my mother, with less grip, pushing it forward with the heel of her hand.",
+      "clozeSentence": "She held the gearshift differently from my mother, with less _____, pushing it forward with the heel of her hand.",
+      "distractors": [
+        "a loose, careless hold",
+        "a decorative pattern",
+        "a sudden loud noise"
+      ],
+      "surfaceForms": [
+        "grip"
+      ],
+      "clozeAnswerSurfaceForm": "grip"
+    },
+    {
+      "lemma": "suede",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "soft leather with a slightly rough surface",
+      "translationZh": "麂皮；絨面革",
+      "exampleSentence": "She walked fast, with her feet pointed out to the sides; she wore black suede shoes with metal clocks on the tops.",
+      "clozeSentence": "She walked fast, with her feet pointed out to the sides; she wore black _____ shoes with metal clocks on the tops.",
+      "distractors": [
+        "shiny smooth patent leather",
+        "thick woven cotton",
+        "clear waterproof plastic"
+      ],
+      "surfaceForms": [
+        "suede"
+      ],
+      "clozeAnswerSurfaceForm": "suede"
+    },
+    {
+      "lemma": "outlandishly",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "in a strange and unfamiliar way",
+      "translationZh": "古怪地；離奇地",
+      "exampleSentence": "I didn’t go out to eat very often, and looked forward to sampling one of the outlandishly tall cakes so large they looked unreal, like sculptures by Claes Oldenburg.",
+      "clozeSentence": "I didn’t go out to eat very often, and looked forward to sampling one of the _____ tall cakes so large they looked unreal, like sculptures by Claes Oldenburg.",
+      "distractors": [
+        "in a very ordinary, familiar way",
+        "in a quiet and modest way",
+        "in a slow and careful way"
+      ],
+      "surfaceForms": [
+        "outlandishly"
+      ],
+      "clozeAnswerSurfaceForm": "outlandishly"
+    },
+    {
+      "lemma": "gleam",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "shone with a soft or brief light",
+      "translationZh": "閃爍微光；發亮",
+      "exampleSentence": "I swept up a line of dust with my finger; the marble gleamed beneath.",
+      "clozeSentence": "I swept up a line of dust with my finger; the marble _____ beneath.",
+      "distractors": [
+        "remained completely dark",
+        "made a loud grinding noise",
+        "smelled strongly of dust"
+      ],
+      "surfaceForms": [
+        "gleamed"
+      ],
+      "clozeAnswerSurfaceForm": "gleamed"
+    },
+    {
+      "lemma": "steer",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "controlling the direction of a vehicle",
+      "translationZh": "駕駛；掌控方向",
+      "exampleSentence": "I liked the way she held the menu, the steering wheel, the tube of lipstick.",
+      "clozeSentence": "I liked the way she held the menu, the _____ wheel, the tube of lipstick.",
+      "distractors": [
+        "cleaning the interior of a vehicle",
+        "repairing a broken engine",
+        "refueling a vehicle with gas"
+      ],
+      "surfaceForms": [
+        "steering"
+      ],
+      "clozeAnswerSurfaceForm": "steering"
+    },
+    {
+      "lemma": "sweep",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "moved something (like dust) using a brush in one motion",
+      "translationZh": "用（手或掃帚）掃過",
+      "exampleSentence": "I swept up a line of dust with my finger; the marble gleamed beneath.",
+      "clozeSentence": "I _____ up a line of dust with my finger; the marble gleamed beneath.",
+      "distractors": [
+        "pressed down firmly and held still",
+        "poured liquid slowly over a surface",
+        "cut something into small pieces"
+      ],
+      "surfaceForms": [
+        "swept"
+      ],
+      "clozeAnswerSurfaceForm": "swept"
+    },
+    {
+      "lemma": "balustrade",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a row of small posts supporting a railing",
+      "translationZh": "（欄杆的）扶手柱列；欄杆",
+      "exampleSentence": "We went out onto the balcony, a line of stone balustrades like candlesticks wrapped around the corner.",
+      "clozeSentence": "We went out onto the balcony, a line of stone _____ like candlesticks wrapped around the corner.",
+      "distractors": [
+        "a tall decorative column supporting a roof",
+        "a narrow spiral staircase",
+        "a glass wall separating rooms"
+      ],
+      "surfaceForms": [
+        "balustrades"
+      ],
+      "clozeAnswerSurfaceForm": "balustrades"
+    },
+    {
+      "lemma": "entice",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "attractive and tempting",
+      "translationZh": "誘人的；吸引人的",
+      "exampleSentence": "“They make a great chicken Caesar salad without much fat.” This talk of fat was new and enticing—another, more sophisticated world I wanted to be part of in which women watched the amount of fat they ate.",
+      "clozeSentence": "“They make a great chicken Caesar salad without much fat.” This talk of fat was new and _____—another, more sophisticated world I wanted to be part of in which women watched the amount of fat they ate.",
+      "distractors": [
+        "boring and unremarkable",
+        "frightening and threatening",
+        "confusing and unclear"
+      ],
+      "surfaceForms": [
+        "enticing"
+      ],
+      "clozeAnswerSurfaceForm": "enticing—another"
+    },
+    {
+      "lemma": "cowlick",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a piece of hair that grows in a different direction and won't lie flat",
+      "translationZh": "（頭髮的）旋；翹起的一撮頭髮",
+      "exampleSentence": "Laurene’s blonde bangs fell over her forehead, curling out from a cowlick at the hairline.",
+      "clozeSentence": "Laurene’s blonde bangs fell over her forehead, curling out from a _____ at the hairline.",
+      "distractors": [
+        "a decorative hair accessory",
+        "a bald patch on the head",
+        "a type of tight braid"
+      ],
+      "surfaceForms": [
+        "cowlick"
+      ],
+      "clozeAnswerSurfaceForm": "cowlick"
+    },
+    {
+      "lemma": "precision",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "the quality of being exact and accurate",
+      "translationZh": "精確；精準",
+      "exampleSentence": "When she touched objects, she did it firmly, with precision, as if she knew what she wanted to take before she touched it.",
+      "clozeSentence": "When she touched objects, she did it firmly, with _____, as if she knew what she wanted to take before she touched it.",
+      "distractors": [
+        "a lack of confidence in one's actions",
+        "a sudden change of plans",
+        "a strong emotional reaction"
+      ],
+      "surfaceForms": [
+        "precision"
+      ],
+      "clozeAnswerSurfaceForm": "precision"
+    },
+    {
+      "lemma": "opulent",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "rich, luxurious, and expensive-looking",
+      "translationZh": "奢華的；富麗堂皇的",
+      "exampleSentence": "It was opulent, the opposite of the counterculture ideals he talked about, a showcase made to impress.",
+      "clozeSentence": "It was _____, the opposite of the counterculture ideals he talked about, a showcase made to impress.",
+      "distractors": [
+        "plain and inexpensive-looking",
+        "old and poorly maintained",
+        "small and cramped"
+      ],
+      "surfaceForms": [
+        "opulent"
+      ],
+      "clozeAnswerSurfaceForm": "opulent"
+    },
+    {
+      "lemma": "counterculture",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a lifestyle and values opposed to mainstream society",
+      "translationZh": "反主流文化",
+      "exampleSentence": "It was opulent, the opposite of the counterculture ideals he talked about, a showcase made to impress.",
+      "clozeSentence": "It was opulent, the opposite of the _____ ideals he talked about, a showcase made to impress.",
+      "distractors": [
+        "the official government policy of a country",
+        "a traditional religious ceremony",
+        "a style of classical architecture"
+      ],
+      "surfaceForms": [
+        "counterculture"
+      ],
+      "clozeAnswerSurfaceForm": "counterculture"
+    },
+    {
+      "lemma": "quarry",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "a place where stone is dug out of the ground",
+      "translationZh": "採石場",
+      "exampleSentence": "Pei designed the apartment in 1982, and when one of the quarries ran out, they’d had to find another one and replace the old marble with the new marble.",
+      "clozeSentence": "Pei designed the apartment in 1982, and when one of the _____ ran out, they’d had to find another one and replace the old marble with the new marble.",
+      "distractors": [
+        "a place where crops are grown",
+        "a place where ships are built",
+        "a place where animals are kept for farming"
+      ],
+      "surfaceForms": [
+        "quarries"
+      ],
+      "clozeAnswerSurfaceForm": "quarries"
+    },
+    {
+      "lemma": "bifurcate",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "divided into two branches or parts",
+      "translationZh": "分裂成兩部分的；分歧的",
+      "exampleSentence": "Maybe he was bifurcated, and couldn’t help trying to impress other people in the obvious ways rich people do, even as I’d thought, with his holey jeans, his strange diet, his emphasis on simplicity, his crumbling house, he didn’t care.",
+      "clozeSentence": "Maybe he was _____, and couldn’t help trying to impress other people in the obvious ways rich people do, even as I’d thought, with his holey jeans, his strange diet, his emphasis on simplicity, his crumbling house, he didn’t care.",
+      "distractors": [
+        "united into a single whole",
+        "worn out and exhausted",
+        "hidden from public view"
+      ],
+      "surfaceForms": [
+        "bifurcated"
+      ],
+      "clozeAnswerSurfaceForm": "bifurcated"
+    },
+    {
+      "lemma": "crumble",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "breaking into small pieces, falling apart",
+      "translationZh": "（建築物等）逐漸崩塌、剝落",
+      "exampleSentence": "Maybe he was bifurcated, and couldn’t help trying to impress other people in the obvious ways rich people do, even as I’d thought, with his holey jeans, his strange diet, his emphasis on simplicity, his crumbling house, he didn’t care.",
+      "clozeSentence": "Maybe he was bifurcated, and couldn’t help trying to impress other people in the obvious ways rich people do, even as I’d thought, with his holey jeans, his strange diet, his emphasis on simplicity, his _____ house, he didn’t care.",
+      "distractors": [
+        "being freshly painted and repaired",
+        "growing larger and stronger",
+        "shining brightly under new lights"
+      ],
+      "surfaceForms": [
+        "crumbling"
+      ],
+      "clozeAnswerSurfaceForm": "crumbling"
+    },
+    {
+      "lemma": "simplicity",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "the quality of being simple, uncomplicated",
+      "translationZh": "簡樸；簡單",
+      "exampleSentence": "Maybe he was bifurcated, and couldn’t help trying to impress other people in the obvious ways rich people do, even as I’d thought, with his holey jeans, his strange diet, his emphasis on simplicity, his crumbling house, he didn’t care.",
+      "clozeSentence": "Maybe he was bifurcated, and couldn’t help trying to impress other people in the obvious ways rich people do, even as I’d thought, with his holey jeans, his strange diet, his emphasis on _____, his crumbling house, he didn’t care.",
+      "distractors": [
+        "the quality of being extremely expensive",
+        "the quality of being confusing and complex",
+        "the quality of being loud and dramatic"
+      ],
+      "surfaceForms": [
+        "simplicity"
+      ],
+      "clozeAnswerSurfaceForm": "simplicity"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "cloze",
+      "wordLemma": "grip",
+      "prompt": "She held the gearshift differently from my mother, with less _____, pushing it forward with the heel of her hand.",
+      "options": [
+        "grip",
+        "quarries",
+        "simplicity",
+        "counterculture"
+      ],
+      "answer": "grip"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "freight",
+      "prompt": "freight",
+      "options": [
+        "goods transported by truck, train, ship, or aircraft",
+        "passengers traveling for leisure",
+        "fuel used to power vehicles",
+        "mail delivered by hand"
+      ],
+      "answer": "goods transported by truck, train, ship, or aircraft"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "outlandishly",
+      "prompt": "outlandishly",
+      "options": [
+        "in a strange and unfamiliar way",
+        "in a slow and careful way",
+        "in a quiet and modest way",
+        "in a very ordinary, familiar way"
+      ],
+      "answer": "in a strange and unfamiliar way"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "bifurcate",
+      "prompt": "分裂成兩部分的；分歧的",
+      "options": [
+        "bifurcate",
+        "quarry",
+        "convertible",
+        "crumble"
+      ],
+      "answer": "bifurcate"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "entice",
+      "prompt": "誘人的；吸引人的",
+      "options": [
+        "balustrade",
+        "suede",
+        "entice",
+        "quarry"
+      ],
+      "answer": "entice"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "sweep",
+      "prompt": "sweep",
+      "options": [
+        "cut something into small pieces",
+        "poured liquid slowly over a surface",
+        "pressed down firmly and held still",
+        "moved something (like dust) using a brush in one motion"
+      ],
+      "answer": "moved something (like dust) using a brush in one motion"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "gearshift",
+      "prompt": "gearshift",
+      "options": [
+        "the pedal used to brake a vehicle",
+        "the wheel used to steer a vehicle",
+        "the mirror used to see behind a vehicle",
+        "the lever used to change gears in a vehicle"
+      ],
+      "answer": "the lever used to change gears in a vehicle"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "gleam",
+      "prompt": "I swept up a line of dust with my finger; the marble _____ beneath.",
+      "options": [
+        "convertible",
+        "bifurcated",
+        "gearshift",
+        "gleamed"
+      ],
+      "answer": "gleamed"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "crumble",
+      "prompt": "crumble",
+      "options": [
+        "being freshly painted and repaired",
+        "shining brightly under new lights",
+        "breaking into small pieces, falling apart",
+        "growing larger and stronger"
+      ],
+      "answer": "breaking into small pieces, falling apart"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "suede",
+      "prompt": "麂皮；絨面革",
+      "options": [
+        "crumble",
+        "suede",
+        "freight",
+        "grip"
+      ],
+      "answer": "suede"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "cowlick",
+      "prompt": "cowlick",
+      "options": [
+        "a bald patch on the head",
+        "a type of tight braid",
+        "a decorative hair accessory",
+        "a piece of hair that grows in a different direction and won't lie flat"
+      ],
+      "answer": "a piece of hair that grows in a different direction and won't lie flat"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "simplicity",
+      "prompt": "Maybe he was bifurcated, and couldn’t help trying to impress other people in the obvious ways rich people do, even as I’d thought, with his holey jeans, his strange diet, his emphasis on _____, his crumbling house, he didn’t care.",
+      "options": [
+        "freight",
+        "simplicity",
+        "quarries",
+        "precision"
+      ],
+      "answer": "simplicity"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "balustrade",
+      "prompt": "We went out onto the balcony, a line of stone _____ like candlesticks wrapped around the corner.",
+      "options": [
+        "suede",
+        "balustrades",
+        "cowlick",
+        "precision"
+      ],
+      "answer": "balustrades"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "steer",
+      "prompt": "駕駛；掌控方向",
+      "options": [
+        "cowlick",
+        "steer",
+        "grip",
+        "gleam"
+      ],
+      "answer": "steer"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "convertible",
+      "prompt": "敞篷車",
+      "options": [
+        "convertible",
+        "bifurcate",
+        "counterculture",
+        "precision"
+      ],
+      "answer": "convertible"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "precision",
+      "prompt": "When she touched objects, she did it firmly, with _____, as if she knew what she wanted to take before she touched it.",
+      "options": [
+        "counterculture",
+        "opulent",
+        "precision",
+        "gleamed"
+      ],
+      "answer": "precision"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "counterculture",
+      "prompt": "counterculture",
+      "options": [
+        "a traditional religious ceremony",
+        "a style of classical architecture",
+        "the official government policy of a country",
+        "a lifestyle and values opposed to mainstream society"
+      ],
+      "answer": "a lifestyle and values opposed to mainstream society"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "quarry",
+      "prompt": "Pei designed the apartment in 1982, and when one of the _____ ran out, they’d had to find another one and replace the old marble with the new marble.",
+      "options": [
+        "convertible",
+        "suede",
+        "quarries",
+        "crumbling"
+      ],
+      "answer": "quarries"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "opulent",
+      "prompt": "奢華的；富麗堂皇的",
+      "options": [
+        "simplicity",
+        "outlandishly",
+        "opulent",
+        "bifurcate"
+      ],
+      "answer": "opulent"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "flank",
+      "prompt": "Laurene and I _____ him in the leather seats at the front of business class.",
+      "options": [
+        "suede",
+        "bifurcated",
+        "flanked",
+        "enticing—another"
+      ],
+      "answer": "flanked"
+    }
+  ]
+}

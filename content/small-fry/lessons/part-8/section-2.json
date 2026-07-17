@@ -1,0 +1,1416 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 8,
+  "partTitle": "Flight",
+  "sectionIndex": 2,
+  "paragraphs": [
+    "“What are you going to be when you grow up?” my father asked Josh when they met. We were sitting with him on the floor in my brother’s room, near the bookshelf—the first time I’d been alone with the two of them.",
+    "“I don’t know yet,” Josh said.",
+    "“I know,” my father said. “You’re going to be a bum.”",
+    "Josh looked down.",
+    "When I told my mother, she reminded me my father had called himself a bum in high school, when she introduced him to her father, and that he sometimes used his own stories as templates for his idea of perfection.",
+    "It was a compliment, even though it didn’t seem so.",
+    "Sometimes, after dark, Josh and I would drive to the Woodside house to make out. There were no lights, but you could see the white house, the white mist and silver dew on the lawn sloping down toward the significant trees.",
+    "“He said he was going to build a slide from there to there. Into the pool,” I said, pointing up. “But he never did.”",
+    "The bedroom and the bed were still the same as when I’d stayed with my father on Wednesday nights. The mattress was still on the floor beside the television. On a dresser was a framed picture of my father and Tina at a party, her wearing a black dress. When he talked about Tina, he said wistfully that she never wore dresses, but there she was. His suits were gone from the closet.",
+    "“Follow me,” I said. I took off my shoes and ran through the wet lawn, and whooped, down the slope toward the oak trees. There was no one around. It smelled of cardamom pods, eucalyptus buttons, pepper, water, and bark. The sky was low and heavy with stars. Some stars were dim and fuzzy, and others were pointed and bright, they were messy and close, the sky demanded notice.",
+    "“He bought the house for the trees,” I said slowly, in a British accent like Laurence Olivier.",
+    "“I would have bought it for the house,” Josh said. Looking back, it was all white arches covered in moonlight, white as salt. It gave me a shiver, the way it looked stark and alone.",
+    "“Me too.” I said, “but he says the house is shit.”",
+    "The trampoline was covered in leaves from the oak trees. We climbed on and jumped. There was no wall or guard around it. We hit each other in midair.",
+    "“What’s over there?”",
+    "It was a smaller house on the property, also his—empty. From up here you could see its white outline and, past that, hills. “Seven acres,” I said in the British accent.",
+    "If we didn’t go to the Woodside house, Josh would drive over to the Waverley house at night, careful not to clink the ring on the gate. He would creep through the rose garden and climb through my window into my bed, his hands ice cold because he drove with all the windows down. He would stay with me until early morning, then sneak out again through the window or the sliding glass door, and drive home again.",
+    "“What if we found out Josh was coming over every night,” my father asked at breakfast, “sneaking through the window.” I gulped, didn’t say anything, and he didn’t mention it again. I managed to convince myself he might not know.",
+    "“Are you and Josh going to the Woodside house to make out?” he asked me a few days later. Josh and I had been discovered by a gardener they’d recently hired from Australia, who was staying in the house unbeknownst to me and who’d followed the sound of music and found us one night in an empty room on the second floor. No one had mentioned the gardener was staying there. I thought of lying, or saying we’d been there only once, but the freedom I’d have if he said okay seemed worth the risk.",
+    "“Yes,” I said. “Are you okay with that?”",
+    "“I guess so,” he said.",
+    "“It happened,” I said. We sat side by side on the edge of my bed. “The final base.” I was seventeen, a senior.",
+    "“Was it all right?” he asked.",
+    "“It was.” I did not tell my father that at first the angle was wrong, and so for a little while we thought sex would not be possible for us, that we were built incompatibly, that the parts did not fit the way they should.",
+    "Sometimes, in the late afternoon after school during the weeks when we were not producing the newspaper, Josh and I went to Windy Hill preserve, up above Skyline, hills wide and yellow and soft like the humps of camels, on one side more hills like a blanket thrown out into the wind all the way to the Pacific Ocean. The town was a miniature below us, silent and still except for the singing, rasping wind that flattened the tall grasses. A clear day, too much to take in, the glassy air, and the feeling of great freedom and grace, the world opening. I looked north and I could see San Francisco sparkling in the distance, but clear like it was close. It was like the way I’d seen it in the hovering dream, both close and far away, something to do with the angle from this hill to those hills, the refraction of the light.",
+    "That’s how I felt about my parents now that Josh was around, not that I didn’t worry about how my mom would earn money, or about my father mocking me, or even what would happen when he realized that I was really leaving for college. I was simply hovering above it all, so it didn’t pinch or press. Now Josh was the one who drove me to doctors’ appointments or between houses. He did not keep a calendar, forgot about homework assignments, and missed dentist appointments and other appointments, but never the ones with me. I was protected inside his teal Supra.",
+    "After the spring rains, when the grasses came up out of the clods of dirt under the oak and eucalyptus trees around Stanford—viridian fuzz like whiskers, stripes of gold light in long bright ribbons—I thought, This is my town. I walked home after school, and noticed the seasons change. Before this it was my father’s town, or my mother’s town, or the town where I’d been placed by accident and shifted around. Now I was in love, and the land was dimensional and heavy and particulate; it belonged to me."
+  ],
+  "words": [
+    {
+      "lemma": "gulp",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to swallow nervously or quickly",
+      "translationZh": "（緊張地）吞嚥",
+      "exampleSentence": "“What if we found out Josh was coming over every night,” my father asked at breakfast, “sneaking through the window.” I gulped, didn’t say anything, and he didn’t mention it again.",
+      "clozeSentence": "“What if we found out Josh was coming over every night,” my father asked at breakfast, “sneaking through the window.” I _____, didn’t say anything, and he didn’t mention it again.",
+      "distractors": [
+        "to laugh out loud suddenly",
+        "to speak very quickly",
+        "to breathe out slowly"
+      ],
+      "surfaceForms": [
+        "gulped"
+      ],
+      "clozeAnswerSurfaceForm": "gulped"
+    },
+    {
+      "lemma": "unbeknownst",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "without the knowledge of someone; unknown to",
+      "translationZh": "在…不知情的情況下",
+      "exampleSentence": "Josh and I had been discovered by a gardener they’d recently hired from Australia, who was staying in the house unbeknownst to me and who’d followed the sound of music and found us one night in an empty room on the second floor.",
+      "clozeSentence": "Josh and I had been discovered by a gardener they’d recently hired from Australia, who was staying in the house _____ to me and who’d followed the sound of music and found us one night in an empty room on the second floor.",
+      "distractors": [
+        "with the full approval of someone",
+        "much to the delight of someone",
+        "against the explicit wishes of someone"
+      ],
+      "surfaceForms": [
+        "unbeknownst"
+      ],
+      "clozeAnswerSurfaceForm": "unbeknownst"
+    },
+    {
+      "lemma": "midair",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a point in the air, above the ground",
+      "translationZh": "半空中",
+      "exampleSentence": "We hit each other in midair.",
+      "clozeSentence": "We hit each other in _____.",
+      "distractors": [
+        "a place deep underground",
+        "the surface of the water",
+        "a spot just behind a person"
+      ],
+      "surfaceForms": [
+        "midair"
+      ],
+      "clozeAnswerSurfaceForm": "midair"
+    },
+    {
+      "lemma": "pinch",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to squeeze tightly, causing slight pain",
+      "translationZh": "捏；夾痛",
+      "exampleSentence": "I was simply hovering above it all, so it didn’t pinch or press.",
+      "clozeSentence": "I was simply hovering above it all, so it didn’t _____ or press.",
+      "distractors": [
+        "to gently stroke or rub",
+        "to loudly announce something",
+        "to completely release and let go"
+      ],
+      "surfaceForms": [
+        "pinch"
+      ],
+      "clozeAnswerSurfaceForm": "pinch"
+    },
+    {
+      "lemma": "teal",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a blue-green color",
+      "translationZh": "藍綠色（水鴨色）",
+      "exampleSentence": "I was protected inside his teal Supra.",
+      "clozeSentence": "I was protected inside his _____ Supra.",
+      "distractors": [
+        "a deep, dark red color",
+        "a plain black color",
+        "a bright, sunny yellow color"
+      ],
+      "surfaceForms": [
+        "teal"
+      ],
+      "clozeAnswerSurfaceForm": "teal"
+    },
+    {
+      "lemma": "whoop",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to shout loudly in excitement or joy",
+      "translationZh": "歡呼；興奮地大叫",
+      "exampleSentence": "I took off my shoes and ran through the wet lawn, and whooped, down the slope toward the oak trees.",
+      "clozeSentence": "I took off my shoes and ran through the wet lawn, and _____, down the slope toward the oak trees.",
+      "distractors": [
+        "to whisper something quietly",
+        "to cry from sadness",
+        "to sigh with disappointment"
+      ],
+      "surfaceForms": [
+        "whooped"
+      ],
+      "clozeAnswerSurfaceForm": "whooped"
+    },
+    {
+      "lemma": "bum",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "an idle or lazy person, informally",
+      "translationZh": "遊手好閒的人（俚語）",
+      "exampleSentence": "“You’re going to be a bum.”",
+      "clozeSentence": "“You’re going to be a _____.”",
+      "distractors": [
+        "a highly successful businessperson",
+        "a person who works very hard",
+        "a person with great wealth"
+      ],
+      "surfaceForms": [
+        "bum"
+      ],
+      "clozeAnswerSurfaceForm": "bum"
+    },
+    {
+      "lemma": "wistfully",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "in a sad, longing way, thinking of the past",
+      "translationZh": "惆悵地；若有所思地",
+      "exampleSentence": "When he talked about Tina, he said wistfully that she never wore dresses, but there she was.",
+      "clozeSentence": "When he talked about Tina, he said _____ that she never wore dresses, but there she was.",
+      "distractors": [
+        "in an angry, aggressive way",
+        "in a confident, cheerful way",
+        "in a bored, indifferent way"
+      ],
+      "surfaceForms": [
+        "wistfully"
+      ],
+      "clozeAnswerSurfaceForm": "wistfully"
+    },
+    {
+      "lemma": "perfection",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the state of being complete and without fault",
+      "translationZh": "完美（的狀態）",
+      "exampleSentence": "When I told my mother, she reminded me my father had called himself a bum in high school, when she introduced him to her father, and that he sometimes used his own stories as templates for his idea of perfection.",
+      "clozeSentence": "When I told my mother, she reminded me my father had called himself a bum in high school, when she introduced him to her father, and that he sometimes used his own stories as templates for his idea of _____.",
+      "distractors": [
+        "a state of confusion and disorder",
+        "a small, unimportant detail",
+        "a temporary period of change"
+      ],
+      "surfaceForms": [
+        "perfection"
+      ],
+      "clozeAnswerSurfaceForm": "perfection"
+    },
+    {
+      "lemma": "template",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a model or pattern used as a guide",
+      "translationZh": "範本；模板",
+      "exampleSentence": "When I told my mother, she reminded me my father had called himself a bum in high school, when she introduced him to her father, and that he sometimes used his own stories as templates for his idea of perfection.",
+      "clozeSentence": "When I told my mother, she reminded me my father had called himself a bum in high school, when she introduced him to her father, and that he sometimes used his own stories as _____ for his idea of perfection.",
+      "distractors": [
+        "a final finished product",
+        "a random, unplanned choice",
+        "a strict rule that cannot change"
+      ],
+      "surfaceForms": [
+        "templates"
+      ],
+      "clozeAnswerSurfaceForm": "templates"
+    },
+    {
+      "lemma": "hover",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to stay floating in one place in the air",
+      "translationZh": "懸浮；盤旋",
+      "exampleSentence": "It was like the way I’d seen it in the hovering dream, both close and far away, something to do with the angle from this hill to those hills, the refraction of the light.",
+      "clozeSentence": "It was like the way I’d seen it in the _____ dream, both close and far away, something to do with the angle from this hill to those hills, the refraction of the light.",
+      "distractors": [
+        "to fall quickly to the ground",
+        "to move in a straight line forward",
+        "to disappear suddenly"
+      ],
+      "surfaceForms": [
+        "hovering"
+      ],
+      "clozeAnswerSurfaceForm": "hovering"
+    },
+    {
+      "lemma": "cardamom",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a spice with a strong, sweet-smelling seed pod",
+      "translationZh": "小豆蔻（香料）",
+      "exampleSentence": "It smelled of cardamom pods, eucalyptus buttons, pepper, water, and bark.",
+      "clozeSentence": "It smelled of _____ pods, eucalyptus buttons, pepper, water, and bark.",
+      "distractors": [
+        "a spice made from dried tree bark",
+        "a common herb used to flavor bread",
+        "a type of citrus fruit peel"
+      ],
+      "surfaceForms": [
+        "cardamom"
+      ],
+      "clozeAnswerSurfaceForm": "cardamom"
+    },
+    {
+      "lemma": "eucalyptus",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a tall evergreen tree with fragrant leaves",
+      "translationZh": "尤加利樹",
+      "exampleSentence": "It smelled of cardamom pods, eucalyptus buttons, pepper, water, and bark.",
+      "clozeSentence": "It smelled of cardamom pods, _____ buttons, pepper, water, and bark.",
+      "distractors": [
+        "a small flowering desert shrub",
+        "a fruit tree with wide leaves",
+        "a type of climbing vine"
+      ],
+      "surfaceForms": [
+        "eucalyptus"
+      ],
+      "clozeAnswerSurfaceForm": "eucalyptus"
+    },
+    {
+      "lemma": "pod",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a long seed case that grows on certain plants",
+      "translationZh": "豆莢；莢殼",
+      "exampleSentence": "It smelled of cardamom pods, eucalyptus buttons, pepper, water, and bark.",
+      "clozeSentence": "It smelled of cardamom _____, eucalyptus buttons, pepper, water, and bark.",
+      "distractors": [
+        "a small round fruit with juice",
+        "a thin, flexible plant stem",
+        "a cluster of flower petals"
+      ],
+      "surfaceForms": [
+        "pods"
+      ],
+      "clozeAnswerSurfaceForm": "pods"
+    },
+    {
+      "lemma": "refraction",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "the bending of light as it passes through a substance",
+      "translationZh": "（光線的）折射",
+      "exampleSentence": "It was like the way I’d seen it in the hovering dream, both close and far away, something to do with the angle from this hill to those hills, the refraction of the light.",
+      "clozeSentence": "It was like the way I’d seen it in the hovering dream, both close and far away, something to do with the angle from this hill to those hills, the _____ of the light.",
+      "distractors": [
+        "the complete blocking of light",
+        "the reflection of light off a mirror",
+        "the natural fading of light over distance"
+      ],
+      "surfaceForms": [
+        "refraction"
+      ],
+      "clozeAnswerSurfaceForm": "refraction"
+    },
+    {
+      "lemma": "stark",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "harsh, bare, or severe in appearance",
+      "translationZh": "荒涼的；蕭瑟的",
+      "exampleSentence": "It gave me a shiver, the way it looked stark and alone.",
+      "clozeSentence": "It gave me a shiver, the way it looked _____ and alone.",
+      "distractors": [
+        "warm and inviting in appearance",
+        "colorful and cheerful in appearance",
+        "crowded and busy in appearance"
+      ],
+      "surfaceForms": [
+        "stark"
+      ],
+      "clozeAnswerSurfaceForm": "stark"
+    },
+    {
+      "lemma": "dim",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "not bright; giving little light",
+      "translationZh": "暗淡的",
+      "exampleSentence": "Some stars were dim and fuzzy, and others were pointed and bright, they were messy and close, the sky demanded notice.",
+      "clozeSentence": "Some stars were _____ and fuzzy, and others were pointed and bright, they were messy and close, the sky demanded notice.",
+      "distractors": [
+        "extremely bright and vivid",
+        "colorful and vibrant",
+        "sharp and clearly defined"
+      ],
+      "surfaceForms": [
+        "dim"
+      ],
+      "clozeAnswerSurfaceForm": "dim"
+    },
+    {
+      "lemma": "fuzzy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "unclear or blurred in appearance",
+      "translationZh": "模糊不清的",
+      "exampleSentence": "Some stars were dim and fuzzy, and others were pointed and bright, they were messy and close, the sky demanded notice.",
+      "clozeSentence": "Some stars were dim and _____, and others were pointed and bright, they were messy and close, the sky demanded notice.",
+      "distractors": [
+        "extremely sharp and clear",
+        "brightly colored and vivid",
+        "completely dark and invisible"
+      ],
+      "surfaceForms": [
+        "fuzzy"
+      ],
+      "clozeAnswerSurfaceForm": "fuzzy"
+    },
+    {
+      "lemma": "hump",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a rounded raised part or lump",
+      "translationZh": "隆起；駝峰",
+      "exampleSentence": "Sometimes, in the late afternoon after school during the weeks when we were not producing the newspaper, Josh and I went to Windy Hill preserve, up above Skyline, hills wide and yellow and soft like the humps of camels, on one side more hills like a blanket thrown out into the wind all the way to the Pacific Ocean.",
+      "clozeSentence": "Sometimes, in the late afternoon after school during the weeks when we were not producing the newspaper, Josh and I went to Windy Hill preserve, up above Skyline, hills wide and yellow and soft like the _____ of camels, on one side more hills like a blanket thrown out into the wind all the way to the Pacific Ocean.",
+      "distractors": [
+        "a deep hole in the ground",
+        "a straight flat line",
+        "a sharp pointed edge"
+      ],
+      "surfaceForms": [
+        "humps"
+      ],
+      "clozeAnswerSurfaceForm": "humps"
+    },
+    {
+      "lemma": "lawn",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "an area of short, cut grass, usually near a house",
+      "translationZh": "草坪",
+      "exampleSentence": "There were no lights, but you could see the white house, the white mist and silver dew on the lawn sloping down toward the significant trees.",
+      "clozeSentence": "There were no lights, but you could see the white house, the white mist and silver dew on the _____ sloping down toward the significant trees.",
+      "distractors": [
+        "a paved area for parking cars",
+        "a wooded area with tall trees",
+        "a garden bed for growing vegetables"
+      ],
+      "surfaceForms": [
+        "lawn"
+      ],
+      "clozeAnswerSurfaceForm": "lawn"
+    },
+    {
+      "lemma": "miniature",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a very small version of something",
+      "translationZh": "縮小版；迷你模型",
+      "exampleSentence": "The town was a miniature below us, silent and still except for the singing, rasping wind that flattened the tall grasses.",
+      "clozeSentence": "The town was a _____ below us, silent and still except for the singing, rasping wind that flattened the tall grasses.",
+      "distractors": [
+        "an exact full-size copy",
+        "a broken or damaged version",
+        "an old, outdated version"
+      ],
+      "surfaceForms": [
+        "miniature"
+      ],
+      "clozeAnswerSurfaceForm": "miniature"
+    },
+    {
+      "lemma": "mist",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a thin cloud of tiny water droplets near the ground",
+      "translationZh": "薄霧",
+      "exampleSentence": "There were no lights, but you could see the white house, the white mist and silver dew on the lawn sloping down toward the significant trees.",
+      "clozeSentence": "There were no lights, but you could see the white house, the white _____ and silver dew on the lawn sloping down toward the significant trees.",
+      "distractors": [
+        "a heavy fall of rain",
+        "a layer of smoke from fire",
+        "a thick blanket of snow"
+      ],
+      "surfaceForms": [
+        "mist"
+      ],
+      "clozeAnswerSurfaceForm": "mist"
+    },
+    {
+      "lemma": "trampoline",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "a device with a stretched sheet used for bouncing",
+      "translationZh": "彈跳床",
+      "exampleSentence": "The trampoline was covered in leaves from the oak trees.",
+      "clozeSentence": "The _____ was covered in leaves from the oak trees.",
+      "distractors": [
+        "a wooden bench for sitting outside",
+        "a swing hung from a tree",
+        "a small pool for children"
+      ],
+      "surfaceForms": [
+        "trampoline"
+      ],
+      "clozeAnswerSurfaceForm": "trampoline"
+    },
+    {
+      "lemma": "dew",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "small drops of water formed on surfaces at night",
+      "translationZh": "露水",
+      "exampleSentence": "There were no lights, but you could see the white house, the white mist and silver dew on the lawn sloping down toward the significant trees.",
+      "clozeSentence": "There were no lights, but you could see the white house, the white mist and silver _____ on the lawn sloping down toward the significant trees.",
+      "distractors": [
+        "thin ice that forms on windows",
+        "steam rising from hot water",
+        "dust that collects on furniture"
+      ],
+      "surfaceForms": [
+        "dew"
+      ],
+      "clozeAnswerSurfaceForm": "dew"
+    },
+    {
+      "lemma": "flatten",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to make something flat or level",
+      "translationZh": "使…變平；壓平",
+      "exampleSentence": "The town was a miniature below us, silent and still except for the singing, rasping wind that flattened the tall grasses.",
+      "clozeSentence": "The town was a miniature below us, silent and still except for the singing, rasping wind that _____ the tall grasses.",
+      "distractors": [
+        "to make something taller",
+        "to break something into pieces",
+        "to make something brighter"
+      ],
+      "surfaceForms": [
+        "flattened"
+      ],
+      "clozeAnswerSurfaceForm": "flattened"
+    },
+    {
+      "lemma": "rasp",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "having a rough, harsh sound",
+      "translationZh": "發出粗嘎聲的",
+      "exampleSentence": "The town was a miniature below us, silent and still except for the singing, rasping wind that flattened the tall grasses.",
+      "clozeSentence": "The town was a miniature below us, silent and still except for the singing, _____ wind that flattened the tall grasses.",
+      "distractors": [
+        "having a smooth, gentle sound",
+        "having a high, musical tone",
+        "producing no sound at all"
+      ],
+      "surfaceForms": [
+        "rasping"
+      ],
+      "clozeAnswerSurfaceForm": "rasping"
+    },
+    {
+      "lemma": "slope",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to be positioned at an angle, rising or falling",
+      "translationZh": "傾斜；成坡度",
+      "exampleSentence": "There were no lights, but you could see the white house, the white mist and silver dew on the lawn sloping down toward the significant trees.",
+      "clozeSentence": "There were no lights, but you could see the white house, the white mist and silver dew on the lawn _____ down toward the significant trees.",
+      "distractors": [
+        "to be perfectly flat and level",
+        "to curve into a full circle",
+        "to stand completely upright"
+      ],
+      "surfaceForms": [
+        "slope"
+      ],
+      "clozeAnswerSurfaceForm": "sloping"
+    },
+    {
+      "lemma": "sneak",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to move quietly and secretly",
+      "translationZh": "偷偷溜走",
+      "exampleSentence": "He would stay with me until early morning, then sneak out again through the window or the sliding glass door, and drive home again.",
+      "clozeSentence": "He would stay with me until early morning, then _____ out again through the window or the sliding glass door, and drive home again.",
+      "distractors": [
+        "to walk confidently in the open",
+        "to run as fast as possible",
+        "to announce something loudly"
+      ],
+      "surfaceForms": [
+        "sneak",
+        "sneaking"
+      ],
+      "clozeAnswerSurfaceForm": "sneak"
+    },
+    {
+      "lemma": "creep",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to move slowly and quietly to avoid attention",
+      "translationZh": "悄悄地爬行、移動",
+      "exampleSentence": "He would creep through the rose garden and climb through my window into my bed, his hands ice cold because he drove with all the windows down.",
+      "clozeSentence": "He would _____ through the rose garden and climb through my window into my bed, his hands ice cold because he drove with all the windows down.",
+      "distractors": [
+        "to run quickly and loudly",
+        "to jump suddenly into the air",
+        "to stand still without moving"
+      ],
+      "surfaceForms": [
+        "creep"
+      ],
+      "clozeAnswerSurfaceForm": "creep"
+    },
+    {
+      "lemma": "dresser",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a piece of furniture with drawers for storing clothes",
+      "translationZh": "衣櫃；梳妝台",
+      "exampleSentence": "On a dresser was a framed picture of my father and Tina at a party, her wearing a black dress.",
+      "clozeSentence": "On a _____ was a framed picture of my father and Tina at a party, her wearing a black dress.",
+      "distractors": [
+        "a small table used for eating meals",
+        "a chair with a high back",
+        "a shelf mounted on a wall"
+      ],
+      "surfaceForms": [
+        "dresser"
+      ],
+      "clozeAnswerSurfaceForm": "dresser"
+    },
+    {
+      "lemma": "arch",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a curved structure over an opening",
+      "translationZh": "拱門；拱形結構",
+      "exampleSentence": "Looking back, it was all white arches covered in moonlight, white as salt.",
+      "clozeSentence": "Looking back, it was all white _____ covered in moonlight, white as salt.",
+      "distractors": [
+        "a flat, rectangular doorway",
+        "a tall pointed tower",
+        "a straight wooden beam"
+      ],
+      "surfaceForms": [
+        "arches"
+      ],
+      "clozeAnswerSurfaceForm": "arches"
+    },
+    {
+      "lemma": "moonlight",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the light that comes from the moon",
+      "translationZh": "月光",
+      "exampleSentence": "Looking back, it was all white arches covered in moonlight, white as salt.",
+      "clozeSentence": "Looking back, it was all white arches covered in _____, white as salt.",
+      "distractors": [
+        "the light from a candle flame",
+        "the light just before sunrise",
+        "the glow from a streetlamp"
+      ],
+      "surfaceForms": [
+        "moonlight"
+      ],
+      "clozeAnswerSurfaceForm": "moonlight"
+    },
+    {
+      "lemma": "acre",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "a unit of land area (about 4,000 square meters)",
+      "translationZh": "英畝（土地面積單位）",
+      "exampleSentence": "“Seven acres,” I said in the British accent.",
+      "clozeSentence": "“Seven _____,” I said in the British accent.",
+      "distractors": [
+        "a unit of measuring liquid volume",
+        "a unit of measuring weight",
+        "a unit of measuring temperature"
+      ],
+      "surfaceForms": [
+        "acres"
+      ],
+      "clozeAnswerSurfaceForm": "acres"
+    },
+    {
+      "lemma": "clink",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to make a light, sharp ringing sound",
+      "translationZh": "發出叮噹聲",
+      "exampleSentence": "If we didn’t go to the Woodside house, Josh would drive over to the Waverley house at night, careful not to clink the ring on the gate.",
+      "clozeSentence": "If we didn’t go to the Woodside house, Josh would drive over to the Waverley house at night, careful not to _____ the ring on the gate.",
+      "distractors": [
+        "to make a loud crashing sound",
+        "to remain completely silent",
+        "to break into small pieces"
+      ],
+      "surfaceForms": [
+        "clink"
+      ],
+      "clozeAnswerSurfaceForm": "clink"
+    },
+    {
+      "lemma": "glassy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "smooth, clear, and shiny like glass",
+      "translationZh": "如玻璃般清澈平滑的",
+      "exampleSentence": "A clear day, too much to take in, the glassy air, and the feeling of great freedom and grace, the world opening.",
+      "clozeSentence": "A clear day, too much to take in, the _____ air, and the feeling of great freedom and grace, the world opening.",
+      "distractors": [
+        "rough and full of texture",
+        "thick and hard to see through",
+        "warm and humid"
+      ],
+      "surfaceForms": [
+        "glassy"
+      ],
+      "clozeAnswerSurfaceForm": "glassy"
+    },
+    {
+      "lemma": "incompatibly",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "in a way that does not fit or work well together",
+      "translationZh": "不相容地；不協調地",
+      "exampleSentence": "“It was.” I did not tell my father that at first the angle was wrong, and so for a little while we thought sex would not be possible for us, that we were built incompatibly, that the parts did not fit the way they should.",
+      "clozeSentence": "“It was.” I did not tell my father that at first the angle was wrong, and so for a little while we thought sex would not be possible for us, that we were built _____, that the parts did not fit the way they should.",
+      "distractors": [
+        "in a way that matches perfectly",
+        "in a way that is very unusual",
+        "in a way that is easily fixed"
+      ],
+      "surfaceForms": [
+        "incompatibly"
+      ],
+      "clozeAnswerSurfaceForm": "incompatibly"
+    },
+    {
+      "lemma": "mock",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to make fun of someone in an unkind way",
+      "translationZh": "嘲笑",
+      "exampleSentence": "That’s how I felt about my parents now that Josh was around, not that I didn’t worry about how my mom would earn money, or about my father mocking me, or even what would happen when he realized that I was really leaving for college.",
+      "clozeSentence": "That’s how I felt about my parents now that Josh was around, not that I didn’t worry about how my mom would earn money, or about my father _____ me, or even what would happen when he realized that I was really leaving for college.",
+      "distractors": [
+        "to praise someone sincerely",
+        "to comfort someone gently",
+        "to ignore someone completely"
+      ],
+      "surfaceForms": [
+        "mocking"
+      ],
+      "clozeAnswerSurfaceForm": "mocking"
+    },
+    {
+      "lemma": "dimensional",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "having physical depth or substance",
+      "translationZh": "具有立體感（份量、深度）的",
+      "exampleSentence": "Now I was in love, and the land was dimensional and heavy and particulate; it belonged to me.",
+      "clozeSentence": "Now I was in love, and the land was _____ and heavy and particulate; it belonged to me.",
+      "distractors": [
+        "flat and lacking any depth",
+        "invisible and without form",
+        "extremely light in weight"
+      ],
+      "surfaceForms": [
+        "dimensional"
+      ],
+      "clozeAnswerSurfaceForm": "dimensional"
+    },
+    {
+      "lemma": "particulate",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "made up of separate small particles",
+      "translationZh": "微粒狀的",
+      "exampleSentence": "Now I was in love, and the land was dimensional and heavy and particulate; it belonged to me.",
+      "clozeSentence": "Now I was in love, and the land was dimensional and heavy and _____; it belonged to me.",
+      "distractors": [
+        "completely smooth and uniform",
+        "liquid and flowing freely",
+        "transparent and weightless"
+      ],
+      "surfaceForms": [
+        "particulate"
+      ],
+      "clozeAnswerSurfaceForm": "particulate"
+    },
+    {
+      "lemma": "clod",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a lump of earth or clay",
+      "translationZh": "土塊",
+      "exampleSentence": "After the spring rains, when the grasses came up out of the clods of dirt under the oak and eucalyptus trees around Stanford—viridian fuzz like whiskers, stripes of gold light in long bright ribbons—I thought, This is my town.",
+      "clozeSentence": "After the spring rains, when the grasses came up out of the _____ of dirt under the oak and eucalyptus trees around Stanford—viridian fuzz like whiskers, stripes of gold light in long bright ribbons—I thought, This is my town.",
+      "distractors": [
+        "a puddle of muddy water",
+        "a small pile of dry leaves",
+        "a patch of green grass"
+      ],
+      "surfaceForms": [
+        "clods"
+      ],
+      "clozeAnswerSurfaceForm": "clods"
+    },
+    {
+      "lemma": "fuzz",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a mass of short, soft, fine hairs or fibers",
+      "translationZh": "絨毛；細毛",
+      "exampleSentence": "After the spring rains, when the grasses came up out of the clods of dirt under the oak and eucalyptus trees around Stanford—viridian fuzz like whiskers, stripes of gold light in long bright ribbons—I thought, This is my town.",
+      "clozeSentence": "After the spring rains, when the grasses came up out of the clods of dirt under the oak and eucalyptus trees around Stanford—viridian _____ like whiskers, stripes of gold light in long bright ribbons—I thought, This is my town.",
+      "distractors": [
+        "a thick layer of mud",
+        "a bright patch of sunlight",
+        "a hard, rough surface"
+      ],
+      "surfaceForms": [
+        "fuzz"
+      ],
+      "clozeAnswerSurfaceForm": "fuzz"
+    },
+    {
+      "lemma": "viridian",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "a deep bluish-green color",
+      "translationZh": "翠綠色（顏料色名）",
+      "exampleSentence": "After the spring rains, when the grasses came up out of the clods of dirt under the oak and eucalyptus trees around Stanford—viridian fuzz like whiskers, stripes of gold light in long bright ribbons—I thought, This is my town.",
+      "clozeSentence": "After the spring rains, when the grasses came up out of the clods of dirt under the oak and eucalyptus trees around Stanford—_____ fuzz like whiskers, stripes of gold light in long bright ribbons—I thought, This is my town.",
+      "distractors": [
+        "a pale, dusty gray color",
+        "a warm golden-brown color",
+        "a soft lavender-purple color"
+      ],
+      "surfaceForms": [
+        "viridian"
+      ],
+      "clozeAnswerSurfaceForm": "Stanford—viridian"
+    },
+    {
+      "lemma": "whisker",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a long stiff hair near the mouth of an animal",
+      "translationZh": "（動物的）鬍鬚",
+      "exampleSentence": "After the spring rains, when the grasses came up out of the clods of dirt under the oak and eucalyptus trees around Stanford—viridian fuzz like whiskers, stripes of gold light in long bright ribbons—I thought, This is my town.",
+      "clozeSentence": "After the spring rains, when the grasses came up out of the clods of dirt under the oak and eucalyptus trees around Stanford—viridian fuzz like _____, stripes of gold light in long bright ribbons—I thought, This is my town.",
+      "distractors": [
+        "a soft feather on a bird's wing",
+        "a small claw on an animal's paw",
+        "a patch of fur on the back"
+      ],
+      "surfaceForms": [
+        "whiskers"
+      ],
+      "clozeAnswerSurfaceForm": "whiskers"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "gulp",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to swallow nervously or quickly",
+      "translationZh": "（緊張地）吞嚥",
+      "exampleSentence": "“What if we found out Josh was coming over every night,” my father asked at breakfast, “sneaking through the window.” I gulped, didn’t say anything, and he didn’t mention it again.",
+      "clozeSentence": "“What if we found out Josh was coming over every night,” my father asked at breakfast, “sneaking through the window.” I _____, didn’t say anything, and he didn’t mention it again.",
+      "distractors": [
+        "to laugh out loud suddenly",
+        "to speak very quickly",
+        "to breathe out slowly"
+      ],
+      "surfaceForms": [
+        "gulped"
+      ],
+      "clozeAnswerSurfaceForm": "gulped"
+    },
+    {
+      "lemma": "unbeknownst",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "without the knowledge of someone; unknown to",
+      "translationZh": "在…不知情的情況下",
+      "exampleSentence": "Josh and I had been discovered by a gardener they’d recently hired from Australia, who was staying in the house unbeknownst to me and who’d followed the sound of music and found us one night in an empty room on the second floor.",
+      "clozeSentence": "Josh and I had been discovered by a gardener they’d recently hired from Australia, who was staying in the house _____ to me and who’d followed the sound of music and found us one night in an empty room on the second floor.",
+      "distractors": [
+        "with the full approval of someone",
+        "much to the delight of someone",
+        "against the explicit wishes of someone"
+      ],
+      "surfaceForms": [
+        "unbeknownst"
+      ],
+      "clozeAnswerSurfaceForm": "unbeknownst"
+    },
+    {
+      "lemma": "midair",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a point in the air, above the ground",
+      "translationZh": "半空中",
+      "exampleSentence": "We hit each other in midair.",
+      "clozeSentence": "We hit each other in _____.",
+      "distractors": [
+        "a place deep underground",
+        "the surface of the water",
+        "a spot just behind a person"
+      ],
+      "surfaceForms": [
+        "midair"
+      ],
+      "clozeAnswerSurfaceForm": "midair"
+    },
+    {
+      "lemma": "pinch",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to squeeze tightly, causing slight pain",
+      "translationZh": "捏；夾痛",
+      "exampleSentence": "I was simply hovering above it all, so it didn’t pinch or press.",
+      "clozeSentence": "I was simply hovering above it all, so it didn’t _____ or press.",
+      "distractors": [
+        "to gently stroke or rub",
+        "to loudly announce something",
+        "to completely release and let go"
+      ],
+      "surfaceForms": [
+        "pinch"
+      ],
+      "clozeAnswerSurfaceForm": "pinch"
+    },
+    {
+      "lemma": "teal",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a blue-green color",
+      "translationZh": "藍綠色（水鴨色）",
+      "exampleSentence": "I was protected inside his teal Supra.",
+      "clozeSentence": "I was protected inside his _____ Supra.",
+      "distractors": [
+        "a deep, dark red color",
+        "a plain black color",
+        "a bright, sunny yellow color"
+      ],
+      "surfaceForms": [
+        "teal"
+      ],
+      "clozeAnswerSurfaceForm": "teal"
+    },
+    {
+      "lemma": "whoop",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to shout loudly in excitement or joy",
+      "translationZh": "歡呼；興奮地大叫",
+      "exampleSentence": "I took off my shoes and ran through the wet lawn, and whooped, down the slope toward the oak trees.",
+      "clozeSentence": "I took off my shoes and ran through the wet lawn, and _____, down the slope toward the oak trees.",
+      "distractors": [
+        "to whisper something quietly",
+        "to cry from sadness",
+        "to sigh with disappointment"
+      ],
+      "surfaceForms": [
+        "whooped"
+      ],
+      "clozeAnswerSurfaceForm": "whooped"
+    },
+    {
+      "lemma": "bum",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "an idle or lazy person, informally",
+      "translationZh": "遊手好閒的人（俚語）",
+      "exampleSentence": "“You’re going to be a bum.”",
+      "clozeSentence": "“You’re going to be a _____.”",
+      "distractors": [
+        "a highly successful businessperson",
+        "a person who works very hard",
+        "a person with great wealth"
+      ],
+      "surfaceForms": [
+        "bum"
+      ],
+      "clozeAnswerSurfaceForm": "bum"
+    },
+    {
+      "lemma": "wistfully",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "in a sad, longing way, thinking of the past",
+      "translationZh": "惆悵地；若有所思地",
+      "exampleSentence": "When he talked about Tina, he said wistfully that she never wore dresses, but there she was.",
+      "clozeSentence": "When he talked about Tina, he said _____ that she never wore dresses, but there she was.",
+      "distractors": [
+        "in an angry, aggressive way",
+        "in a confident, cheerful way",
+        "in a bored, indifferent way"
+      ],
+      "surfaceForms": [
+        "wistfully"
+      ],
+      "clozeAnswerSurfaceForm": "wistfully"
+    },
+    {
+      "lemma": "perfection",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the state of being complete and without fault",
+      "translationZh": "完美（的狀態）",
+      "exampleSentence": "When I told my mother, she reminded me my father had called himself a bum in high school, when she introduced him to her father, and that he sometimes used his own stories as templates for his idea of perfection.",
+      "clozeSentence": "When I told my mother, she reminded me my father had called himself a bum in high school, when she introduced him to her father, and that he sometimes used his own stories as templates for his idea of _____.",
+      "distractors": [
+        "a state of confusion and disorder",
+        "a small, unimportant detail",
+        "a temporary period of change"
+      ],
+      "surfaceForms": [
+        "perfection"
+      ],
+      "clozeAnswerSurfaceForm": "perfection"
+    },
+    {
+      "lemma": "template",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a model or pattern used as a guide",
+      "translationZh": "範本；模板",
+      "exampleSentence": "When I told my mother, she reminded me my father had called himself a bum in high school, when she introduced him to her father, and that he sometimes used his own stories as templates for his idea of perfection.",
+      "clozeSentence": "When I told my mother, she reminded me my father had called himself a bum in high school, when she introduced him to her father, and that he sometimes used his own stories as _____ for his idea of perfection.",
+      "distractors": [
+        "a final finished product",
+        "a random, unplanned choice",
+        "a strict rule that cannot change"
+      ],
+      "surfaceForms": [
+        "templates"
+      ],
+      "clozeAnswerSurfaceForm": "templates"
+    },
+    {
+      "lemma": "cardamom",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a spice with a strong, sweet-smelling seed pod",
+      "translationZh": "小豆蔻（香料）",
+      "exampleSentence": "It smelled of cardamom pods, eucalyptus buttons, pepper, water, and bark.",
+      "clozeSentence": "It smelled of _____ pods, eucalyptus buttons, pepper, water, and bark.",
+      "distractors": [
+        "a spice made from dried tree bark",
+        "a common herb used to flavor bread",
+        "a type of citrus fruit peel"
+      ],
+      "surfaceForms": [
+        "cardamom"
+      ],
+      "clozeAnswerSurfaceForm": "cardamom"
+    },
+    {
+      "lemma": "refraction",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "the bending of light as it passes through a substance",
+      "translationZh": "（光線的）折射",
+      "exampleSentence": "It was like the way I’d seen it in the hovering dream, both close and far away, something to do with the angle from this hill to those hills, the refraction of the light.",
+      "clozeSentence": "It was like the way I’d seen it in the hovering dream, both close and far away, something to do with the angle from this hill to those hills, the _____ of the light.",
+      "distractors": [
+        "the complete blocking of light",
+        "the reflection of light off a mirror",
+        "the natural fading of light over distance"
+      ],
+      "surfaceForms": [
+        "refraction"
+      ],
+      "clozeAnswerSurfaceForm": "refraction"
+    },
+    {
+      "lemma": "trampoline",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "a device with a stretched sheet used for bouncing",
+      "translationZh": "彈跳床",
+      "exampleSentence": "The trampoline was covered in leaves from the oak trees.",
+      "clozeSentence": "The _____ was covered in leaves from the oak trees.",
+      "distractors": [
+        "a wooden bench for sitting outside",
+        "a swing hung from a tree",
+        "a small pool for children"
+      ],
+      "surfaceForms": [
+        "trampoline"
+      ],
+      "clozeAnswerSurfaceForm": "trampoline"
+    },
+    {
+      "lemma": "rasp",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "having a rough, harsh sound",
+      "translationZh": "發出粗嘎聲的",
+      "exampleSentence": "The town was a miniature below us, silent and still except for the singing, rasping wind that flattened the tall grasses.",
+      "clozeSentence": "The town was a miniature below us, silent and still except for the singing, _____ wind that flattened the tall grasses.",
+      "distractors": [
+        "having a smooth, gentle sound",
+        "having a high, musical tone",
+        "producing no sound at all"
+      ],
+      "surfaceForms": [
+        "rasping"
+      ],
+      "clozeAnswerSurfaceForm": "rasping"
+    },
+    {
+      "lemma": "acre",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "a unit of land area (about 4,000 square meters)",
+      "translationZh": "英畝（土地面積單位）",
+      "exampleSentence": "“Seven acres,” I said in the British accent.",
+      "clozeSentence": "“Seven _____,” I said in the British accent.",
+      "distractors": [
+        "a unit of measuring liquid volume",
+        "a unit of measuring weight",
+        "a unit of measuring temperature"
+      ],
+      "surfaceForms": [
+        "acres"
+      ],
+      "clozeAnswerSurfaceForm": "acres"
+    },
+    {
+      "lemma": "incompatibly",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "in a way that does not fit or work well together",
+      "translationZh": "不相容地；不協調地",
+      "exampleSentence": "“It was.” I did not tell my father that at first the angle was wrong, and so for a little while we thought sex would not be possible for us, that we were built incompatibly, that the parts did not fit the way they should.",
+      "clozeSentence": "“It was.” I did not tell my father that at first the angle was wrong, and so for a little while we thought sex would not be possible for us, that we were built _____, that the parts did not fit the way they should.",
+      "distractors": [
+        "in a way that matches perfectly",
+        "in a way that is very unusual",
+        "in a way that is easily fixed"
+      ],
+      "surfaceForms": [
+        "incompatibly"
+      ],
+      "clozeAnswerSurfaceForm": "incompatibly"
+    },
+    {
+      "lemma": "particulate",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "made up of separate small particles",
+      "translationZh": "微粒狀的",
+      "exampleSentence": "Now I was in love, and the land was dimensional and heavy and particulate; it belonged to me.",
+      "clozeSentence": "Now I was in love, and the land was dimensional and heavy and _____; it belonged to me.",
+      "distractors": [
+        "completely smooth and uniform",
+        "liquid and flowing freely",
+        "transparent and weightless"
+      ],
+      "surfaceForms": [
+        "particulate"
+      ],
+      "clozeAnswerSurfaceForm": "particulate"
+    },
+    {
+      "lemma": "dimensional",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "having physical depth or substance",
+      "translationZh": "具有立體感（份量、深度）的",
+      "exampleSentence": "Now I was in love, and the land was dimensional and heavy and particulate; it belonged to me.",
+      "clozeSentence": "Now I was in love, and the land was _____ and heavy and particulate; it belonged to me.",
+      "distractors": [
+        "flat and lacking any depth",
+        "invisible and without form",
+        "extremely light in weight"
+      ],
+      "surfaceForms": [
+        "dimensional"
+      ],
+      "clozeAnswerSurfaceForm": "dimensional"
+    },
+    {
+      "lemma": "viridian",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "a deep bluish-green color",
+      "translationZh": "翠綠色（顏料色名）",
+      "exampleSentence": "After the spring rains, when the grasses came up out of the clods of dirt under the oak and eucalyptus trees around Stanford—viridian fuzz like whiskers, stripes of gold light in long bright ribbons—I thought, This is my town.",
+      "clozeSentence": "After the spring rains, when the grasses came up out of the clods of dirt under the oak and eucalyptus trees around Stanford—_____ fuzz like whiskers, stripes of gold light in long bright ribbons—I thought, This is my town.",
+      "distractors": [
+        "a pale, dusty gray color",
+        "a warm golden-brown color",
+        "a soft lavender-purple color"
+      ],
+      "surfaceForms": [
+        "viridian"
+      ],
+      "clozeAnswerSurfaceForm": "Stanford—viridian"
+    },
+    {
+      "lemma": "clod",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a lump of earth or clay",
+      "translationZh": "土塊",
+      "exampleSentence": "After the spring rains, when the grasses came up out of the clods of dirt under the oak and eucalyptus trees around Stanford—viridian fuzz like whiskers, stripes of gold light in long bright ribbons—I thought, This is my town.",
+      "clozeSentence": "After the spring rains, when the grasses came up out of the _____ of dirt under the oak and eucalyptus trees around Stanford—viridian fuzz like whiskers, stripes of gold light in long bright ribbons—I thought, This is my town.",
+      "distractors": [
+        "a puddle of muddy water",
+        "a small pile of dry leaves",
+        "a patch of green grass"
+      ],
+      "surfaceForms": [
+        "clods"
+      ],
+      "clozeAnswerSurfaceForm": "clods"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "wordLemma": "incompatibly",
+      "prompt": "incompatibly",
+      "options": [
+        "in a way that is easily fixed",
+        "in a way that matches perfectly",
+        "in a way that does not fit or work well together",
+        "in a way that is very unusual"
+      ],
+      "answer": "in a way that does not fit or work well together"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "refraction",
+      "prompt": "（光線的）折射",
+      "options": [
+        "rasp",
+        "whoop",
+        "refraction",
+        "unbeknownst"
+      ],
+      "answer": "refraction"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "midair",
+      "prompt": "半空中",
+      "options": [
+        "rasp",
+        "unbeknownst",
+        "midair",
+        "incompatibly"
+      ],
+      "answer": "midair"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "template",
+      "prompt": "template",
+      "options": [
+        "a strict rule that cannot change",
+        "a final finished product",
+        "a random, unplanned choice",
+        "a model or pattern used as a guide"
+      ],
+      "answer": "a model or pattern used as a guide"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "particulate",
+      "prompt": "Now I was in love, and the land was dimensional and heavy and _____; it belonged to me.",
+      "options": [
+        "acres",
+        "particulate",
+        "trampoline",
+        "incompatibly"
+      ],
+      "answer": "particulate"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "perfection",
+      "prompt": "完美（的狀態）",
+      "options": [
+        "pinch",
+        "viridian",
+        "particulate",
+        "perfection"
+      ],
+      "answer": "perfection"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "whoop",
+      "prompt": "歡呼；興奮地大叫",
+      "options": [
+        "dimensional",
+        "whoop",
+        "midair",
+        "teal"
+      ],
+      "answer": "whoop"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "teal",
+      "prompt": "I was protected inside his _____ Supra.",
+      "options": [
+        "teal",
+        "pinch",
+        "templates",
+        "perfection"
+      ],
+      "answer": "teal"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "gulp",
+      "prompt": "gulp",
+      "options": [
+        "to breathe out slowly",
+        "to speak very quickly",
+        "to laugh out loud suddenly",
+        "to swallow nervously or quickly"
+      ],
+      "answer": "to swallow nervously or quickly"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "wistfully",
+      "prompt": "When he talked about Tina, he said _____ that she never wore dresses, but there she was.",
+      "options": [
+        "perfection",
+        "trampoline",
+        "pinch",
+        "wistfully"
+      ],
+      "answer": "wistfully"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "unbeknownst",
+      "prompt": "Josh and I had been discovered by a gardener they’d recently hired from Australia, who was staying in the house _____ to me and who’d followed the sound of music and found us one night in an empty room on the second floor.",
+      "options": [
+        "teal",
+        "unbeknownst",
+        "incompatibly",
+        "bum"
+      ],
+      "answer": "unbeknownst"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "cardamom",
+      "prompt": "It smelled of _____ pods, eucalyptus buttons, pepper, water, and bark.",
+      "options": [
+        "particulate",
+        "midair",
+        "cardamom",
+        "refraction"
+      ],
+      "answer": "cardamom"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "bum",
+      "prompt": "bum",
+      "options": [
+        "a person with great wealth",
+        "a person who works very hard",
+        "an idle or lazy person, informally",
+        "a highly successful businessperson"
+      ],
+      "answer": "an idle or lazy person, informally"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "pinch",
+      "prompt": "pinch",
+      "options": [
+        "to loudly announce something",
+        "to completely release and let go",
+        "to gently stroke or rub",
+        "to squeeze tightly, causing slight pain"
+      ],
+      "answer": "to squeeze tightly, causing slight pain"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "viridian",
+      "prompt": "viridian",
+      "options": [
+        "a deep bluish-green color",
+        "a soft lavender-purple color",
+        "a pale, dusty gray color",
+        "a warm golden-brown color"
+      ],
+      "answer": "a deep bluish-green color"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "rasp",
+      "prompt": "The town was a miniature below us, silent and still except for the singing, _____ wind that flattened the tall grasses.",
+      "options": [
+        "rasping",
+        "gulped",
+        "templates",
+        "dimensional"
+      ],
+      "answer": "rasping"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "clod",
+      "prompt": "After the spring rains, when the grasses came up out of the _____ of dirt under the oak and eucalyptus trees around Stanford—viridian fuzz like whiskers, stripes of gold light in long bright ribbons—I thought, This is my town.",
+      "options": [
+        "Stanford—viridian",
+        "clods",
+        "templates",
+        "trampoline"
+      ],
+      "answer": "clods"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "trampoline",
+      "prompt": "trampoline",
+      "options": [
+        "a device with a stretched sheet used for bouncing",
+        "a wooden bench for sitting outside",
+        "a small pool for children",
+        "a swing hung from a tree"
+      ],
+      "answer": "a device with a stretched sheet used for bouncing"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "dimensional",
+      "prompt": "具有立體感（份量、深度）的",
+      "options": [
+        "dimensional",
+        "wistfully",
+        "acre",
+        "teal"
+      ],
+      "answer": "dimensional"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "acre",
+      "prompt": "英畝（土地面積單位）",
+      "options": [
+        "template",
+        "acre",
+        "cardamom",
+        "clod"
+      ],
+      "answer": "acre"
+    }
+  ]
+}

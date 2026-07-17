@@ -1,0 +1,1119 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 1,
+  "partTitle": "Hippies",
+  "sectionIndex": 7,
+  "paragraphs": [
+    "Before Ron, my mother spent some time with a man who made art out of sticks.",
+    "I didn’t like him, or the way she fluttered near him, sparkled, seemed to levitate and be made up of air rather than a comforting solid. He was aloof, spoke softly, as if he were hiding something, and was shy in a way that made me suspect he was sneaky. One night after dinner we followed him to his car and he opened the trunk. Inside, on a blanket, was a stick he’d wrapped in places with several bands of colored thread and string. Attached to one section was a crystal, and to another, a feather.",
+    "“So these are what I make,” he said softly.",
+    "“It’s beautiful,” my mother said. I hoped she was faking.",
+    "“This is a powerful crystal,” he said. “And I found the eagle feather on a walk.”",
+    "“An eagle feather. That’s incredible,” she said. She took it in her hand, reverent.",
+    "“But you don’t really like them, do you? The sticks?” I said, when he wasn’t around.",
+    "“I do,” she said.",
+    "“They’re just sticks. He’s not a real artist like you.” I wanted to remind her of her talent, the calm woman in the windy mess of papers.",
+    "“I think they’re more than that,” she said. “I mean, he wraps them. It takes a lot of time. Certain sticks call to him. Nature speaks to him. I might even make one myself.”",
+    "“Oh brother,” I said.",
+    "“Really. I might.”",
+    "“They’re sticks, Mom. Sticks.”",
+    "“Okay. Maybe they’re a little silly,” she said.",
+    "She was back.",
+    "My mother worked a few afternoons per week as a waitress at a restaurant and patisserie nearby, where she’d brought me once. She told me the secret: the owner, a pastry chef who sat in the back making the petits fours, cut the strings of frosting between the cakes by using his tongue to lick the metal nozzle of the frosting bag. When I came to visit her there, I ordered a cake anyway. I wasn’t usually allowed to eat sugar and it was too delicious to care about germs.",
+    "“The world is made of more space than matter,” she said a few days later, when we were at home. She was reading a book about quantum physics, and it put her in an expansive mood. She said the atoms are so far apart that there isn’t a difference between space and matter, because matter is mostly made of space; even if it looks like a body, a couch, a table, it isn’t, it’s space—and if you could really see this, you could walk through walls.",
+    "My mother said that some enlightened mystics could propel themselves through walls, as if walls did not exist; they knew something about quantum physics, even if only intuitively, of the vast spaces between atoms—larger than football fields, she said. I’d never seen a football field. These mystics were not prone to the same illusions of divided space as we were, and because they understood the false quality of solid matter they were no longer forced to abide by physical laws. There were anecdotal reports, she said, of gurus being in two places at once, speaking with two different groups of people at exactly the same time.",
+    "She told me about this in our living room. I tried to imagine the bedroom beyond the wall, to believe in the absence of matter so thoroughly that it dissipated before me. For a breathless few hours the next day—after I put my finger in front of my nose a few inches, focused beyond it, and my finger faded to semitransparency—I thought I could see through my finger. I was capable of miracles. Walls would be next."
+  ],
+  "words": [
+    {
+      "lemma": "dissipate",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to disappear gradually or scatter into nothing",
+      "translationZh": "消散",
+      "exampleSentence": "I tried to imagine the bedroom beyond the wall, to believe in the absence of matter so thoroughly that it dissipated before me.",
+      "clozeSentence": "I tried to imagine the bedroom beyond the wall, to believe in the absence of matter so thoroughly that it _____ before me.",
+      "distractors": [
+        "to become larger and more solid",
+        "to change into a bright color",
+        "to make a loud, sudden noise"
+      ],
+      "surfaceForms": [
+        "dissipated"
+      ],
+      "clozeAnswerSurfaceForm": "dissipated"
+    },
+    {
+      "lemma": "flutter",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to move quickly and lightly, with small flapping motions",
+      "translationZh": "輕盈飄動；振翅",
+      "exampleSentence": "I didn’t like him, or the way she fluttered near him, sparkled, seemed to levitate and be made up of air rather than a comforting solid.",
+      "clozeSentence": "I didn’t like him, or the way she _____ near him, sparkled, seemed to levitate and be made up of air rather than a comforting solid.",
+      "distractors": [
+        "to stand completely still and silent",
+        "to walk with slow, heavy steps",
+        "to shout loudly in anger"
+      ],
+      "surfaceForms": [
+        "fluttered"
+      ],
+      "clozeAnswerSurfaceForm": "fluttered"
+    },
+    {
+      "lemma": "germ",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a tiny living thing that can cause disease",
+      "translationZh": "細菌；病菌",
+      "exampleSentence": "I wasn’t usually allowed to eat sugar and it was too delicious to care about germs.",
+      "clozeSentence": "I wasn’t usually allowed to eat sugar and it was too delicious to care about _____.",
+      "distractors": [
+        "small pieces of broken glass",
+        "sweet flavors added to food",
+        "bright colors used in decoration"
+      ],
+      "surfaceForms": [
+        "germs"
+      ],
+      "clozeAnswerSurfaceForm": "germs"
+    },
+    {
+      "lemma": "levitate",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to rise or float in the air without physical support",
+      "translationZh": "漂浮；懸空",
+      "exampleSentence": "I didn’t like him, or the way she fluttered near him, sparkled, seemed to levitate and be made up of air rather than a comforting solid.",
+      "clozeSentence": "I didn’t like him, or the way she fluttered near him, sparkled, seemed to _____ and be made up of air rather than a comforting solid.",
+      "distractors": [
+        "to sink slowly into water",
+        "to speak in a whisper",
+        "to walk with heavy, slow steps"
+      ],
+      "surfaceForms": [
+        "levitate"
+      ],
+      "clozeAnswerSurfaceForm": "levitate"
+    },
+    {
+      "lemma": "thoroughly",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "completely and in every detail",
+      "translationZh": "徹底地",
+      "exampleSentence": "I tried to imagine the bedroom beyond the wall, to believe in the absence of matter so thoroughly that it dissipated before me.",
+      "clozeSentence": "I tried to imagine the bedroom beyond the wall, to believe in the absence of matter so _____ that it dissipated before me.",
+      "distractors": [
+        "briefly and without much attention",
+        "secretly and without others knowing",
+        "cheerfully and with enthusiasm"
+      ],
+      "surfaceForms": [
+        "thoroughly"
+      ],
+      "clozeAnswerSurfaceForm": "thoroughly"
+    },
+    {
+      "lemma": "aloof",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "distant and not friendly or open with others",
+      "translationZh": "冷漠疏遠的",
+      "exampleSentence": "He was aloof, spoke softly, as if he were hiding something, and was shy in a way that made me suspect he was sneaky.",
+      "clozeSentence": "He was _____, spoke softly, as if he were hiding something, and was shy in a way that made me suspect he was sneaky.",
+      "distractors": [
+        "extremely talkative and outgoing",
+        "quick to anger over small things",
+        "eager to please everyone around him"
+      ],
+      "surfaceForms": [
+        "aloof"
+      ],
+      "clozeAnswerSurfaceForm": "aloof"
+    },
+    {
+      "lemma": "sneaky",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "acting in a secretive or dishonest way",
+      "translationZh": "鬼鬼祟祟的",
+      "exampleSentence": "He was aloof, spoke softly, as if he were hiding something, and was shy in a way that made me suspect he was sneaky.",
+      "clozeSentence": "He was aloof, spoke softly, as if he were hiding something, and was shy in a way that made me suspect he was _____.",
+      "distractors": [
+        "acting in a bold and open way",
+        "acting in a calm and relaxed way",
+        "acting in a generous and kind way"
+      ],
+      "surfaceForms": [
+        "sneaky"
+      ],
+      "clozeAnswerSurfaceForm": "sneaky"
+    },
+    {
+      "lemma": "trunk",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the enclosed storage space at the back of a car",
+      "translationZh": "後車廂",
+      "exampleSentence": "One night after dinner we followed him to his car and he opened the trunk.",
+      "clozeSentence": "One night after dinner we followed him to his car and he opened the _____.",
+      "distractors": [
+        "the front seat where the driver sits",
+        "a small drawer in a kitchen cabinet",
+        "the engine that powers a vehicle"
+      ],
+      "surfaceForms": [
+        "trunk"
+      ],
+      "clozeAnswerSurfaceForm": "trunk"
+    },
+    {
+      "lemma": "thread",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a thin strand of cotton, wool, or similar material used for sewing",
+      "translationZh": "線",
+      "exampleSentence": "Inside, on a blanket, was a stick he’d wrapped in places with several bands of colored thread and string.",
+      "clozeSentence": "Inside, on a blanket, was a stick he’d wrapped in places with several bands of colored _____ and string.",
+      "distractors": [
+        "a small piece of broken glass",
+        "a flat piece of folded paper",
+        "a round, hard piece of metal"
+      ],
+      "surfaceForms": [
+        "thread"
+      ],
+      "clozeAnswerSurfaceForm": "thread"
+    },
+    {
+      "lemma": "crystal",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a clear, hard mineral, often used in jewelry",
+      "translationZh": "水晶",
+      "exampleSentence": "Attached to one section was a crystal, and to another, a feather.",
+      "clozeSentence": "Attached to one section was a _____, and to another, a feather.",
+      "distractors": [
+        "a small, soft cushion",
+        "a piece of woven cloth",
+        "a type of dried fruit"
+      ],
+      "surfaceForms": [
+        "crystal"
+      ],
+      "clozeAnswerSurfaceForm": "crystal"
+    },
+    {
+      "lemma": "eagle",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a large, powerful bird of prey",
+      "translationZh": "老鷹",
+      "exampleSentence": "“And I found the eagle feather on a walk.”",
+      "clozeSentence": "“And I found the _____ feather on a walk.”",
+      "distractors": [
+        "a small insect with colorful wings",
+        "a type of fish found in rivers",
+        "a small rodent that lives underground"
+      ],
+      "surfaceForms": [
+        "eagle"
+      ],
+      "clozeAnswerSurfaceForm": "eagle"
+    },
+    {
+      "lemma": "expansive",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "open, broad, and full of enthusiasm",
+      "translationZh": "開闊的；豁達的",
+      "exampleSentence": "She was reading a book about quantum physics, and it put her in an expansive mood.",
+      "clozeSentence": "She was reading a book about quantum physics, and it put her in an _____ mood.",
+      "distractors": [
+        "nervous and easily frightened",
+        "tired and lacking energy",
+        "strict and unwilling to change"
+      ],
+      "surfaceForms": [
+        "expansive"
+      ],
+      "clozeAnswerSurfaceForm": "expansive"
+    },
+    {
+      "lemma": "lick",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to pass the tongue over something",
+      "translationZh": "舔",
+      "exampleSentence": "She told me the secret: the owner, a pastry chef who sat in the back making the petits fours, cut the strings of frosting between the cakes by using his tongue to lick the metal nozzle of the frosting bag.",
+      "clozeSentence": "She told me the secret: the owner, a pastry chef who sat in the back making the petits fours, cut the strings of frosting between the cakes by using his tongue to _____ the metal nozzle of the frosting bag.",
+      "distractors": [
+        "to bite down hard on something",
+        "to blow air gently onto something",
+        "to wipe something clean with a cloth"
+      ],
+      "surfaceForms": [
+        "lick"
+      ],
+      "clozeAnswerSurfaceForm": "lick"
+    },
+    {
+      "lemma": "nozzle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the narrow, pointed end of a tube or hose used to direct a flow",
+      "translationZh": "噴嘴",
+      "exampleSentence": "She told me the secret: the owner, a pastry chef who sat in the back making the petits fours, cut the strings of frosting between the cakes by using his tongue to lick the metal nozzle of the frosting bag.",
+      "clozeSentence": "She told me the secret: the owner, a pastry chef who sat in the back making the petits fours, cut the strings of frosting between the cakes by using his tongue to lick the metal _____ of the frosting bag.",
+      "distractors": [
+        "a soft cushion placed inside a bag",
+        "a small clock attached to a wall",
+        "a decorative ribbon tied around a gift"
+      ],
+      "surfaceForms": [
+        "nozzle"
+      ],
+      "clozeAnswerSurfaceForm": "nozzle"
+    },
+    {
+      "lemma": "quantum",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "relating to the smallest possible units of energy and matter",
+      "translationZh": "量子的",
+      "exampleSentence": "She was reading a book about quantum physics, and it put her in an expansive mood.",
+      "clozeSentence": "She was reading a book about _____ physics, and it put her in an expansive mood.",
+      "distractors": [
+        "relating to the study of ancient history",
+        "relating to the growth of plants",
+        "relating to the design of buildings"
+      ],
+      "surfaceForms": [
+        "quantum"
+      ],
+      "clozeAnswerSurfaceForm": "quantum"
+    },
+    {
+      "lemma": "reverent",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "showing deep respect or awe",
+      "translationZh": "虔敬的",
+      "exampleSentence": "She took it in her hand, reverent.",
+      "clozeSentence": "She took it in her hand, _____.",
+      "distractors": [
+        "showing obvious boredom or disinterest",
+        "showing sudden anger or frustration",
+        "showing careless disregard"
+      ],
+      "surfaceForms": [
+        "reverent"
+      ],
+      "clozeAnswerSurfaceForm": "reverent"
+    },
+    {
+      "lemma": "enlighten",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "having great knowledge or spiritual understanding",
+      "translationZh": "開悟的；有智慧的",
+      "exampleSentence": "My mother said that some enlightened mystics could propel themselves through walls, as if walls did not exist; they knew something about quantum physics, even if only intuitively, of the vast spaces between atoms—larger than football fields, she said.",
+      "clozeSentence": "My mother said that some _____ mystics could propel themselves through walls, as if walls did not exist; they knew something about quantum physics, even if only intuitively, of the vast spaces between atoms—larger than football fields, she said.",
+      "distractors": [
+        "unable to see clearly in the dark",
+        "recently arrived from another country",
+        "trained in physical combat"
+      ],
+      "surfaceForms": [
+        "enlightened"
+      ],
+      "clozeAnswerSurfaceForm": "enlightened"
+    },
+    {
+      "lemma": "intuitively",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "understanding something instinctively, without conscious reasoning",
+      "translationZh": "直覺地",
+      "exampleSentence": "My mother said that some enlightened mystics could propel themselves through walls, as if walls did not exist; they knew something about quantum physics, even if only intuitively, of the vast spaces between atoms—larger than football fields, she said.",
+      "clozeSentence": "My mother said that some enlightened mystics could propel themselves through walls, as if walls did not exist; they knew something about quantum physics, even if only _____, of the vast spaces between atoms—larger than football fields, she said.",
+      "distractors": [
+        "through years of formal study",
+        "by asking many detailed questions",
+        "with the help of written instructions"
+      ],
+      "surfaceForms": [
+        "intuitively"
+      ],
+      "clozeAnswerSurfaceForm": "intuitively"
+    },
+    {
+      "lemma": "mystic",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a person who seeks spiritual truth beyond ordinary understanding",
+      "translationZh": "神秘主義者",
+      "exampleSentence": "My mother said that some enlightened mystics could propel themselves through walls, as if walls did not exist; they knew something about quantum physics, even if only intuitively, of the vast spaces between atoms—larger than football fields, she said.",
+      "clozeSentence": "My mother said that some enlightened _____ could propel themselves through walls, as if walls did not exist; they knew something about quantum physics, even if only intuitively, of the vast spaces between atoms—larger than football fields, she said.",
+      "distractors": [
+        "a person who studies numbers and equations",
+        "a soldier trained for battle",
+        "a merchant who sells goods for profit"
+      ],
+      "surfaceForms": [
+        "mystics"
+      ],
+      "clozeAnswerSurfaceForm": "mystics"
+    },
+    {
+      "lemma": "patisserie",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a shop that makes and sells pastries and cakes",
+      "translationZh": "糕點店",
+      "exampleSentence": "My mother worked a few afternoons per week as a waitress at a restaurant and patisserie nearby, where she’d brought me once.",
+      "clozeSentence": "My mother worked a few afternoons per week as a waitress at a restaurant and _____ nearby, where she’d brought me once.",
+      "distractors": [
+        "a place where clothes are cleaned and pressed",
+        "a shop that repairs bicycles",
+        "a store that sells books and magazines"
+      ],
+      "surfaceForms": [
+        "patisserie"
+      ],
+      "clozeAnswerSurfaceForm": "patisserie"
+    },
+    {
+      "lemma": "propel",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to push or drive something forward",
+      "translationZh": "推進；驅動",
+      "exampleSentence": "My mother said that some enlightened mystics could propel themselves through walls, as if walls did not exist; they knew something about quantum physics, even if only intuitively, of the vast spaces between atoms—larger than football fields, she said.",
+      "clozeSentence": "My mother said that some enlightened mystics could _____ themselves through walls, as if walls did not exist; they knew something about quantum physics, even if only intuitively, of the vast spaces between atoms—larger than football fields, she said.",
+      "distractors": [
+        "to hide something from view",
+        "to slow something down gradually",
+        "to break something into pieces"
+      ],
+      "surfaceForms": [
+        "propel"
+      ],
+      "clozeAnswerSurfaceForm": "propel"
+    },
+    {
+      "lemma": "abide",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to accept and follow a rule or law",
+      "translationZh": "遵守",
+      "exampleSentence": "These mystics were not prone to the same illusions of divided space as we were, and because they understood the false quality of solid matter they were no longer forced to abide by physical laws.",
+      "clozeSentence": "These mystics were not prone to the same illusions of divided space as we were, and because they understood the false quality of solid matter they were no longer forced to _____ by physical laws.",
+      "distractors": [
+        "to argue against a decision publicly",
+        "to forget something important",
+        "to create a new set of rules"
+      ],
+      "surfaceForms": [
+        "abide"
+      ],
+      "clozeAnswerSurfaceForm": "abide"
+    },
+    {
+      "lemma": "illusion",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a false idea or appearance that isn't real",
+      "translationZh": "幻覺；錯覺",
+      "exampleSentence": "These mystics were not prone to the same illusions of divided space as we were, and because they understood the false quality of solid matter they were no longer forced to abide by physical laws.",
+      "clozeSentence": "These mystics were not prone to the same _____ of divided space as we were, and because they understood the false quality of solid matter they were no longer forced to abide by physical laws.",
+      "distractors": [
+        "a strict set of laws or rules",
+        "a formal written agreement",
+        "a loud, sudden warning sound"
+      ],
+      "surfaceForms": [
+        "illusions"
+      ],
+      "clozeAnswerSurfaceForm": "illusions"
+    },
+    {
+      "lemma": "prone",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "likely to suffer from or do something, usually negative",
+      "translationZh": "易於……的；有傾向的",
+      "exampleSentence": "These mystics were not prone to the same illusions of divided space as we were, and because they understood the false quality of solid matter they were no longer forced to abide by physical laws.",
+      "clozeSentence": "These mystics were not _____ to the same illusions of divided space as we were, and because they understood the false quality of solid matter they were no longer forced to abide by physical laws.",
+      "distractors": [
+        "completely opposed to something",
+        "unaware of something happening",
+        "responsible for organizing something"
+      ],
+      "surfaceForms": [
+        "prone"
+      ],
+      "clozeAnswerSurfaceForm": "prone"
+    },
+    {
+      "lemma": "anecdotal",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "based on personal accounts rather than proven facts",
+      "translationZh": "軼事的；道聽塗說的",
+      "exampleSentence": "There were anecdotal reports, she said, of gurus being in two places at once, speaking with two different groups of people at exactly the same time.",
+      "clozeSentence": "There were _____ reports, she said, of gurus being in two places at once, speaking with two different groups of people at exactly the same time.",
+      "distractors": [
+        "based on strict scientific testing",
+        "written in a foreign language",
+        "kept secret from the public"
+      ],
+      "surfaceForms": [
+        "anecdotal"
+      ],
+      "clozeAnswerSurfaceForm": "anecdotal"
+    },
+    {
+      "lemma": "guru",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a spiritual teacher or an expert whose advice people follow",
+      "translationZh": "導師；宗師",
+      "exampleSentence": "There were anecdotal reports, she said, of gurus being in two places at once, speaking with two different groups of people at exactly the same time.",
+      "clozeSentence": "There were anecdotal reports, she said, of _____ being in two places at once, speaking with two different groups of people at exactly the same time.",
+      "distractors": [
+        "a young child who has not yet learned to talk",
+        "a stranger met while traveling",
+        "a person who repairs household appliances"
+      ],
+      "surfaceForms": [
+        "gurus"
+      ],
+      "clozeAnswerSurfaceForm": "gurus"
+    },
+    {
+      "lemma": "semitransparency",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "the state of being partly see-through",
+      "translationZh": "半透明狀態",
+      "exampleSentence": "For a breathless few hours the next day—after I put my finger in front of my nose a few inches, focused beyond it, and my finger faded to semitransparency—I thought I could see through my finger.",
+      "clozeSentence": "For a breathless few hours the next day—after I put my finger in front of my nose a few inches, focused beyond it, and my finger faded to _____—I thought I could see through my finger.",
+      "distractors": [
+        "the state of being completely solid",
+        "the state of being extremely bright",
+        "the state of being tightly folded"
+      ],
+      "surfaceForms": [
+        "semitransparency"
+      ],
+      "clozeAnswerSurfaceForm": "semitransparency—I"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "dissipate",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to disappear gradually or scatter into nothing",
+      "translationZh": "消散",
+      "exampleSentence": "I tried to imagine the bedroom beyond the wall, to believe in the absence of matter so thoroughly that it dissipated before me.",
+      "clozeSentence": "I tried to imagine the bedroom beyond the wall, to believe in the absence of matter so thoroughly that it _____ before me.",
+      "distractors": [
+        "to become larger and more solid",
+        "to change into a bright color",
+        "to make a loud, sudden noise"
+      ],
+      "surfaceForms": [
+        "dissipated"
+      ],
+      "clozeAnswerSurfaceForm": "dissipated"
+    },
+    {
+      "lemma": "levitate",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to rise or float in the air without physical support",
+      "translationZh": "漂浮；懸空",
+      "exampleSentence": "I didn’t like him, or the way she fluttered near him, sparkled, seemed to levitate and be made up of air rather than a comforting solid.",
+      "clozeSentence": "I didn’t like him, or the way she fluttered near him, sparkled, seemed to _____ and be made up of air rather than a comforting solid.",
+      "distractors": [
+        "to sink slowly into water",
+        "to speak in a whisper",
+        "to walk with heavy, slow steps"
+      ],
+      "surfaceForms": [
+        "levitate"
+      ],
+      "clozeAnswerSurfaceForm": "levitate"
+    },
+    {
+      "lemma": "flutter",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to move quickly and lightly, with small flapping motions",
+      "translationZh": "輕盈飄動；振翅",
+      "exampleSentence": "I didn’t like him, or the way she fluttered near him, sparkled, seemed to levitate and be made up of air rather than a comforting solid.",
+      "clozeSentence": "I didn’t like him, or the way she _____ near him, sparkled, seemed to levitate and be made up of air rather than a comforting solid.",
+      "distractors": [
+        "to stand completely still and silent",
+        "to walk with slow, heavy steps",
+        "to shout loudly in anger"
+      ],
+      "surfaceForms": [
+        "fluttered"
+      ],
+      "clozeAnswerSurfaceForm": "fluttered"
+    },
+    {
+      "lemma": "germ",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a tiny living thing that can cause disease",
+      "translationZh": "細菌；病菌",
+      "exampleSentence": "I wasn’t usually allowed to eat sugar and it was too delicious to care about germs.",
+      "clozeSentence": "I wasn’t usually allowed to eat sugar and it was too delicious to care about _____.",
+      "distractors": [
+        "small pieces of broken glass",
+        "sweet flavors added to food",
+        "bright colors used in decoration"
+      ],
+      "surfaceForms": [
+        "germs"
+      ],
+      "clozeAnswerSurfaceForm": "germs"
+    },
+    {
+      "lemma": "thoroughly",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "completely and in every detail",
+      "translationZh": "徹底地",
+      "exampleSentence": "I tried to imagine the bedroom beyond the wall, to believe in the absence of matter so thoroughly that it dissipated before me.",
+      "clozeSentence": "I tried to imagine the bedroom beyond the wall, to believe in the absence of matter so _____ that it dissipated before me.",
+      "distractors": [
+        "briefly and without much attention",
+        "secretly and without others knowing",
+        "cheerfully and with enthusiasm"
+      ],
+      "surfaceForms": [
+        "thoroughly"
+      ],
+      "clozeAnswerSurfaceForm": "thoroughly"
+    },
+    {
+      "lemma": "aloof",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "distant and not friendly or open with others",
+      "translationZh": "冷漠疏遠的",
+      "exampleSentence": "He was aloof, spoke softly, as if he were hiding something, and was shy in a way that made me suspect he was sneaky.",
+      "clozeSentence": "He was _____, spoke softly, as if he were hiding something, and was shy in a way that made me suspect he was sneaky.",
+      "distractors": [
+        "extremely talkative and outgoing",
+        "quick to anger over small things",
+        "eager to please everyone around him"
+      ],
+      "surfaceForms": [
+        "aloof"
+      ],
+      "clozeAnswerSurfaceForm": "aloof"
+    },
+    {
+      "lemma": "sneaky",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "acting in a secretive or dishonest way",
+      "translationZh": "鬼鬼祟祟的",
+      "exampleSentence": "He was aloof, spoke softly, as if he were hiding something, and was shy in a way that made me suspect he was sneaky.",
+      "clozeSentence": "He was aloof, spoke softly, as if he were hiding something, and was shy in a way that made me suspect he was _____.",
+      "distractors": [
+        "acting in a bold and open way",
+        "acting in a calm and relaxed way",
+        "acting in a generous and kind way"
+      ],
+      "surfaceForms": [
+        "sneaky"
+      ],
+      "clozeAnswerSurfaceForm": "sneaky"
+    },
+    {
+      "lemma": "trunk",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the enclosed storage space at the back of a car",
+      "translationZh": "後車廂",
+      "exampleSentence": "One night after dinner we followed him to his car and he opened the trunk.",
+      "clozeSentence": "One night after dinner we followed him to his car and he opened the _____.",
+      "distractors": [
+        "the front seat where the driver sits",
+        "a small drawer in a kitchen cabinet",
+        "the engine that powers a vehicle"
+      ],
+      "surfaceForms": [
+        "trunk"
+      ],
+      "clozeAnswerSurfaceForm": "trunk"
+    },
+    {
+      "lemma": "thread",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a thin strand of cotton, wool, or similar material used for sewing",
+      "translationZh": "線",
+      "exampleSentence": "Inside, on a blanket, was a stick he’d wrapped in places with several bands of colored thread and string.",
+      "clozeSentence": "Inside, on a blanket, was a stick he’d wrapped in places with several bands of colored _____ and string.",
+      "distractors": [
+        "a small piece of broken glass",
+        "a flat piece of folded paper",
+        "a round, hard piece of metal"
+      ],
+      "surfaceForms": [
+        "thread"
+      ],
+      "clozeAnswerSurfaceForm": "thread"
+    },
+    {
+      "lemma": "crystal",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a clear, hard mineral, often used in jewelry",
+      "translationZh": "水晶",
+      "exampleSentence": "Attached to one section was a crystal, and to another, a feather.",
+      "clozeSentence": "Attached to one section was a _____, and to another, a feather.",
+      "distractors": [
+        "a small, soft cushion",
+        "a piece of woven cloth",
+        "a type of dried fruit"
+      ],
+      "surfaceForms": [
+        "crystal"
+      ],
+      "clozeAnswerSurfaceForm": "crystal"
+    },
+    {
+      "lemma": "expansive",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "open, broad, and full of enthusiasm",
+      "translationZh": "開闊的；豁達的",
+      "exampleSentence": "She was reading a book about quantum physics, and it put her in an expansive mood.",
+      "clozeSentence": "She was reading a book about quantum physics, and it put her in an _____ mood.",
+      "distractors": [
+        "nervous and easily frightened",
+        "tired and lacking energy",
+        "strict and unwilling to change"
+      ],
+      "surfaceForms": [
+        "expansive"
+      ],
+      "clozeAnswerSurfaceForm": "expansive"
+    },
+    {
+      "lemma": "quantum",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "relating to the smallest possible units of energy and matter",
+      "translationZh": "量子的",
+      "exampleSentence": "She was reading a book about quantum physics, and it put her in an expansive mood.",
+      "clozeSentence": "She was reading a book about _____ physics, and it put her in an expansive mood.",
+      "distractors": [
+        "relating to the study of ancient history",
+        "relating to the growth of plants",
+        "relating to the design of buildings"
+      ],
+      "surfaceForms": [
+        "quantum"
+      ],
+      "clozeAnswerSurfaceForm": "quantum"
+    },
+    {
+      "lemma": "reverent",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "showing deep respect or awe",
+      "translationZh": "虔敬的",
+      "exampleSentence": "She took it in her hand, reverent.",
+      "clozeSentence": "She took it in her hand, _____.",
+      "distractors": [
+        "showing obvious boredom or disinterest",
+        "showing sudden anger or frustration",
+        "showing careless disregard"
+      ],
+      "surfaceForms": [
+        "reverent"
+      ],
+      "clozeAnswerSurfaceForm": "reverent"
+    },
+    {
+      "lemma": "enlighten",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "having great knowledge or spiritual understanding",
+      "translationZh": "開悟的；有智慧的",
+      "exampleSentence": "My mother said that some enlightened mystics could propel themselves through walls, as if walls did not exist; they knew something about quantum physics, even if only intuitively, of the vast spaces between atoms—larger than football fields, she said.",
+      "clozeSentence": "My mother said that some _____ mystics could propel themselves through walls, as if walls did not exist; they knew something about quantum physics, even if only intuitively, of the vast spaces between atoms—larger than football fields, she said.",
+      "distractors": [
+        "unable to see clearly in the dark",
+        "recently arrived from another country",
+        "trained in physical combat"
+      ],
+      "surfaceForms": [
+        "enlightened"
+      ],
+      "clozeAnswerSurfaceForm": "enlightened"
+    },
+    {
+      "lemma": "intuitively",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "understanding something instinctively, without conscious reasoning",
+      "translationZh": "直覺地",
+      "exampleSentence": "My mother said that some enlightened mystics could propel themselves through walls, as if walls did not exist; they knew something about quantum physics, even if only intuitively, of the vast spaces between atoms—larger than football fields, she said.",
+      "clozeSentence": "My mother said that some enlightened mystics could propel themselves through walls, as if walls did not exist; they knew something about quantum physics, even if only _____, of the vast spaces between atoms—larger than football fields, she said.",
+      "distractors": [
+        "through years of formal study",
+        "by asking many detailed questions",
+        "with the help of written instructions"
+      ],
+      "surfaceForms": [
+        "intuitively"
+      ],
+      "clozeAnswerSurfaceForm": "intuitively"
+    },
+    {
+      "lemma": "mystic",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a person who seeks spiritual truth beyond ordinary understanding",
+      "translationZh": "神秘主義者",
+      "exampleSentence": "My mother said that some enlightened mystics could propel themselves through walls, as if walls did not exist; they knew something about quantum physics, even if only intuitively, of the vast spaces between atoms—larger than football fields, she said.",
+      "clozeSentence": "My mother said that some enlightened _____ could propel themselves through walls, as if walls did not exist; they knew something about quantum physics, even if only intuitively, of the vast spaces between atoms—larger than football fields, she said.",
+      "distractors": [
+        "a person who studies numbers and equations",
+        "a soldier trained for battle",
+        "a merchant who sells goods for profit"
+      ],
+      "surfaceForms": [
+        "mystics"
+      ],
+      "clozeAnswerSurfaceForm": "mystics"
+    },
+    {
+      "lemma": "patisserie",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a shop that makes and sells pastries and cakes",
+      "translationZh": "糕點店",
+      "exampleSentence": "My mother worked a few afternoons per week as a waitress at a restaurant and patisserie nearby, where she’d brought me once.",
+      "clozeSentence": "My mother worked a few afternoons per week as a waitress at a restaurant and _____ nearby, where she’d brought me once.",
+      "distractors": [
+        "a place where clothes are cleaned and pressed",
+        "a shop that repairs bicycles",
+        "a store that sells books and magazines"
+      ],
+      "surfaceForms": [
+        "patisserie"
+      ],
+      "clozeAnswerSurfaceForm": "patisserie"
+    },
+    {
+      "lemma": "prone",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "likely to suffer from or do something, usually negative",
+      "translationZh": "易於……的；有傾向的",
+      "exampleSentence": "These mystics were not prone to the same illusions of divided space as we were, and because they understood the false quality of solid matter they were no longer forced to abide by physical laws.",
+      "clozeSentence": "These mystics were not _____ to the same illusions of divided space as we were, and because they understood the false quality of solid matter they were no longer forced to abide by physical laws.",
+      "distractors": [
+        "completely opposed to something",
+        "unaware of something happening",
+        "responsible for organizing something"
+      ],
+      "surfaceForms": [
+        "prone"
+      ],
+      "clozeAnswerSurfaceForm": "prone"
+    },
+    {
+      "lemma": "anecdotal",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "based on personal accounts rather than proven facts",
+      "translationZh": "軼事的；道聽塗說的",
+      "exampleSentence": "There were anecdotal reports, she said, of gurus being in two places at once, speaking with two different groups of people at exactly the same time.",
+      "clozeSentence": "There were _____ reports, she said, of gurus being in two places at once, speaking with two different groups of people at exactly the same time.",
+      "distractors": [
+        "based on strict scientific testing",
+        "written in a foreign language",
+        "kept secret from the public"
+      ],
+      "surfaceForms": [
+        "anecdotal"
+      ],
+      "clozeAnswerSurfaceForm": "anecdotal"
+    },
+    {
+      "lemma": "semitransparency",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "the state of being partly see-through",
+      "translationZh": "半透明狀態",
+      "exampleSentence": "For a breathless few hours the next day—after I put my finger in front of my nose a few inches, focused beyond it, and my finger faded to semitransparency—I thought I could see through my finger.",
+      "clozeSentence": "For a breathless few hours the next day—after I put my finger in front of my nose a few inches, focused beyond it, and my finger faded to _____—I thought I could see through my finger.",
+      "distractors": [
+        "the state of being completely solid",
+        "the state of being extremely bright",
+        "the state of being tightly folded"
+      ],
+      "surfaceForms": [
+        "semitransparency"
+      ],
+      "clozeAnswerSurfaceForm": "semitransparency—I"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "cloze",
+      "wordLemma": "thoroughly",
+      "prompt": "I tried to imagine the bedroom beyond the wall, to believe in the absence of matter so _____ that it dissipated before me.",
+      "options": [
+        "trunk",
+        "intuitively",
+        "thoroughly",
+        "prone"
+      ],
+      "answer": "thoroughly"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "patisserie",
+      "prompt": "My mother worked a few afternoons per week as a waitress at a restaurant and _____ nearby, where she’d brought me once.",
+      "options": [
+        "reverent",
+        "patisserie",
+        "intuitively",
+        "semitransparency—I"
+      ],
+      "answer": "patisserie"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "sneaky",
+      "prompt": "sneaky",
+      "options": [
+        "acting in a calm and relaxed way",
+        "acting in a generous and kind way",
+        "acting in a bold and open way",
+        "acting in a secretive or dishonest way"
+      ],
+      "answer": "acting in a secretive or dishonest way"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "expansive",
+      "prompt": "She was reading a book about quantum physics, and it put her in an _____ mood.",
+      "options": [
+        "mystics",
+        "patisserie",
+        "thoroughly",
+        "expansive"
+      ],
+      "answer": "expansive"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "trunk",
+      "prompt": "One night after dinner we followed him to his car and he opened the _____.",
+      "options": [
+        "thoroughly",
+        "dissipated",
+        "trunk",
+        "semitransparency—I"
+      ],
+      "answer": "trunk"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "crystal",
+      "prompt": "crystal",
+      "options": [
+        "a type of dried fruit",
+        "a small, soft cushion",
+        "a clear, hard mineral, often used in jewelry",
+        "a piece of woven cloth"
+      ],
+      "answer": "a clear, hard mineral, often used in jewelry"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "quantum",
+      "prompt": "量子的",
+      "options": [
+        "quantum",
+        "levitate",
+        "dissipate",
+        "reverent"
+      ],
+      "answer": "quantum"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "mystic",
+      "prompt": "mystic",
+      "options": [
+        "a soldier trained for battle",
+        "a merchant who sells goods for profit",
+        "a person who studies numbers and equations",
+        "a person who seeks spiritual truth beyond ordinary understanding"
+      ],
+      "answer": "a person who seeks spiritual truth beyond ordinary understanding"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "levitate",
+      "prompt": "I didn’t like him, or the way she fluttered near him, sparkled, seemed to _____ and be made up of air rather than a comforting solid.",
+      "options": [
+        "levitate",
+        "semitransparency—I",
+        "intuitively",
+        "aloof"
+      ],
+      "answer": "levitate"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "prone",
+      "prompt": "易於……的；有傾向的",
+      "options": [
+        "sneaky",
+        "anecdotal",
+        "dissipate",
+        "prone"
+      ],
+      "answer": "prone"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "aloof",
+      "prompt": "冷漠疏遠的",
+      "options": [
+        "sneaky",
+        "trunk",
+        "aloof",
+        "enlighten"
+      ],
+      "answer": "aloof"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "flutter",
+      "prompt": "輕盈飄動；振翅",
+      "options": [
+        "intuitively",
+        "flutter",
+        "thoroughly",
+        "crystal"
+      ],
+      "answer": "flutter"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "anecdotal",
+      "prompt": "anecdotal",
+      "options": [
+        "written in a foreign language",
+        "based on personal accounts rather than proven facts",
+        "based on strict scientific testing",
+        "kept secret from the public"
+      ],
+      "answer": "based on personal accounts rather than proven facts"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "reverent",
+      "prompt": "reverent",
+      "options": [
+        "showing sudden anger or frustration",
+        "showing careless disregard",
+        "showing deep respect or awe",
+        "showing obvious boredom or disinterest"
+      ],
+      "answer": "showing deep respect or awe"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "dissipate",
+      "prompt": "dissipate",
+      "options": [
+        "to become larger and more solid",
+        "to make a loud, sudden noise",
+        "to change into a bright color",
+        "to disappear gradually or scatter into nothing"
+      ],
+      "answer": "to disappear gradually or scatter into nothing"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "semitransparency",
+      "prompt": "For a breathless few hours the next day—after I put my finger in front of my nose a few inches, focused beyond it, and my finger faded to _____—I thought I could see through my finger.",
+      "options": [
+        "dissipated",
+        "trunk",
+        "semitransparency—I",
+        "thread"
+      ],
+      "answer": "semitransparency—I"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "thread",
+      "prompt": "線",
+      "options": [
+        "levitate",
+        "trunk",
+        "dissipate",
+        "thread"
+      ],
+      "answer": "thread"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "germ",
+      "prompt": "germ",
+      "options": [
+        "bright colors used in decoration",
+        "small pieces of broken glass",
+        "sweet flavors added to food",
+        "a tiny living thing that can cause disease"
+      ],
+      "answer": "a tiny living thing that can cause disease"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "intuitively",
+      "prompt": "直覺地",
+      "options": [
+        "patisserie",
+        "reverent",
+        "intuitively",
+        "mystic"
+      ],
+      "answer": "intuitively"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "enlighten",
+      "prompt": "My mother said that some _____ mystics could propel themselves through walls, as if walls did not exist; they knew something about quantum physics, even if only intuitively, of the vast spaces between atoms—larger than football fields, she said.",
+      "options": [
+        "enlightened",
+        "levitate",
+        "reverent",
+        "quantum"
+      ],
+      "answer": "enlightened"
+    }
+  ]
+}

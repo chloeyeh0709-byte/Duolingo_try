@@ -1,0 +1,1249 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 2,
+  "partTitle": "Lifelines",
+  "sectionIndex": 5,
+  "paragraphs": [
+    "My mother was supposed to go on a first date with Ron.",
+    "He would come to pick her up, meet me, and they would go to an early dinner. The neighbors were home if I needed anything. I was old enough now—seven—to stay alone in the house for two hours, but the details were still a negotiation.",
+    "“And afterwards?”",
+    "I was supposed to be in bed before she returned.",
+    "“I guess we might come back,” she said.",
+    "I made her promise they wouldn’t go into her room, and for some reason she agreed.",
+    "Since she’d become interested in Ron, she no longer paid attention to me as astutely, I thought. She no longer consulted the I Ching. She was half-absent with happiness, the same slight smile on her lips as when she ran up the hill to get the prickly pear.",
+    "It was between boyfriends—between the loneliness and despair that followed one and the lift that began at the next—where I hoped to stay forever, she and I the only team, the real couple.",
+    "On the night of the date, Ron arrived on time. She was leaning over the bathroom sink doing her makeup when he knocked.",
+    "I ran to open the door. I saw right away that Ron wasn’t a hippie. He was bald, with hair tufted on the sides like a clown’s, and had wide bushy eyebrows, glasses rimmed with gold, and large, swollen lips like a fish. He looked clean, and smelled of soap and detergent.",
+    "“Hello,” I said. “I’m Lisa. My mom’s getting ready.”",
+    "“Nice to meet you,” he said, holding out his hand.",
+    "He followed me into the living room; I noticed that, as he walked, his feet splayed out dramatically to either side.",
+    "My mother called from the bathroom, “I’ll be out in a minute.”",
+    "As we passed the bookshelf, I reached for the album of photographs of my birth—this was unplanned, it surprised even me, one arm jutting out as if I didn’t have control of my limbs—and pulled it out of its socket in the shelf.",
+    "I’d asked her to get rid of this album many times and she refused, bringing it with us as we moved from house to house. The cover was made of brown woven grasses, and because it was old, the grasses had started to fray at the edges. To me, too, this hinted at the shame of the contents. I suspected other children didn’t have shameful books like this around their houses.",
+    "He and I sat down on the flowered couch beside each other.",
+    "“I want to show you something,” I said. “Just some photos of my mother and me.”",
+    "I opened the book across my lap where he could see it. My mother, younger, lying on a bed with long hair like dark water pooling around her face. These were the pictures of my birth, in black and white, with rounded corners. She had what looked like a man’s shirt buttoned around her chest and she was naked from the waist down, with her legs bent and open in the foreground of the photo. I turned the page: there I was, emerging from between her glowing, white legs like a turtle rising up from a pond.",
+    "In the following pictures, once I was out, you could see my body wrinkled, my face wax-white, asymmetrical, and squished.",
+    "I felt revulsion and disgust and yet I continued to turn the pages. I would not have known how to articulate it: I wanted to disgust him the way I was disgusted, to scare him away. To show him who we were, so that he might leave now, rather than wait.",
+    "“And here’s more,” I said in my sweetest voice.",
+    "“Yes,” he said. “I see.” He made no motion to rise and run. He sat, glancing at the pages and then looking away, as if distracted. When my mother came out of the bathroom and saw us, she snatched the album from my hands and stuck it back in its place on the shelf, giving me a furious look."
+  ],
+  "words": [
+    {
+      "lemma": "bushy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "thick and growing densely, like a bush",
+      "translationZh": "濃密的；蓬鬆的",
+      "exampleSentence": "He was bald, with hair tufted on the sides like a clown’s, and had wide bushy eyebrows, glasses rimmed with gold, and large, swollen lips like a fish.",
+      "clozeSentence": "He was bald, with hair tufted on the sides like a clown’s, and had wide _____ eyebrows, glasses rimmed with gold, and large, swollen lips like a fish.",
+      "distractors": [
+        "thin and sparse in growth",
+        "tightly curled in shape",
+        "gray and thinning with age"
+      ],
+      "surfaceForms": [
+        "bushy"
+      ],
+      "clozeAnswerSurfaceForm": "bushy"
+    },
+    {
+      "lemma": "detergent",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a chemical substance used for cleaning",
+      "translationZh": "清潔劑；洗滌劑",
+      "exampleSentence": "He looked clean, and smelled of soap and detergent.",
+      "clozeSentence": "He looked clean, and smelled of soap and _____.",
+      "distractors": [
+        "a substance used to start a fire",
+        "a scented oil applied to skin",
+        "a fresh coat of paint"
+      ],
+      "surfaceForms": [
+        "detergent"
+      ],
+      "clozeAnswerSurfaceForm": "detergent"
+    },
+    {
+      "lemma": "distract",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to take someone's attention away from something",
+      "translationZh": "使分心；分散注意力",
+      "exampleSentence": "He sat, glancing at the pages and then looking away, as if distracted.",
+      "clozeSentence": "He sat, glancing at the pages and then looking away, as if _____.",
+      "distractors": [
+        "to put someone to sleep",
+        "to make someone feel amused",
+        "to make someone feel confident"
+      ],
+      "surfaceForms": [
+        "distracted"
+      ],
+      "clozeAnswerSurfaceForm": "distracted"
+    },
+    {
+      "lemma": "dramatically",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "in a way that is sudden, striking, or exaggerated",
+      "translationZh": "戲劇性地；顯著地",
+      "exampleSentence": "He followed me into the living room; I noticed that, as he walked, his feet splayed out dramatically to either side.",
+      "clozeSentence": "He followed me into the living room; I noticed that, as he walked, his feet splayed out _____ to either side.",
+      "distractors": [
+        "in a slight, barely noticeable way",
+        "in a quiet, unnoticed way",
+        "in a slow, gradual way"
+      ],
+      "surfaceForms": [
+        "dramatically"
+      ],
+      "clozeAnswerSurfaceForm": "dramatically"
+    },
+    {
+      "lemma": "eyebrow",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the line of hair above the eye",
+      "translationZh": "眉毛",
+      "exampleSentence": "He was bald, with hair tufted on the sides like a clown’s, and had wide bushy eyebrows, glasses rimmed with gold, and large, swollen lips like a fish.",
+      "clozeSentence": "He was bald, with hair tufted on the sides like a clown’s, and had wide bushy _____, glasses rimmed with gold, and large, swollen lips like a fish.",
+      "distractors": [
+        "the row of hair along the eyelid",
+        "the soft skin of the cheek",
+        "the curved edge of the lip"
+      ],
+      "surfaceForms": [
+        "eyebrows"
+      ],
+      "clozeAnswerSurfaceForm": "eyebrows"
+    },
+    {
+      "lemma": "rim",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to form an edge or border around something",
+      "translationZh": "鑲邊；成為...的邊緣",
+      "exampleSentence": "He was bald, with hair tufted on the sides like a clown’s, and had wide bushy eyebrows, glasses rimmed with gold, and large, swollen lips like a fish.",
+      "clozeSentence": "He was bald, with hair tufted on the sides like a clown’s, and had wide bushy eyebrows, glasses _____ with gold, and large, swollen lips like a fish.",
+      "distractors": [
+        "to tint something a certain color",
+        "to shape something into a curve",
+        "to fill something completely"
+      ],
+      "surfaceForms": [
+        "rimmed"
+      ],
+      "clozeAnswerSurfaceForm": "rimmed"
+    },
+    {
+      "lemma": "splay",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to spread out or apart, away from the body",
+      "translationZh": "張開；伸展開來",
+      "exampleSentence": "He followed me into the living room; I noticed that, as he walked, his feet splayed out dramatically to either side.",
+      "clozeSentence": "He followed me into the living room; I noticed that, as he walked, his feet _____ out dramatically to either side.",
+      "distractors": [
+        "to drag slowly along the ground",
+        "to tremble from cold or fear",
+        "to tap rhythmically and lightly"
+      ],
+      "surfaceForms": [
+        "splayed"
+      ],
+      "clozeAnswerSurfaceForm": "splayed"
+    },
+    {
+      "lemma": "tufted",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "having small clumps or bunches, especially of hair or feathers",
+      "translationZh": "叢生的；有簇毛的",
+      "exampleSentence": "He was bald, with hair tufted on the sides like a clown’s, and had wide bushy eyebrows, glasses rimmed with gold, and large, swollen lips like a fish.",
+      "clozeSentence": "He was bald, with hair _____ on the sides like a clown’s, and had wide bushy eyebrows, glasses rimmed with gold, and large, swollen lips like a fish.",
+      "distractors": [
+        "completely shaved and smooth",
+        "neatly braided into rows",
+        "dyed a bright, unusual color"
+      ],
+      "surfaceForms": [
+        "tufted"
+      ],
+      "clozeAnswerSurfaceForm": "tufted"
+    },
+    {
+      "lemma": "fray",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to unravel or become worn at the edges",
+      "translationZh": "磨損；散開（邊緣）",
+      "exampleSentence": "The cover was made of brown woven grasses, and because it was old, the grasses had started to fray at the edges.",
+      "clozeSentence": "The cover was made of brown woven grasses, and because it was old, the grasses had started to _____ at the edges.",
+      "distractors": [
+        "to shine with a fresh polish",
+        "to become thicker over time",
+        "to darken in color gradually"
+      ],
+      "surfaceForms": [
+        "fray"
+      ],
+      "clozeAnswerSurfaceForm": "fray"
+    },
+    {
+      "lemma": "weave",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to make fabric by crossing threads over and under each other",
+      "translationZh": "編織",
+      "exampleSentence": "The cover was made of brown woven grasses, and because it was old, the grasses had started to fray at the edges.",
+      "clozeSentence": "The cover was made of brown _____ grasses, and because it was old, the grasses had started to fray at the edges.",
+      "distractors": [
+        "to color fabric with dye",
+        "to decorate fabric with paint",
+        "to shrink fabric using heat"
+      ],
+      "surfaceForms": [
+        "woven"
+      ],
+      "clozeAnswerSurfaceForm": "woven"
+    },
+    {
+      "lemma": "articulate",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to express thoughts or feelings clearly in words",
+      "translationZh": "清楚表達；闡明",
+      "exampleSentence": "I would not have known how to articulate it: I wanted to disgust him the way I was disgusted, to scare him away.",
+      "clozeSentence": "I would not have known how to _____ it: I wanted to disgust him the way I was disgusted, to scare him away.",
+      "distractors": [
+        "to hide one's true feelings",
+        "to forget something completely",
+        "to exaggerate the truth of something"
+      ],
+      "surfaceForms": [
+        "articulate"
+      ],
+      "clozeAnswerSurfaceForm": "articulate"
+    },
+    {
+      "lemma": "glow",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to give off a soft, steady light",
+      "translationZh": "發光；容光煥發",
+      "exampleSentence": "I turned the page: there I was, emerging from between her glowing, white legs like a turtle rising up from a pond.",
+      "clozeSentence": "I turned the page: there I was, emerging from between her _____, white legs like a turtle rising up from a pond.",
+      "distractors": [
+        "to shake uncontrollably",
+        "to bruise easily",
+        "to fold inward"
+      ],
+      "surfaceForms": [
+        "glowing"
+      ],
+      "clozeAnswerSurfaceForm": "glowing"
+    },
+    {
+      "lemma": "hippie",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a person, especially in the 1960s-70s, associated with an unconventional lifestyle and peace values",
+      "translationZh": "嬉皮（反主流文化人士）",
+      "exampleSentence": "I saw right away that Ron wasn’t a hippie.",
+      "clozeSentence": "I saw right away that Ron wasn’t a _____.",
+      "distractors": [
+        "a professional educator",
+        "a member of the armed forces",
+        "a licensed medical doctor"
+      ],
+      "surfaceForms": [
+        "hippie"
+      ],
+      "clozeAnswerSurfaceForm": "hippie"
+    },
+    {
+      "lemma": "lap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the flat area formed by the thighs of a seated person",
+      "translationZh": "大腿上方（坐姿時形成的平面）",
+      "exampleSentence": "I opened the book across my lap where he could see it.",
+      "clozeSentence": "I opened the book across my _____ where he could see it.",
+      "distractors": [
+        "the flat surface of the chest",
+        "the curve of the shoulder",
+        "the top of a desk or table"
+      ],
+      "surfaceForms": [
+        "lap"
+      ],
+      "clozeAnswerSurfaceForm": "lap"
+    },
+    {
+      "lemma": "revulsion",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "a strong feeling of disgust",
+      "translationZh": "強烈的厭惡感；反感",
+      "exampleSentence": "I felt revulsion and disgust and yet I continued to turn the pages.",
+      "clozeSentence": "I felt _____ and disgust and yet I continued to turn the pages.",
+      "distractors": [
+        "a strong feeling of curiosity",
+        "a strong feeling of admiration",
+        "a strong feeling of relief"
+      ],
+      "surfaceForms": [
+        "revulsion"
+      ],
+      "clozeAnswerSurfaceForm": "revulsion"
+    },
+    {
+      "lemma": "motion",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a movement or gesture of the body",
+      "translationZh": "動作；舉動",
+      "exampleSentence": "“I see.” He made no motion to rise and run.",
+      "clozeSentence": "“I see.” He made no _____ to rise and run.",
+      "distractors": [
+        "a spoken sound or word",
+        "a written comment or note",
+        "a formal promise or agreement"
+      ],
+      "surfaceForms": [
+        "motion"
+      ],
+      "clozeAnswerSurfaceForm": "motion"
+    },
+    {
+      "lemma": "astutely",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "in a clever, perceptive way; shrewdly",
+      "translationZh": "敏銳地；精明地",
+      "exampleSentence": "Since she’d become interested in Ron, she no longer paid attention to me as astutely, I thought.",
+      "clozeSentence": "Since she’d become interested in Ron, she no longer paid attention to me as _____, I thought.",
+      "distractors": [
+        "in a careless, inattentive way",
+        "in a rare, infrequent way",
+        "in a loud, noisy way"
+      ],
+      "surfaceForms": [
+        "astutely"
+      ],
+      "clozeAnswerSurfaceForm": "astutely"
+    },
+    {
+      "lemma": "consult",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to seek information or advice from a source",
+      "translationZh": "查詢；請示（此處指占卜請示《易經》）",
+      "exampleSentence": "She no longer consulted the I Ching.",
+      "clozeSentence": "She no longer _____ the I Ching.",
+      "distractors": [
+        "to ignore something completely",
+        "to memorize something word for word",
+        "to criticize something harshly"
+      ],
+      "surfaceForms": [
+        "consulted"
+      ],
+      "clozeAnswerSurfaceForm": "consulted"
+    },
+    {
+      "lemma": "foreground",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the part of a scene or picture nearest to the viewer",
+      "translationZh": "前景",
+      "exampleSentence": "She had what looked like a man’s shirt buttoned around her chest and she was naked from the waist down, with her legs bent and open in the foreground of the photo.",
+      "clozeSentence": "She had what looked like a man’s shirt buttoned around her chest and she was naked from the waist down, with her legs bent and open in the _____ of the photo.",
+      "distractors": [
+        "the part of a scene furthest from the viewer",
+        "the border framing a picture",
+        "the shadow cast behind an object"
+      ],
+      "surfaceForms": [
+        "foreground"
+      ],
+      "clozeAnswerSurfaceForm": "foreground"
+    },
+    {
+      "lemma": "half-absent",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "only partly present in mind; distracted, as if not fully there",
+      "translationZh": "心不在焉的；恍惚的",
+      "exampleSentence": "She was half-absent with happiness, the same slight smile on her lips as when she ran up the hill to get the prickly pear.",
+      "clozeSentence": "She was _____ with happiness, the same slight smile on her lips as when she ran up the hill to get the prickly pear.",
+      "distractors": [
+        "fully alert and focused",
+        "deeply worried and anxious",
+        "openly angry and loud"
+      ],
+      "surfaceForms": [
+        "half-absent"
+      ],
+      "clozeAnswerSurfaceForm": "half-absent"
+    },
+    {
+      "lemma": "prickly",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "covered with small, sharp points",
+      "translationZh": "多刺的；帶刺的",
+      "exampleSentence": "She was half-absent with happiness, the same slight smile on her lips as when she ran up the hill to get the prickly pear.",
+      "clozeSentence": "She was half-absent with happiness, the same slight smile on her lips as when she ran up the hill to get the _____ pear.",
+      "distractors": [
+        "fully ripe and ready to eat",
+        "bright green in color",
+        "unusually large in size"
+      ],
+      "surfaceForms": [
+        "prickly"
+      ],
+      "clozeAnswerSurfaceForm": "prickly"
+    },
+    {
+      "lemma": "waist",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the narrow part of the body between the ribs and hips",
+      "translationZh": "腰部",
+      "exampleSentence": "She had what looked like a man’s shirt buttoned around her chest and she was naked from the waist down, with her legs bent and open in the foreground of the photo.",
+      "clozeSentence": "She had what looked like a man’s shirt buttoned around her chest and she was naked from the _____ down, with her legs bent and open in the foreground of the photo.",
+      "distractors": [
+        "the joint connecting the hand and arm",
+        "the rounded part of the shoulder",
+        "the back part of the neck"
+      ],
+      "surfaceForms": [
+        "waist"
+      ],
+      "clozeAnswerSurfaceForm": "waist"
+    },
+    {
+      "lemma": "loneliness",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the state of feeling sad from being alone",
+      "translationZh": "孤獨；寂寞",
+      "exampleSentence": "It was between boyfriends—between the loneliness and despair that followed one and the lift that began at the next—where I hoped to stay forever, she and I the only team, the real couple.",
+      "clozeSentence": "It was between boyfriends—between the _____ and despair that followed one and the lift that began at the next—where I hoped to stay forever, she and I the only team, the real couple.",
+      "distractors": [
+        "a feeling of excitement about the future",
+        "a state of confusion about a decision",
+        "a sense of relief after stress"
+      ],
+      "surfaceForms": [
+        "loneliness"
+      ],
+      "clozeAnswerSurfaceForm": "loneliness"
+    },
+    {
+      "lemma": "jut",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to stick out or extend beyond a surface or line",
+      "translationZh": "突出；伸出",
+      "exampleSentence": "As we passed the bookshelf, I reached for the album of photographs of my birth—this was unplanned, it surprised even me, one arm jutting out as if I didn’t have control of my limbs—and pulled it out of its socket in the shelf.",
+      "clozeSentence": "As we passed the bookshelf, I reached for the album of photographs of my birth—this was unplanned, it surprised even me, one arm _____ out as if I didn’t have control of my limbs—and pulled it out of its socket in the shelf.",
+      "distractors": [
+        "to curl inward tightly",
+        "to tremble uncontrollably",
+        "to relax completely"
+      ],
+      "surfaceForms": [
+        "jutting"
+      ],
+      "clozeAnswerSurfaceForm": "jutting"
+    },
+    {
+      "lemma": "limb",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "an arm or leg of the body",
+      "translationZh": "肢體（手臂或腿）",
+      "exampleSentence": "As we passed the bookshelf, I reached for the album of photographs of my birth—this was unplanned, it surprised even me, one arm jutting out as if I didn’t have control of my limbs—and pulled it out of its socket in the shelf.",
+      "clozeSentence": "As we passed the bookshelf, I reached for the album of photographs of my birth—this was unplanned, it surprised even me, one arm jutting out as if I didn’t have control of my _____—and pulled it out of its socket in the shelf.",
+      "distractors": [
+        "a person's voice",
+        "a person's thoughts",
+        "a person's breathing"
+      ],
+      "surfaceForms": [
+        "limbs"
+      ],
+      "clozeAnswerSurfaceForm": "limbs—and"
+    },
+    {
+      "lemma": "socket",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a hollow space that something fits into",
+      "translationZh": "凹槽；插槽（此處指書架上的空位）",
+      "exampleSentence": "As we passed the bookshelf, I reached for the album of photographs of my birth—this was unplanned, it surprised even me, one arm jutting out as if I didn’t have control of my limbs—and pulled it out of its socket in the shelf.",
+      "clozeSentence": "As we passed the bookshelf, I reached for the album of photographs of my birth—this was unplanned, it surprised even me, one arm jutting out as if I didn’t have control of my limbs—and pulled it out of its _____ in the shelf.",
+      "distractors": [
+        "a protective wrapper around an object",
+        "a decorative cover for an object",
+        "a supporting frame around an object"
+      ],
+      "surfaceForms": [
+        "socket"
+      ],
+      "clozeAnswerSurfaceForm": "socket"
+    },
+    {
+      "lemma": "unplanned",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "not planned in advance; happening unexpectedly",
+      "translationZh": "非計劃中的；意外的",
+      "exampleSentence": "As we passed the bookshelf, I reached for the album of photographs of my birth—this was unplanned, it surprised even me, one arm jutting out as if I didn’t have control of my limbs—and pulled it out of its socket in the shelf.",
+      "clozeSentence": "As we passed the bookshelf, I reached for the album of photographs of my birth—this was _____, it surprised even me, one arm jutting out as if I didn’t have control of my limbs—and pulled it out of its socket in the shelf.",
+      "distractors": [
+        "carefully rehearsed beforehand",
+        "strictly forbidden by rule",
+        "fully expected and predicted"
+      ],
+      "surfaceForms": [
+        "unplanned"
+      ],
+      "clozeAnswerSurfaceForm": "unplanned"
+    },
+    {
+      "lemma": "hint",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to suggest something indirectly",
+      "translationZh": "暗示",
+      "exampleSentence": "To me, too, this hinted at the shame of the contents.",
+      "clozeSentence": "To me, too, this _____ at the shame of the contents.",
+      "distractors": [
+        "to deny something firmly",
+        "to explain something in full detail",
+        "to shout something loudly"
+      ],
+      "surfaceForms": [
+        "hinted"
+      ],
+      "clozeAnswerSurfaceForm": "hinted"
+    },
+    {
+      "lemma": "asymmetrical",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "not identical or balanced on both sides",
+      "translationZh": "不對稱的",
+      "exampleSentence": "In the following pictures, once I was out, you could see my body wrinkled, my face wax-white, asymmetrical, and squished.",
+      "clozeSentence": "In the following pictures, once I was out, you could see my body wrinkled, my face wax-white, _____, and squished.",
+      "distractors": [
+        "perfectly balanced and even on both sides",
+        "brightly colored and patterned",
+        "able to be seen through clearly"
+      ],
+      "surfaceForms": [
+        "asymmetrical"
+      ],
+      "clozeAnswerSurfaceForm": "asymmetrical"
+    },
+    {
+      "lemma": "squish",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to press or squeeze into a flat or soft shape",
+      "translationZh": "壓扁；擠壓",
+      "exampleSentence": "In the following pictures, once I was out, you could see my body wrinkled, my face wax-white, asymmetrical, and squished.",
+      "clozeSentence": "In the following pictures, once I was out, you could see my body wrinkled, my face wax-white, asymmetrical, and _____.",
+      "distractors": [
+        "to stretch out to full length",
+        "to polish until shiny",
+        "to paint a bright color"
+      ],
+      "surfaceForms": [
+        "squished"
+      ],
+      "clozeAnswerSurfaceForm": "squished"
+    },
+    {
+      "lemma": "wax-white",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "pale and smooth like wax; very white in color",
+      "translationZh": "蠟白色的；蒼白如蠟",
+      "exampleSentence": "In the following pictures, once I was out, you could see my body wrinkled, my face wax-white, asymmetrical, and squished.",
+      "clozeSentence": "In the following pictures, once I was out, you could see my body wrinkled, my face _____, asymmetrical, and squished.",
+      "distractors": [
+        "rosy pink in color",
+        "deeply tanned by the sun",
+        "bright red and flushed"
+      ],
+      "surfaceForms": [
+        "wax-white"
+      ],
+      "clozeAnswerSurfaceForm": "wax-white"
+    },
+    {
+      "lemma": "wrinkle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "having small folds or creases, especially in skin or fabric",
+      "translationZh": "有皺紋的；起皺的",
+      "exampleSentence": "In the following pictures, once I was out, you could see my body wrinkled, my face wax-white, asymmetrical, and squished.",
+      "clozeSentence": "In the following pictures, once I was out, you could see my body _____, my face wax-white, asymmetrical, and squished.",
+      "distractors": [
+        "having a tanned, sun-browned appearance",
+        "having a smooth, glowing appearance",
+        "having a relaxed, calm appearance"
+      ],
+      "surfaceForms": [
+        "wrinkled"
+      ],
+      "clozeAnswerSurfaceForm": "wrinkled"
+    },
+    {
+      "lemma": "furious",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "extremely angry",
+      "translationZh": "狂怒的；憤怒的",
+      "exampleSentence": "When my mother came out of the bathroom and saw us, she snatched the album from my hands and stuck it back in its place on the shelf, giving me a furious look.",
+      "clozeSentence": "When my mother came out of the bathroom and saw us, she snatched the album from my hands and stuck it back in its place on the shelf, giving me a _____ look.",
+      "distractors": [
+        "completely confused",
+        "very sleepy",
+        "deeply grateful"
+      ],
+      "surfaceForms": [
+        "furious"
+      ],
+      "clozeAnswerSurfaceForm": "furious"
+    },
+    {
+      "lemma": "snatch",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to grab something suddenly and quickly",
+      "translationZh": "搶奪；一把抓走",
+      "exampleSentence": "When my mother came out of the bathroom and saw us, she snatched the album from my hands and stuck it back in its place on the shelf, giving me a furious look.",
+      "clozeSentence": "When my mother came out of the bathroom and saw us, she _____ the album from my hands and stuck it back in its place on the shelf, giving me a furious look.",
+      "distractors": [
+        "to offer something politely",
+        "to borrow something temporarily",
+        "to return something carefully"
+      ],
+      "surfaceForms": [
+        "snatched"
+      ],
+      "clozeAnswerSurfaceForm": "snatched"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "splay",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to spread out or apart, away from the body",
+      "translationZh": "張開；伸展開來",
+      "exampleSentence": "He followed me into the living room; I noticed that, as he walked, his feet splayed out dramatically to either side.",
+      "clozeSentence": "He followed me into the living room; I noticed that, as he walked, his feet _____ out dramatically to either side.",
+      "distractors": [
+        "to drag slowly along the ground",
+        "to tremble from cold or fear",
+        "to tap rhythmically and lightly"
+      ],
+      "surfaceForms": [
+        "splayed"
+      ],
+      "clozeAnswerSurfaceForm": "splayed"
+    },
+    {
+      "lemma": "tufted",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "having small clumps or bunches, especially of hair or feathers",
+      "translationZh": "叢生的；有簇毛的",
+      "exampleSentence": "He was bald, with hair tufted on the sides like a clown’s, and had wide bushy eyebrows, glasses rimmed with gold, and large, swollen lips like a fish.",
+      "clozeSentence": "He was bald, with hair _____ on the sides like a clown’s, and had wide bushy eyebrows, glasses rimmed with gold, and large, swollen lips like a fish.",
+      "distractors": [
+        "completely shaved and smooth",
+        "neatly braided into rows",
+        "dyed a bright, unusual color"
+      ],
+      "surfaceForms": [
+        "tufted"
+      ],
+      "clozeAnswerSurfaceForm": "tufted"
+    },
+    {
+      "lemma": "bushy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "thick and growing densely, like a bush",
+      "translationZh": "濃密的；蓬鬆的",
+      "exampleSentence": "He was bald, with hair tufted on the sides like a clown’s, and had wide bushy eyebrows, glasses rimmed with gold, and large, swollen lips like a fish.",
+      "clozeSentence": "He was bald, with hair tufted on the sides like a clown’s, and had wide _____ eyebrows, glasses rimmed with gold, and large, swollen lips like a fish.",
+      "distractors": [
+        "thin and sparse in growth",
+        "tightly curled in shape",
+        "gray and thinning with age"
+      ],
+      "surfaceForms": [
+        "bushy"
+      ],
+      "clozeAnswerSurfaceForm": "bushy"
+    },
+    {
+      "lemma": "detergent",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a chemical substance used for cleaning",
+      "translationZh": "清潔劑；洗滌劑",
+      "exampleSentence": "He looked clean, and smelled of soap and detergent.",
+      "clozeSentence": "He looked clean, and smelled of soap and _____.",
+      "distractors": [
+        "a substance used to start a fire",
+        "a scented oil applied to skin",
+        "a fresh coat of paint"
+      ],
+      "surfaceForms": [
+        "detergent"
+      ],
+      "clozeAnswerSurfaceForm": "detergent"
+    },
+    {
+      "lemma": "distract",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to take someone's attention away from something",
+      "translationZh": "使分心；分散注意力",
+      "exampleSentence": "He sat, glancing at the pages and then looking away, as if distracted.",
+      "clozeSentence": "He sat, glancing at the pages and then looking away, as if _____.",
+      "distractors": [
+        "to put someone to sleep",
+        "to make someone feel amused",
+        "to make someone feel confident"
+      ],
+      "surfaceForms": [
+        "distracted"
+      ],
+      "clozeAnswerSurfaceForm": "distracted"
+    },
+    {
+      "lemma": "dramatically",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "in a way that is sudden, striking, or exaggerated",
+      "translationZh": "戲劇性地；顯著地",
+      "exampleSentence": "He followed me into the living room; I noticed that, as he walked, his feet splayed out dramatically to either side.",
+      "clozeSentence": "He followed me into the living room; I noticed that, as he walked, his feet splayed out _____ to either side.",
+      "distractors": [
+        "in a slight, barely noticeable way",
+        "in a quiet, unnoticed way",
+        "in a slow, gradual way"
+      ],
+      "surfaceForms": [
+        "dramatically"
+      ],
+      "clozeAnswerSurfaceForm": "dramatically"
+    },
+    {
+      "lemma": "eyebrow",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the line of hair above the eye",
+      "translationZh": "眉毛",
+      "exampleSentence": "He was bald, with hair tufted on the sides like a clown’s, and had wide bushy eyebrows, glasses rimmed with gold, and large, swollen lips like a fish.",
+      "clozeSentence": "He was bald, with hair tufted on the sides like a clown’s, and had wide bushy _____, glasses rimmed with gold, and large, swollen lips like a fish.",
+      "distractors": [
+        "the row of hair along the eyelid",
+        "the soft skin of the cheek",
+        "the curved edge of the lip"
+      ],
+      "surfaceForms": [
+        "eyebrows"
+      ],
+      "clozeAnswerSurfaceForm": "eyebrows"
+    },
+    {
+      "lemma": "rim",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to form an edge or border around something",
+      "translationZh": "鑲邊；成為...的邊緣",
+      "exampleSentence": "He was bald, with hair tufted on the sides like a clown’s, and had wide bushy eyebrows, glasses rimmed with gold, and large, swollen lips like a fish.",
+      "clozeSentence": "He was bald, with hair tufted on the sides like a clown’s, and had wide bushy eyebrows, glasses _____ with gold, and large, swollen lips like a fish.",
+      "distractors": [
+        "to tint something a certain color",
+        "to shape something into a curve",
+        "to fill something completely"
+      ],
+      "surfaceForms": [
+        "rimmed"
+      ],
+      "clozeAnswerSurfaceForm": "rimmed"
+    },
+    {
+      "lemma": "fray",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to unravel or become worn at the edges",
+      "translationZh": "磨損；散開（邊緣）",
+      "exampleSentence": "The cover was made of brown woven grasses, and because it was old, the grasses had started to fray at the edges.",
+      "clozeSentence": "The cover was made of brown woven grasses, and because it was old, the grasses had started to _____ at the edges.",
+      "distractors": [
+        "to shine with a fresh polish",
+        "to become thicker over time",
+        "to darken in color gradually"
+      ],
+      "surfaceForms": [
+        "fray"
+      ],
+      "clozeAnswerSurfaceForm": "fray"
+    },
+    {
+      "lemma": "weave",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to make fabric by crossing threads over and under each other",
+      "translationZh": "編織",
+      "exampleSentence": "The cover was made of brown woven grasses, and because it was old, the grasses had started to fray at the edges.",
+      "clozeSentence": "The cover was made of brown _____ grasses, and because it was old, the grasses had started to fray at the edges.",
+      "distractors": [
+        "to color fabric with dye",
+        "to decorate fabric with paint",
+        "to shrink fabric using heat"
+      ],
+      "surfaceForms": [
+        "woven"
+      ],
+      "clozeAnswerSurfaceForm": "woven"
+    },
+    {
+      "lemma": "revulsion",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "a strong feeling of disgust",
+      "translationZh": "強烈的厭惡感；反感",
+      "exampleSentence": "I felt revulsion and disgust and yet I continued to turn the pages.",
+      "clozeSentence": "I felt _____ and disgust and yet I continued to turn the pages.",
+      "distractors": [
+        "a strong feeling of curiosity",
+        "a strong feeling of admiration",
+        "a strong feeling of relief"
+      ],
+      "surfaceForms": [
+        "revulsion"
+      ],
+      "clozeAnswerSurfaceForm": "revulsion"
+    },
+    {
+      "lemma": "articulate",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to express thoughts or feelings clearly in words",
+      "translationZh": "清楚表達；闡明",
+      "exampleSentence": "I would not have known how to articulate it: I wanted to disgust him the way I was disgusted, to scare him away.",
+      "clozeSentence": "I would not have known how to _____ it: I wanted to disgust him the way I was disgusted, to scare him away.",
+      "distractors": [
+        "to hide one's true feelings",
+        "to forget something completely",
+        "to exaggerate the truth of something"
+      ],
+      "surfaceForms": [
+        "articulate"
+      ],
+      "clozeAnswerSurfaceForm": "articulate"
+    },
+    {
+      "lemma": "glow",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to give off a soft, steady light",
+      "translationZh": "發光；容光煥發",
+      "exampleSentence": "I turned the page: there I was, emerging from between her glowing, white legs like a turtle rising up from a pond.",
+      "clozeSentence": "I turned the page: there I was, emerging from between her _____, white legs like a turtle rising up from a pond.",
+      "distractors": [
+        "to shake uncontrollably",
+        "to bruise easily",
+        "to fold inward"
+      ],
+      "surfaceForms": [
+        "glowing"
+      ],
+      "clozeAnswerSurfaceForm": "glowing"
+    },
+    {
+      "lemma": "hippie",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a person, especially in the 1960s-70s, associated with an unconventional lifestyle and peace values",
+      "translationZh": "嬉皮（反主流文化人士）",
+      "exampleSentence": "I saw right away that Ron wasn’t a hippie.",
+      "clozeSentence": "I saw right away that Ron wasn’t a _____.",
+      "distractors": [
+        "a professional educator",
+        "a member of the armed forces",
+        "a licensed medical doctor"
+      ],
+      "surfaceForms": [
+        "hippie"
+      ],
+      "clozeAnswerSurfaceForm": "hippie"
+    },
+    {
+      "lemma": "lap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the flat area formed by the thighs of a seated person",
+      "translationZh": "大腿上方（坐姿時形成的平面）",
+      "exampleSentence": "I opened the book across my lap where he could see it.",
+      "clozeSentence": "I opened the book across my _____ where he could see it.",
+      "distractors": [
+        "the flat surface of the chest",
+        "the curve of the shoulder",
+        "the top of a desk or table"
+      ],
+      "surfaceForms": [
+        "lap"
+      ],
+      "clozeAnswerSurfaceForm": "lap"
+    },
+    {
+      "lemma": "motion",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a movement or gesture of the body",
+      "translationZh": "動作；舉動",
+      "exampleSentence": "“I see.” He made no motion to rise and run.",
+      "clozeSentence": "“I see.” He made no _____ to rise and run.",
+      "distractors": [
+        "a spoken sound or word",
+        "a written comment or note",
+        "a formal promise or agreement"
+      ],
+      "surfaceForms": [
+        "motion"
+      ],
+      "clozeAnswerSurfaceForm": "motion"
+    },
+    {
+      "lemma": "astutely",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "in a clever, perceptive way; shrewdly",
+      "translationZh": "敏銳地；精明地",
+      "exampleSentence": "Since she’d become interested in Ron, she no longer paid attention to me as astutely, I thought.",
+      "clozeSentence": "Since she’d become interested in Ron, she no longer paid attention to me as _____, I thought.",
+      "distractors": [
+        "in a careless, inattentive way",
+        "in a rare, infrequent way",
+        "in a loud, noisy way"
+      ],
+      "surfaceForms": [
+        "astutely"
+      ],
+      "clozeAnswerSurfaceForm": "astutely"
+    },
+    {
+      "lemma": "half-absent",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "only partly present in mind; distracted, as if not fully there",
+      "translationZh": "心不在焉的；恍惚的",
+      "exampleSentence": "She was half-absent with happiness, the same slight smile on her lips as when she ran up the hill to get the prickly pear.",
+      "clozeSentence": "She was _____ with happiness, the same slight smile on her lips as when she ran up the hill to get the prickly pear.",
+      "distractors": [
+        "fully alert and focused",
+        "deeply worried and anxious",
+        "openly angry and loud"
+      ],
+      "surfaceForms": [
+        "half-absent"
+      ],
+      "clozeAnswerSurfaceForm": "half-absent"
+    },
+    {
+      "lemma": "consult",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to seek information or advice from a source",
+      "translationZh": "查詢；請示（此處指占卜請示《易經》）",
+      "exampleSentence": "She no longer consulted the I Ching.",
+      "clozeSentence": "She no longer _____ the I Ching.",
+      "distractors": [
+        "to ignore something completely",
+        "to memorize something word for word",
+        "to criticize something harshly"
+      ],
+      "surfaceForms": [
+        "consulted"
+      ],
+      "clozeAnswerSurfaceForm": "consulted"
+    },
+    {
+      "lemma": "wax-white",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "pale and smooth like wax; very white in color",
+      "translationZh": "蠟白色的；蒼白如蠟",
+      "exampleSentence": "In the following pictures, once I was out, you could see my body wrinkled, my face wax-white, asymmetrical, and squished.",
+      "clozeSentence": "In the following pictures, once I was out, you could see my body wrinkled, my face _____, asymmetrical, and squished.",
+      "distractors": [
+        "rosy pink in color",
+        "deeply tanned by the sun",
+        "bright red and flushed"
+      ],
+      "surfaceForms": [
+        "wax-white"
+      ],
+      "clozeAnswerSurfaceForm": "wax-white"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "wordLemma": "weave",
+      "prompt": "weave",
+      "options": [
+        "to decorate fabric with paint",
+        "to shrink fabric using heat",
+        "to make fabric by crossing threads over and under each other",
+        "to color fabric with dye"
+      ],
+      "answer": "to make fabric by crossing threads over and under each other"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "revulsion",
+      "prompt": "I felt _____ and disgust and yet I continued to turn the pages.",
+      "options": [
+        "articulate",
+        "revulsion",
+        "eyebrows",
+        "fray"
+      ],
+      "answer": "revulsion"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "bushy",
+      "prompt": "濃密的；蓬鬆的",
+      "options": [
+        "splay",
+        "half-absent",
+        "bushy",
+        "distract"
+      ],
+      "answer": "bushy"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "eyebrow",
+      "prompt": "eyebrow",
+      "options": [
+        "the row of hair along the eyelid",
+        "the curved edge of the lip",
+        "the soft skin of the cheek",
+        "the line of hair above the eye"
+      ],
+      "answer": "the line of hair above the eye"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "dramatically",
+      "prompt": "戲劇性地；顯著地",
+      "options": [
+        "articulate",
+        "dramatically",
+        "glow",
+        "consult"
+      ],
+      "answer": "dramatically"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "motion",
+      "prompt": "motion",
+      "options": [
+        "a movement or gesture of the body",
+        "a spoken sound or word",
+        "a written comment or note",
+        "a formal promise or agreement"
+      ],
+      "answer": "a movement or gesture of the body"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "astutely",
+      "prompt": "Since she’d become interested in Ron, she no longer paid attention to me as _____, I thought.",
+      "options": [
+        "astutely",
+        "articulate",
+        "revulsion",
+        "eyebrows"
+      ],
+      "answer": "astutely"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "half-absent",
+      "prompt": "心不在焉的；恍惚的",
+      "options": [
+        "hippie",
+        "eyebrow",
+        "dramatically",
+        "half-absent"
+      ],
+      "answer": "half-absent"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "glow",
+      "prompt": "glow",
+      "options": [
+        "to bruise easily",
+        "to shake uncontrollably",
+        "to give off a soft, steady light",
+        "to fold inward"
+      ],
+      "answer": "to give off a soft, steady light"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "tufted",
+      "prompt": "He was bald, with hair _____ on the sides like a clown’s, and had wide bushy eyebrows, glasses rimmed with gold, and large, swollen lips like a fish.",
+      "options": [
+        "tufted",
+        "rimmed",
+        "eyebrows",
+        "detergent"
+      ],
+      "answer": "tufted"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "distract",
+      "prompt": "He sat, glancing at the pages and then looking away, as if _____.",
+      "options": [
+        "splayed",
+        "fray",
+        "distracted",
+        "lap"
+      ],
+      "answer": "distracted"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "consult",
+      "prompt": "consult",
+      "options": [
+        "to memorize something word for word",
+        "to seek information or advice from a source",
+        "to ignore something completely",
+        "to criticize something harshly"
+      ],
+      "answer": "to seek information or advice from a source"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "articulate",
+      "prompt": "清楚表達；闡明",
+      "options": [
+        "consult",
+        "articulate",
+        "splay",
+        "astutely"
+      ],
+      "answer": "articulate"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "hippie",
+      "prompt": "I saw right away that Ron wasn’t a _____.",
+      "options": [
+        "hippie",
+        "splayed",
+        "detergent",
+        "articulate"
+      ],
+      "answer": "hippie"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "detergent",
+      "prompt": "detergent",
+      "options": [
+        "a fresh coat of paint",
+        "a scented oil applied to skin",
+        "a chemical substance used for cleaning",
+        "a substance used to start a fire"
+      ],
+      "answer": "a chemical substance used for cleaning"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "lap",
+      "prompt": "大腿上方（坐姿時形成的平面）",
+      "options": [
+        "rim",
+        "articulate",
+        "lap",
+        "tufted"
+      ],
+      "answer": "lap"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "rim",
+      "prompt": "He was bald, with hair tufted on the sides like a clown’s, and had wide bushy eyebrows, glasses _____ with gold, and large, swollen lips like a fish.",
+      "options": [
+        "dramatically",
+        "articulate",
+        "woven",
+        "rimmed"
+      ],
+      "answer": "rimmed"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "splay",
+      "prompt": "splay",
+      "options": [
+        "to tremble from cold or fear",
+        "to drag slowly along the ground",
+        "to tap rhythmically and lightly",
+        "to spread out or apart, away from the body"
+      ],
+      "answer": "to spread out or apart, away from the body"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "fray",
+      "prompt": "磨損；散開（邊緣）",
+      "options": [
+        "fray",
+        "glow",
+        "revulsion",
+        "astutely"
+      ],
+      "answer": "fray"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "wax-white",
+      "prompt": "In the following pictures, once I was out, you could see my body wrinkled, my face _____, asymmetrical, and squished.",
+      "options": [
+        "consulted",
+        "bushy",
+        "wax-white",
+        "eyebrows"
+      ],
+      "answer": "wax-white"
+    }
+  ]
+}

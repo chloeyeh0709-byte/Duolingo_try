@@ -1,0 +1,1070 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 6,
+  "partTitle": "Small Nation",
+  "sectionIndex": 14,
+  "paragraphs": [
+    "“I’m so lonely,” I told Mona on the phone. “He doesn’t come to say goodnight.”",
+    "I relied on Mona to be an intermediary, a role that continued past high school into my adult life, when she would carry bits of information between us. Her place in the middle seemed like a mercy; he might listen to his sister.",
+    "“Really?” Mona said. “Have you asked him to?”",
+    "“No.”",
+    "“Why don’t you ask?” I hadn’t asked because I knew there was something wrong with needing it. I needed too much. There was a difference between the way I knew I should be feeling and the way I actually felt.",
+    "“The thing is,” I said, looking out into the emerald garden through the small window—at the cup-shaped roses, their centers densely stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+    "“What?”",
+    "“It looks so good here,” I said.",
+    "“It’s a nice house,” she said. When you looked into the windows of other houses, beautiful ones, the people inside the light, you imagined happiness for them. Now I was inside it.",
+    "“How can it look so good but feel bad?” I asked. It must be me that was wrong, I thought. Not it.",
+    "“What else is money for,” Mona answered, “if not to make it look good?”",
+    "“Hey, would you guys come say goodnight to me sometimes?” I asked my father, standing in the kitchen. I’d built up the courage, after talking with Mona.",
+    "“What?” he asked.",
+    "“Just a couple nights a week,” I said. “Because I’m lonely.”",
+    "“Nope, sorry,” he said, without pausing to think. He was bouncing my brother in his lap, sitting in the rocking chair in the kitchen.",
+    "A few days later, I asked Laurene, separately.",
+    "“Sure,” she said.",
+    "I was flooded with gratitude and relief, the same feeling as when she pulled me into photographs, the same feeling that made me shower her with rose petals and lantana blossoms when she walked through the gate after work, so grateful it made me shiver as if from cold.",
+    "That night she came down first, sat on my bed, and stretched out her legs. When she stretched her legs, her almost pointed feet looked like a mannequin’s feet, shaped to fit into a high heel. I put my own feet out, imitated the shape. “He’ll be coming down in a minute,” she said.",
+    "“So how was your day?” I asked. I’d turned the overhead lamp on, although I usually kept it off at this time of night. I wanted to make things pleasant, so they wouldn’t think of it as a burden to come down, more like a treat. I wouldn’t have minded if they simply tucked their head around the door—I only cared about the fact of the goodnight, not its duration.",
+    "“Great, Lis. Tell me about what you’re reading.” She eyed the stack of books beside my bed, all of them partially finished. She was a reader too. I was reading Franny and Zooey again, and the last book in the Cairo Trilogy. Also a book called When Nietzsche Wept, with fictionalized accounts of psychological revelation, including one about an overweight girl who seeks therapy during the process of weight loss and who, with each successive pound lost, relives the difficulties she faced at that exact weight. It left an impression on me for the idea of cell memory—that whatever we undergo is stored within the physical body, even when conscious memory of the event has disappeared.",
+    "My father came down and sat beside Laurene on my bed. The joy and relief of this event made it hard to relax, like trying to breathe in a high wind.",
+    "“All right, well—goodnight, Lis,” my father said grandly as he got up, as if to underscore it. We hugged.",
+    "After that, they didn’t come down again. I asked one more time, my father said no, and I stopped mentioning it."
+  ],
+  "words": [
+    {
+      "lemma": "blossom",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A flower, especially one that grows on a tree or bush",
+      "translationZh": "花朵；花",
+      "exampleSentence": "I was flooded with gratitude and relief, the same feeling as when she pulled me into photographs, the same feeling that made me shower her with rose petals and lantana blossoms when she walked through the gate after work, so grateful it made me shiver as if from cold.",
+      "clozeSentence": "I was flooded with gratitude and relief, the same feeling as when she pulled me into photographs, the same feeling that made me shower her with rose petals and lantana _____ when she walked through the gate after work, so grateful it made me shiver as if from cold.",
+      "distractors": [
+        "A type of leaf or stem",
+        "A piece of fruit",
+        "A type of thorn or spike"
+      ],
+      "surfaceForms": [
+        "blossoms"
+      ],
+      "clozeAnswerSurfaceForm": "blossoms"
+    },
+    {
+      "lemma": "duration",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "The length of time something lasts",
+      "translationZh": "持續時間；期間",
+      "exampleSentence": "I wouldn’t have minded if they simply tucked their head around the door—I only cared about the fact of the goodnight, not its duration.",
+      "clozeSentence": "I wouldn’t have minded if they simply tucked their head around the door—I only cared about the fact of the goodnight, not its _____.",
+      "distractors": [
+        "The exact starting point of an event",
+        "The reason something happens",
+        "The location where something occurs"
+      ],
+      "surfaceForms": [
+        "duration"
+      ],
+      "clozeAnswerSurfaceForm": "duration"
+    },
+    {
+      "lemma": "intermediary",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "A person who acts as a link between two people or groups",
+      "translationZh": "中間人；仲介者",
+      "exampleSentence": "I relied on Mona to be an intermediary, a role that continued past high school into my adult life, when she would carry bits of information between us.",
+      "clozeSentence": "I relied on Mona to be an _____, a role that continued past high school into my adult life, when she would carry bits of information between us.",
+      "distractors": [
+        "A person who makes final decisions alone",
+        "A person who avoids all contact with others",
+        "A person who competes against others"
+      ],
+      "surfaceForms": [
+        "intermediary"
+      ],
+      "clozeAnswerSurfaceForm": "intermediary"
+    },
+    {
+      "lemma": "relief",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A feeling of comfort after the removal of stress or worry",
+      "translationZh": "寬慰；解脫",
+      "exampleSentence": "I was flooded with gratitude and relief, the same feeling as when she pulled me into photographs, the same feeling that made me shower her with rose petals and lantana blossoms when she walked through the gate after work, so grateful it made me shiver as if from cold.",
+      "clozeSentence": "I was flooded with gratitude and _____, the same feeling as when she pulled me into photographs, the same feeling that made me shower her with rose petals and lantana blossoms when she walked through the gate after work, so grateful it made me shiver as if from cold.",
+      "distractors": [
+        "A feeling of sudden fear",
+        "A state of deep confusion",
+        "A moment of intense excitement"
+      ],
+      "surfaceForms": [
+        "relief"
+      ],
+      "clozeAnswerSurfaceForm": "relief"
+    },
+    {
+      "lemma": "lantana",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "A flowering plant with small clusters of brightly colored flowers",
+      "translationZh": "馬纓丹（一種開花植物）",
+      "exampleSentence": "I was flooded with gratitude and relief, the same feeling as when she pulled me into photographs, the same feeling that made me shower her with rose petals and lantana blossoms when she walked through the gate after work, so grateful it made me shiver as if from cold.",
+      "clozeSentence": "I was flooded with gratitude and relief, the same feeling as when she pulled me into photographs, the same feeling that made me shower her with rose petals and _____ blossoms when she walked through the gate after work, so grateful it made me shiver as if from cold.",
+      "distractors": [
+        "A tall shade tree with wide leaves",
+        "A type of climbing vine with thorns",
+        "A short type of ornamental grass"
+      ],
+      "surfaceForms": [
+        "lantana"
+      ],
+      "clozeAnswerSurfaceForm": "lantana"
+    },
+    {
+      "lemma": "tuck",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To put or push something into a small space, often quickly",
+      "translationZh": "塞入；探入",
+      "exampleSentence": "I wouldn’t have minded if they simply tucked their head around the door—I only cared about the fact of the goodnight, not its duration.",
+      "clozeSentence": "I wouldn’t have minded if they simply _____ their head around the door—I only cared about the fact of the goodnight, not its duration.",
+      "distractors": [
+        "To pull something out forcefully",
+        "To leave something in plain view",
+        "To throw something across a room"
+      ],
+      "surfaceForms": [
+        "tucked"
+      ],
+      "clozeAnswerSurfaceForm": "tucked"
+    },
+    {
+      "lemma": "lap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The flat area formed by the thighs of a seated person",
+      "translationZh": "大腿（坐時形成的部位）",
+      "exampleSentence": "He was bouncing my brother in his lap, sitting in the rocking chair in the kitchen.",
+      "clozeSentence": "He was bouncing my brother in his _____, sitting in the rocking chair in the kitchen.",
+      "distractors": [
+        "The back of a chair",
+        "The top of a table",
+        "The floor of a room"
+      ],
+      "surfaceForms": [
+        "lap"
+      ],
+      "clozeAnswerSurfaceForm": "lap"
+    },
+    {
+      "lemma": "mercy",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A fortunate or helpful event, especially one bringing relief",
+      "translationZh": "幸事；慈悲",
+      "exampleSentence": "Her place in the middle seemed like a mercy; he might listen to his sister.",
+      "clozeSentence": "Her place in the middle seemed like a _____; he might listen to his sister.",
+      "distractors": [
+        "An unfortunate or harmful event",
+        "A formal agreement between people",
+        "A long period of waiting"
+      ],
+      "surfaceForms": [
+        "mercy"
+      ],
+      "clozeAnswerSurfaceForm": "mercy"
+    },
+    {
+      "lemma": "densely",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "In a thick or crowded way, with little space between parts",
+      "translationZh": "密集地；濃密地",
+      "exampleSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the cup-shaped roses, their centers densely stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "clozeSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the cup-shaped roses, their centers _____ stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "distractors": [
+        "In a loose, scattered way",
+        "In a slow, careful way",
+        "In a bright, colorful way"
+      ],
+      "surfaceForms": [
+        "densely"
+      ],
+      "clozeAnswerSurfaceForm": "densely"
+    },
+    {
+      "lemma": "cup-shaped",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Having a rounded, hollow shape like a cup",
+      "translationZh": "杯狀的",
+      "exampleSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the cup-shaped roses, their centers densely stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "clozeSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the _____ roses, their centers densely stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "distractors": [
+        "Flat and completely straight",
+        "Long and thin like a string",
+        "Square with sharp corners"
+      ],
+      "surfaceForms": [
+        "cup-shaped"
+      ],
+      "clozeAnswerSurfaceForm": "cup-shaped"
+    },
+    {
+      "lemma": "emerald",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A bright green color, like the gemstone",
+      "translationZh": "翠綠色的",
+      "exampleSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the cup-shaped roses, their centers densely stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "clozeSentence": "“The thing is,” I said, looking out into the _____ garden through the small window—at the cup-shaped roses, their centers densely stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "distractors": [
+        "A pale, washed-out gray",
+        "A deep, dark purple",
+        "A bright, warm orange"
+      ],
+      "surfaceForms": [
+        "emerald"
+      ],
+      "clozeAnswerSurfaceForm": "emerald"
+    },
+    {
+      "lemma": "petal",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "One of the colored outer parts of a flower",
+      "translationZh": "花瓣",
+      "exampleSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the cup-shaped roses, their centers densely stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "clozeSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the cup-shaped roses, their centers densely stuffed with _____ like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "distractors": [
+        "The stem that supports a flower",
+        "The root system of a plant",
+        "The seed inside a fruit"
+      ],
+      "surfaceForms": [
+        "petals"
+      ],
+      "clozeAnswerSurfaceForm": "petals"
+    },
+    {
+      "lemma": "waterlogged",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Saturated with water; soaked through",
+      "translationZh": "浸水的；濕透的",
+      "exampleSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the cup-shaped roses, their centers densely stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "clozeSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the cup-shaped roses, their centers densely stuffed with petals like pages in a _____ book—”the thing I don’t understand is …”",
+      "distractors": [
+        "Completely dry and crisp",
+        "Covered in dust",
+        "Torn into small pieces"
+      ],
+      "surfaceForms": [
+        "waterlogged"
+      ],
+      "clozeAnswerSurfaceForm": "waterlogged"
+    },
+    {
+      "lemma": "overhead",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Positioned above one's head",
+      "translationZh": "頭頂上方的",
+      "exampleSentence": "I’d turned the overhead lamp on, although I usually kept it off at this time of night.",
+      "clozeSentence": "I’d turned the _____ lamp on, although I usually kept it off at this time of night.",
+      "distractors": [
+        "Positioned below the ground",
+        "Positioned to the side",
+        "Positioned directly behind"
+      ],
+      "surfaceForms": [
+        "overhead"
+      ],
+      "clozeAnswerSurfaceForm": "overhead"
+    },
+    {
+      "lemma": "separately",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Apart from each other; not together",
+      "translationZh": "分開地；個別地",
+      "exampleSentence": "A few days later, I asked Laurene, separately.",
+      "clozeSentence": "A few days later, I asked Laurene, _____.",
+      "distractors": [
+        "At exactly the same time",
+        "In a loud, public way",
+        "Without any explanation"
+      ],
+      "surfaceForms": [
+        "separately"
+      ],
+      "clozeAnswerSurfaceForm": "separately"
+    },
+    {
+      "lemma": "stack",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A neat pile of things placed one on top of another",
+      "translationZh": "一疊；一堆",
+      "exampleSentence": "Tell me about what you’re reading.” She eyed the stack of books beside my bed, all of them partially finished.",
+      "clozeSentence": "Tell me about what you’re reading.” She eyed the _____ of books beside my bed, all of them partially finished.",
+      "distractors": [
+        "A single, small item",
+        "A wide, flat surface",
+        "A hole or gap in something"
+      ],
+      "surfaceForms": [
+        "stack"
+      ],
+      "clozeAnswerSurfaceForm": "stack"
+    },
+    {
+      "lemma": "partially",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To some extent, but not completely",
+      "translationZh": "部分地",
+      "exampleSentence": "Tell me about what you’re reading.” She eyed the stack of books beside my bed, all of them partially finished.",
+      "clozeSentence": "Tell me about what you’re reading.” She eyed the stack of books beside my bed, all of them _____ finished.",
+      "distractors": [
+        "Completely and entirely",
+        "Not at all",
+        "Suddenly and unexpectedly"
+      ],
+      "surfaceForms": [
+        "partially"
+      ],
+      "clozeAnswerSurfaceForm": "partially"
+    },
+    {
+      "lemma": "revelation",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A surprising fact that is made known",
+      "translationZh": "揭露；啟示",
+      "exampleSentence": "Also a book called When Nietzsche Wept, with fictionalized accounts of psychological revelation, including one about an overweight girl who seeks therapy during the process of weight loss and who, with each successive pound lost, relives the difficulties she faced at that exact weight.",
+      "clozeSentence": "Also a book called When Nietzsche Wept, with fictionalized accounts of psychological _____, including one about an overweight girl who seeks therapy during the process of weight loss and who, with each successive pound lost, relives the difficulties she faced at that exact weight.",
+      "distractors": [
+        "A secret that is never discovered",
+        "A formal apology",
+        "A long period of silence"
+      ],
+      "surfaceForms": [
+        "revelation"
+      ],
+      "clozeAnswerSurfaceForm": "revelation"
+    },
+    {
+      "lemma": "successive",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Following one after another in a series",
+      "translationZh": "連續的；相繼的",
+      "exampleSentence": "Also a book called When Nietzsche Wept, with fictionalized accounts of psychological revelation, including one about an overweight girl who seeks therapy during the process of weight loss and who, with each successive pound lost, relives the difficulties she faced at that exact weight.",
+      "clozeSentence": "Also a book called When Nietzsche Wept, with fictionalized accounts of psychological revelation, including one about an overweight girl who seeks therapy during the process of weight loss and who, with each _____ pound lost, relives the difficulties she faced at that exact weight.",
+      "distractors": [
+        "Happening only once",
+        "Occurring at random times",
+        "Happening far apart in time"
+      ],
+      "surfaceForms": [
+        "successive"
+      ],
+      "clozeAnswerSurfaceForm": "successive"
+    },
+    {
+      "lemma": "therapy",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Treatment intended to relieve or heal a physical or mental problem",
+      "translationZh": "治療；療法",
+      "exampleSentence": "Also a book called When Nietzsche Wept, with fictionalized accounts of psychological revelation, including one about an overweight girl who seeks therapy during the process of weight loss and who, with each successive pound lost, relives the difficulties she faced at that exact weight.",
+      "clozeSentence": "Also a book called When Nietzsche Wept, with fictionalized accounts of psychological revelation, including one about an overweight girl who seeks _____ during the process of weight loss and who, with each successive pound lost, relives the difficulties she faced at that exact weight.",
+      "distractors": [
+        "A type of physical exercise for fun",
+        "A formal legal process",
+        "A method of cooking food"
+      ],
+      "surfaceForms": [
+        "therapy"
+      ],
+      "clozeAnswerSurfaceForm": "therapy"
+    },
+    {
+      "lemma": "fictionalize",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To present real events or people as if they were fiction",
+      "translationZh": "虛構化；改編成小說",
+      "exampleSentence": "Also a book called When Nietzsche Wept, with fictionalized accounts of psychological revelation, including one about an overweight girl who seeks therapy during the process of weight loss and who, with each successive pound lost, relives the difficulties she faced at that exact weight.",
+      "clozeSentence": "Also a book called When Nietzsche Wept, with _____ accounts of psychological revelation, including one about an overweight girl who seeks therapy during the process of weight loss and who, with each successive pound lost, relives the difficulties she faced at that exact weight.",
+      "distractors": [
+        "To record events exactly as they happened",
+        "To completely delete information",
+        "To translate into another language"
+      ],
+      "surfaceForms": [
+        "fictionalized"
+      ],
+      "clozeAnswerSurfaceForm": "fictionalized"
+    },
+    {
+      "lemma": "relive",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To experience something again in one's mind or imagination",
+      "translationZh": "重溫；再度經歷",
+      "exampleSentence": "Also a book called When Nietzsche Wept, with fictionalized accounts of psychological revelation, including one about an overweight girl who seeks therapy during the process of weight loss and who, with each successive pound lost, relives the difficulties she faced at that exact weight.",
+      "clozeSentence": "Also a book called When Nietzsche Wept, with fictionalized accounts of psychological revelation, including one about an overweight girl who seeks therapy during the process of weight loss and who, with each successive pound lost, _____ the difficulties she faced at that exact weight.",
+      "distractors": [
+        "To forget something completely",
+        "To predict what will happen next",
+        "To explain something to someone else"
+      ],
+      "surfaceForms": [
+        "relives"
+      ],
+      "clozeAnswerSurfaceForm": "relives"
+    },
+    {
+      "lemma": "grandly",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "In an impressive or dramatic way, showing importance",
+      "translationZh": "隆重地；氣派地",
+      "exampleSentence": "“All right, well—goodnight, Lis,” my father said grandly as he got up, as if to underscore it.",
+      "clozeSentence": "“All right, well—goodnight, Lis,” my father said _____ as he got up, as if to underscore it.",
+      "distractors": [
+        "In a quiet, humble way",
+        "In a nervous, hesitant way",
+        "In a rushed, careless way"
+      ],
+      "surfaceForms": [
+        "grandly"
+      ],
+      "clozeAnswerSurfaceForm": "grandly"
+    },
+    {
+      "lemma": "underscore",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To emphasize or draw attention to something",
+      "translationZh": "強調；突顯",
+      "exampleSentence": "“All right, well—goodnight, Lis,” my father said grandly as he got up, as if to underscore it.",
+      "clozeSentence": "“All right, well—goodnight, Lis,” my father said grandly as he got up, as if to _____ it.",
+      "distractors": [
+        "To completely ignore something",
+        "To quietly cancel something",
+        "To gradually forget something"
+      ],
+      "surfaceForms": [
+        "underscore"
+      ],
+      "clozeAnswerSurfaceForm": "underscore"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "intermediary",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "A person who acts as a link between two people or groups",
+      "translationZh": "中間人；仲介者",
+      "exampleSentence": "I relied on Mona to be an intermediary, a role that continued past high school into my adult life, when she would carry bits of information between us.",
+      "clozeSentence": "I relied on Mona to be an _____, a role that continued past high school into my adult life, when she would carry bits of information between us.",
+      "distractors": [
+        "A person who makes final decisions alone",
+        "A person who avoids all contact with others",
+        "A person who competes against others"
+      ],
+      "surfaceForms": [
+        "intermediary"
+      ],
+      "clozeAnswerSurfaceForm": "intermediary"
+    },
+    {
+      "lemma": "lantana",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "A flowering plant with small clusters of brightly colored flowers",
+      "translationZh": "馬纓丹（一種開花植物）",
+      "exampleSentence": "I was flooded with gratitude and relief, the same feeling as when she pulled me into photographs, the same feeling that made me shower her with rose petals and lantana blossoms when she walked through the gate after work, so grateful it made me shiver as if from cold.",
+      "clozeSentence": "I was flooded with gratitude and relief, the same feeling as when she pulled me into photographs, the same feeling that made me shower her with rose petals and _____ blossoms when she walked through the gate after work, so grateful it made me shiver as if from cold.",
+      "distractors": [
+        "A tall shade tree with wide leaves",
+        "A type of climbing vine with thorns",
+        "A short type of ornamental grass"
+      ],
+      "surfaceForms": [
+        "lantana"
+      ],
+      "clozeAnswerSurfaceForm": "lantana"
+    },
+    {
+      "lemma": "duration",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "The length of time something lasts",
+      "translationZh": "持續時間；期間",
+      "exampleSentence": "I wouldn’t have minded if they simply tucked their head around the door—I only cared about the fact of the goodnight, not its duration.",
+      "clozeSentence": "I wouldn’t have minded if they simply tucked their head around the door—I only cared about the fact of the goodnight, not its _____.",
+      "distractors": [
+        "The exact starting point of an event",
+        "The reason something happens",
+        "The location where something occurs"
+      ],
+      "surfaceForms": [
+        "duration"
+      ],
+      "clozeAnswerSurfaceForm": "duration"
+    },
+    {
+      "lemma": "blossom",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A flower, especially one that grows on a tree or bush",
+      "translationZh": "花朵；花",
+      "exampleSentence": "I was flooded with gratitude and relief, the same feeling as when she pulled me into photographs, the same feeling that made me shower her with rose petals and lantana blossoms when she walked through the gate after work, so grateful it made me shiver as if from cold.",
+      "clozeSentence": "I was flooded with gratitude and relief, the same feeling as when she pulled me into photographs, the same feeling that made me shower her with rose petals and lantana _____ when she walked through the gate after work, so grateful it made me shiver as if from cold.",
+      "distractors": [
+        "A type of leaf or stem",
+        "A piece of fruit",
+        "A type of thorn or spike"
+      ],
+      "surfaceForms": [
+        "blossoms"
+      ],
+      "clozeAnswerSurfaceForm": "blossoms"
+    },
+    {
+      "lemma": "relief",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A feeling of comfort after the removal of stress or worry",
+      "translationZh": "寬慰；解脫",
+      "exampleSentence": "I was flooded with gratitude and relief, the same feeling as when she pulled me into photographs, the same feeling that made me shower her with rose petals and lantana blossoms when she walked through the gate after work, so grateful it made me shiver as if from cold.",
+      "clozeSentence": "I was flooded with gratitude and _____, the same feeling as when she pulled me into photographs, the same feeling that made me shower her with rose petals and lantana blossoms when she walked through the gate after work, so grateful it made me shiver as if from cold.",
+      "distractors": [
+        "A feeling of sudden fear",
+        "A state of deep confusion",
+        "A moment of intense excitement"
+      ],
+      "surfaceForms": [
+        "relief"
+      ],
+      "clozeAnswerSurfaceForm": "relief"
+    },
+    {
+      "lemma": "tuck",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To put or push something into a small space, often quickly",
+      "translationZh": "塞入；探入",
+      "exampleSentence": "I wouldn’t have minded if they simply tucked their head around the door—I only cared about the fact of the goodnight, not its duration.",
+      "clozeSentence": "I wouldn’t have minded if they simply _____ their head around the door—I only cared about the fact of the goodnight, not its duration.",
+      "distractors": [
+        "To pull something out forcefully",
+        "To leave something in plain view",
+        "To throw something across a room"
+      ],
+      "surfaceForms": [
+        "tucked"
+      ],
+      "clozeAnswerSurfaceForm": "tucked"
+    },
+    {
+      "lemma": "lap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The flat area formed by the thighs of a seated person",
+      "translationZh": "大腿（坐時形成的部位）",
+      "exampleSentence": "He was bouncing my brother in his lap, sitting in the rocking chair in the kitchen.",
+      "clozeSentence": "He was bouncing my brother in his _____, sitting in the rocking chair in the kitchen.",
+      "distractors": [
+        "The back of a chair",
+        "The top of a table",
+        "The floor of a room"
+      ],
+      "surfaceForms": [
+        "lap"
+      ],
+      "clozeAnswerSurfaceForm": "lap"
+    },
+    {
+      "lemma": "mercy",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A fortunate or helpful event, especially one bringing relief",
+      "translationZh": "幸事；慈悲",
+      "exampleSentence": "Her place in the middle seemed like a mercy; he might listen to his sister.",
+      "clozeSentence": "Her place in the middle seemed like a _____; he might listen to his sister.",
+      "distractors": [
+        "An unfortunate or harmful event",
+        "A formal agreement between people",
+        "A long period of waiting"
+      ],
+      "surfaceForms": [
+        "mercy"
+      ],
+      "clozeAnswerSurfaceForm": "mercy"
+    },
+    {
+      "lemma": "densely",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "In a thick or crowded way, with little space between parts",
+      "translationZh": "密集地；濃密地",
+      "exampleSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the cup-shaped roses, their centers densely stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "clozeSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the cup-shaped roses, their centers _____ stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "distractors": [
+        "In a loose, scattered way",
+        "In a slow, careful way",
+        "In a bright, colorful way"
+      ],
+      "surfaceForms": [
+        "densely"
+      ],
+      "clozeAnswerSurfaceForm": "densely"
+    },
+    {
+      "lemma": "cup-shaped",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Having a rounded, hollow shape like a cup",
+      "translationZh": "杯狀的",
+      "exampleSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the cup-shaped roses, their centers densely stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "clozeSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the _____ roses, their centers densely stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "distractors": [
+        "Flat and completely straight",
+        "Long and thin like a string",
+        "Square with sharp corners"
+      ],
+      "surfaceForms": [
+        "cup-shaped"
+      ],
+      "clozeAnswerSurfaceForm": "cup-shaped"
+    },
+    {
+      "lemma": "emerald",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A bright green color, like the gemstone",
+      "translationZh": "翠綠色的",
+      "exampleSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the cup-shaped roses, their centers densely stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "clozeSentence": "“The thing is,” I said, looking out into the _____ garden through the small window—at the cup-shaped roses, their centers densely stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "distractors": [
+        "A pale, washed-out gray",
+        "A deep, dark purple",
+        "A bright, warm orange"
+      ],
+      "surfaceForms": [
+        "emerald"
+      ],
+      "clozeAnswerSurfaceForm": "emerald"
+    },
+    {
+      "lemma": "petal",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "One of the colored outer parts of a flower",
+      "translationZh": "花瓣",
+      "exampleSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the cup-shaped roses, their centers densely stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "clozeSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the cup-shaped roses, their centers densely stuffed with _____ like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "distractors": [
+        "The stem that supports a flower",
+        "The root system of a plant",
+        "The seed inside a fruit"
+      ],
+      "surfaceForms": [
+        "petals"
+      ],
+      "clozeAnswerSurfaceForm": "petals"
+    },
+    {
+      "lemma": "waterlogged",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Saturated with water; soaked through",
+      "translationZh": "浸水的；濕透的",
+      "exampleSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the cup-shaped roses, their centers densely stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "clozeSentence": "“The thing is,” I said, looking out into the emerald garden through the small window—at the cup-shaped roses, their centers densely stuffed with petals like pages in a _____ book—”the thing I don’t understand is …”",
+      "distractors": [
+        "Completely dry and crisp",
+        "Covered in dust",
+        "Torn into small pieces"
+      ],
+      "surfaceForms": [
+        "waterlogged"
+      ],
+      "clozeAnswerSurfaceForm": "waterlogged"
+    },
+    {
+      "lemma": "overhead",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Positioned above one's head",
+      "translationZh": "頭頂上方的",
+      "exampleSentence": "I’d turned the overhead lamp on, although I usually kept it off at this time of night.",
+      "clozeSentence": "I’d turned the _____ lamp on, although I usually kept it off at this time of night.",
+      "distractors": [
+        "Positioned below the ground",
+        "Positioned to the side",
+        "Positioned directly behind"
+      ],
+      "surfaceForms": [
+        "overhead"
+      ],
+      "clozeAnswerSurfaceForm": "overhead"
+    },
+    {
+      "lemma": "separately",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Apart from each other; not together",
+      "translationZh": "分開地；個別地",
+      "exampleSentence": "A few days later, I asked Laurene, separately.",
+      "clozeSentence": "A few days later, I asked Laurene, _____.",
+      "distractors": [
+        "At exactly the same time",
+        "In a loud, public way",
+        "Without any explanation"
+      ],
+      "surfaceForms": [
+        "separately"
+      ],
+      "clozeAnswerSurfaceForm": "separately"
+    },
+    {
+      "lemma": "stack",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A neat pile of things placed one on top of another",
+      "translationZh": "一疊；一堆",
+      "exampleSentence": "Tell me about what you’re reading.” She eyed the stack of books beside my bed, all of them partially finished.",
+      "clozeSentence": "Tell me about what you’re reading.” She eyed the _____ of books beside my bed, all of them partially finished.",
+      "distractors": [
+        "A single, small item",
+        "A wide, flat surface",
+        "A hole or gap in something"
+      ],
+      "surfaceForms": [
+        "stack"
+      ],
+      "clozeAnswerSurfaceForm": "stack"
+    },
+    {
+      "lemma": "partially",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To some extent, but not completely",
+      "translationZh": "部分地",
+      "exampleSentence": "Tell me about what you’re reading.” She eyed the stack of books beside my bed, all of them partially finished.",
+      "clozeSentence": "Tell me about what you’re reading.” She eyed the stack of books beside my bed, all of them _____ finished.",
+      "distractors": [
+        "Completely and entirely",
+        "Not at all",
+        "Suddenly and unexpectedly"
+      ],
+      "surfaceForms": [
+        "partially"
+      ],
+      "clozeAnswerSurfaceForm": "partially"
+    },
+    {
+      "lemma": "fictionalize",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To present real events or people as if they were fiction",
+      "translationZh": "虛構化；改編成小說",
+      "exampleSentence": "Also a book called When Nietzsche Wept, with fictionalized accounts of psychological revelation, including one about an overweight girl who seeks therapy during the process of weight loss and who, with each successive pound lost, relives the difficulties she faced at that exact weight.",
+      "clozeSentence": "Also a book called When Nietzsche Wept, with _____ accounts of psychological revelation, including one about an overweight girl who seeks therapy during the process of weight loss and who, with each successive pound lost, relives the difficulties she faced at that exact weight.",
+      "distractors": [
+        "To record events exactly as they happened",
+        "To completely delete information",
+        "To translate into another language"
+      ],
+      "surfaceForms": [
+        "fictionalized"
+      ],
+      "clozeAnswerSurfaceForm": "fictionalized"
+    },
+    {
+      "lemma": "revelation",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A surprising fact that is made known",
+      "translationZh": "揭露；啟示",
+      "exampleSentence": "Also a book called When Nietzsche Wept, with fictionalized accounts of psychological revelation, including one about an overweight girl who seeks therapy during the process of weight loss and who, with each successive pound lost, relives the difficulties she faced at that exact weight.",
+      "clozeSentence": "Also a book called When Nietzsche Wept, with fictionalized accounts of psychological _____, including one about an overweight girl who seeks therapy during the process of weight loss and who, with each successive pound lost, relives the difficulties she faced at that exact weight.",
+      "distractors": [
+        "A secret that is never discovered",
+        "A formal apology",
+        "A long period of silence"
+      ],
+      "surfaceForms": [
+        "revelation"
+      ],
+      "clozeAnswerSurfaceForm": "revelation"
+    },
+    {
+      "lemma": "successive",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Following one after another in a series",
+      "translationZh": "連續的；相繼的",
+      "exampleSentence": "Also a book called When Nietzsche Wept, with fictionalized accounts of psychological revelation, including one about an overweight girl who seeks therapy during the process of weight loss and who, with each successive pound lost, relives the difficulties she faced at that exact weight.",
+      "clozeSentence": "Also a book called When Nietzsche Wept, with fictionalized accounts of psychological revelation, including one about an overweight girl who seeks therapy during the process of weight loss and who, with each _____ pound lost, relives the difficulties she faced at that exact weight.",
+      "distractors": [
+        "Happening only once",
+        "Occurring at random times",
+        "Happening far apart in time"
+      ],
+      "surfaceForms": [
+        "successive"
+      ],
+      "clozeAnswerSurfaceForm": "successive"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "translation",
+      "wordLemma": "duration",
+      "prompt": "持續時間；期間",
+      "options": [
+        "relief",
+        "duration",
+        "emerald",
+        "cup-shaped"
+      ],
+      "answer": "duration"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "densely",
+      "prompt": "密集地；濃密地",
+      "options": [
+        "duration",
+        "petal",
+        "densely",
+        "tuck"
+      ],
+      "answer": "densely"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "intermediary",
+      "prompt": "intermediary",
+      "options": [
+        "A person who avoids all contact with others",
+        "A person who makes final decisions alone",
+        "A person who acts as a link between two people or groups",
+        "A person who competes against others"
+      ],
+      "answer": "A person who acts as a link between two people or groups"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "separately",
+      "prompt": "分開地；個別地",
+      "options": [
+        "duration",
+        "intermediary",
+        "petal",
+        "separately"
+      ],
+      "answer": "separately"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "cup-shaped",
+      "prompt": "cup-shaped",
+      "options": [
+        "Flat and completely straight",
+        "Square with sharp corners",
+        "Long and thin like a string",
+        "Having a rounded, hollow shape like a cup"
+      ],
+      "answer": "Having a rounded, hollow shape like a cup"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "blossom",
+      "prompt": "blossom",
+      "options": [
+        "A type of thorn or spike",
+        "A type of leaf or stem",
+        "A flower, especially one that grows on a tree or bush",
+        "A piece of fruit"
+      ],
+      "answer": "A flower, especially one that grows on a tree or bush"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "partially",
+      "prompt": "Tell me about what you’re reading.” She eyed the stack of books beside my bed, all of them _____ finished.",
+      "options": [
+        "partially",
+        "relief",
+        "intermediary",
+        "blossoms"
+      ],
+      "answer": "partially"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "stack",
+      "prompt": "stack",
+      "options": [
+        "A wide, flat surface",
+        "A single, small item",
+        "A neat pile of things placed one on top of another",
+        "A hole or gap in something"
+      ],
+      "answer": "A neat pile of things placed one on top of another"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "fictionalize",
+      "prompt": "虛構化；改編成小說",
+      "options": [
+        "waterlogged",
+        "relief",
+        "duration",
+        "fictionalize"
+      ],
+      "answer": "fictionalize"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "revelation",
+      "prompt": "revelation",
+      "options": [
+        "A formal apology",
+        "A long period of silence",
+        "A secret that is never discovered",
+        "A surprising fact that is made known"
+      ],
+      "answer": "A surprising fact that is made known"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "emerald",
+      "prompt": "“The thing is,” I said, looking out into the _____ garden through the small window—at the cup-shaped roses, their centers densely stuffed with petals like pages in a waterlogged book—”the thing I don’t understand is …”",
+      "options": [
+        "blossoms",
+        "lantana",
+        "emerald",
+        "duration"
+      ],
+      "answer": "emerald"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "lantana",
+      "prompt": "I was flooded with gratitude and relief, the same feeling as when she pulled me into photographs, the same feeling that made me shower her with rose petals and _____ blossoms when she walked through the gate after work, so grateful it made me shiver as if from cold.",
+      "options": [
+        "cup-shaped",
+        "lantana",
+        "tucked",
+        "petals"
+      ],
+      "answer": "lantana"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "waterlogged",
+      "prompt": "waterlogged",
+      "options": [
+        "Completely dry and crisp",
+        "Torn into small pieces",
+        "Covered in dust",
+        "Saturated with water; soaked through"
+      ],
+      "answer": "Saturated with water; soaked through"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "petal",
+      "prompt": "花瓣",
+      "options": [
+        "lap",
+        "tuck",
+        "petal",
+        "fictionalize"
+      ],
+      "answer": "petal"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "mercy",
+      "prompt": "Her place in the middle seemed like a _____; he might listen to his sister.",
+      "options": [
+        "lap",
+        "partially",
+        "relief",
+        "mercy"
+      ],
+      "answer": "mercy"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "tuck",
+      "prompt": "塞入；探入",
+      "options": [
+        "tuck",
+        "densely",
+        "intermediary",
+        "blossom"
+      ],
+      "answer": "tuck"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "successive",
+      "prompt": "Also a book called When Nietzsche Wept, with fictionalized accounts of psychological revelation, including one about an overweight girl who seeks therapy during the process of weight loss and who, with each _____ pound lost, relives the difficulties she faced at that exact weight.",
+      "options": [
+        "successive",
+        "duration",
+        "intermediary",
+        "tucked"
+      ],
+      "answer": "successive"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "overhead",
+      "prompt": "I’d turned the _____ lamp on, although I usually kept it off at this time of night.",
+      "options": [
+        "overhead",
+        "lantana",
+        "relief",
+        "mercy"
+      ],
+      "answer": "overhead"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "relief",
+      "prompt": "I was flooded with gratitude and _____, the same feeling as when she pulled me into photographs, the same feeling that made me shower her with rose petals and lantana blossoms when she walked through the gate after work, so grateful it made me shiver as if from cold.",
+      "options": [
+        "blossoms",
+        "duration",
+        "successive",
+        "relief"
+      ],
+      "answer": "relief"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "lap",
+      "prompt": "lap",
+      "options": [
+        "The back of a chair",
+        "The top of a table",
+        "The floor of a room",
+        "The flat area formed by the thighs of a seated person"
+      ],
+      "answer": "The flat area formed by the thighs of a seated person"
+    }
+  ]
+}

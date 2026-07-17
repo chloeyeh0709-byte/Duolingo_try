@@ -1,0 +1,1039 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 5,
+  "partTitle": "Runaway",
+  "sectionIndex": 12,
+  "paragraphs": [
+    "“I want you to consider moving in with our family,” my father said a couple of months later. We were in his Mercedes, driving back to his house from Country Sun, where we’d bought some Odwalla apple juice. My mother and I had already talked about our need for space from each other, in calmer moments realizing we couldn’t keep fighting like this. She needed a break, she said.",
+    "He said it sharply, as if I’d done something wrong. I had worried they wouldn’t want me to live with them after my brother fell, but since then they’d had me change his diaper many times, and even asked me to babysit several nights as middle school drew to a close and summer began.",
+    "This was what I’d been hoping for. It had happened. He’d asked me to come live with him. But his tone didn’t have excitement or joy in it.",
+    "“Yes,” I said. “I’d like to live with you, for now. If you want me to.” I had the idea that if I moved in with him, we’d look at old photographs together to understand what we missed, urgently, like we were cramming for an exam. Also, it would be a novelty, the big house, a family that looked right. I was his daughter, lost to him for a time like Perdita in The Winter’s Tale, now returned; I had noble qualities (I imagined) and was perhaps beautiful, from some angles, and worthy. All this he would see and recognize. It would be glorious. There would be dresses and bowls of fruit.",
+    "Later, I heard that when I was in the last year of middle school, when the fights with my mother got bad, the school had called to tell him that if he did not take me in to live with him, they’d call social services. I’m not sure whether this story was true or exaggerated, but in any case, the story repositioned him—after all this time—as my savior.",
+    "“It’s not for now,” he said. “If you’re going to live with us, you’ve got to choose. Her or us. I need you to really give this family a chance. If you choose to live with us, I’d like you to promise you won’t see your mother for six months. You need to give it a real shot,” he said. It wouldn’t work if I was going back and forth, it wouldn’t take. He’d decided that a clean break would be the right way; my mother didn’t agree with him, but those were his terms. It was almost summer now, which meant I wouldn’t be able to see her until December. “Otherwise,” he said, “the deal’s off.”",
+    "“I do want to live with you,” I said, with a surety I didn’t feel.",
+    "“You’ve made a very important decision,” he said, with solemnity. “This is one of those life moments, one of those adult moments.”",
+    "I would leave my mother—I’d said the words out loud. I felt giddy and guilty and numb. Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and energy, having driven her to a state of perpetual anxiety, without support or resources, now that I was flourishing in school and beloved by my teachers, I cast her out and picked him, the one who’d left. I chose the pretty place when she was the one who’d read me books of old stories with admonishments not to believe in the trick of facades.",
+    "We turned from Waverley onto Santa Rita into the driveway of the house. The fancy car, the young, handsome father, the prettiest house in Palo Alto. I was aware of being part of this picture when I was in it, as if I was also watching it from outside. None of their surfaces spoke of shame or imperfection, and that itself would be a great relief, to relax inside the appearance of the good. When the picture looked pretty, you didn’t have to brace against what others might think, you didn’t have to charm or compensate. He took the apple juice by its hollow handle and walked through the gate toward the house.",
+    "“I’m proud of you,” he said."
+  ],
+  "words": [
+    {
+      "lemma": "surety",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a feeling of confidence or certainty about something",
+      "translationZh": "確信；把握",
+      "exampleSentence": "“I do want to live with you,” I said, with a surety I didn’t feel.",
+      "clozeSentence": "“I do want to live with you,” I said, with a _____ I didn’t feel.",
+      "distractors": [
+        "a feeling of deep doubt and confusion",
+        "a sense of guilt about a decision",
+        "a strong desire to escape a situation"
+      ],
+      "surfaceForms": [
+        "surety"
+      ],
+      "clozeAnswerSurfaceForm": "surety"
+    },
+    {
+      "lemma": "admonishment",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a gentle warning or criticism about behavior",
+      "translationZh": "告誡；訓誡",
+      "exampleSentence": "I chose the pretty place when she was the one who’d read me books of old stories with admonishments not to believe in the trick of facades.",
+      "clozeSentence": "I chose the pretty place when she was the one who’d read me books of old stories with _____ not to believe in the trick of facades.",
+      "distractors": [
+        "a formal award for good behavior",
+        "a detailed plan for the future",
+        "a private diary entry"
+      ],
+      "surfaceForms": [
+        "admonishments"
+      ],
+      "clozeAnswerSurfaceForm": "admonishments"
+    },
+    {
+      "lemma": "facade",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a false outward appearance that hides the true nature of something",
+      "translationZh": "假象；表面（虛偽的外表）",
+      "exampleSentence": "I chose the pretty place when she was the one who’d read me books of old stories with admonishments not to believe in the trick of facades.",
+      "clozeSentence": "I chose the pretty place when she was the one who’d read me books of old stories with admonishments not to believe in the trick of _____.",
+      "distractors": [
+        "a detailed record of past events",
+        "a strong structural support beam",
+        "a formal agreement between two parties"
+      ],
+      "surfaceForms": [
+        "facades"
+      ],
+      "clozeAnswerSurfaceForm": "facades"
+    },
+    {
+      "lemma": "giddy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "feeling excited and slightly dizzy with happiness",
+      "translationZh": "興奮暈眩的",
+      "exampleSentence": "I felt giddy and guilty and numb.",
+      "clozeSentence": "I felt _____ and guilty and numb.",
+      "distractors": [
+        "feeling calm and steady",
+        "feeling bored and unmotivated",
+        "feeling angry and frustrated"
+      ],
+      "surfaceForms": [
+        "giddy"
+      ],
+      "clozeAnswerSurfaceForm": "giddy"
+    },
+    {
+      "lemma": "noble",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "having fine personal qualities, such as honesty and generosity",
+      "translationZh": "高尚的；高貴的",
+      "exampleSentence": "I was his daughter, lost to him for a time like Perdita in The Winter’s Tale, now returned; I had noble qualities (I imagined) and was perhaps beautiful, from some angles, and worthy.",
+      "clozeSentence": "I was his daughter, lost to him for a time like Perdita in The Winter’s Tale, now returned; I had _____ qualities (I imagined) and was perhaps beautiful, from some angles, and worthy.",
+      "distractors": [
+        "extremely wealthy and powerful",
+        "widely known and famous",
+        "physically strong and athletic"
+      ],
+      "surfaceForms": [
+        "noble"
+      ],
+      "clozeAnswerSurfaceForm": "noble"
+    },
+    {
+      "lemma": "numb",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "unable to feel emotion or physical sensation",
+      "translationZh": "麻木的（感覺不到情緒或知覺）",
+      "exampleSentence": "I felt giddy and guilty and numb.",
+      "clozeSentence": "I felt giddy and guilty and _____.",
+      "distractors": [
+        "overwhelmed by strong emotions",
+        "filled with nervous energy",
+        "completely calm and at peace"
+      ],
+      "surfaceForms": [
+        "numb"
+      ],
+      "clozeAnswerSurfaceForm": "numb"
+    },
+    {
+      "lemma": "hollow",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "having an empty space inside; not solid",
+      "translationZh": "中空的；空心的",
+      "exampleSentence": "He took the apple juice by its hollow handle and walked through the gate toward the house.",
+      "clozeSentence": "He took the apple juice by its _____ handle and walked through the gate toward the house.",
+      "distractors": [
+        "completely solid all the way through",
+        "covered with a rough, bumpy surface",
+        "filled with heavy liquid"
+      ],
+      "surfaceForms": [
+        "hollow"
+      ],
+      "clozeAnswerSurfaceForm": "hollow"
+    },
+    {
+      "lemma": "sharply",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "in a sudden, forceful, or harsh manner",
+      "translationZh": "嚴厲地；尖銳地",
+      "exampleSentence": "He said it sharply, as if I’d done something wrong.",
+      "clozeSentence": "He said it _____, as if I’d done something wrong.",
+      "distractors": [
+        "in a slow and gentle manner",
+        "in a confused and uncertain manner",
+        "in a quiet, barely audible manner"
+      ],
+      "surfaceForms": [
+        "sharply"
+      ],
+      "clozeAnswerSurfaceForm": "sharply"
+    },
+    {
+      "lemma": "cram",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to study or prepare intensively in a short amount of time",
+      "translationZh": "臨時抱佛腳（緊急惡補）",
+      "exampleSentence": "If you want me to.” I had the idea that if I moved in with him, we’d look at old photographs together to understand what we missed, urgently, like we were cramming for an exam.",
+      "clozeSentence": "If you want me to.” I had the idea that if I moved in with him, we’d look at old photographs together to understand what we missed, urgently, like we were _____ for an exam.",
+      "distractors": [
+        "to relax and take a long break",
+        "to teach a class of students",
+        "to organize files into folders"
+      ],
+      "surfaceForms": [
+        "cramming"
+      ],
+      "clozeAnswerSurfaceForm": "cramming"
+    },
+    {
+      "lemma": "urgently",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "in a way that shows something needs immediate attention",
+      "translationZh": "急切地；迫切地",
+      "exampleSentence": "If you want me to.” I had the idea that if I moved in with him, we’d look at old photographs together to understand what we missed, urgently, like we were cramming for an exam.",
+      "clozeSentence": "If you want me to.” I had the idea that if I moved in with him, we’d look at old photographs together to understand what we missed, _____, like we were cramming for an exam.",
+      "distractors": [
+        "in a way that shows no concern at all",
+        "in a slow and careless manner",
+        "in a way that seems planned far in advance"
+      ],
+      "surfaceForms": [
+        "urgently"
+      ],
+      "clozeAnswerSurfaceForm": "urgently"
+    },
+    {
+      "lemma": "novelty",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the quality of being new, different, and interesting",
+      "translationZh": "新奇；新鮮感",
+      "exampleSentence": "Also, it would be a novelty, the big house, a family that looked right.",
+      "clozeSentence": "Also, it would be a _____, the big house, a family that looked right.",
+      "distractors": [
+        "a feeling of deep familiarity",
+        "a sense of boredom or routine",
+        "a strong feeling of regret"
+      ],
+      "surfaceForms": [
+        "novelty"
+      ],
+      "clozeAnswerSurfaceForm": "novelty"
+    },
+    {
+      "lemma": "exaggerate",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "described as bigger, better, or worse than it really is",
+      "translationZh": "誇大的；誇張的",
+      "exampleSentence": "I’m not sure whether this story was true or exaggerated, but in any case, the story repositioned him—after all this time—as my savior.",
+      "clozeSentence": "I’m not sure whether this story was true or _____, but in any case, the story repositioned him—after all this time—as my savior.",
+      "distractors": [
+        "described in a very plain and simple way",
+        "kept completely secret from everyone",
+        "proven true beyond any doubt"
+      ],
+      "surfaceForms": [
+        "exaggerated"
+      ],
+      "clozeAnswerSurfaceForm": "exaggerated"
+    },
+    {
+      "lemma": "reposition",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to present or place someone or something in a new role or light",
+      "translationZh": "重新定位（賦予新角色）",
+      "exampleSentence": "I’m not sure whether this story was true or exaggerated, but in any case, the story repositioned him—after all this time—as my savior.",
+      "clozeSentence": "I’m not sure whether this story was true or exaggerated, but in any case, the story _____ him—after all this time—as my savior.",
+      "distractors": [
+        "to remove someone from a story entirely",
+        "to criticize someone publicly",
+        "to compare someone to a stranger"
+      ],
+      "surfaceForms": [
+        "repositioned"
+      ],
+      "clozeAnswerSurfaceForm": "repositioned"
+    },
+    {
+      "lemma": "savior",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a person who rescues or saves someone from danger or difficulty",
+      "translationZh": "救星；救世主",
+      "exampleSentence": "I’m not sure whether this story was true or exaggerated, but in any case, the story repositioned him—after all this time—as my savior.",
+      "clozeSentence": "I’m not sure whether this story was true or exaggerated, but in any case, the story repositioned him—after all this time—as my _____.",
+      "distractors": [
+        "a person who causes trouble for others",
+        "a person who gives advice for money",
+        "a person who keeps secrets for others"
+      ],
+      "surfaceForms": [
+        "savior"
+      ],
+      "clozeAnswerSurfaceForm": "savior"
+    },
+    {
+      "lemma": "solemnity",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a serious and formal quality or manner",
+      "translationZh": "莊嚴；嚴肅",
+      "exampleSentence": "“You’ve made a very important decision,” he said, with solemnity.",
+      "clozeSentence": "“You’ve made a very important decision,” he said, with _____.",
+      "distractors": [
+        "a playful and lighthearted mood",
+        "a chaotic and disorganized state",
+        "a nervous and anxious feeling"
+      ],
+      "surfaceForms": [
+        "solemnity"
+      ],
+      "clozeAnswerSurfaceForm": "solemnity"
+    },
+    {
+      "lemma": "cast",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to push someone or something away or reject them",
+      "translationZh": "摒棄；驅逐",
+      "exampleSentence": "Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and energy, having driven her to a state of perpetual anxiety, without support or resources, now that I was flourishing in school and beloved by my teachers, I cast her out and picked him, the one who’d left.",
+      "clozeSentence": "Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and energy, having driven her to a state of perpetual anxiety, without support or resources, now that I was flourishing in school and beloved by my teachers, I _____ her out and picked him, the one who’d left.",
+      "distractors": [
+        "to welcome someone warmly",
+        "to praise someone publicly",
+        "to carefully protect someone"
+      ],
+      "surfaceForms": [
+        "cast"
+      ],
+      "clozeAnswerSurfaceForm": "cast"
+    },
+    {
+      "lemma": "energy",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the strength and vitality needed for physical or mental activity",
+      "translationZh": "精力；活力",
+      "exampleSentence": "Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and energy, having driven her to a state of perpetual anxiety, without support or resources, now that I was flourishing in school and beloved by my teachers, I cast her out and picked him, the one who’d left.",
+      "clozeSentence": "Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and _____, having driven her to a state of perpetual anxiety, without support or resources, now that I was flourishing in school and beloved by my teachers, I cast her out and picked him, the one who’d left.",
+      "distractors": [
+        "a feeling of deep sadness",
+        "a sense of quiet patience",
+        "a strong dislike for someone"
+      ],
+      "surfaceForms": [
+        "energy"
+      ],
+      "clozeAnswerSurfaceForm": "energy"
+    },
+    {
+      "lemma": "flourish",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "growing or developing successfully; thriving",
+      "translationZh": "蓬勃發展；茁壯成長",
+      "exampleSentence": "Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and energy, having driven her to a state of perpetual anxiety, without support or resources, now that I was flourishing in school and beloved by my teachers, I cast her out and picked him, the one who’d left.",
+      "clozeSentence": "Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and energy, having driven her to a state of perpetual anxiety, without support or resources, now that I was _____ in school and beloved by my teachers, I cast her out and picked him, the one who’d left.",
+      "distractors": [
+        "struggling and failing to succeed",
+        "staying exactly the same over time",
+        "shrinking and becoming weaker"
+      ],
+      "surfaceForms": [
+        "flourishing"
+      ],
+      "clozeAnswerSurfaceForm": "flourishing"
+    },
+    {
+      "lemma": "perpetual",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "continuing forever or for a very long time without stopping",
+      "translationZh": "持續不斷的；永久的",
+      "exampleSentence": "Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and energy, having driven her to a state of perpetual anxiety, without support or resources, now that I was flourishing in school and beloved by my teachers, I cast her out and picked him, the one who’d left.",
+      "clozeSentence": "Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and energy, having driven her to a state of _____ anxiety, without support or resources, now that I was flourishing in school and beloved by my teachers, I cast her out and picked him, the one who’d left.",
+      "distractors": [
+        "lasting only for a brief moment",
+        "changing unpredictably over time",
+        "occurring only once in a while"
+      ],
+      "surfaceForms": [
+        "perpetual"
+      ],
+      "clozeAnswerSurfaceForm": "perpetual"
+    },
+    {
+      "lemma": "imperfection",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a fault or flaw that keeps something from being perfect",
+      "translationZh": "瑕疵；缺陷",
+      "exampleSentence": "None of their surfaces spoke of shame or imperfection, and that itself would be a great relief, to relax inside the appearance of the good.",
+      "clozeSentence": "None of their surfaces spoke of shame or _____, and that itself would be a great relief, to relax inside the appearance of the good.",
+      "distractors": [
+        "a special talent or skill",
+        "a strong sense of pride",
+        "a rule that must be followed"
+      ],
+      "surfaceForms": [
+        "imperfection"
+      ],
+      "clozeAnswerSurfaceForm": "imperfection"
+    },
+    {
+      "lemma": "relief",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a feeling of comfort when a difficulty or worry is removed",
+      "translationZh": "寬慰；如釋重負",
+      "exampleSentence": "None of their surfaces spoke of shame or imperfection, and that itself would be a great relief, to relax inside the appearance of the good.",
+      "clozeSentence": "None of their surfaces spoke of shame or imperfection, and that itself would be a great _____, to relax inside the appearance of the good.",
+      "distractors": [
+        "a sudden feeling of fear",
+        "a strong sense of pride",
+        "a deep feeling of loneliness"
+      ],
+      "surfaceForms": [
+        "relief"
+      ],
+      "clozeAnswerSurfaceForm": "relief"
+    },
+    {
+      "lemma": "brace",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to prepare oneself mentally for something difficult or unpleasant",
+      "translationZh": "做好心理準備（面對困難）",
+      "exampleSentence": "When the picture looked pretty, you didn’t have to brace against what others might think, you didn’t have to charm or compensate.",
+      "clozeSentence": "When the picture looked pretty, you didn’t have to _____ against what others might think, you didn’t have to charm or compensate.",
+      "distractors": [
+        "to celebrate a happy occasion",
+        "to forget about a past problem",
+        "to explain something in great detail"
+      ],
+      "surfaceForms": [
+        "brace"
+      ],
+      "clozeAnswerSurfaceForm": "brace"
+    },
+    {
+      "lemma": "compensate",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to make up for something lacking by acting a certain way",
+      "translationZh": "彌補；補償",
+      "exampleSentence": "When the picture looked pretty, you didn’t have to brace against what others might think, you didn’t have to charm or compensate.",
+      "clozeSentence": "When the picture looked pretty, you didn’t have to brace against what others might think, you didn’t have to charm or _____.",
+      "distractors": [
+        "to ignore a problem completely",
+        "to complain about something openly",
+        "to copy someone else's behavior"
+      ],
+      "surfaceForms": [
+        "compensate"
+      ],
+      "clozeAnswerSurfaceForm": "compensate"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "surety",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a feeling of confidence or certainty about something",
+      "translationZh": "確信；把握",
+      "exampleSentence": "“I do want to live with you,” I said, with a surety I didn’t feel.",
+      "clozeSentence": "“I do want to live with you,” I said, with a _____ I didn’t feel.",
+      "distractors": [
+        "a feeling of deep doubt and confusion",
+        "a sense of guilt about a decision",
+        "a strong desire to escape a situation"
+      ],
+      "surfaceForms": [
+        "surety"
+      ],
+      "clozeAnswerSurfaceForm": "surety"
+    },
+    {
+      "lemma": "admonishment",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a gentle warning or criticism about behavior",
+      "translationZh": "告誡；訓誡",
+      "exampleSentence": "I chose the pretty place when she was the one who’d read me books of old stories with admonishments not to believe in the trick of facades.",
+      "clozeSentence": "I chose the pretty place when she was the one who’d read me books of old stories with _____ not to believe in the trick of facades.",
+      "distractors": [
+        "a formal award for good behavior",
+        "a detailed plan for the future",
+        "a private diary entry"
+      ],
+      "surfaceForms": [
+        "admonishments"
+      ],
+      "clozeAnswerSurfaceForm": "admonishments"
+    },
+    {
+      "lemma": "facade",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a false outward appearance that hides the true nature of something",
+      "translationZh": "假象；表面（虛偽的外表）",
+      "exampleSentence": "I chose the pretty place when she was the one who’d read me books of old stories with admonishments not to believe in the trick of facades.",
+      "clozeSentence": "I chose the pretty place when she was the one who’d read me books of old stories with admonishments not to believe in the trick of _____.",
+      "distractors": [
+        "a detailed record of past events",
+        "a strong structural support beam",
+        "a formal agreement between two parties"
+      ],
+      "surfaceForms": [
+        "facades"
+      ],
+      "clozeAnswerSurfaceForm": "facades"
+    },
+    {
+      "lemma": "numb",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "unable to feel emotion or physical sensation",
+      "translationZh": "麻木的（感覺不到情緒或知覺）",
+      "exampleSentence": "I felt giddy and guilty and numb.",
+      "clozeSentence": "I felt giddy and guilty and _____.",
+      "distractors": [
+        "overwhelmed by strong emotions",
+        "filled with nervous energy",
+        "completely calm and at peace"
+      ],
+      "surfaceForms": [
+        "numb"
+      ],
+      "clozeAnswerSurfaceForm": "numb"
+    },
+    {
+      "lemma": "giddy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "feeling excited and slightly dizzy with happiness",
+      "translationZh": "興奮暈眩的",
+      "exampleSentence": "I felt giddy and guilty and numb.",
+      "clozeSentence": "I felt _____ and guilty and numb.",
+      "distractors": [
+        "feeling calm and steady",
+        "feeling bored and unmotivated",
+        "feeling angry and frustrated"
+      ],
+      "surfaceForms": [
+        "giddy"
+      ],
+      "clozeAnswerSurfaceForm": "giddy"
+    },
+    {
+      "lemma": "noble",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "having fine personal qualities, such as honesty and generosity",
+      "translationZh": "高尚的；高貴的",
+      "exampleSentence": "I was his daughter, lost to him for a time like Perdita in The Winter’s Tale, now returned; I had noble qualities (I imagined) and was perhaps beautiful, from some angles, and worthy.",
+      "clozeSentence": "I was his daughter, lost to him for a time like Perdita in The Winter’s Tale, now returned; I had _____ qualities (I imagined) and was perhaps beautiful, from some angles, and worthy.",
+      "distractors": [
+        "extremely wealthy and powerful",
+        "widely known and famous",
+        "physically strong and athletic"
+      ],
+      "surfaceForms": [
+        "noble"
+      ],
+      "clozeAnswerSurfaceForm": "noble"
+    },
+    {
+      "lemma": "hollow",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "having an empty space inside; not solid",
+      "translationZh": "中空的；空心的",
+      "exampleSentence": "He took the apple juice by its hollow handle and walked through the gate toward the house.",
+      "clozeSentence": "He took the apple juice by its _____ handle and walked through the gate toward the house.",
+      "distractors": [
+        "completely solid all the way through",
+        "covered with a rough, bumpy surface",
+        "filled with heavy liquid"
+      ],
+      "surfaceForms": [
+        "hollow"
+      ],
+      "clozeAnswerSurfaceForm": "hollow"
+    },
+    {
+      "lemma": "sharply",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "in a sudden, forceful, or harsh manner",
+      "translationZh": "嚴厲地；尖銳地",
+      "exampleSentence": "He said it sharply, as if I’d done something wrong.",
+      "clozeSentence": "He said it _____, as if I’d done something wrong.",
+      "distractors": [
+        "in a slow and gentle manner",
+        "in a confused and uncertain manner",
+        "in a quiet, barely audible manner"
+      ],
+      "surfaceForms": [
+        "sharply"
+      ],
+      "clozeAnswerSurfaceForm": "sharply"
+    },
+    {
+      "lemma": "cram",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to study or prepare intensively in a short amount of time",
+      "translationZh": "臨時抱佛腳（緊急惡補）",
+      "exampleSentence": "If you want me to.” I had the idea that if I moved in with him, we’d look at old photographs together to understand what we missed, urgently, like we were cramming for an exam.",
+      "clozeSentence": "If you want me to.” I had the idea that if I moved in with him, we’d look at old photographs together to understand what we missed, urgently, like we were _____ for an exam.",
+      "distractors": [
+        "to relax and take a long break",
+        "to teach a class of students",
+        "to organize files into folders"
+      ],
+      "surfaceForms": [
+        "cramming"
+      ],
+      "clozeAnswerSurfaceForm": "cramming"
+    },
+    {
+      "lemma": "urgently",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "in a way that shows something needs immediate attention",
+      "translationZh": "急切地；迫切地",
+      "exampleSentence": "If you want me to.” I had the idea that if I moved in with him, we’d look at old photographs together to understand what we missed, urgently, like we were cramming for an exam.",
+      "clozeSentence": "If you want me to.” I had the idea that if I moved in with him, we’d look at old photographs together to understand what we missed, _____, like we were cramming for an exam.",
+      "distractors": [
+        "in a way that shows no concern at all",
+        "in a slow and careless manner",
+        "in a way that seems planned far in advance"
+      ],
+      "surfaceForms": [
+        "urgently"
+      ],
+      "clozeAnswerSurfaceForm": "urgently"
+    },
+    {
+      "lemma": "novelty",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the quality of being new, different, and interesting",
+      "translationZh": "新奇；新鮮感",
+      "exampleSentence": "Also, it would be a novelty, the big house, a family that looked right.",
+      "clozeSentence": "Also, it would be a _____, the big house, a family that looked right.",
+      "distractors": [
+        "a feeling of deep familiarity",
+        "a sense of boredom or routine",
+        "a strong feeling of regret"
+      ],
+      "surfaceForms": [
+        "novelty"
+      ],
+      "clozeAnswerSurfaceForm": "novelty"
+    },
+    {
+      "lemma": "reposition",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to present or place someone or something in a new role or light",
+      "translationZh": "重新定位（賦予新角色）",
+      "exampleSentence": "I’m not sure whether this story was true or exaggerated, but in any case, the story repositioned him—after all this time—as my savior.",
+      "clozeSentence": "I’m not sure whether this story was true or exaggerated, but in any case, the story _____ him—after all this time—as my savior.",
+      "distractors": [
+        "to remove someone from a story entirely",
+        "to criticize someone publicly",
+        "to compare someone to a stranger"
+      ],
+      "surfaceForms": [
+        "repositioned"
+      ],
+      "clozeAnswerSurfaceForm": "repositioned"
+    },
+    {
+      "lemma": "exaggerate",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "described as bigger, better, or worse than it really is",
+      "translationZh": "誇大的；誇張的",
+      "exampleSentence": "I’m not sure whether this story was true or exaggerated, but in any case, the story repositioned him—after all this time—as my savior.",
+      "clozeSentence": "I’m not sure whether this story was true or _____, but in any case, the story repositioned him—after all this time—as my savior.",
+      "distractors": [
+        "described in a very plain and simple way",
+        "kept completely secret from everyone",
+        "proven true beyond any doubt"
+      ],
+      "surfaceForms": [
+        "exaggerated"
+      ],
+      "clozeAnswerSurfaceForm": "exaggerated"
+    },
+    {
+      "lemma": "savior",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a person who rescues or saves someone from danger or difficulty",
+      "translationZh": "救星；救世主",
+      "exampleSentence": "I’m not sure whether this story was true or exaggerated, but in any case, the story repositioned him—after all this time—as my savior.",
+      "clozeSentence": "I’m not sure whether this story was true or exaggerated, but in any case, the story repositioned him—after all this time—as my _____.",
+      "distractors": [
+        "a person who causes trouble for others",
+        "a person who gives advice for money",
+        "a person who keeps secrets for others"
+      ],
+      "surfaceForms": [
+        "savior"
+      ],
+      "clozeAnswerSurfaceForm": "savior"
+    },
+    {
+      "lemma": "solemnity",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a serious and formal quality or manner",
+      "translationZh": "莊嚴；嚴肅",
+      "exampleSentence": "“You’ve made a very important decision,” he said, with solemnity.",
+      "clozeSentence": "“You’ve made a very important decision,” he said, with _____.",
+      "distractors": [
+        "a playful and lighthearted mood",
+        "a chaotic and disorganized state",
+        "a nervous and anxious feeling"
+      ],
+      "surfaceForms": [
+        "solemnity"
+      ],
+      "clozeAnswerSurfaceForm": "solemnity"
+    },
+    {
+      "lemma": "flourish",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "growing or developing successfully; thriving",
+      "translationZh": "蓬勃發展；茁壯成長",
+      "exampleSentence": "Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and energy, having driven her to a state of perpetual anxiety, without support or resources, now that I was flourishing in school and beloved by my teachers, I cast her out and picked him, the one who’d left.",
+      "clozeSentence": "Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and energy, having driven her to a state of perpetual anxiety, without support or resources, now that I was _____ in school and beloved by my teachers, I cast her out and picked him, the one who’d left.",
+      "distractors": [
+        "struggling and failing to succeed",
+        "staying exactly the same over time",
+        "shrinking and becoming weaker"
+      ],
+      "surfaceForms": [
+        "flourishing"
+      ],
+      "clozeAnswerSurfaceForm": "flourishing"
+    },
+    {
+      "lemma": "perpetual",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "continuing forever or for a very long time without stopping",
+      "translationZh": "持續不斷的；永久的",
+      "exampleSentence": "Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and energy, having driven her to a state of perpetual anxiety, without support or resources, now that I was flourishing in school and beloved by my teachers, I cast her out and picked him, the one who’d left.",
+      "clozeSentence": "Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and energy, having driven her to a state of _____ anxiety, without support or resources, now that I was flourishing in school and beloved by my teachers, I cast her out and picked him, the one who’d left.",
+      "distractors": [
+        "lasting only for a brief moment",
+        "changing unpredictably over time",
+        "occurring only once in a while"
+      ],
+      "surfaceForms": [
+        "perpetual"
+      ],
+      "clozeAnswerSurfaceForm": "perpetual"
+    },
+    {
+      "lemma": "cast",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to push someone or something away or reject them",
+      "translationZh": "摒棄；驅逐",
+      "exampleSentence": "Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and energy, having driven her to a state of perpetual anxiety, without support or resources, now that I was flourishing in school and beloved by my teachers, I cast her out and picked him, the one who’d left.",
+      "clozeSentence": "Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and energy, having driven her to a state of perpetual anxiety, without support or resources, now that I was flourishing in school and beloved by my teachers, I _____ her out and picked him, the one who’d left.",
+      "distractors": [
+        "to welcome someone warmly",
+        "to praise someone publicly",
+        "to carefully protect someone"
+      ],
+      "surfaceForms": [
+        "cast"
+      ],
+      "clozeAnswerSurfaceForm": "cast"
+    },
+    {
+      "lemma": "energy",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the strength and vitality needed for physical or mental activity",
+      "translationZh": "精力；活力",
+      "exampleSentence": "Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and energy, having driven her to a state of perpetual anxiety, without support or resources, now that I was flourishing in school and beloved by my teachers, I cast her out and picked him, the one who’d left.",
+      "clozeSentence": "Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and _____, having driven her to a state of perpetual anxiety, without support or resources, now that I was flourishing in school and beloved by my teachers, I cast her out and picked him, the one who’d left.",
+      "distractors": [
+        "a feeling of deep sadness",
+        "a sense of quiet patience",
+        "a strong dislike for someone"
+      ],
+      "surfaceForms": [
+        "energy"
+      ],
+      "clozeAnswerSurfaceForm": "energy"
+    },
+    {
+      "lemma": "imperfection",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a fault or flaw that keeps something from being perfect",
+      "translationZh": "瑕疵；缺陷",
+      "exampleSentence": "None of their surfaces spoke of shame or imperfection, and that itself would be a great relief, to relax inside the appearance of the good.",
+      "clozeSentence": "None of their surfaces spoke of shame or _____, and that itself would be a great relief, to relax inside the appearance of the good.",
+      "distractors": [
+        "a special talent or skill",
+        "a strong sense of pride",
+        "a rule that must be followed"
+      ],
+      "surfaceForms": [
+        "imperfection"
+      ],
+      "clozeAnswerSurfaceForm": "imperfection"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "wordLemma": "exaggerate",
+      "prompt": "exaggerate",
+      "options": [
+        "proven true beyond any doubt",
+        "kept completely secret from everyone",
+        "described as bigger, better, or worse than it really is",
+        "described in a very plain and simple way"
+      ],
+      "answer": "described as bigger, better, or worse than it really is"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "energy",
+      "prompt": "energy",
+      "options": [
+        "the strength and vitality needed for physical or mental activity",
+        "a strong dislike for someone",
+        "a feeling of deep sadness",
+        "a sense of quiet patience"
+      ],
+      "answer": "the strength and vitality needed for physical or mental activity"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "cast",
+      "prompt": "摒棄；驅逐",
+      "options": [
+        "numb",
+        "cast",
+        "reposition",
+        "noble"
+      ],
+      "answer": "cast"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "reposition",
+      "prompt": "重新定位（賦予新角色）",
+      "options": [
+        "reposition",
+        "sharply",
+        "giddy",
+        "surety"
+      ],
+      "answer": "reposition"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "admonishment",
+      "prompt": "I chose the pretty place when she was the one who’d read me books of old stories with _____ not to believe in the trick of facades.",
+      "options": [
+        "exaggerated",
+        "admonishments",
+        "numb",
+        "repositioned"
+      ],
+      "answer": "admonishments"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "sharply",
+      "prompt": "He said it _____, as if I’d done something wrong.",
+      "options": [
+        "numb",
+        "energy",
+        "sharply",
+        "perpetual"
+      ],
+      "answer": "sharply"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "hollow",
+      "prompt": "hollow",
+      "options": [
+        "having an empty space inside; not solid",
+        "completely solid all the way through",
+        "filled with heavy liquid",
+        "covered with a rough, bumpy surface"
+      ],
+      "answer": "having an empty space inside; not solid"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "savior",
+      "prompt": "I’m not sure whether this story was true or exaggerated, but in any case, the story repositioned him—after all this time—as my _____.",
+      "options": [
+        "sharply",
+        "savior",
+        "numb",
+        "flourishing"
+      ],
+      "answer": "savior"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "noble",
+      "prompt": "高尚的；高貴的",
+      "options": [
+        "perpetual",
+        "numb",
+        "hollow",
+        "noble"
+      ],
+      "answer": "noble"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "novelty",
+      "prompt": "Also, it would be a _____, the big house, a family that looked right.",
+      "options": [
+        "savior",
+        "noble",
+        "novelty",
+        "giddy"
+      ],
+      "answer": "novelty"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "urgently",
+      "prompt": "urgently",
+      "options": [
+        "in a way that seems planned far in advance",
+        "in a slow and careless manner",
+        "in a way that shows no concern at all",
+        "in a way that shows something needs immediate attention"
+      ],
+      "answer": "in a way that shows something needs immediate attention"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "numb",
+      "prompt": "numb",
+      "options": [
+        "completely calm and at peace",
+        "filled with nervous energy",
+        "unable to feel emotion or physical sensation",
+        "overwhelmed by strong emotions"
+      ],
+      "answer": "unable to feel emotion or physical sensation"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "cram",
+      "prompt": "臨時抱佛腳（緊急惡補）",
+      "options": [
+        "solemnity",
+        "numb",
+        "novelty",
+        "cram"
+      ],
+      "answer": "cram"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "perpetual",
+      "prompt": "Maybe this was the origin of the guilt that seized me later and left me hardly able to walk sometimes, after I had moved in with them: having stolen her youth and energy, having driven her to a state of _____ anxiety, without support or resources, now that I was flourishing in school and beloved by my teachers, I cast her out and picked him, the one who’d left.",
+      "options": [
+        "imperfection",
+        "energy",
+        "numb",
+        "perpetual"
+      ],
+      "answer": "perpetual"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "facade",
+      "prompt": "假象；表面（虛偽的外表）",
+      "options": [
+        "solemnity",
+        "noble",
+        "facade",
+        "perpetual"
+      ],
+      "answer": "facade"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "surety",
+      "prompt": "surety",
+      "options": [
+        "a feeling of deep doubt and confusion",
+        "a sense of guilt about a decision",
+        "a feeling of confidence or certainty about something",
+        "a strong desire to escape a situation"
+      ],
+      "answer": "a feeling of confidence or certainty about something"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "flourish",
+      "prompt": "flourish",
+      "options": [
+        "staying exactly the same over time",
+        "struggling and failing to succeed",
+        "growing or developing successfully; thriving",
+        "shrinking and becoming weaker"
+      ],
+      "answer": "growing or developing successfully; thriving"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "solemnity",
+      "prompt": "莊嚴；嚴肅",
+      "options": [
+        "solemnity",
+        "admonishment",
+        "exaggerate",
+        "facade"
+      ],
+      "answer": "solemnity"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "giddy",
+      "prompt": "I felt _____ and guilty and numb.",
+      "options": [
+        "giddy",
+        "sharply",
+        "novelty",
+        "cramming"
+      ],
+      "answer": "giddy"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "imperfection",
+      "prompt": "None of their surfaces spoke of shame or _____, and that itself would be a great relief, to relax inside the appearance of the good.",
+      "options": [
+        "novelty",
+        "surety",
+        "sharply",
+        "imperfection"
+      ],
+      "answer": "imperfection"
+    }
+  ]
+}

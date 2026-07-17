@@ -1,0 +1,1378 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 6,
+  "partTitle": "Small Nation",
+  "sectionIndex": 4,
+  "paragraphs": [
+    "I decided to run for freshman-class president and began stapling flyers to notice boards around the school. I’d made some new friends and I started an Opera Club, organizing group trips to the San Francisco Opera at group student rates. It was a lark. I didn’t know anything about opera. Before this, I’d never been to one.",
+    "On the night of the first performance, my father asked me to save him a ticket, then picked me up at school and drove us to the show. “I’m so proud of you for doing this,” he whispered as the curtain went up. I hoped winning president would please him too.",
+    "The election was held a few weeks later, the four contenders giving short speeches. My voice was almost gone from laryngitis. I wore corduroy pants for good luck, and a thick cable-knit sweater. My classmates huddled close, and I felt the surge of goodwill that sometimes happened when I was sick and no longer had the energy to be formal, instead letting others lean in to support me.",
+    "That night I missed the car ride home and stayed at a friend’s house in Potrero Hill. I called my father to let him know. I dreaded these calls. Recently, when I’d stayed overnight at a friend’s house in San Francisco, he’d been short and distant on the phone, sighing heavily. Laurene was working hard to start a company, and he worked a lot too. They had Carmen until 5 p.m., but my father didn’t allow employees in the house after he was home from work, and my brother wasn’t sleeping through the night. I wonder if my absences stirred up conflict between them.",
+    "“I missed the ride home,” I said when he answered. “Because of the election.”",
+    "“You’re not putting in the time, Lis,” he said, his voice grim. “You’re not acting like you’re part of this family.”",
+    "“I’ll be back tomorrow,” I said. “The elections were held—”",
+    "“I don’t care. I gotta go.” He hung up.",
+    "Later that night, I got another call.",
+    "“Guess what?” It was Tess.",
+    "“What?” After the call with my father, I’d forgotten everything else.",
+    "“C’mon, guess.”",
+    "“I don’t know.”",
+    "“You won, silly,” she said. “You’re class president.”",
+    "This meant I’d have to attend after-school meetings for student government about once a week, spending the night at a friend’s house or trying to cadge a ride from the parents of my friends.",
+    "“This isn’t working out, Lis,” my father said the next day, when I told him I’d won. “You’re not succeeding as a member of this family. You’re not pulling your weight. You’re never around. If you want to be part of this family, you need to put in the time.”",
+    "It seemed strange that he could insist on my continuous presence, having been absent for so long himself. At dinners on the nights I was home now, he and Laurene were aloof. I assumed this had to do with me, but of course it might have had just as much to do with the difficulties of a new marriage, a toddler, and sleep deprivation. My father would make pasta, plain or with avocados, and eat carrot salad. I would slice a black bean burrito and help steam broccoli as Laurene fed my brother. As soon as dinner was over, they went upstairs to try to put him to sleep. I felt their disappointment in me like an augmentation of gravity in the room, and if I made any mistakes, it was a tick on the wrong side of a ledger, creating the sense that I would be forever outside of this thing I wanted: family.",
+    "What was the inside like? It would have an adhesive and ordinary quality; once inside it, I could not be dislodged. I’d become indispensable, if only I could get in.",
+    "He wanted me to be around, but in another room, in his orbit, not too close. I was supposed to occupy the path drawn by a compass circling around the point that was him.",
+    "During this period when I was increasingly away and he was increasingly angry with me, I mentioned to my father that the schoolwork was not rigorous compared with Nueva’s. Sometimes I got bored and doodled in class.",
+    "“Doodling?” he said. “That’s not good. That’s not good at all.”",
+    "“In history, we’re learning about the Renaissance. But I already learned about it.”",
+    "What followed was a strange flurry: he and I driving up to the school to meet with the head of the school, the admissions director, and several teachers, and him telling me to repeat the story about doodling, about how I was bored sometimes in class. In my imagination I became the kind of extraordinary student for whom certain private schools are woefully inadequate. My father indulged the lie, becoming indignant on my behalf, perhaps believing me, perhaps seeing in my vanity a way out of the after-school-ride conundrum. Emboldened by my father beside me, I believed my own stories: the top-rated school wasn’t academically rigorous enough for me.",
+    "I was too afraid to admit, even to myself, that the problem wasn’t the school but the fact that I couldn’t participate in it, or see friends, or leave the house without feeling that I had betrayed some essential agreement.",
+    "On the way home from another visit to the school, he suggested that we stop at Palo Alto High School—”Paly” for short—just to see what it was like. It was late in the afternoon and school was out. For a few minutes we walked around the empty quad. Many of the buildings looked like bunkers. I felt uncomfortable, as if we were trespassing. But then we heard music coming from somewhere, and we followed it over to where a tall boy was standing beside the door where the music was coming from. I was too shy to speak, but my father asked, “What’s going on in here?” and the boy said, “It’s the paper,” and we peered into the room. There were lots of people inside, working on computers and lounging on beanbags, and I thought, if I did decide to go here, I’d work on the paper too. “You know what’s great about going to a school nearby your house?” my father asked as we left. “You can walk to it, like I did. And if you walk a lot, over the course of time, you get to see the seasons change.” He said it in the same slow way he spoke of beautiful women. Walking to school didn’t sound very romantic to me. I decided to transfer anyway—it seemed like the only way to make it work at home."
+  ],
+  "words": [
+    {
+      "lemma": "betray",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to be disloyal to someone or break their trust",
+      "translationZh": "背叛；辜負",
+      "exampleSentence": "I was too afraid to admit, even to myself, that the problem wasn’t the school but the fact that I couldn’t participate in it, or see friends, or leave the house without feeling that I had betrayed some essential agreement.",
+      "clozeSentence": "I was too afraid to admit, even to myself, that the problem wasn’t the school but the fact that I couldn’t participate in it, or see friends, or leave the house without feeling that I had _____ some essential agreement.",
+      "distractors": [
+        "to support someone strongly",
+        "to forgive someone completely",
+        "to remind someone gently"
+      ],
+      "surfaceForms": [
+        "betrayed"
+      ],
+      "clozeAnswerSurfaceForm": "betrayed"
+    },
+    {
+      "lemma": "deprivation",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "the lack of something considered necessary",
+      "translationZh": "剝奪；匱乏",
+      "exampleSentence": "I assumed this had to do with me, but of course it might have had just as much to do with the difficulties of a new marriage, a toddler, and sleep deprivation.",
+      "clozeSentence": "I assumed this had to do with me, but of course it might have had just as much to do with the difficulties of a new marriage, a toddler, and sleep _____.",
+      "distractors": [
+        "an unexpected surplus of something",
+        "a period of great excitement",
+        "a formal celebration"
+      ],
+      "surfaceForms": [
+        "deprivation"
+      ],
+      "clozeAnswerSurfaceForm": "deprivation"
+    },
+    {
+      "lemma": "dread",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to fear something that is going to happen",
+      "translationZh": "畏懼；害怕",
+      "exampleSentence": "I dreaded these calls.",
+      "clozeSentence": "I _____ these calls.",
+      "distractors": [
+        "to eagerly anticipate something",
+        "to completely forget about something",
+        "to calmly accept something"
+      ],
+      "surfaceForms": [
+        "dreaded"
+      ],
+      "clozeAnswerSurfaceForm": "dreaded"
+    },
+    {
+      "lemma": "peer",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to look closely or with difficulty at something",
+      "translationZh": "凝視；仔細看",
+      "exampleSentence": "I was too shy to speak, but my father asked, “What’s going on in here?” and the boy said, “It’s the paper,” and we peered into the room.",
+      "clozeSentence": "I was too shy to speak, but my father asked, “What’s going on in here?” and the boy said, “It’s the paper,” and we _____ into the room.",
+      "distractors": [
+        "to walk quickly past something",
+        "to listen carefully to a sound",
+        "to touch something gently"
+      ],
+      "surfaceForms": [
+        "peered"
+      ],
+      "clozeAnswerSurfaceForm": "peered"
+    },
+    {
+      "lemma": "staple",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "to fasten papers together with a small metal fastener",
+      "translationZh": "用釘書機釘住",
+      "exampleSentence": "I decided to run for freshman-class president and began stapling flyers to notice boards around the school.",
+      "clozeSentence": "I decided to run for freshman-class president and began _____ flyers to notice boards around the school.",
+      "distractors": [
+        "to fold papers into an envelope",
+        "to write notes on a document",
+        "to tear papers into pieces"
+      ],
+      "surfaceForms": [
+        "stapling"
+      ],
+      "clozeAnswerSurfaceForm": "stapling"
+    },
+    {
+      "lemma": "augmentation",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "an increase in the size or amount of something",
+      "translationZh": "增加；擴增",
+      "exampleSentence": "I felt their disappointment in me like an augmentation of gravity in the room, and if I made any mistakes, it was a tick on the wrong side of a ledger, creating the sense that I would be forever outside of this thing I wanted: family.",
+      "clozeSentence": "I felt their disappointment in me like an _____ of gravity in the room, and if I made any mistakes, it was a tick on the wrong side of a ledger, creating the sense that I would be forever outside of this thing I wanted: family.",
+      "distractors": [
+        "a sudden decrease in size",
+        "a complete removal of something",
+        "a temporary pause in activity"
+      ],
+      "surfaceForms": [
+        "augmentation"
+      ],
+      "clozeAnswerSurfaceForm": "augmentation"
+    },
+    {
+      "lemma": "cable-knit",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "knitted with a pattern of raised, twisting ropelike lines",
+      "translationZh": "麻花編織的（毛衣）",
+      "exampleSentence": "I wore corduroy pants for good luck, and a thick cable-knit sweater.",
+      "clozeSentence": "I wore corduroy pants for good luck, and a thick _____ sweater.",
+      "distractors": [
+        "made of thin, smooth silk",
+        "woven with bright floral patterns",
+        "made from stretchy plastic material"
+      ],
+      "surfaceForms": [
+        "cable-knit"
+      ],
+      "clozeAnswerSurfaceForm": "cable-knit"
+    },
+    {
+      "lemma": "corduroy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a thick ribbed cotton fabric",
+      "translationZh": "燈芯絨",
+      "exampleSentence": "I wore corduroy pants for good luck, and a thick cable-knit sweater.",
+      "clozeSentence": "I wore _____ pants for good luck, and a thick cable-knit sweater.",
+      "distractors": [
+        "a smooth, shiny silk fabric",
+        "a stretchy elastic material",
+        "a lightweight see-through fabric"
+      ],
+      "surfaceForms": [
+        "corduroy"
+      ],
+      "clozeAnswerSurfaceForm": "corduroy"
+    },
+    {
+      "lemma": "flyer",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a printed sheet advertising or announcing something",
+      "translationZh": "傳單",
+      "exampleSentence": "I decided to run for freshman-class president and began stapling flyers to notice boards around the school.",
+      "clozeSentence": "I decided to run for freshman-class president and began stapling _____ to notice boards around the school.",
+      "distractors": [
+        "a small handwritten letter",
+        "a bound book of essays",
+        "a formal legal document"
+      ],
+      "surfaceForms": [
+        "flyers"
+      ],
+      "clozeAnswerSurfaceForm": "flyers"
+    },
+    {
+      "lemma": "gravity",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "seriousness or importance, especially of a situation",
+      "translationZh": "嚴肅性；重大性",
+      "exampleSentence": "I felt their disappointment in me like an augmentation of gravity in the room, and if I made any mistakes, it was a tick on the wrong side of a ledger, creating the sense that I would be forever outside of this thing I wanted: family.",
+      "clozeSentence": "I felt their disappointment in me like an augmentation of _____ in the room, and if I made any mistakes, it was a tick on the wrong side of a ledger, creating the sense that I would be forever outside of this thing I wanted: family.",
+      "distractors": [
+        "a feeling of lightness and joy",
+        "a sense of confusion",
+        "a burst of sudden energy"
+      ],
+      "surfaceForms": [
+        "gravity"
+      ],
+      "clozeAnswerSurfaceForm": "gravity"
+    },
+    {
+      "lemma": "ledger",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a book or record used for keeping track of accounts",
+      "translationZh": "帳簿；分類帳",
+      "exampleSentence": "I felt their disappointment in me like an augmentation of gravity in the room, and if I made any mistakes, it was a tick on the wrong side of a ledger, creating the sense that I would be forever outside of this thing I wanted: family.",
+      "clozeSentence": "I felt their disappointment in me like an augmentation of gravity in the room, and if I made any mistakes, it was a tick on the wrong side of a _____, creating the sense that I would be forever outside of this thing I wanted: family.",
+      "distractors": [
+        "a formal letter of complaint",
+        "a small personal diary",
+        "a printed schedule of events"
+      ],
+      "surfaceForms": [
+        "ledger"
+      ],
+      "clozeAnswerSurfaceForm": "ledger"
+    },
+    {
+      "lemma": "trespass",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to enter someone's property without permission",
+      "translationZh": "擅自進入；侵入",
+      "exampleSentence": "I felt uncomfortable, as if we were trespassing.",
+      "clozeSentence": "I felt uncomfortable, as if we were _____.",
+      "distractors": [
+        "to politely visit with an invitation",
+        "to sell property to someone",
+        "to repair a broken fence"
+      ],
+      "surfaceForms": [
+        "trespassing"
+      ],
+      "clozeAnswerSurfaceForm": "trespassing"
+    },
+    {
+      "lemma": "indispensable",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "absolutely necessary; too important to be without",
+      "translationZh": "不可或缺的",
+      "exampleSentence": "I’d become indispensable, if only I could get in.",
+      "clozeSentence": "I’d become _____, if only I could get in.",
+      "distractors": [
+        "easily replaced by something else",
+        "no longer useful or needed",
+        "slightly helpful but optional"
+      ],
+      "surfaceForms": [
+        "indispensable"
+      ],
+      "clozeAnswerSurfaceForm": "indispensable"
+    },
+    {
+      "lemma": "dislodge",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "to force something out of its fixed position",
+      "translationZh": "使脫離；移除",
+      "exampleSentence": "It would have an adhesive and ordinary quality; once inside it, I could not be dislodged.",
+      "clozeSentence": "It would have an adhesive and ordinary quality; once inside it, I could not be _____.",
+      "distractors": [
+        "to firmly attach something in place",
+        "to gently repair something broken",
+        "to quietly hide something away"
+      ],
+      "surfaceForms": [
+        "dislodged"
+      ],
+      "clozeAnswerSurfaceForm": "dislodged"
+    },
+    {
+      "lemma": "lark",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "something done just for fun or amusement",
+      "translationZh": "玩笑之舉；純為好玩的事",
+      "exampleSentence": "It was a lark.",
+      "clozeSentence": "It was a _____.",
+      "distractors": [
+        "a serious formal ceremony",
+        "a difficult, exhausting task",
+        "a source of great anxiety"
+      ],
+      "surfaceForms": [
+        "lark"
+      ],
+      "clozeAnswerSurfaceForm": "lark"
+    },
+    {
+      "lemma": "adhesive",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "sticky; tending to cling or attach firmly",
+      "translationZh": "黏著的；黏性的",
+      "exampleSentence": "It would have an adhesive and ordinary quality; once inside it, I could not be dislodged.",
+      "clozeSentence": "It would have an _____ and ordinary quality; once inside it, I could not be dislodged.",
+      "distractors": [
+        "cold and distant",
+        "bright and colorful",
+        "loose and flexible"
+      ],
+      "surfaceForms": [
+        "adhesive"
+      ],
+      "clozeAnswerSurfaceForm": "adhesive"
+    },
+    {
+      "lemma": "contender",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a person who competes for something, such as a position or title",
+      "translationZh": "競爭者；角逐者",
+      "exampleSentence": "The election was held a few weeks later, the four contenders giving short speeches.",
+      "clozeSentence": "The election was held a few weeks later, the four _____ giving short speeches.",
+      "distractors": [
+        "a person who supervises an event",
+        "a person who reports the news",
+        "a person who repairs equipment"
+      ],
+      "surfaceForms": [
+        "contenders"
+      ],
+      "clozeAnswerSurfaceForm": "contenders"
+    },
+    {
+      "lemma": "energy",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the physical or mental strength to be active",
+      "translationZh": "精力；能量",
+      "exampleSentence": "My classmates huddled close, and I felt the surge of goodwill that sometimes happened when I was sick and no longer had the energy to be formal, instead letting others lean in to support me.",
+      "clozeSentence": "My classmates huddled close, and I felt the surge of goodwill that sometimes happened when I was sick and no longer had the _____ to be formal, instead letting others lean in to support me.",
+      "distractors": [
+        "a strong sense of sadness",
+        "a feeling of confusion",
+        "a sudden loss of memory"
+      ],
+      "surfaceForms": [
+        "energy"
+      ],
+      "clozeAnswerSurfaceForm": "energy"
+    },
+    {
+      "lemma": "goodwill",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "friendly, helpful feelings toward others",
+      "translationZh": "善意；友好",
+      "exampleSentence": "My classmates huddled close, and I felt the surge of goodwill that sometimes happened when I was sick and no longer had the energy to be formal, instead letting others lean in to support me.",
+      "clozeSentence": "My classmates huddled close, and I felt the surge of _____ that sometimes happened when I was sick and no longer had the energy to be formal, instead letting others lean in to support me.",
+      "distractors": [
+        "a feeling of jealousy toward others",
+        "a strong desire for revenge",
+        "a sense of deep suspicion"
+      ],
+      "surfaceForms": [
+        "goodwill"
+      ],
+      "clozeAnswerSurfaceForm": "goodwill"
+    },
+    {
+      "lemma": "huddle",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "to crowd together closely, often for warmth or comfort",
+      "translationZh": "擠成一團；聚攏",
+      "exampleSentence": "My classmates huddled close, and I felt the surge of goodwill that sometimes happened when I was sick and no longer had the energy to be formal, instead letting others lean in to support me.",
+      "clozeSentence": "My classmates _____ close, and I felt the surge of goodwill that sometimes happened when I was sick and no longer had the energy to be formal, instead letting others lean in to support me.",
+      "distractors": [
+        "to spread out far apart",
+        "to walk away quietly",
+        "to argue loudly with each other"
+      ],
+      "surfaceForms": [
+        "huddled"
+      ],
+      "clozeAnswerSurfaceForm": "huddled"
+    },
+    {
+      "lemma": "indignant",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "feeling angry because of something unfair",
+      "translationZh": "憤慨的；憤憤不平的",
+      "exampleSentence": "My father indulged the lie, becoming indignant on my behalf, perhaps believing me, perhaps seeing in my vanity a way out of the after-school-ride conundrum.",
+      "clozeSentence": "My father indulged the lie, becoming _____ on my behalf, perhaps believing me, perhaps seeing in my vanity a way out of the after-school-ride conundrum.",
+      "distractors": [
+        "feeling calm and indifferent",
+        "feeling proud and confident",
+        "feeling shy and embarrassed"
+      ],
+      "surfaceForms": [
+        "indignant"
+      ],
+      "clozeAnswerSurfaceForm": "indignant"
+    },
+    {
+      "lemma": "indulge",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to allow oneself or someone else to enjoy something, or go along with something",
+      "translationZh": "縱容；放任",
+      "exampleSentence": "My father indulged the lie, becoming indignant on my behalf, perhaps believing me, perhaps seeing in my vanity a way out of the after-school-ride conundrum.",
+      "clozeSentence": "My father _____ the lie, becoming indignant on my behalf, perhaps believing me, perhaps seeing in my vanity a way out of the after-school-ride conundrum.",
+      "distractors": [
+        "to firmly refuse something",
+        "to carefully investigate something",
+        "to publicly criticize something"
+      ],
+      "surfaceForms": [
+        "indulged"
+      ],
+      "clozeAnswerSurfaceForm": "indulged"
+    },
+    {
+      "lemma": "laryngitis",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "an illness causing inflammation of the throat and loss of voice",
+      "translationZh": "喉炎",
+      "exampleSentence": "My voice was almost gone from laryngitis.",
+      "clozeSentence": "My voice was almost gone from _____.",
+      "distractors": [
+        "an illness affecting the eyes",
+        "a common type of headache",
+        "a mild skin rash"
+      ],
+      "surfaceForms": [
+        "laryngitis"
+      ],
+      "clozeAnswerSurfaceForm": "laryngitis"
+    },
+    {
+      "lemma": "surge",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a sudden, powerful increase or rush of something",
+      "translationZh": "湧現；激增",
+      "exampleSentence": "My classmates huddled close, and I felt the surge of goodwill that sometimes happened when I was sick and no longer had the energy to be formal, instead letting others lean in to support me.",
+      "clozeSentence": "My classmates huddled close, and I felt the _____ of goodwill that sometimes happened when I was sick and no longer had the energy to be formal, instead letting others lean in to support me.",
+      "distractors": [
+        "a slow, steady decline",
+        "a complete disappearance",
+        "a brief pause or interruption"
+      ],
+      "surfaceForms": [
+        "surge"
+      ],
+      "clozeAnswerSurfaceForm": "surge"
+    },
+    {
+      "lemma": "vanity",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "excessive pride in one's own appearance or achievements",
+      "translationZh": "虛榮心",
+      "exampleSentence": "My father indulged the lie, becoming indignant on my behalf, perhaps believing me, perhaps seeing in my vanity a way out of the after-school-ride conundrum.",
+      "clozeSentence": "My father indulged the lie, becoming indignant on my behalf, perhaps believing me, perhaps seeing in my _____ a way out of the after-school-ride conundrum.",
+      "distractors": [
+        "a strong sense of humility",
+        "a deep feeling of regret",
+        "a calm and practical attitude"
+      ],
+      "surfaceForms": [
+        "vanity"
+      ],
+      "clozeAnswerSurfaceForm": "vanity"
+    },
+    {
+      "lemma": "conundrum",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a confusing and difficult problem",
+      "translationZh": "難題；謎題",
+      "exampleSentence": "My father indulged the lie, becoming indignant on my behalf, perhaps believing me, perhaps seeing in my vanity a way out of the after-school-ride conundrum.",
+      "clozeSentence": "My father indulged the lie, becoming indignant on my behalf, perhaps believing me, perhaps seeing in my vanity a way out of the after-school-ride _____.",
+      "distractors": [
+        "a simple, obvious solution",
+        "a formal written agreement",
+        "a joyful celebration"
+      ],
+      "surfaceForms": [
+        "conundrum"
+      ],
+      "clozeAnswerSurfaceForm": "conundrum"
+    },
+    {
+      "lemma": "employee",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a person who works for another person or a company",
+      "translationZh": "員工；受僱者",
+      "exampleSentence": "They had Carmen until 5 p.m., but my father didn’t allow employees in the house after he was home from work, and my brother wasn’t sleeping through the night.",
+      "clozeSentence": "They had Carmen until 5 p.m., but my father didn’t allow _____ in the house after he was home from work, and my brother wasn’t sleeping through the night.",
+      "distractors": [
+        "a person who owns a business",
+        "a close family relative",
+        "a person visiting for a short time"
+      ],
+      "surfaceForms": [
+        "employees"
+      ],
+      "clozeAnswerSurfaceForm": "employees"
+    },
+    {
+      "lemma": "grim",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "serious, unpleasant, or without hope",
+      "translationZh": "嚴肅的；令人沮喪的",
+      "exampleSentence": "“You’re not putting in the time, Lis,” he said, his voice grim.",
+      "clozeSentence": "“You’re not putting in the time, Lis,” he said, his voice _____.",
+      "distractors": [
+        "light and cheerful",
+        "soft and gentle",
+        "confused and uncertain"
+      ],
+      "surfaceForms": [
+        "grim"
+      ],
+      "clozeAnswerSurfaceForm": "grim"
+    },
+    {
+      "lemma": "flurry",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a sudden brief period of intense activity or excitement",
+      "translationZh": "一陣忙亂；一陣騷動",
+      "exampleSentence": "What followed was a strange flurry: he and I driving up to the school to meet with the head of the school, the admissions director, and several teachers, and him telling me to repeat the story about doodling, about how I was bored sometimes in class.",
+      "clozeSentence": "What followed was a strange _____: he and I driving up to the school to meet with the head of the school, the admissions director, and several teachers, and him telling me to repeat the story about doodling, about how I was bored sometimes in class.",
+      "distractors": [
+        "a long period of calm and rest",
+        "a formal scheduled meeting",
+        "a slow, gradual process"
+      ],
+      "surfaceForms": [
+        "flurry"
+      ],
+      "clozeAnswerSurfaceForm": "flurry"
+    },
+    {
+      "lemma": "cadge",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to get something from someone by asking, without paying",
+      "translationZh": "討取；蹭（搭便車等）",
+      "exampleSentence": "This meant I’d have to attend after-school meetings for student government about once a week, spending the night at a friend’s house or trying to cadge a ride from the parents of my friends.",
+      "clozeSentence": "This meant I’d have to attend after-school meetings for student government about once a week, spending the night at a friend’s house or trying to _____ a ride from the parents of my friends.",
+      "distractors": [
+        "to politely refuse an offer",
+        "to pay generously for something",
+        "to plan something in advance"
+      ],
+      "surfaceForms": [
+        "cadge"
+      ],
+      "clozeAnswerSurfaceForm": "cadge"
+    },
+    {
+      "lemma": "aloof",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "distant and not friendly or involved with others",
+      "translationZh": "冷淡的；疏遠的",
+      "exampleSentence": "At dinners on the nights I was home now, he and Laurene were aloof.",
+      "clozeSentence": "At dinners on the nights I was home now, he and Laurene were _____.",
+      "distractors": [
+        "warm and affectionate",
+        "loud and talkative",
+        "nervous and anxious"
+      ],
+      "surfaceForms": [
+        "aloof"
+      ],
+      "clozeAnswerSurfaceForm": "aloof"
+    },
+    {
+      "lemma": "rigorous",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "thorough, strict, and demanding careful attention",
+      "translationZh": "嚴謹的；嚴格的",
+      "exampleSentence": "During this period when I was increasingly away and he was increasingly angry with me, I mentioned to my father that the schoolwork was not rigorous compared with Nueva’s.",
+      "clozeSentence": "During this period when I was increasingly away and he was increasingly angry with me, I mentioned to my father that the schoolwork was not _____ compared with Nueva’s.",
+      "distractors": [
+        "relaxed and undemanding",
+        "confusing and disorganized",
+        "brief and superficial"
+      ],
+      "surfaceForms": [
+        "rigorous"
+      ],
+      "clozeAnswerSurfaceForm": "rigorous"
+    },
+    {
+      "lemma": "doodle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to draw absentmindedly, especially while thinking of other things",
+      "translationZh": "隨手塗鴉",
+      "exampleSentence": "Sometimes I got bored and doodled in class.",
+      "clozeSentence": "Sometimes I got bored and _____ in class.",
+      "distractors": [
+        "to take detailed notes carefully",
+        "to read silently to oneself",
+        "to raise one's hand to answer"
+      ],
+      "surfaceForms": [
+        "doodled",
+        "doodling"
+      ],
+      "clozeAnswerSurfaceForm": "doodled"
+    },
+    {
+      "lemma": "inadequate",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "not good enough or sufficient for a purpose",
+      "translationZh": "不足的；不夠格的",
+      "exampleSentence": "In my imagination I became the kind of extraordinary student for whom certain private schools are woefully inadequate.",
+      "clozeSentence": "In my imagination I became the kind of extraordinary student for whom certain private schools are woefully _____.",
+      "distractors": [
+        "more than sufficient in every way",
+        "extremely strict and demanding",
+        "widely admired and respected"
+      ],
+      "surfaceForms": [
+        "inadequate"
+      ],
+      "clozeAnswerSurfaceForm": "inadequate"
+    },
+    {
+      "lemma": "woefully",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "extremely and regrettably, used to emphasize a shortcoming",
+      "translationZh": "極度地；令人遺憾地",
+      "exampleSentence": "In my imagination I became the kind of extraordinary student for whom certain private schools are woefully inadequate.",
+      "clozeSentence": "In my imagination I became the kind of extraordinary student for whom certain private schools are _____ inadequate.",
+      "distractors": [
+        "surprisingly and pleasantly",
+        "briefly and temporarily",
+        "carefully and precisely"
+      ],
+      "surfaceForms": [
+        "woefully"
+      ],
+      "clozeAnswerSurfaceForm": "woefully"
+    },
+    {
+      "lemma": "academically",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "in a way that relates to schools, colleges, or education",
+      "translationZh": "學術上；在學業方面",
+      "exampleSentence": "Emboldened by my father beside me, I believed my own stories: the top-rated school wasn’t academically rigorous enough for me.",
+      "clozeSentence": "Emboldened by my father beside me, I believed my own stories: the top-rated school wasn’t _____ rigorous enough for me.",
+      "distractors": [
+        "in a way that relates to sports",
+        "in a way that relates to money",
+        "in a way that relates to fashion"
+      ],
+      "surfaceForms": [
+        "academically"
+      ],
+      "clozeAnswerSurfaceForm": "academically"
+    },
+    {
+      "lemma": "embolden",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to give someone courage or confidence",
+      "translationZh": "使壯膽；鼓舞",
+      "exampleSentence": "Emboldened by my father beside me, I believed my own stories: the top-rated school wasn’t academically rigorous enough for me.",
+      "clozeSentence": "_____ by my father beside me, I believed my own stories: the top-rated school wasn’t academically rigorous enough for me.",
+      "distractors": [
+        "to make someone feel afraid",
+        "to make someone feel confused",
+        "to make someone feel tired"
+      ],
+      "surfaceForms": [
+        "emboldened"
+      ],
+      "clozeAnswerSurfaceForm": "Emboldened"
+    },
+    {
+      "lemma": "top-rated",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "having received the highest ranking or reviews",
+      "translationZh": "評價最高的；頂級的",
+      "exampleSentence": "Emboldened by my father beside me, I believed my own stories: the top-rated school wasn’t academically rigorous enough for me.",
+      "clozeSentence": "Emboldened by my father beside me, I believed my own stories: the _____ school wasn’t academically rigorous enough for me.",
+      "distractors": [
+        "barely known or recognized",
+        "recently opened or established",
+        "average in quality"
+      ],
+      "surfaceForms": [
+        "top-rated"
+      ],
+      "clozeAnswerSurfaceForm": "top-rated"
+    },
+    {
+      "lemma": "quad",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "an open, quadrangular courtyard, especially at a school",
+      "translationZh": "（校園中的）方形庭院",
+      "exampleSentence": "For a few minutes we walked around the empty quad.",
+      "clozeSentence": "For a few minutes we walked around the empty _____.",
+      "distractors": [
+        "a covered indoor gymnasium",
+        "a narrow underground tunnel",
+        "a small private office"
+      ],
+      "surfaceForms": [
+        "quad"
+      ],
+      "clozeAnswerSurfaceForm": "quad"
+    },
+    {
+      "lemma": "bunker",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a strong underground shelter, especially for protection",
+      "translationZh": "地堡；掩體",
+      "exampleSentence": "Many of the buildings looked like bunkers.",
+      "clozeSentence": "Many of the buildings looked like _____.",
+      "distractors": [
+        "a tall glass office tower",
+        "a small wooden garden shed",
+        "an open outdoor stadium"
+      ],
+      "surfaceForms": [
+        "bunkers"
+      ],
+      "clozeAnswerSurfaceForm": "bunkers"
+    },
+    {
+      "lemma": "lounge",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to sit, lie, or stand in a relaxed, lazy way",
+      "translationZh": "懶洋洋地坐臥；閒躺",
+      "exampleSentence": "There were lots of people inside, working on computers and lounging on beanbags, and I thought, if I did decide to go here, I’d work on the paper too.",
+      "clozeSentence": "There were lots of people inside, working on computers and _____ on beanbags, and I thought, if I did decide to go here, I’d work on the paper too.",
+      "distractors": [
+        "to work quickly and energetically",
+        "to walk briskly across a room",
+        "to stand rigidly at attention"
+      ],
+      "surfaceForms": [
+        "lounging"
+      ],
+      "clozeAnswerSurfaceForm": "lounging"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "deprivation",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "the lack of something considered necessary",
+      "translationZh": "剝奪；匱乏",
+      "exampleSentence": "I assumed this had to do with me, but of course it might have had just as much to do with the difficulties of a new marriage, a toddler, and sleep deprivation.",
+      "clozeSentence": "I assumed this had to do with me, but of course it might have had just as much to do with the difficulties of a new marriage, a toddler, and sleep _____.",
+      "distractors": [
+        "an unexpected surplus of something",
+        "a period of great excitement",
+        "a formal celebration"
+      ],
+      "surfaceForms": [
+        "deprivation"
+      ],
+      "clozeAnswerSurfaceForm": "deprivation"
+    },
+    {
+      "lemma": "staple",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "to fasten papers together with a small metal fastener",
+      "translationZh": "用釘書機釘住",
+      "exampleSentence": "I decided to run for freshman-class president and began stapling flyers to notice boards around the school.",
+      "clozeSentence": "I decided to run for freshman-class president and began _____ flyers to notice boards around the school.",
+      "distractors": [
+        "to fold papers into an envelope",
+        "to write notes on a document",
+        "to tear papers into pieces"
+      ],
+      "surfaceForms": [
+        "stapling"
+      ],
+      "clozeAnswerSurfaceForm": "stapling"
+    },
+    {
+      "lemma": "augmentation",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "an increase in the size or amount of something",
+      "translationZh": "增加；擴增",
+      "exampleSentence": "I felt their disappointment in me like an augmentation of gravity in the room, and if I made any mistakes, it was a tick on the wrong side of a ledger, creating the sense that I would be forever outside of this thing I wanted: family.",
+      "clozeSentence": "I felt their disappointment in me like an _____ of gravity in the room, and if I made any mistakes, it was a tick on the wrong side of a ledger, creating the sense that I would be forever outside of this thing I wanted: family.",
+      "distractors": [
+        "a sudden decrease in size",
+        "a complete removal of something",
+        "a temporary pause in activity"
+      ],
+      "surfaceForms": [
+        "augmentation"
+      ],
+      "clozeAnswerSurfaceForm": "augmentation"
+    },
+    {
+      "lemma": "betray",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to be disloyal to someone or break their trust",
+      "translationZh": "背叛；辜負",
+      "exampleSentence": "I was too afraid to admit, even to myself, that the problem wasn’t the school but the fact that I couldn’t participate in it, or see friends, or leave the house without feeling that I had betrayed some essential agreement.",
+      "clozeSentence": "I was too afraid to admit, even to myself, that the problem wasn’t the school but the fact that I couldn’t participate in it, or see friends, or leave the house without feeling that I had _____ some essential agreement.",
+      "distractors": [
+        "to support someone strongly",
+        "to forgive someone completely",
+        "to remind someone gently"
+      ],
+      "surfaceForms": [
+        "betrayed"
+      ],
+      "clozeAnswerSurfaceForm": "betrayed"
+    },
+    {
+      "lemma": "dread",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to fear something that is going to happen",
+      "translationZh": "畏懼；害怕",
+      "exampleSentence": "I dreaded these calls.",
+      "clozeSentence": "I _____ these calls.",
+      "distractors": [
+        "to eagerly anticipate something",
+        "to completely forget about something",
+        "to calmly accept something"
+      ],
+      "surfaceForms": [
+        "dreaded"
+      ],
+      "clozeAnswerSurfaceForm": "dreaded"
+    },
+    {
+      "lemma": "peer",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to look closely or with difficulty at something",
+      "translationZh": "凝視；仔細看",
+      "exampleSentence": "I was too shy to speak, but my father asked, “What’s going on in here?” and the boy said, “It’s the paper,” and we peered into the room.",
+      "clozeSentence": "I was too shy to speak, but my father asked, “What’s going on in here?” and the boy said, “It’s the paper,” and we _____ into the room.",
+      "distractors": [
+        "to walk quickly past something",
+        "to listen carefully to a sound",
+        "to touch something gently"
+      ],
+      "surfaceForms": [
+        "peered"
+      ],
+      "clozeAnswerSurfaceForm": "peered"
+    },
+    {
+      "lemma": "cable-knit",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "knitted with a pattern of raised, twisting ropelike lines",
+      "translationZh": "麻花編織的（毛衣）",
+      "exampleSentence": "I wore corduroy pants for good luck, and a thick cable-knit sweater.",
+      "clozeSentence": "I wore corduroy pants for good luck, and a thick _____ sweater.",
+      "distractors": [
+        "made of thin, smooth silk",
+        "woven with bright floral patterns",
+        "made from stretchy plastic material"
+      ],
+      "surfaceForms": [
+        "cable-knit"
+      ],
+      "clozeAnswerSurfaceForm": "cable-knit"
+    },
+    {
+      "lemma": "corduroy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a thick ribbed cotton fabric",
+      "translationZh": "燈芯絨",
+      "exampleSentence": "I wore corduroy pants for good luck, and a thick cable-knit sweater.",
+      "clozeSentence": "I wore _____ pants for good luck, and a thick cable-knit sweater.",
+      "distractors": [
+        "a smooth, shiny silk fabric",
+        "a stretchy elastic material",
+        "a lightweight see-through fabric"
+      ],
+      "surfaceForms": [
+        "corduroy"
+      ],
+      "clozeAnswerSurfaceForm": "corduroy"
+    },
+    {
+      "lemma": "flyer",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a printed sheet advertising or announcing something",
+      "translationZh": "傳單",
+      "exampleSentence": "I decided to run for freshman-class president and began stapling flyers to notice boards around the school.",
+      "clozeSentence": "I decided to run for freshman-class president and began stapling _____ to notice boards around the school.",
+      "distractors": [
+        "a small handwritten letter",
+        "a bound book of essays",
+        "a formal legal document"
+      ],
+      "surfaceForms": [
+        "flyers"
+      ],
+      "clozeAnswerSurfaceForm": "flyers"
+    },
+    {
+      "lemma": "gravity",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "seriousness or importance, especially of a situation",
+      "translationZh": "嚴肅性；重大性",
+      "exampleSentence": "I felt their disappointment in me like an augmentation of gravity in the room, and if I made any mistakes, it was a tick on the wrong side of a ledger, creating the sense that I would be forever outside of this thing I wanted: family.",
+      "clozeSentence": "I felt their disappointment in me like an augmentation of _____ in the room, and if I made any mistakes, it was a tick on the wrong side of a ledger, creating the sense that I would be forever outside of this thing I wanted: family.",
+      "distractors": [
+        "a feeling of lightness and joy",
+        "a sense of confusion",
+        "a burst of sudden energy"
+      ],
+      "surfaceForms": [
+        "gravity"
+      ],
+      "clozeAnswerSurfaceForm": "gravity"
+    },
+    {
+      "lemma": "ledger",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a book or record used for keeping track of accounts",
+      "translationZh": "帳簿；分類帳",
+      "exampleSentence": "I felt their disappointment in me like an augmentation of gravity in the room, and if I made any mistakes, it was a tick on the wrong side of a ledger, creating the sense that I would be forever outside of this thing I wanted: family.",
+      "clozeSentence": "I felt their disappointment in me like an augmentation of gravity in the room, and if I made any mistakes, it was a tick on the wrong side of a _____, creating the sense that I would be forever outside of this thing I wanted: family.",
+      "distractors": [
+        "a formal letter of complaint",
+        "a small personal diary",
+        "a printed schedule of events"
+      ],
+      "surfaceForms": [
+        "ledger"
+      ],
+      "clozeAnswerSurfaceForm": "ledger"
+    },
+    {
+      "lemma": "dislodge",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "to force something out of its fixed position",
+      "translationZh": "使脫離；移除",
+      "exampleSentence": "It would have an adhesive and ordinary quality; once inside it, I could not be dislodged.",
+      "clozeSentence": "It would have an adhesive and ordinary quality; once inside it, I could not be _____.",
+      "distractors": [
+        "to firmly attach something in place",
+        "to gently repair something broken",
+        "to quietly hide something away"
+      ],
+      "surfaceForms": [
+        "dislodged"
+      ],
+      "clozeAnswerSurfaceForm": "dislodged"
+    },
+    {
+      "lemma": "huddle",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "to crowd together closely, often for warmth or comfort",
+      "translationZh": "擠成一團；聚攏",
+      "exampleSentence": "My classmates huddled close, and I felt the surge of goodwill that sometimes happened when I was sick and no longer had the energy to be formal, instead letting others lean in to support me.",
+      "clozeSentence": "My classmates _____ close, and I felt the surge of goodwill that sometimes happened when I was sick and no longer had the energy to be formal, instead letting others lean in to support me.",
+      "distractors": [
+        "to spread out far apart",
+        "to walk away quietly",
+        "to argue loudly with each other"
+      ],
+      "surfaceForms": [
+        "huddled"
+      ],
+      "clozeAnswerSurfaceForm": "huddled"
+    },
+    {
+      "lemma": "indignant",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "feeling angry because of something unfair",
+      "translationZh": "憤慨的；憤憤不平的",
+      "exampleSentence": "My father indulged the lie, becoming indignant on my behalf, perhaps believing me, perhaps seeing in my vanity a way out of the after-school-ride conundrum.",
+      "clozeSentence": "My father indulged the lie, becoming _____ on my behalf, perhaps believing me, perhaps seeing in my vanity a way out of the after-school-ride conundrum.",
+      "distractors": [
+        "feeling calm and indifferent",
+        "feeling proud and confident",
+        "feeling shy and embarrassed"
+      ],
+      "surfaceForms": [
+        "indignant"
+      ],
+      "clozeAnswerSurfaceForm": "indignant"
+    },
+    {
+      "lemma": "laryngitis",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "an illness causing inflammation of the throat and loss of voice",
+      "translationZh": "喉炎",
+      "exampleSentence": "My voice was almost gone from laryngitis.",
+      "clozeSentence": "My voice was almost gone from _____.",
+      "distractors": [
+        "an illness affecting the eyes",
+        "a common type of headache",
+        "a mild skin rash"
+      ],
+      "surfaceForms": [
+        "laryngitis"
+      ],
+      "clozeAnswerSurfaceForm": "laryngitis"
+    },
+    {
+      "lemma": "conundrum",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a confusing and difficult problem",
+      "translationZh": "難題；謎題",
+      "exampleSentence": "My father indulged the lie, becoming indignant on my behalf, perhaps believing me, perhaps seeing in my vanity a way out of the after-school-ride conundrum.",
+      "clozeSentence": "My father indulged the lie, becoming indignant on my behalf, perhaps believing me, perhaps seeing in my vanity a way out of the after-school-ride _____.",
+      "distractors": [
+        "a simple, obvious solution",
+        "a formal written agreement",
+        "a joyful celebration"
+      ],
+      "surfaceForms": [
+        "conundrum"
+      ],
+      "clozeAnswerSurfaceForm": "conundrum"
+    },
+    {
+      "lemma": "flurry",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a sudden brief period of intense activity or excitement",
+      "translationZh": "一陣忙亂；一陣騷動",
+      "exampleSentence": "What followed was a strange flurry: he and I driving up to the school to meet with the head of the school, the admissions director, and several teachers, and him telling me to repeat the story about doodling, about how I was bored sometimes in class.",
+      "clozeSentence": "What followed was a strange _____: he and I driving up to the school to meet with the head of the school, the admissions director, and several teachers, and him telling me to repeat the story about doodling, about how I was bored sometimes in class.",
+      "distractors": [
+        "a long period of calm and rest",
+        "a formal scheduled meeting",
+        "a slow, gradual process"
+      ],
+      "surfaceForms": [
+        "flurry"
+      ],
+      "clozeAnswerSurfaceForm": "flurry"
+    },
+    {
+      "lemma": "cadge",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to get something from someone by asking, without paying",
+      "translationZh": "討取；蹭（搭便車等）",
+      "exampleSentence": "This meant I’d have to attend after-school meetings for student government about once a week, spending the night at a friend’s house or trying to cadge a ride from the parents of my friends.",
+      "clozeSentence": "This meant I’d have to attend after-school meetings for student government about once a week, spending the night at a friend’s house or trying to _____ a ride from the parents of my friends.",
+      "distractors": [
+        "to politely refuse an offer",
+        "to pay generously for something",
+        "to plan something in advance"
+      ],
+      "surfaceForms": [
+        "cadge"
+      ],
+      "clozeAnswerSurfaceForm": "cadge"
+    },
+    {
+      "lemma": "woefully",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "extremely and regrettably, used to emphasize a shortcoming",
+      "translationZh": "極度地；令人遺憾地",
+      "exampleSentence": "In my imagination I became the kind of extraordinary student for whom certain private schools are woefully inadequate.",
+      "clozeSentence": "In my imagination I became the kind of extraordinary student for whom certain private schools are _____ inadequate.",
+      "distractors": [
+        "surprisingly and pleasantly",
+        "briefly and temporarily",
+        "carefully and precisely"
+      ],
+      "surfaceForms": [
+        "woefully"
+      ],
+      "clozeAnswerSurfaceForm": "woefully"
+    },
+    {
+      "lemma": "embolden",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to give someone courage or confidence",
+      "translationZh": "使壯膽；鼓舞",
+      "exampleSentence": "Emboldened by my father beside me, I believed my own stories: the top-rated school wasn’t academically rigorous enough for me.",
+      "clozeSentence": "_____ by my father beside me, I believed my own stories: the top-rated school wasn’t academically rigorous enough for me.",
+      "distractors": [
+        "to make someone feel afraid",
+        "to make someone feel confused",
+        "to make someone feel tired"
+      ],
+      "surfaceForms": [
+        "emboldened"
+      ],
+      "clozeAnswerSurfaceForm": "Emboldened"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "cloze",
+      "wordLemma": "corduroy",
+      "prompt": "I wore _____ pants for good luck, and a thick cable-knit sweater.",
+      "options": [
+        "gravity",
+        "Emboldened",
+        "augmentation",
+        "corduroy"
+      ],
+      "answer": "corduroy"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "augmentation",
+      "prompt": "增加；擴增",
+      "options": [
+        "gravity",
+        "conundrum",
+        "augmentation",
+        "cadge"
+      ],
+      "answer": "augmentation"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "deprivation",
+      "prompt": "deprivation",
+      "options": [
+        "a formal celebration",
+        "an unexpected surplus of something",
+        "a period of great excitement",
+        "the lack of something considered necessary"
+      ],
+      "answer": "the lack of something considered necessary"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "ledger",
+      "prompt": "I felt their disappointment in me like an augmentation of gravity in the room, and if I made any mistakes, it was a tick on the wrong side of a _____, creating the sense that I would be forever outside of this thing I wanted: family.",
+      "options": [
+        "peered",
+        "laryngitis",
+        "dislodged",
+        "ledger"
+      ],
+      "answer": "ledger"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "cable-knit",
+      "prompt": "cable-knit",
+      "options": [
+        "made from stretchy plastic material",
+        "knitted with a pattern of raised, twisting ropelike lines",
+        "made of thin, smooth silk",
+        "woven with bright floral patterns"
+      ],
+      "answer": "knitted with a pattern of raised, twisting ropelike lines"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "staple",
+      "prompt": "I decided to run for freshman-class president and began _____ flyers to notice boards around the school.",
+      "options": [
+        "indignant",
+        "deprivation",
+        "betrayed",
+        "stapling"
+      ],
+      "answer": "stapling"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "laryngitis",
+      "prompt": "喉炎",
+      "options": [
+        "laryngitis",
+        "huddle",
+        "cadge",
+        "deprivation"
+      ],
+      "answer": "laryngitis"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "cadge",
+      "prompt": "討取；蹭（搭便車等）",
+      "options": [
+        "embolden",
+        "gravity",
+        "cadge",
+        "dread"
+      ],
+      "answer": "cadge"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "flyer",
+      "prompt": "傳單",
+      "options": [
+        "flyer",
+        "gravity",
+        "embolden",
+        "woefully"
+      ],
+      "answer": "flyer"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "flurry",
+      "prompt": "What followed was a strange _____: he and I driving up to the school to meet with the head of the school, the admissions director, and several teachers, and him telling me to repeat the story about doodling, about how I was bored sometimes in class.",
+      "options": [
+        "flurry",
+        "dreaded",
+        "betrayed",
+        "huddled"
+      ],
+      "answer": "flurry"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "betray",
+      "prompt": "betray",
+      "options": [
+        "to support someone strongly",
+        "to forgive someone completely",
+        "to remind someone gently",
+        "to be disloyal to someone or break their trust"
+      ],
+      "answer": "to be disloyal to someone or break their trust"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "peer",
+      "prompt": "凝視；仔細看",
+      "options": [
+        "ledger",
+        "peer",
+        "gravity",
+        "dread"
+      ],
+      "answer": "peer"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "indignant",
+      "prompt": "My father indulged the lie, becoming _____ on my behalf, perhaps believing me, perhaps seeing in my vanity a way out of the after-school-ride conundrum.",
+      "options": [
+        "woefully",
+        "dislodged",
+        "indignant",
+        "flyers"
+      ],
+      "answer": "indignant"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "conundrum",
+      "prompt": "conundrum",
+      "options": [
+        "a formal written agreement",
+        "a confusing and difficult problem",
+        "a joyful celebration",
+        "a simple, obvious solution"
+      ],
+      "answer": "a confusing and difficult problem"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "dislodge",
+      "prompt": "使脫離；移除",
+      "options": [
+        "peer",
+        "laryngitis",
+        "huddle",
+        "dislodge"
+      ],
+      "answer": "dislodge"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "huddle",
+      "prompt": "huddle",
+      "options": [
+        "to crowd together closely, often for warmth or comfort",
+        "to spread out far apart",
+        "to argue loudly with each other",
+        "to walk away quietly"
+      ],
+      "answer": "to crowd together closely, often for warmth or comfort"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "woefully",
+      "prompt": "woefully",
+      "options": [
+        "briefly and temporarily",
+        "carefully and precisely",
+        "extremely and regrettably, used to emphasize a shortcoming",
+        "surprisingly and pleasantly"
+      ],
+      "answer": "extremely and regrettably, used to emphasize a shortcoming"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "dread",
+      "prompt": "I _____ these calls.",
+      "options": [
+        "Emboldened",
+        "dreaded",
+        "laryngitis",
+        "woefully"
+      ],
+      "answer": "dreaded"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "gravity",
+      "prompt": "gravity",
+      "options": [
+        "a sense of confusion",
+        "a burst of sudden energy",
+        "seriousness or importance, especially of a situation",
+        "a feeling of lightness and joy"
+      ],
+      "answer": "seriousness or importance, especially of a situation"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "embolden",
+      "prompt": "_____ by my father beside me, I believed my own stories: the top-rated school wasn’t academically rigorous enough for me.",
+      "options": [
+        "flyers",
+        "gravity",
+        "corduroy",
+        "Emboldened"
+      ],
+      "answer": "Emboldened"
+    }
+  ]
+}

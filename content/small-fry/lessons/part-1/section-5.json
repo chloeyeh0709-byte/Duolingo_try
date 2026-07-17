@@ -1,0 +1,1022 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 1,
+  "partTitle": "Hippies",
+  "sectionIndex": 5,
+  "paragraphs": [
+    "The next year I went to a different school, the Waldorf School of the Peninsula. It was new, founded that year. The parents had gathered over the summer to paint the walls of the classrooms, and to choose the wood, sand down, and varnish each of our desks for the start of first grade. The tuition was about six hundred dollars per semester, discounted for us, and my mother figured she could make it work if we didn’t buy any furniture. But still, we were often behind on the tuition, my mother contacting my father and asking if he could send a small check, which he did twice.",
+    "One day, from our apartment on Channing Avenue, we drove to Los Altos, where my mother cleaned a house. Her friend Sandra used to have the cleaning jobs, but gave the houses to my mother before she moved away. Sandra liked us; she once saved a newspaper clipping about a mother and daughter driving in winter: the three-year-old girl had walked alone two miles through the snow and found help for her mother, who’d crashed into a snowbank and lost consciousness. “That’s something Lisa would do,” she told my mother.",
+    "The woman who owned the house in Los Altos showed me how to use mayonnaise on the leaves of her dusty ficus plant; I polished them into a glossy, deep green. When my mother finished and the woman paid her, we drove straight to the bank to make the deposit, and from there to University Art, a few streets away.",
+    "“Hello, I’m a member here,” she said to the man behind the counter. Artists had memberships and received discounts. “I’m worried that a check I gave you a few days ago might have bounced,” she said. She often talked about checks bouncing. I didn’t know what she meant, only that it sounded good even though it wasn’t. “I want to write you another one, but I’d like to get a few paints first?”",
+    "“Of course,” the man said. “Come back when you’re finished shopping and we’ll take care of it.”",
+    "The man smiled; we smiled back. My mother was earnest and charming. Together we brought light into rooms.",
+    "She moved slowly along the row, touching each tube, looking at colors she liked even if she didn’t need them or couldn’t afford them. Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without dents. “Different colors are different prices,” she said, “based on the ingredients.” The ingredients were colored substances harvested from the earth. The brushes were made of nylon or animal hair, different hair for different purposes, expensive. They were enclosed in plastic tubes and shaped into hard sharp points that broke apart and became soft when used. After my mother used her brushes and cleaned them, she licked them into points herself so they would keep their shape.",
+    "That day, she bought a tube of burnt umber. She wrote the check for the full amount at the register. She didn’t take a bag, but cradled the tube in her palm on the way back to the car.",
+    "From there we went to a bookstore around the corner from Peet’s. The man behind the desk, who owned the shop, spoke with my mother; I could tell he was intelligent. He was old, bearded, with bushy eyebrows, like an unkempt God. I wanted him to pay attention to me.",
+    "“My father is Steve Jobs,” I said to the man. I wasn’t supposed to tell people who my father was. My mother watched, bemused—we were the only ones in the store.",
+    "“Oh?” the man said, and put his glasses on his head.",
+    "“Yes,” I said. It was like the shine on the leaf, it made him look. “And I’m the smartest girl in the world.”"
+  ],
+  "words": [
+    {
+      "lemma": "ficus",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "a type of tropical plant or tree often grown indoors",
+      "translationZh": "榕屬植物",
+      "exampleSentence": "The woman who owned the house in Los Altos showed me how to use mayonnaise on the leaves of her dusty ficus plant; I polished them into a glossy, deep green.",
+      "clozeSentence": "The woman who owned the house in Los Altos showed me how to use mayonnaise on the leaves of her dusty _____ plant; I polished them into a glossy, deep green.",
+      "distractors": [
+        "a small tool used for trimming plants",
+        "a type of soil used for gardening",
+        "a container used to water plants"
+      ],
+      "surfaceForms": [
+        "ficus"
+      ],
+      "clozeAnswerSurfaceForm": "ficus"
+    },
+    {
+      "lemma": "glossy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "smooth and shiny in appearance",
+      "translationZh": "光亮的",
+      "exampleSentence": "The woman who owned the house in Los Altos showed me how to use mayonnaise on the leaves of her dusty ficus plant; I polished them into a glossy, deep green.",
+      "clozeSentence": "The woman who owned the house in Los Altos showed me how to use mayonnaise on the leaves of her dusty ficus plant; I polished them into a _____, deep green.",
+      "distractors": [
+        "rough and full of small bumps",
+        "faded and dull in color",
+        "transparent and see-through"
+      ],
+      "surfaceForms": [
+        "glossy"
+      ],
+      "clozeAnswerSurfaceForm": "glossy"
+    },
+    {
+      "lemma": "polish",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to rub something to make it smooth and shiny",
+      "translationZh": "擦亮",
+      "exampleSentence": "The woman who owned the house in Los Altos showed me how to use mayonnaise on the leaves of her dusty ficus plant; I polished them into a glossy, deep green.",
+      "clozeSentence": "The woman who owned the house in Los Altos showed me how to use mayonnaise on the leaves of her dusty ficus plant; I _____ them into a glossy, deep green.",
+      "distractors": [
+        "to cut something into smaller pieces",
+        "to hide something from view",
+        "to measure the size of something"
+      ],
+      "surfaceForms": [
+        "polished"
+      ],
+      "clozeAnswerSurfaceForm": "polished"
+    },
+    {
+      "lemma": "tuition",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "money paid for instruction, especially at a school or college",
+      "translationZh": "學費",
+      "exampleSentence": "The tuition was about six hundred dollars per semester, discounted for us, and my mother figured she could make it work if we didn’t buy any furniture.",
+      "clozeSentence": "The _____ was about six hundred dollars per semester, discounted for us, and my mother figured she could make it work if we didn’t buy any furniture.",
+      "distractors": [
+        "money saved for future emergencies",
+        "a document that proves identity",
+        "a schedule of classes for the week"
+      ],
+      "surfaceForms": [
+        "tuition"
+      ],
+      "clozeAnswerSurfaceForm": "tuition"
+    },
+    {
+      "lemma": "varnish",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to coat wood with a clear, hard, protective liquid",
+      "translationZh": "上漆",
+      "exampleSentence": "The parents had gathered over the summer to paint the walls of the classrooms, and to choose the wood, sand down, and varnish each of our desks for the start of first grade.",
+      "clozeSentence": "The parents had gathered over the summer to paint the walls of the classrooms, and to choose the wood, sand down, and _____ each of our desks for the start of first grade.",
+      "distractors": [
+        "to break something into small pieces",
+        "to measure the length of an object",
+        "to remove dust from a surface"
+      ],
+      "surfaceForms": [
+        "varnish"
+      ],
+      "clozeAnswerSurfaceForm": "varnish"
+    },
+    {
+      "lemma": "found",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to establish or create an organization or institution",
+      "translationZh": "創立",
+      "exampleSentence": "It was new, founded that year.",
+      "clozeSentence": "It was new, _____ that year.",
+      "distractors": [
+        "to destroy something completely",
+        "to sell something for a profit",
+        "to repair something that is broken"
+      ],
+      "surfaceForms": [
+        "founded"
+      ],
+      "clozeAnswerSurfaceForm": "founded"
+    },
+    {
+      "lemma": "bushy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "growing thickly, like a bush",
+      "translationZh": "濃密的",
+      "exampleSentence": "He was old, bearded, with bushy eyebrows, like an unkempt God.",
+      "clozeSentence": "He was old, bearded, with _____ eyebrows, like an unkempt God.",
+      "distractors": [
+        "extremely thin and sparse",
+        "neatly trimmed and tidy",
+        "pale and almost invisible"
+      ],
+      "surfaceForms": [
+        "bushy"
+      ],
+      "clozeAnswerSurfaceForm": "bushy"
+    },
+    {
+      "lemma": "eyebrow",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the line of hair above the eye",
+      "translationZh": "眉毛",
+      "exampleSentence": "He was old, bearded, with bushy eyebrows, like an unkempt God.",
+      "clozeSentence": "He was old, bearded, with bushy _____, like an unkempt God.",
+      "distractors": [
+        "the soft skin below the chin",
+        "the thin skin covering the eyeball",
+        "the curved bone at the top of the leg"
+      ],
+      "surfaceForms": [
+        "eyebrows"
+      ],
+      "clozeAnswerSurfaceForm": "eyebrows"
+    },
+    {
+      "lemma": "unkempt",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "untidy, not properly cared for; disheveled",
+      "translationZh": "蓬亂邋遢的",
+      "exampleSentence": "He was old, bearded, with bushy eyebrows, like an unkempt God.",
+      "clozeSentence": "He was old, bearded, with bushy eyebrows, like an _____ God.",
+      "distractors": [
+        "extremely wealthy and powerful",
+        "calm and gentle in manner",
+        "well-dressed and formally attired"
+      ],
+      "surfaceForms": [
+        "unkempt"
+      ],
+      "clozeAnswerSurfaceForm": "unkempt"
+    },
+    {
+      "lemma": "consciousness",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the state of being awake and aware of one's surroundings",
+      "translationZh": "意識",
+      "exampleSentence": "Sandra liked us; she once saved a newspaper clipping about a mother and daughter driving in winter: the three-year-old girl had walked alone two miles through the snow and found help for her mother, who’d crashed into a snowbank and lost consciousness.",
+      "clozeSentence": "Sandra liked us; she once saved a newspaper clipping about a mother and daughter driving in winter: the three-year-old girl had walked alone two miles through the snow and found help for her mother, who’d crashed into a snowbank and lost _____.",
+      "distractors": [
+        "a strong feeling of guilt after a mistake",
+        "the ability to remember distant events clearly",
+        "a formal agreement between two parties"
+      ],
+      "surfaceForms": [
+        "consciousness"
+      ],
+      "clozeAnswerSurfaceForm": "consciousness"
+    },
+    {
+      "lemma": "snowbank",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a large mound or pile of snow",
+      "translationZh": "雪堆",
+      "exampleSentence": "Sandra liked us; she once saved a newspaper clipping about a mother and daughter driving in winter: the three-year-old girl had walked alone two miles through the snow and found help for her mother, who’d crashed into a snowbank and lost consciousness.",
+      "clozeSentence": "Sandra liked us; she once saved a newspaper clipping about a mother and daughter driving in winter: the three-year-old girl had walked alone two miles through the snow and found help for her mother, who’d crashed into a _____ and lost consciousness.",
+      "distractors": [
+        "a small stream that flows through ice",
+        "a warm shelter built for winter storms",
+        "a thin sheet of ice on a road"
+      ],
+      "surfaceForms": [
+        "snowbank"
+      ],
+      "clozeAnswerSurfaceForm": "snowbank"
+    },
+    {
+      "lemma": "umber",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "a dark brownish color, used as a pigment in paint",
+      "translationZh": "赭褐色",
+      "exampleSentence": "That day, she bought a tube of burnt umber.",
+      "clozeSentence": "That day, she bought a tube of burnt _____.",
+      "distractors": [
+        "a bright, glowing shade of orange",
+        "a soft, pale pink color",
+        "a rich, deep shade of blue"
+      ],
+      "surfaceForms": [
+        "umber"
+      ],
+      "clozeAnswerSurfaceForm": "umber"
+    },
+    {
+      "lemma": "cradle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to hold something gently and protectively",
+      "translationZh": "輕輕捧著",
+      "exampleSentence": "She didn’t take a bag, but cradled the tube in her palm on the way back to the car.",
+      "clozeSentence": "She didn’t take a bag, but _____ the tube in her palm on the way back to the car.",
+      "distractors": [
+        "to throw something away carelessly",
+        "to trade one object for another",
+        "to measure the weight of an object"
+      ],
+      "surfaceForms": [
+        "cradled"
+      ],
+      "clozeAnswerSurfaceForm": "cradled"
+    },
+    {
+      "lemma": "bemuse",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "confused or puzzled, often in a mildly amused way",
+      "translationZh": "困惑的",
+      "exampleSentence": "My mother watched, bemused—we were the only ones in the store.",
+      "clozeSentence": "My mother watched, _____—we were the only ones in the store.",
+      "distractors": [
+        "extremely proud of an achievement",
+        "completely certain about a decision",
+        "eager to leave a place quickly"
+      ],
+      "surfaceForms": [
+        "bemused"
+      ],
+      "clozeAnswerSurfaceForm": "bemused—we"
+    },
+    {
+      "lemma": "carmine",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "a vivid, deep red color or pigment",
+      "translationZh": "洋紅色",
+      "exampleSentence": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "clozeSentence": "Turquoise, _____, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "distractors": [
+        "a pale yellowish-green color",
+        "a dull grayish-brown color",
+        "a bright metallic silver color"
+      ],
+      "surfaceForms": [
+        "carmine"
+      ],
+      "clozeAnswerSurfaceForm": "carmine"
+    },
+    {
+      "lemma": "dangle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to hang loosely, swinging freely",
+      "translationZh": "懸掛晃蕩",
+      "exampleSentence": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "clozeSentence": "Turquoise, carmine, burnt sienna, gamboge—all _____ by their necks, the tubes pristine and without dents.",
+      "distractors": [
+        "to stand firmly without moving",
+        "to shine with a bright light",
+        "to fold neatly into a small shape"
+      ],
+      "surfaceForms": [
+        "dangling"
+      ],
+      "clozeAnswerSurfaceForm": "dangling"
+    },
+    {
+      "lemma": "dent",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a small hollow mark made by a blow or pressure",
+      "translationZh": "凹痕",
+      "exampleSentence": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "clozeSentence": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without _____.",
+      "distractors": [
+        "a bright shine on a smooth surface",
+        "a small hole made by insects",
+        "a soft area of loose fabric"
+      ],
+      "surfaceForms": [
+        "dents"
+      ],
+      "clozeAnswerSurfaceForm": "dents"
+    },
+    {
+      "lemma": "pristine",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "in perfect, unspoiled condition, as if new",
+      "translationZh": "嶄新無瑕的",
+      "exampleSentence": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "clozeSentence": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes _____ and without dents.",
+      "distractors": [
+        "extremely old and worn out",
+        "covered in dirt and dust",
+        "arranged in a random, messy order"
+      ],
+      "surfaceForms": [
+        "pristine"
+      ],
+      "clozeAnswerSurfaceForm": "pristine"
+    },
+    {
+      "lemma": "sienna",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "a reddish-brown color, especially used in paint",
+      "translationZh": "赭色",
+      "exampleSentence": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "clozeSentence": "Turquoise, carmine, burnt _____, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "distractors": [
+        "a bright shade of blue",
+        "a pale, almost white color",
+        "a deep shade of purple"
+      ],
+      "surfaceForms": [
+        "sienna"
+      ],
+      "clozeAnswerSurfaceForm": "sienna"
+    },
+    {
+      "lemma": "turquoise",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a greenish-blue color, often associated with a gemstone",
+      "translationZh": "綠松石色",
+      "exampleSentence": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "clozeSentence": "_____, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "distractors": [
+        "a deep shade of forest green",
+        "a warm golden-yellow color",
+        "a dark, almost black shade"
+      ],
+      "surfaceForms": [
+        "turquoise"
+      ],
+      "clozeAnswerSurfaceForm": "Turquoise"
+    },
+    {
+      "lemma": "substance",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a particular kind of matter with uniform properties",
+      "translationZh": "物質",
+      "exampleSentence": "“Different colors are different prices,” she said, “based on the ingredients.” The ingredients were colored substances harvested from the earth.",
+      "clozeSentence": "“Different colors are different prices,” she said, “based on the ingredients.” The ingredients were colored _____ harvested from the earth.",
+      "distractors": [
+        "a formal written agreement between people",
+        "a strong feeling of excitement or fear",
+        "a small tool used for measuring length"
+      ],
+      "surfaceForms": [
+        "substances"
+      ],
+      "clozeAnswerSurfaceForm": "substances"
+    },
+    {
+      "lemma": "lick",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to pass the tongue over something",
+      "translationZh": "舔",
+      "exampleSentence": "After my mother used her brushes and cleaned them, she licked them into points herself so they would keep their shape.",
+      "clozeSentence": "After my mother used her brushes and cleaned them, she _____ them into points herself so they would keep their shape.",
+      "distractors": [
+        "to cut something into thin slices",
+        "to wrap something tightly in cloth",
+        "to soak something in warm water"
+      ],
+      "surfaceForms": [
+        "licked"
+      ],
+      "clozeAnswerSurfaceForm": "licked"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "ficus",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "a type of tropical plant or tree often grown indoors",
+      "translationZh": "榕屬植物",
+      "exampleSentence": "The woman who owned the house in Los Altos showed me how to use mayonnaise on the leaves of her dusty ficus plant; I polished them into a glossy, deep green.",
+      "clozeSentence": "The woman who owned the house in Los Altos showed me how to use mayonnaise on the leaves of her dusty _____ plant; I polished them into a glossy, deep green.",
+      "distractors": [
+        "a small tool used for trimming plants",
+        "a type of soil used for gardening",
+        "a container used to water plants"
+      ],
+      "surfaceForms": [
+        "ficus"
+      ],
+      "clozeAnswerSurfaceForm": "ficus"
+    },
+    {
+      "lemma": "glossy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "smooth and shiny in appearance",
+      "translationZh": "光亮的",
+      "exampleSentence": "The woman who owned the house in Los Altos showed me how to use mayonnaise on the leaves of her dusty ficus plant; I polished them into a glossy, deep green.",
+      "clozeSentence": "The woman who owned the house in Los Altos showed me how to use mayonnaise on the leaves of her dusty ficus plant; I polished them into a _____, deep green.",
+      "distractors": [
+        "rough and full of small bumps",
+        "faded and dull in color",
+        "transparent and see-through"
+      ],
+      "surfaceForms": [
+        "glossy"
+      ],
+      "clozeAnswerSurfaceForm": "glossy"
+    },
+    {
+      "lemma": "polish",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to rub something to make it smooth and shiny",
+      "translationZh": "擦亮",
+      "exampleSentence": "The woman who owned the house in Los Altos showed me how to use mayonnaise on the leaves of her dusty ficus plant; I polished them into a glossy, deep green.",
+      "clozeSentence": "The woman who owned the house in Los Altos showed me how to use mayonnaise on the leaves of her dusty ficus plant; I _____ them into a glossy, deep green.",
+      "distractors": [
+        "to cut something into smaller pieces",
+        "to hide something from view",
+        "to measure the size of something"
+      ],
+      "surfaceForms": [
+        "polished"
+      ],
+      "clozeAnswerSurfaceForm": "polished"
+    },
+    {
+      "lemma": "tuition",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "money paid for instruction, especially at a school or college",
+      "translationZh": "學費",
+      "exampleSentence": "The tuition was about six hundred dollars per semester, discounted for us, and my mother figured she could make it work if we didn’t buy any furniture.",
+      "clozeSentence": "The _____ was about six hundred dollars per semester, discounted for us, and my mother figured she could make it work if we didn’t buy any furniture.",
+      "distractors": [
+        "money saved for future emergencies",
+        "a document that proves identity",
+        "a schedule of classes for the week"
+      ],
+      "surfaceForms": [
+        "tuition"
+      ],
+      "clozeAnswerSurfaceForm": "tuition"
+    },
+    {
+      "lemma": "varnish",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to coat wood with a clear, hard, protective liquid",
+      "translationZh": "上漆",
+      "exampleSentence": "The parents had gathered over the summer to paint the walls of the classrooms, and to choose the wood, sand down, and varnish each of our desks for the start of first grade.",
+      "clozeSentence": "The parents had gathered over the summer to paint the walls of the classrooms, and to choose the wood, sand down, and _____ each of our desks for the start of first grade.",
+      "distractors": [
+        "to break something into small pieces",
+        "to measure the length of an object",
+        "to remove dust from a surface"
+      ],
+      "surfaceForms": [
+        "varnish"
+      ],
+      "clozeAnswerSurfaceForm": "varnish"
+    },
+    {
+      "lemma": "found",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to establish or create an organization or institution",
+      "translationZh": "創立",
+      "exampleSentence": "It was new, founded that year.",
+      "clozeSentence": "It was new, _____ that year.",
+      "distractors": [
+        "to destroy something completely",
+        "to sell something for a profit",
+        "to repair something that is broken"
+      ],
+      "surfaceForms": [
+        "founded"
+      ],
+      "clozeAnswerSurfaceForm": "founded"
+    },
+    {
+      "lemma": "unkempt",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "untidy, not properly cared for; disheveled",
+      "translationZh": "蓬亂邋遢的",
+      "exampleSentence": "He was old, bearded, with bushy eyebrows, like an unkempt God.",
+      "clozeSentence": "He was old, bearded, with bushy eyebrows, like an _____ God.",
+      "distractors": [
+        "extremely wealthy and powerful",
+        "calm and gentle in manner",
+        "well-dressed and formally attired"
+      ],
+      "surfaceForms": [
+        "unkempt"
+      ],
+      "clozeAnswerSurfaceForm": "unkempt"
+    },
+    {
+      "lemma": "bushy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "growing thickly, like a bush",
+      "translationZh": "濃密的",
+      "exampleSentence": "He was old, bearded, with bushy eyebrows, like an unkempt God.",
+      "clozeSentence": "He was old, bearded, with _____ eyebrows, like an unkempt God.",
+      "distractors": [
+        "extremely thin and sparse",
+        "neatly trimmed and tidy",
+        "pale and almost invisible"
+      ],
+      "surfaceForms": [
+        "bushy"
+      ],
+      "clozeAnswerSurfaceForm": "bushy"
+    },
+    {
+      "lemma": "eyebrow",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the line of hair above the eye",
+      "translationZh": "眉毛",
+      "exampleSentence": "He was old, bearded, with bushy eyebrows, like an unkempt God.",
+      "clozeSentence": "He was old, bearded, with bushy _____, like an unkempt God.",
+      "distractors": [
+        "the soft skin below the chin",
+        "the thin skin covering the eyeball",
+        "the curved bone at the top of the leg"
+      ],
+      "surfaceForms": [
+        "eyebrows"
+      ],
+      "clozeAnswerSurfaceForm": "eyebrows"
+    },
+    {
+      "lemma": "consciousness",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the state of being awake and aware of one's surroundings",
+      "translationZh": "意識",
+      "exampleSentence": "Sandra liked us; she once saved a newspaper clipping about a mother and daughter driving in winter: the three-year-old girl had walked alone two miles through the snow and found help for her mother, who’d crashed into a snowbank and lost consciousness.",
+      "clozeSentence": "Sandra liked us; she once saved a newspaper clipping about a mother and daughter driving in winter: the three-year-old girl had walked alone two miles through the snow and found help for her mother, who’d crashed into a snowbank and lost _____.",
+      "distractors": [
+        "a strong feeling of guilt after a mistake",
+        "the ability to remember distant events clearly",
+        "a formal agreement between two parties"
+      ],
+      "surfaceForms": [
+        "consciousness"
+      ],
+      "clozeAnswerSurfaceForm": "consciousness"
+    },
+    {
+      "lemma": "snowbank",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a large mound or pile of snow",
+      "translationZh": "雪堆",
+      "exampleSentence": "Sandra liked us; she once saved a newspaper clipping about a mother and daughter driving in winter: the three-year-old girl had walked alone two miles through the snow and found help for her mother, who’d crashed into a snowbank and lost consciousness.",
+      "clozeSentence": "Sandra liked us; she once saved a newspaper clipping about a mother and daughter driving in winter: the three-year-old girl had walked alone two miles through the snow and found help for her mother, who’d crashed into a _____ and lost consciousness.",
+      "distractors": [
+        "a small stream that flows through ice",
+        "a warm shelter built for winter storms",
+        "a thin sheet of ice on a road"
+      ],
+      "surfaceForms": [
+        "snowbank"
+      ],
+      "clozeAnswerSurfaceForm": "snowbank"
+    },
+    {
+      "lemma": "umber",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "a dark brownish color, used as a pigment in paint",
+      "translationZh": "赭褐色",
+      "exampleSentence": "That day, she bought a tube of burnt umber.",
+      "clozeSentence": "That day, she bought a tube of burnt _____.",
+      "distractors": [
+        "a bright, glowing shade of orange",
+        "a soft, pale pink color",
+        "a rich, deep shade of blue"
+      ],
+      "surfaceForms": [
+        "umber"
+      ],
+      "clozeAnswerSurfaceForm": "umber"
+    },
+    {
+      "lemma": "cradle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to hold something gently and protectively",
+      "translationZh": "輕輕捧著",
+      "exampleSentence": "She didn’t take a bag, but cradled the tube in her palm on the way back to the car.",
+      "clozeSentence": "She didn’t take a bag, but _____ the tube in her palm on the way back to the car.",
+      "distractors": [
+        "to throw something away carelessly",
+        "to trade one object for another",
+        "to measure the weight of an object"
+      ],
+      "surfaceForms": [
+        "cradled"
+      ],
+      "clozeAnswerSurfaceForm": "cradled"
+    },
+    {
+      "lemma": "bemuse",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "confused or puzzled, often in a mildly amused way",
+      "translationZh": "困惑的",
+      "exampleSentence": "My mother watched, bemused—we were the only ones in the store.",
+      "clozeSentence": "My mother watched, _____—we were the only ones in the store.",
+      "distractors": [
+        "extremely proud of an achievement",
+        "completely certain about a decision",
+        "eager to leave a place quickly"
+      ],
+      "surfaceForms": [
+        "bemused"
+      ],
+      "clozeAnswerSurfaceForm": "bemused—we"
+    },
+    {
+      "lemma": "carmine",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "a vivid, deep red color or pigment",
+      "translationZh": "洋紅色",
+      "exampleSentence": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "clozeSentence": "Turquoise, _____, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "distractors": [
+        "a pale yellowish-green color",
+        "a dull grayish-brown color",
+        "a bright metallic silver color"
+      ],
+      "surfaceForms": [
+        "carmine"
+      ],
+      "clozeAnswerSurfaceForm": "carmine"
+    },
+    {
+      "lemma": "sienna",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "a reddish-brown color, especially used in paint",
+      "translationZh": "赭色",
+      "exampleSentence": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "clozeSentence": "Turquoise, carmine, burnt _____, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "distractors": [
+        "a bright shade of blue",
+        "a pale, almost white color",
+        "a deep shade of purple"
+      ],
+      "surfaceForms": [
+        "sienna"
+      ],
+      "clozeAnswerSurfaceForm": "sienna"
+    },
+    {
+      "lemma": "pristine",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "in perfect, unspoiled condition, as if new",
+      "translationZh": "嶄新無瑕的",
+      "exampleSentence": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "clozeSentence": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes _____ and without dents.",
+      "distractors": [
+        "extremely old and worn out",
+        "covered in dirt and dust",
+        "arranged in a random, messy order"
+      ],
+      "surfaceForms": [
+        "pristine"
+      ],
+      "clozeAnswerSurfaceForm": "pristine"
+    },
+    {
+      "lemma": "turquoise",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a greenish-blue color, often associated with a gemstone",
+      "translationZh": "綠松石色",
+      "exampleSentence": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "clozeSentence": "_____, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "distractors": [
+        "a deep shade of forest green",
+        "a warm golden-yellow color",
+        "a dark, almost black shade"
+      ],
+      "surfaceForms": [
+        "turquoise"
+      ],
+      "clozeAnswerSurfaceForm": "Turquoise"
+    },
+    {
+      "lemma": "dangle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to hang loosely, swinging freely",
+      "translationZh": "懸掛晃蕩",
+      "exampleSentence": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "clozeSentence": "Turquoise, carmine, burnt sienna, gamboge—all _____ by their necks, the tubes pristine and without dents.",
+      "distractors": [
+        "to stand firmly without moving",
+        "to shine with a bright light",
+        "to fold neatly into a small shape"
+      ],
+      "surfaceForms": [
+        "dangling"
+      ],
+      "clozeAnswerSurfaceForm": "dangling"
+    },
+    {
+      "lemma": "dent",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a small hollow mark made by a blow or pressure",
+      "translationZh": "凹痕",
+      "exampleSentence": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without dents.",
+      "clozeSentence": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without _____.",
+      "distractors": [
+        "a bright shine on a smooth surface",
+        "a small hole made by insects",
+        "a soft area of loose fabric"
+      ],
+      "surfaceForms": [
+        "dents"
+      ],
+      "clozeAnswerSurfaceForm": "dents"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "wordLemma": "ficus",
+      "prompt": "ficus",
+      "options": [
+        "a small tool used for trimming plants",
+        "a type of tropical plant or tree often grown indoors",
+        "a container used to water plants",
+        "a type of soil used for gardening"
+      ],
+      "answer": "a type of tropical plant or tree often grown indoors"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "dent",
+      "prompt": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes pristine and without _____.",
+      "options": [
+        "snowbank",
+        "bushy",
+        "dents",
+        "dangling"
+      ],
+      "answer": "dents"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "pristine",
+      "prompt": "Turquoise, carmine, burnt sienna, gamboge—all dangling by their necks, the tubes _____ and without dents.",
+      "options": [
+        "unkempt",
+        "founded",
+        "glossy",
+        "pristine"
+      ],
+      "answer": "pristine"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "glossy",
+      "prompt": "The woman who owned the house in Los Altos showed me how to use mayonnaise on the leaves of her dusty ficus plant; I polished them into a _____, deep green.",
+      "options": [
+        "carmine",
+        "glossy",
+        "dangling",
+        "ficus"
+      ],
+      "answer": "glossy"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "unkempt",
+      "prompt": "unkempt",
+      "options": [
+        "calm and gentle in manner",
+        "well-dressed and formally attired",
+        "untidy, not properly cared for; disheveled",
+        "extremely wealthy and powerful"
+      ],
+      "answer": "untidy, not properly cared for; disheveled"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "varnish",
+      "prompt": "The parents had gathered over the summer to paint the walls of the classrooms, and to choose the wood, sand down, and _____ each of our desks for the start of first grade.",
+      "options": [
+        "cradled",
+        "founded",
+        "consciousness",
+        "varnish"
+      ],
+      "answer": "varnish"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "bushy",
+      "prompt": "He was old, bearded, with _____ eyebrows, like an unkempt God.",
+      "options": [
+        "pristine",
+        "ficus",
+        "bushy",
+        "tuition"
+      ],
+      "answer": "bushy"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "snowbank",
+      "prompt": "Sandra liked us; she once saved a newspaper clipping about a mother and daughter driving in winter: the three-year-old girl had walked alone two miles through the snow and found help for her mother, who’d crashed into a _____ and lost consciousness.",
+      "options": [
+        "eyebrows",
+        "sienna",
+        "pristine",
+        "snowbank"
+      ],
+      "answer": "snowbank"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "eyebrow",
+      "prompt": "眉毛",
+      "options": [
+        "eyebrow",
+        "tuition",
+        "snowbank",
+        "dangle"
+      ],
+      "answer": "eyebrow"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "bemuse",
+      "prompt": "My mother watched, _____—we were the only ones in the store.",
+      "options": [
+        "bemused—we",
+        "tuition",
+        "varnish",
+        "founded"
+      ],
+      "answer": "bemused—we"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "consciousness",
+      "prompt": "consciousness",
+      "options": [
+        "the ability to remember distant events clearly",
+        "a strong feeling of guilt after a mistake",
+        "a formal agreement between two parties",
+        "the state of being awake and aware of one's surroundings"
+      ],
+      "answer": "the state of being awake and aware of one's surroundings"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "turquoise",
+      "prompt": "綠松石色",
+      "options": [
+        "turquoise",
+        "ficus",
+        "found",
+        "umber"
+      ],
+      "answer": "turquoise"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "carmine",
+      "prompt": "洋紅色",
+      "options": [
+        "sienna",
+        "cradle",
+        "carmine",
+        "turquoise"
+      ],
+      "answer": "carmine"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "cradle",
+      "prompt": "cradle",
+      "options": [
+        "to trade one object for another",
+        "to hold something gently and protectively",
+        "to measure the weight of an object",
+        "to throw something away carelessly"
+      ],
+      "answer": "to hold something gently and protectively"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "found",
+      "prompt": "創立",
+      "options": [
+        "carmine",
+        "eyebrow",
+        "snowbank",
+        "found"
+      ],
+      "answer": "found"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "umber",
+      "prompt": "赭褐色",
+      "options": [
+        "dent",
+        "umber",
+        "polish",
+        "ficus"
+      ],
+      "answer": "umber"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "polish",
+      "prompt": "擦亮",
+      "options": [
+        "glossy",
+        "carmine",
+        "polish",
+        "dent"
+      ],
+      "answer": "polish"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "tuition",
+      "prompt": "tuition",
+      "options": [
+        "a schedule of classes for the week",
+        "money saved for future emergencies",
+        "money paid for instruction, especially at a school or college",
+        "a document that proves identity"
+      ],
+      "answer": "money paid for instruction, especially at a school or college"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "dangle",
+      "prompt": "dangle",
+      "options": [
+        "to stand firmly without moving",
+        "to fold neatly into a small shape",
+        "to hang loosely, swinging freely",
+        "to shine with a bright light"
+      ],
+      "answer": "to hang loosely, swinging freely"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "sienna",
+      "prompt": "sienna",
+      "options": [
+        "a deep shade of purple",
+        "a reddish-brown color, especially used in paint",
+        "a bright shade of blue",
+        "a pale, almost white color"
+      ],
+      "answer": "a reddish-brown color, especially used in paint"
+    }
+  ]
+}

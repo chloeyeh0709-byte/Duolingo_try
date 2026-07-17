@@ -1,0 +1,1054 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 3,
+  "partTitle": "Let’s Blast",
+  "sectionIndex": 1,
+  "paragraphs": [
+    "One of the first memories I have of my father is at a birthday party someone threw for him at a house in Russian Hill. He was in his early thirties.",
+    "The light was different in San Francisco—we called it The City—slanting and yellow and more watery than it was in Palo Alto. The house, too, was beautiful, tall with soft wool carpets that tucked into the walls and the largest television I’d ever seen. The grass backyard was almost entirely taken up by a trampoline, the large, round kind, high up on metal legs.",
+    "My father was on the trampoline, wearing jeans and a flannel shirt.",
+    "“Hey there. Wanna come bounce?” he called out to me.",
+    "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and grasp the fabric lip, my toes curling like a marsupial’s. The surface was the size of a small pool and caught light like an oil slick. I assumed my father and I would bounce the way I’d learned in my gymnastics lessons, but with two people it was different, the cadence irregular and jostling. Despite my efforts to stay on separate but complementary trajectories, we almost hit each other in midair. He wasn’t coordinated, didn’t have a clear sense of how to fall and rise. Nor did the trampoline have netted walls; we might fly off into the lawn where people were standing, or over the fence. I was lighter, I would be the one to fly. Worse, I might land on top of him. My yellow shorts belled out in the updraft and I worried that he and everyone on the lawn beneath us would see my underwear. But if I held my shorts down I’d lose the small measure of control I had over my movements.",
+    "It was not clear when I reached the highest point of up, because inside it was the fall, the pulling feeling of down.",
+    "Twice we found ourselves coming down to land at the same moment. I prayed we wouldn’t touch; it would be too intimate. I was conscious of scrabbling away from accidental closeness in front of strangers. In midair he looked at me, smiled.",
+    "My drop, his bounce; his drop, my bounce. From below, someone took a photograph. We kept bouncing until he said, “All right, kid. Should we call it a day?” I’d never heard the expression before: Call It A Day."
+  ],
+  "words": [
+    {
+      "lemma": "cadence",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a regular rhythmic pattern of movement or sound",
+      "translationZh": "節奏；韻律",
+      "exampleSentence": "I assumed my father and I would bounce the way I’d learned in my gymnastics lessons, but with two people it was different, the cadence irregular and jostling.",
+      "clozeSentence": "I assumed my father and I would bounce the way I’d learned in my gymnastics lessons, but with two people it was different, the _____ irregular and jostling.",
+      "distractors": [
+        "a sudden loud noise that startles people",
+        "the exact path something travels through the air",
+        "a feeling of nervousness before an event"
+      ],
+      "surfaceForms": [
+        "cadence"
+      ],
+      "clozeAnswerSurfaceForm": "cadence"
+    },
+    {
+      "lemma": "closeness",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "the state of being physically or emotionally near someone",
+      "translationZh": "親近；接近",
+      "exampleSentence": "I was conscious of scrabbling away from accidental closeness in front of strangers.",
+      "clozeSentence": "I was conscious of scrabbling away from accidental _____ in front of strangers.",
+      "distractors": [
+        "a strong disagreement between two people",
+        "the ability to remember details clearly",
+        "a sudden change in someone's mood"
+      ],
+      "surfaceForms": [
+        "closeness"
+      ],
+      "clozeAnswerSurfaceForm": "closeness"
+    },
+    {
+      "lemma": "curl",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to bend or twist into a rounded shape",
+      "translationZh": "捲曲；蜷曲",
+      "exampleSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and grasp the fabric lip, my toes curling like a marsupial’s.",
+      "clozeSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and grasp the fabric lip, my toes _____ like a marsupial’s.",
+      "distractors": [
+        "to stretch out as far as possible",
+        "to shake rapidly back and forth",
+        "to become stiff and hard"
+      ],
+      "surfaceForms": [
+        "curling"
+      ],
+      "clozeAnswerSurfaceForm": "curling"
+    },
+    {
+      "lemma": "fabric",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "cloth or woven material",
+      "translationZh": "布料；織物",
+      "exampleSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and grasp the fabric lip, my toes curling like a marsupial’s.",
+      "clozeSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and grasp the _____ lip, my toes curling like a marsupial’s.",
+      "distractors": [
+        "a metal frame that supports a structure",
+        "a thin layer of paint or coating",
+        "a small hole or tear in something"
+      ],
+      "surfaceForms": [
+        "fabric"
+      ],
+      "clozeAnswerSurfaceForm": "fabric"
+    },
+    {
+      "lemma": "grasp",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to take and hold something firmly with the hand",
+      "translationZh": "抓住；握緊",
+      "exampleSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and grasp the fabric lip, my toes curling like a marsupial’s.",
+      "clozeSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and _____ the fabric lip, my toes curling like a marsupial’s.",
+      "distractors": [
+        "to gently touch something without holding it",
+        "to throw something a short distance",
+        "to look closely at something"
+      ],
+      "surfaceForms": [
+        "grasp"
+      ],
+      "clozeAnswerSurfaceForm": "grasp"
+    },
+    {
+      "lemma": "hoist",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "to lift or raise something, often with effort",
+      "translationZh": "舉起；吊起",
+      "exampleSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and grasp the fabric lip, my toes curling like a marsupial’s.",
+      "clozeSentence": "I walked over and someone, not my mother, _____ me, brought me high enough to lift my leg and grasp the fabric lip, my toes curling like a marsupial’s.",
+      "distractors": [
+        "to gently place something down",
+        "to push something away forcefully",
+        "to carry something for a long distance"
+      ],
+      "surfaceForms": [
+        "hoisted"
+      ],
+      "clozeAnswerSurfaceForm": "hoisted"
+    },
+    {
+      "lemma": "intimate",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "very personal or close, sometimes uncomfortably so",
+      "translationZh": "親密的",
+      "exampleSentence": "I prayed we wouldn’t touch; it would be too intimate.",
+      "clozeSentence": "I prayed we wouldn’t touch; it would be too _____.",
+      "distractors": [
+        "extremely formal and distant",
+        "loud and attention-seeking",
+        "confusing and hard to understand"
+      ],
+      "surfaceForms": [
+        "intimate"
+      ],
+      "clozeAnswerSurfaceForm": "intimate"
+    },
+    {
+      "lemma": "jostle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to bump or push against roughly, especially in a crowd",
+      "translationZh": "推擠；碰撞",
+      "exampleSentence": "I assumed my father and I would bounce the way I’d learned in my gymnastics lessons, but with two people it was different, the cadence irregular and jostling.",
+      "clozeSentence": "I assumed my father and I would bounce the way I’d learned in my gymnastics lessons, but with two people it was different, the cadence irregular and _____.",
+      "distractors": [
+        "to move slowly and carefully",
+        "to wait patiently in a line",
+        "to speak loudly to get attention"
+      ],
+      "surfaceForms": [
+        "jostling"
+      ],
+      "clozeAnswerSurfaceForm": "jostling"
+    },
+    {
+      "lemma": "marsupial",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a mammal that carries its young in a pouch, like a kangaroo",
+      "translationZh": "有袋動物",
+      "exampleSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and grasp the fabric lip, my toes curling like a marsupial’s.",
+      "clozeSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and grasp the fabric lip, my toes curling like a _____.",
+      "distractors": [
+        "an animal that lives most of its life underwater",
+        "a bird that cannot fly",
+        "an insect that can jump great distances"
+      ],
+      "surfaceForms": [
+        "marsupial"
+      ],
+      "clozeAnswerSurfaceForm": "marsupial’s"
+    },
+    {
+      "lemma": "scrabble",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to move away quickly and awkwardly, as if in a hurry or discomfort",
+      "translationZh": "慌亂地挪動；倉皇走避",
+      "exampleSentence": "I was conscious of scrabbling away from accidental closeness in front of strangers.",
+      "clozeSentence": "I was conscious of _____ away from accidental closeness in front of strangers.",
+      "distractors": [
+        "to walk with calm, steady steps",
+        "to speak in a whisper",
+        "to sit quietly without moving"
+      ],
+      "surfaceForms": [
+        "scrabbling"
+      ],
+      "clozeAnswerSurfaceForm": "scrabbling"
+    },
+    {
+      "lemma": "coordinated",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "able to move different parts of the body smoothly together",
+      "translationZh": "（動作）協調的",
+      "exampleSentence": "He wasn’t coordinated, didn’t have a clear sense of how to fall and rise.",
+      "clozeSentence": "He wasn’t _____, didn’t have a clear sense of how to fall and rise.",
+      "distractors": [
+        "extremely strong and muscular",
+        "unable to stay still for long",
+        "skilled at solving difficult problems"
+      ],
+      "surfaceForms": [
+        "coordinated"
+      ],
+      "clozeAnswerSurfaceForm": "coordinated"
+    },
+    {
+      "lemma": "backyard",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "an area of grass or garden behind a house",
+      "translationZh": "後院",
+      "exampleSentence": "The grass backyard was almost entirely taken up by a trampoline, the large, round kind, high up on metal legs.",
+      "clozeSentence": "The grass _____ was almost entirely taken up by a trampoline, the large, round kind, high up on metal legs.",
+      "distractors": [
+        "a small storage room inside a house",
+        "a paved area used for parking cars",
+        "a tall fence that separates two properties"
+      ],
+      "surfaceForms": [
+        "backyard"
+      ],
+      "clozeAnswerSurfaceForm": "backyard"
+    },
+    {
+      "lemma": "slant",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "sloping or leaning at an angle, not straight or level",
+      "translationZh": "傾斜的",
+      "exampleSentence": "The light was different in San Francisco—we called it The City—slanting and yellow and more watery than it was in Palo Alto.",
+      "clozeSentence": "The light was different in San Francisco—we called it The City—_____ and yellow and more watery than it was in Palo Alto.",
+      "distractors": [
+        "extremely bright and dazzling",
+        "moving in a circular pattern",
+        "completely still and unmoving"
+      ],
+      "surfaceForms": [
+        "slanting"
+      ],
+      "clozeAnswerSurfaceForm": "City—slanting"
+    },
+    {
+      "lemma": "slick",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a layer of oil spread across the surface of water",
+      "translationZh": "浮油；油膜",
+      "exampleSentence": "The surface was the size of a small pool and caught light like an oil slick.",
+      "clozeSentence": "The surface was the size of a small pool and caught light like an oil _____.",
+      "distractors": [
+        "a small hole in the ground filled with water",
+        "a bright light used for signaling",
+        "a rough, uneven road surface"
+      ],
+      "surfaceForms": [
+        "slick"
+      ],
+      "clozeAnswerSurfaceForm": "slick"
+    },
+    {
+      "lemma": "trampoline",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "a piece of springy equipment with a stretched sheet for bouncing on",
+      "translationZh": "彈跳床",
+      "exampleSentence": "The grass backyard was almost entirely taken up by a trampoline, the large, round kind, high up on metal legs.",
+      "clozeSentence": "The grass backyard was almost entirely taken up by a _____, the large, round kind, high up on metal legs.",
+      "distractors": [
+        "a large inflatable pool for swimming",
+        "a padded mat used for stretching exercises",
+        "a spinning ride found at amusement parks"
+      ],
+      "surfaceForms": [
+        "trampoline"
+      ],
+      "clozeAnswerSurfaceForm": "trampoline"
+    },
+    {
+      "lemma": "tuck",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to push or fold something neatly into a small space",
+      "translationZh": "塞入；收攏",
+      "exampleSentence": "The house, too, was beautiful, tall with soft wool carpets that tucked into the walls and the largest television I’d ever seen.",
+      "clozeSentence": "The house, too, was beautiful, tall with soft wool carpets that _____ into the walls and the largest television I’d ever seen.",
+      "distractors": [
+        "to hang loosely from a high point",
+        "to spread out flat over a wide area",
+        "to wear away gradually over time"
+      ],
+      "surfaceForms": [
+        "tucked"
+      ],
+      "clozeAnswerSurfaceForm": "tucked"
+    },
+    {
+      "lemma": "watery",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "containing a lot of water, or resembling water",
+      "translationZh": "水汪汪的；稀薄的",
+      "exampleSentence": "The light was different in San Francisco—we called it The City—slanting and yellow and more watery than it was in Palo Alto.",
+      "clozeSentence": "The light was different in San Francisco—we called it The City—slanting and yellow and more _____ than it was in Palo Alto.",
+      "distractors": [
+        "extremely bright and colorful",
+        "thick and difficult to move through",
+        "completely dry and dusty"
+      ],
+      "surfaceForms": [
+        "watery"
+      ],
+      "clozeAnswerSurfaceForm": "watery"
+    },
+    {
+      "lemma": "flannel",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a soft woven cloth, often used to make shirts",
+      "translationZh": "法蘭絨",
+      "exampleSentence": "My father was on the trampoline, wearing jeans and a flannel shirt.",
+      "clozeSentence": "My father was on the trampoline, wearing jeans and a _____ shirt.",
+      "distractors": [
+        "a shiny, waterproof material",
+        "a type of stretchy sports fabric",
+        "a thick material used only for winter coats"
+      ],
+      "surfaceForms": [
+        "flannel"
+      ],
+      "clozeAnswerSurfaceForm": "flannel"
+    },
+    {
+      "lemma": "underwear",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "clothing worn under other clothes, next to the skin",
+      "translationZh": "內衣褲",
+      "exampleSentence": "My yellow shorts belled out in the updraft and I worried that he and everyone on the lawn beneath us would see my underwear.",
+      "clozeSentence": "My yellow shorts belled out in the updraft and I worried that he and everyone on the lawn beneath us would see my _____.",
+      "distractors": [
+        "clothing worn over other clothes for warmth",
+        "shoes worn only indoors",
+        "a piece of jewelry worn around the neck"
+      ],
+      "surfaceForms": [
+        "underwear"
+      ],
+      "clozeAnswerSurfaceForm": "underwear"
+    },
+    {
+      "lemma": "updraft",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "an upward movement of air",
+      "translationZh": "上升氣流",
+      "exampleSentence": "My yellow shorts belled out in the updraft and I worried that he and everyone on the lawn beneath us would see my underwear.",
+      "clozeSentence": "My yellow shorts belled out in the _____ and I worried that he and everyone on the lawn beneath us would see my underwear.",
+      "distractors": [
+        "a sudden drop in temperature",
+        "a strong smell that spreads quickly",
+        "a loud noise caused by wind"
+      ],
+      "surfaceForms": [
+        "updraft"
+      ],
+      "clozeAnswerSurfaceForm": "updraft"
+    },
+    {
+      "lemma": "complementary",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "combining well with something else to form a good whole",
+      "translationZh": "互補的",
+      "exampleSentence": "Despite my efforts to stay on separate but complementary trajectories, we almost hit each other in midair.",
+      "clozeSentence": "Despite my efforts to stay on separate but _____ trajectories, we almost hit each other in midair.",
+      "distractors": [
+        "exactly identical in every way",
+        "opposed to or in conflict with something",
+        "no longer useful or needed"
+      ],
+      "surfaceForms": [
+        "complementary"
+      ],
+      "clozeAnswerSurfaceForm": "complementary"
+    },
+    {
+      "lemma": "midair",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "in the air, above the ground",
+      "translationZh": "在半空中",
+      "exampleSentence": "Despite my efforts to stay on separate but complementary trajectories, we almost hit each other in midair.",
+      "clozeSentence": "Despite my efforts to stay on separate but complementary trajectories, we almost hit each other in _____.",
+      "distractors": [
+        "on the ground, close to the floor",
+        "underwater, below the surface",
+        "inside a building or room"
+      ],
+      "surfaceForms": [
+        "midair"
+      ],
+      "clozeAnswerSurfaceForm": "midair"
+    },
+    {
+      "lemma": "trajectory",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "the curved path that something follows as it moves through the air",
+      "translationZh": "軌跡；軌道",
+      "exampleSentence": "Despite my efforts to stay on separate but complementary trajectories, we almost hit each other in midair.",
+      "clozeSentence": "Despite my efforts to stay on separate but complementary _____, we almost hit each other in midair.",
+      "distractors": [
+        "the exact moment something starts moving",
+        "the total distance something has traveled",
+        "a sudden change in direction"
+      ],
+      "surfaceForms": [
+        "trajectories"
+      ],
+      "clozeAnswerSurfaceForm": "trajectories"
+    },
+    {
+      "lemma": "lawn",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "an area of short, cut grass, usually near a house",
+      "translationZh": "草坪",
+      "exampleSentence": "Nor did the trampoline have netted walls; we might fly off into the lawn where people were standing, or over the fence.",
+      "clozeSentence": "Nor did the trampoline have netted walls; we might fly off into the _____ where people were standing, or over the fence.",
+      "distractors": [
+        "a wooden deck attached to a house",
+        "a paved path through a garden",
+        "a fenced area for growing vegetables"
+      ],
+      "surfaceForms": [
+        "lawn"
+      ],
+      "clozeAnswerSurfaceForm": "lawn"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "hoist",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "to lift or raise something, often with effort",
+      "translationZh": "舉起；吊起",
+      "exampleSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and grasp the fabric lip, my toes curling like a marsupial’s.",
+      "clozeSentence": "I walked over and someone, not my mother, _____ me, brought me high enough to lift my leg and grasp the fabric lip, my toes curling like a marsupial’s.",
+      "distractors": [
+        "to gently place something down",
+        "to push something away forcefully",
+        "to carry something for a long distance"
+      ],
+      "surfaceForms": [
+        "hoisted"
+      ],
+      "clozeAnswerSurfaceForm": "hoisted"
+    },
+    {
+      "lemma": "cadence",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a regular rhythmic pattern of movement or sound",
+      "translationZh": "節奏；韻律",
+      "exampleSentence": "I assumed my father and I would bounce the way I’d learned in my gymnastics lessons, but with two people it was different, the cadence irregular and jostling.",
+      "clozeSentence": "I assumed my father and I would bounce the way I’d learned in my gymnastics lessons, but with two people it was different, the _____ irregular and jostling.",
+      "distractors": [
+        "a sudden loud noise that startles people",
+        "the exact path something travels through the air",
+        "a feeling of nervousness before an event"
+      ],
+      "surfaceForms": [
+        "cadence"
+      ],
+      "clozeAnswerSurfaceForm": "cadence"
+    },
+    {
+      "lemma": "closeness",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "the state of being physically or emotionally near someone",
+      "translationZh": "親近；接近",
+      "exampleSentence": "I was conscious of scrabbling away from accidental closeness in front of strangers.",
+      "clozeSentence": "I was conscious of scrabbling away from accidental _____ in front of strangers.",
+      "distractors": [
+        "a strong disagreement between two people",
+        "the ability to remember details clearly",
+        "a sudden change in someone's mood"
+      ],
+      "surfaceForms": [
+        "closeness"
+      ],
+      "clozeAnswerSurfaceForm": "closeness"
+    },
+    {
+      "lemma": "marsupial",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a mammal that carries its young in a pouch, like a kangaroo",
+      "translationZh": "有袋動物",
+      "exampleSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and grasp the fabric lip, my toes curling like a marsupial’s.",
+      "clozeSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and grasp the fabric lip, my toes curling like a _____.",
+      "distractors": [
+        "an animal that lives most of its life underwater",
+        "a bird that cannot fly",
+        "an insect that can jump great distances"
+      ],
+      "surfaceForms": [
+        "marsupial"
+      ],
+      "clozeAnswerSurfaceForm": "marsupial’s"
+    },
+    {
+      "lemma": "scrabble",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to move away quickly and awkwardly, as if in a hurry or discomfort",
+      "translationZh": "慌亂地挪動；倉皇走避",
+      "exampleSentence": "I was conscious of scrabbling away from accidental closeness in front of strangers.",
+      "clozeSentence": "I was conscious of _____ away from accidental closeness in front of strangers.",
+      "distractors": [
+        "to walk with calm, steady steps",
+        "to speak in a whisper",
+        "to sit quietly without moving"
+      ],
+      "surfaceForms": [
+        "scrabbling"
+      ],
+      "clozeAnswerSurfaceForm": "scrabbling"
+    },
+    {
+      "lemma": "curl",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to bend or twist into a rounded shape",
+      "translationZh": "捲曲；蜷曲",
+      "exampleSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and grasp the fabric lip, my toes curling like a marsupial’s.",
+      "clozeSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and grasp the fabric lip, my toes _____ like a marsupial’s.",
+      "distractors": [
+        "to stretch out as far as possible",
+        "to shake rapidly back and forth",
+        "to become stiff and hard"
+      ],
+      "surfaceForms": [
+        "curling"
+      ],
+      "clozeAnswerSurfaceForm": "curling"
+    },
+    {
+      "lemma": "fabric",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "cloth or woven material",
+      "translationZh": "布料；織物",
+      "exampleSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and grasp the fabric lip, my toes curling like a marsupial’s.",
+      "clozeSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and grasp the _____ lip, my toes curling like a marsupial’s.",
+      "distractors": [
+        "a metal frame that supports a structure",
+        "a thin layer of paint or coating",
+        "a small hole or tear in something"
+      ],
+      "surfaceForms": [
+        "fabric"
+      ],
+      "clozeAnswerSurfaceForm": "fabric"
+    },
+    {
+      "lemma": "grasp",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to take and hold something firmly with the hand",
+      "translationZh": "抓住；握緊",
+      "exampleSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and grasp the fabric lip, my toes curling like a marsupial’s.",
+      "clozeSentence": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and _____ the fabric lip, my toes curling like a marsupial’s.",
+      "distractors": [
+        "to gently touch something without holding it",
+        "to throw something a short distance",
+        "to look closely at something"
+      ],
+      "surfaceForms": [
+        "grasp"
+      ],
+      "clozeAnswerSurfaceForm": "grasp"
+    },
+    {
+      "lemma": "intimate",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "very personal or close, sometimes uncomfortably so",
+      "translationZh": "親密的",
+      "exampleSentence": "I prayed we wouldn’t touch; it would be too intimate.",
+      "clozeSentence": "I prayed we wouldn’t touch; it would be too _____.",
+      "distractors": [
+        "extremely formal and distant",
+        "loud and attention-seeking",
+        "confusing and hard to understand"
+      ],
+      "surfaceForms": [
+        "intimate"
+      ],
+      "clozeAnswerSurfaceForm": "intimate"
+    },
+    {
+      "lemma": "jostle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to bump or push against roughly, especially in a crowd",
+      "translationZh": "推擠；碰撞",
+      "exampleSentence": "I assumed my father and I would bounce the way I’d learned in my gymnastics lessons, but with two people it was different, the cadence irregular and jostling.",
+      "clozeSentence": "I assumed my father and I would bounce the way I’d learned in my gymnastics lessons, but with two people it was different, the cadence irregular and _____.",
+      "distractors": [
+        "to move slowly and carefully",
+        "to wait patiently in a line",
+        "to speak loudly to get attention"
+      ],
+      "surfaceForms": [
+        "jostling"
+      ],
+      "clozeAnswerSurfaceForm": "jostling"
+    },
+    {
+      "lemma": "coordinated",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "able to move different parts of the body smoothly together",
+      "translationZh": "（動作）協調的",
+      "exampleSentence": "He wasn’t coordinated, didn’t have a clear sense of how to fall and rise.",
+      "clozeSentence": "He wasn’t _____, didn’t have a clear sense of how to fall and rise.",
+      "distractors": [
+        "extremely strong and muscular",
+        "unable to stay still for long",
+        "skilled at solving difficult problems"
+      ],
+      "surfaceForms": [
+        "coordinated"
+      ],
+      "clozeAnswerSurfaceForm": "coordinated"
+    },
+    {
+      "lemma": "trampoline",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "a piece of springy equipment with a stretched sheet for bouncing on",
+      "translationZh": "彈跳床",
+      "exampleSentence": "The grass backyard was almost entirely taken up by a trampoline, the large, round kind, high up on metal legs.",
+      "clozeSentence": "The grass backyard was almost entirely taken up by a _____, the large, round kind, high up on metal legs.",
+      "distractors": [
+        "a large inflatable pool for swimming",
+        "a padded mat used for stretching exercises",
+        "a spinning ride found at amusement parks"
+      ],
+      "surfaceForms": [
+        "trampoline"
+      ],
+      "clozeAnswerSurfaceForm": "trampoline"
+    },
+    {
+      "lemma": "backyard",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "an area of grass or garden behind a house",
+      "translationZh": "後院",
+      "exampleSentence": "The grass backyard was almost entirely taken up by a trampoline, the large, round kind, high up on metal legs.",
+      "clozeSentence": "The grass _____ was almost entirely taken up by a trampoline, the large, round kind, high up on metal legs.",
+      "distractors": [
+        "a small storage room inside a house",
+        "a paved area used for parking cars",
+        "a tall fence that separates two properties"
+      ],
+      "surfaceForms": [
+        "backyard"
+      ],
+      "clozeAnswerSurfaceForm": "backyard"
+    },
+    {
+      "lemma": "slant",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "sloping or leaning at an angle, not straight or level",
+      "translationZh": "傾斜的",
+      "exampleSentence": "The light was different in San Francisco—we called it The City—slanting and yellow and more watery than it was in Palo Alto.",
+      "clozeSentence": "The light was different in San Francisco—we called it The City—_____ and yellow and more watery than it was in Palo Alto.",
+      "distractors": [
+        "extremely bright and dazzling",
+        "moving in a circular pattern",
+        "completely still and unmoving"
+      ],
+      "surfaceForms": [
+        "slanting"
+      ],
+      "clozeAnswerSurfaceForm": "City—slanting"
+    },
+    {
+      "lemma": "slick",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a layer of oil spread across the surface of water",
+      "translationZh": "浮油；油膜",
+      "exampleSentence": "The surface was the size of a small pool and caught light like an oil slick.",
+      "clozeSentence": "The surface was the size of a small pool and caught light like an oil _____.",
+      "distractors": [
+        "a small hole in the ground filled with water",
+        "a bright light used for signaling",
+        "a rough, uneven road surface"
+      ],
+      "surfaceForms": [
+        "slick"
+      ],
+      "clozeAnswerSurfaceForm": "slick"
+    },
+    {
+      "lemma": "tuck",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to push or fold something neatly into a small space",
+      "translationZh": "塞入；收攏",
+      "exampleSentence": "The house, too, was beautiful, tall with soft wool carpets that tucked into the walls and the largest television I’d ever seen.",
+      "clozeSentence": "The house, too, was beautiful, tall with soft wool carpets that _____ into the walls and the largest television I’d ever seen.",
+      "distractors": [
+        "to hang loosely from a high point",
+        "to spread out flat over a wide area",
+        "to wear away gradually over time"
+      ],
+      "surfaceForms": [
+        "tucked"
+      ],
+      "clozeAnswerSurfaceForm": "tucked"
+    },
+    {
+      "lemma": "watery",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "containing a lot of water, or resembling water",
+      "translationZh": "水汪汪的；稀薄的",
+      "exampleSentence": "The light was different in San Francisco—we called it The City—slanting and yellow and more watery than it was in Palo Alto.",
+      "clozeSentence": "The light was different in San Francisco—we called it The City—slanting and yellow and more _____ than it was in Palo Alto.",
+      "distractors": [
+        "extremely bright and colorful",
+        "thick and difficult to move through",
+        "completely dry and dusty"
+      ],
+      "surfaceForms": [
+        "watery"
+      ],
+      "clozeAnswerSurfaceForm": "watery"
+    },
+    {
+      "lemma": "updraft",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "an upward movement of air",
+      "translationZh": "上升氣流",
+      "exampleSentence": "My yellow shorts belled out in the updraft and I worried that he and everyone on the lawn beneath us would see my underwear.",
+      "clozeSentence": "My yellow shorts belled out in the _____ and I worried that he and everyone on the lawn beneath us would see my underwear.",
+      "distractors": [
+        "a sudden drop in temperature",
+        "a strong smell that spreads quickly",
+        "a loud noise caused by wind"
+      ],
+      "surfaceForms": [
+        "updraft"
+      ],
+      "clozeAnswerSurfaceForm": "updraft"
+    },
+    {
+      "lemma": "complementary",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "combining well with something else to form a good whole",
+      "translationZh": "互補的",
+      "exampleSentence": "Despite my efforts to stay on separate but complementary trajectories, we almost hit each other in midair.",
+      "clozeSentence": "Despite my efforts to stay on separate but _____ trajectories, we almost hit each other in midair.",
+      "distractors": [
+        "exactly identical in every way",
+        "opposed to or in conflict with something",
+        "no longer useful or needed"
+      ],
+      "surfaceForms": [
+        "complementary"
+      ],
+      "clozeAnswerSurfaceForm": "complementary"
+    },
+    {
+      "lemma": "trajectory",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "the curved path that something follows as it moves through the air",
+      "translationZh": "軌跡；軌道",
+      "exampleSentence": "Despite my efforts to stay on separate but complementary trajectories, we almost hit each other in midair.",
+      "clozeSentence": "Despite my efforts to stay on separate but complementary _____, we almost hit each other in midair.",
+      "distractors": [
+        "the exact moment something starts moving",
+        "the total distance something has traveled",
+        "a sudden change in direction"
+      ],
+      "surfaceForms": [
+        "trajectories"
+      ],
+      "clozeAnswerSurfaceForm": "trajectories"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "translation",
+      "wordLemma": "intimate",
+      "prompt": "親密的",
+      "options": [
+        "hoist",
+        "intimate",
+        "cadence",
+        "coordinated"
+      ],
+      "answer": "intimate"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "hoist",
+      "prompt": "hoist",
+      "options": [
+        "to carry something for a long distance",
+        "to lift or raise something, often with effort",
+        "to gently place something down",
+        "to push something away forcefully"
+      ],
+      "answer": "to lift or raise something, often with effort"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "trampoline",
+      "prompt": "彈跳床",
+      "options": [
+        "complementary",
+        "coordinated",
+        "closeness",
+        "trampoline"
+      ],
+      "answer": "trampoline"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "complementary",
+      "prompt": "complementary",
+      "options": [
+        "exactly identical in every way",
+        "opposed to or in conflict with something",
+        "combining well with something else to form a good whole",
+        "no longer useful or needed"
+      ],
+      "answer": "combining well with something else to form a good whole"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "watery",
+      "prompt": "The light was different in San Francisco—we called it The City—slanting and yellow and more _____ than it was in Palo Alto.",
+      "options": [
+        "backyard",
+        "watery",
+        "grasp",
+        "intimate"
+      ],
+      "answer": "watery"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "fabric",
+      "prompt": "fabric",
+      "options": [
+        "a small hole or tear in something",
+        "cloth or woven material",
+        "a thin layer of paint or coating",
+        "a metal frame that supports a structure"
+      ],
+      "answer": "cloth or woven material"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "slant",
+      "prompt": "The light was different in San Francisco—we called it The City—_____ and yellow and more watery than it was in Palo Alto.",
+      "options": [
+        "intimate",
+        "City—slanting",
+        "trajectories",
+        "trampoline"
+      ],
+      "answer": "City—slanting"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "scrabble",
+      "prompt": "I was conscious of _____ away from accidental closeness in front of strangers.",
+      "options": [
+        "complementary",
+        "updraft",
+        "coordinated",
+        "scrabbling"
+      ],
+      "answer": "scrabbling"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "grasp",
+      "prompt": "I walked over and someone, not my mother, hoisted me, brought me high enough to lift my leg and _____ the fabric lip, my toes curling like a marsupial’s.",
+      "options": [
+        "watery",
+        "marsupial’s",
+        "City—slanting",
+        "grasp"
+      ],
+      "answer": "grasp"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "marsupial",
+      "prompt": "marsupial",
+      "options": [
+        "an animal that lives most of its life underwater",
+        "a bird that cannot fly",
+        "a mammal that carries its young in a pouch, like a kangaroo",
+        "an insect that can jump great distances"
+      ],
+      "answer": "a mammal that carries its young in a pouch, like a kangaroo"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "updraft",
+      "prompt": "上升氣流",
+      "options": [
+        "tuck",
+        "updraft",
+        "cadence",
+        "slant"
+      ],
+      "answer": "updraft"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "tuck",
+      "prompt": "tuck",
+      "options": [
+        "to spread out flat over a wide area",
+        "to wear away gradually over time",
+        "to hang loosely from a high point",
+        "to push or fold something neatly into a small space"
+      ],
+      "answer": "to push or fold something neatly into a small space"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "curl",
+      "prompt": "捲曲；蜷曲",
+      "options": [
+        "watery",
+        "marsupial",
+        "curl",
+        "trajectory"
+      ],
+      "answer": "curl"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "coordinated",
+      "prompt": "He wasn’t _____, didn’t have a clear sense of how to fall and rise.",
+      "options": [
+        "closeness",
+        "coordinated",
+        "grasp",
+        "backyard"
+      ],
+      "answer": "coordinated"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "slick",
+      "prompt": "浮油；油膜",
+      "options": [
+        "fabric",
+        "trampoline",
+        "watery",
+        "slick"
+      ],
+      "answer": "slick"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "trajectory",
+      "prompt": "Despite my efforts to stay on separate but complementary _____, we almost hit each other in midair.",
+      "options": [
+        "closeness",
+        "intimate",
+        "trajectories",
+        "backyard"
+      ],
+      "answer": "trajectories"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "closeness",
+      "prompt": "親近；接近",
+      "options": [
+        "closeness",
+        "marsupial",
+        "curl",
+        "coordinated"
+      ],
+      "answer": "closeness"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "jostle",
+      "prompt": "jostle",
+      "options": [
+        "to speak loudly to get attention",
+        "to bump or push against roughly, especially in a crowd",
+        "to wait patiently in a line",
+        "to move slowly and carefully"
+      ],
+      "answer": "to bump or push against roughly, especially in a crowd"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "backyard",
+      "prompt": "backyard",
+      "options": [
+        "a tall fence that separates two properties",
+        "a paved area used for parking cars",
+        "an area of grass or garden behind a house",
+        "a small storage room inside a house"
+      ],
+      "answer": "an area of grass or garden behind a house"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "cadence",
+      "prompt": "I assumed my father and I would bounce the way I’d learned in my gymnastics lessons, but with two people it was different, the _____ irregular and jostling.",
+      "options": [
+        "scrabbling",
+        "cadence",
+        "trampoline",
+        "tucked"
+      ],
+      "answer": "cadence"
+    }
+  ]
+}

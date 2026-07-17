@@ -1,0 +1,1361 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 2,
+  "partTitle": "Lifelines",
+  "sectionIndex": 3,
+  "paragraphs": [
+    "One weekend a friend from school named Daniela and her parents took me to a musical concert. I wore heavy-gauge white wool tights. I had to pee in the middle of the performance but it wasn’t possible to leave. I held it for as long as I could, and then finally, not able to hold it any longer, I peed in my tights. (I was relieved to notice, when the lights turned on, that you couldn’t tell from looking that they were soaked).",
+    "In the bathroom at intermission, I tried to flush the tights down the toilet. They gathered near the hole, stuck, a twirl of sodden fabric. When I left the stall, there was a line out of the bathroom; the next person in line, a woman, advanced toward the stall I left. “I don’t know if you want to use that one,” I said to her, using my best diction, as if she and I were conspirators. “There’s a pair of children’s tights in the toilet.” The woman gave me a strange look, and it was only after I walked out that I realized that I’d given myself away.",
+    "After the show my mother took Daniela and me for pizza at Applewood, and as we walked back to the car, we took turns swinging her cloth purse by the long handle, making huge and violent circles above the sidewalk. Daniela whipped it around. An X-Acto blade my mother used for art projects must have made its way to the bottom, come uncapped, and poked through the fabric. The bottom of the bag brushed against the top of my wrist and slashed it open. Later, it developed into a scar an inch long, vertical, bisecting my forearm, an “I” shape that was not unattractive and that I have become used to. For a while she felt guilty and could hardly look at the scar. But then years later she would point and exclaim, “I signed you!” like I was her art.",
+    "Sometimes my mother remarked how her own mother, Virginia, wouldn’t have done this or that: wouldn’t have taken her to a café to get cake, or intervened on her behalf in school, or brought her snacks in bed when she was hungry—and the summation of these small comments, as far as I understood, at the very least, was that her mother had withheld from her the elements of my own childhood that I liked the most.",
+    "“When I was little,” she said, “my mother noticed I had artistic talent, and she went out and bought my sister Linda an easel and an elaborate paint set. Then she said I wasn’t allowed to touch it.”",
+    "I wanted more stories like that one—stories of Virginia’s cruelty—but instead she mostly told me about how her mother was a great cook and had strung up fat hand-cut noodles around the kitchen to dry like socks, had insisted on buying feather duvets when this was not common. Once, on a snowy day, Virginia looked out the window and saw two bright-red cardinals sitting on a branch and decided she would buy herself a pair of red shoes, and did. Through Virginia, we were related to the late Branch Rickey, who was her great-uncle and the general manager of the Brooklyn Dodgers, the man who helped get Jackie Robinson into Major League Baseball. It was important to defend Virginia, my mother implied, even before I knew what we were defending her against.",
+    "“My first memory was as a baby in my crib, looking around, noticing how meager the room was,” she said. “As if I’d come from some other place that was considerably nicer.” In her stories of childhood, she was sometimes defenseless and at other times powerful. She was required to wear skirts and flimsy coats to school in the freezing Ohio winters; she had the initiative and independence to save cereal tokens and trade them for binoculars and went wandering and bird-watching alone at dawn. Now she was looking for something much better than what she’d ever experienced before—she wanted it for both of us—something exquisite that she could imagine but that we hadn’t seen or tasted yet."
+  ],
+  "words": [
+    {
+      "lemma": "whip",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to move something quickly and suddenly",
+      "translationZh": "迅速揮動；猛然轉動",
+      "exampleSentence": "Daniela whipped it around.",
+      "clozeSentence": "Daniela _____ it around.",
+      "distractors": [
+        "to fold something carefully",
+        "to place something down gently",
+        "to tie something into a knot"
+      ],
+      "surfaceForms": [
+        "whipped"
+      ],
+      "clozeAnswerSurfaceForm": "whipped"
+    },
+    {
+      "lemma": "cruelty",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "behavior that causes pain or suffering to others",
+      "translationZh": "殘忍；殘酷",
+      "exampleSentence": "I wanted more stories like that one—stories of Virginia’s cruelty—but instead she mostly told me about how her mother was a great cook and had strung up fat hand-cut noodles around the kitchen to dry like socks, had insisted on buying feather duvets when this was not common.",
+      "clozeSentence": "I wanted more stories like that one—stories of Virginia’s _____—but instead she mostly told me about how her mother was a great cook and had strung up fat hand-cut noodles around the kitchen to dry like socks, had insisted on buying feather duvets when this was not common.",
+      "distractors": [
+        "a strong feeling of admiration",
+        "the state of being generous with money",
+        "a habit of telling jokes"
+      ],
+      "surfaceForms": [
+        "cruelty"
+      ],
+      "clozeAnswerSurfaceForm": "cruelty—but"
+    },
+    {
+      "lemma": "heavy-gauge",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "made of thick, heavy material or thread",
+      "translationZh": "厚重材質的；粗厚的",
+      "exampleSentence": "I wore heavy-gauge white wool tights.",
+      "clozeSentence": "I wore _____ white wool tights.",
+      "distractors": [
+        "extremely light and delicate",
+        "designed to be waterproof",
+        "produced by hand rather than machine"
+      ],
+      "surfaceForms": [
+        "heavy-gauge"
+      ],
+      "clozeAnswerSurfaceForm": "heavy-gauge"
+    },
+    {
+      "lemma": "pee",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to urinate; to pass liquid waste from the body",
+      "translationZh": "小便；尿尿",
+      "exampleSentence": "I had to pee in the middle of the performance but it wasn’t possible to leave.",
+      "clozeSentence": "I had to _____ in the middle of the performance but it wasn’t possible to leave.",
+      "distractors": [
+        "to feel very tired suddenly",
+        "to laugh uncontrollably",
+        "to cry quietly"
+      ],
+      "surfaceForms": [
+        "pee",
+        "peed"
+      ],
+      "clozeAnswerSurfaceForm": "pee"
+    },
+    {
+      "lemma": "relieve",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "feeling less worried after a problem is solved or avoided",
+      "translationZh": "感到寬慰的；放心的",
+      "exampleSentence": "I held it for as long as I could, and then finally, not able to hold it any longer, I peed in my tights. (I was relieved to notice, when the lights turned on, that you couldn’t tell from looking that they were soaked).",
+      "clozeSentence": "I held it for as long as I could, and then finally, not able to hold it any longer, I peed in my tights. (I was _____ to notice, when the lights turned on, that you couldn’t tell from looking that they were soaked).",
+      "distractors": [
+        "feeling extremely angry about something",
+        "feeling confused about a decision",
+        "feeling proud of an achievement"
+      ],
+      "surfaceForms": [
+        "relieved"
+      ],
+      "clozeAnswerSurfaceForm": "relieved"
+    },
+    {
+      "lemma": "soak",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "completely wet, having absorbed a lot of liquid",
+      "translationZh": "濕透的；浸濕的",
+      "exampleSentence": "I held it for as long as I could, and then finally, not able to hold it any longer, I peed in my tights. (I was relieved to notice, when the lights turned on, that you couldn’t tell from looking that they were soaked).",
+      "clozeSentence": "I held it for as long as I could, and then finally, not able to hold it any longer, I peed in my tights. (I was relieved to notice, when the lights turned on, that you couldn’t tell from looking that they were _____).",
+      "distractors": [
+        "completely dry and dusty",
+        "torn into small pieces",
+        "faded in color from the sun"
+      ],
+      "surfaceForms": [
+        "soaked"
+      ],
+      "clozeAnswerSurfaceForm": "soaked"
+    },
+    {
+      "lemma": "flush",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to clean something by making water pass through it quickly",
+      "translationZh": "沖（水）；沖洗",
+      "exampleSentence": "In the bathroom at intermission, I tried to flush the tights down the toilet.",
+      "clozeSentence": "In the bathroom at intermission, I tried to _____ the tights down the toilet.",
+      "distractors": [
+        "to fold something into a small shape",
+        "to attach two objects together",
+        "to paint over a surface"
+      ],
+      "surfaceForms": [
+        "flush"
+      ],
+      "clozeAnswerSurfaceForm": "flush"
+    },
+    {
+      "lemma": "fabric",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "cloth or woven material used to make things like clothes",
+      "translationZh": "布料；織物",
+      "exampleSentence": "They gathered near the hole, stuck, a twirl of sodden fabric.",
+      "clozeSentence": "They gathered near the hole, stuck, a twirl of sodden _____.",
+      "distractors": [
+        "a type of building material made of stone",
+        "a liquid used for cleaning clothes",
+        "a pattern used in mathematics"
+      ],
+      "surfaceForms": [
+        "fabric"
+      ],
+      "clozeAnswerSurfaceForm": "fabric"
+    },
+    {
+      "lemma": "slash",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to cut something with a quick, sweeping movement",
+      "translationZh": "割破；劃破",
+      "exampleSentence": "The bottom of the bag brushed against the top of my wrist and slashed it open.",
+      "clozeSentence": "The bottom of the bag brushed against the top of my wrist and _____ it open.",
+      "distractors": [
+        "to fold something neatly",
+        "to polish something until it shines",
+        "to tie something tightly together"
+      ],
+      "surfaceForms": [
+        "slashed"
+      ],
+      "clozeAnswerSurfaceForm": "slashed"
+    },
+    {
+      "lemma": "sodden",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "completely soaked with liquid; very wet and heavy",
+      "translationZh": "濕透的；濕漉漉的（文學用語）",
+      "exampleSentence": "They gathered near the hole, stuck, a twirl of sodden fabric.",
+      "clozeSentence": "They gathered near the hole, stuck, a twirl of _____ fabric.",
+      "distractors": [
+        "extremely light and airy",
+        "covered in dust or dirt",
+        "wrapped tightly in cloth"
+      ],
+      "surfaceForms": [
+        "sodden"
+      ],
+      "clozeAnswerSurfaceForm": "sodden"
+    },
+    {
+      "lemma": "twirl",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to turn or spin quickly and repeatedly",
+      "translationZh": "旋轉；打轉",
+      "exampleSentence": "They gathered near the hole, stuck, a twirl of sodden fabric.",
+      "clozeSentence": "They gathered near the hole, stuck, a _____ of sodden fabric.",
+      "distractors": [
+        "to fold something into a small square",
+        "to press something firmly downward",
+        "to break something into pieces"
+      ],
+      "surfaceForms": [
+        "twirl"
+      ],
+      "clozeAnswerSurfaceForm": "twirl"
+    },
+    {
+      "lemma": "conspirator",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a person who secretly plans something with others, often something harmful",
+      "translationZh": "共謀者；同謀",
+      "exampleSentence": "“I don’t know if you want to use that one,” I said to her, using my best diction, as if she and I were conspirators.",
+      "clozeSentence": "“I don’t know if you want to use that one,” I said to her, using my best diction, as if she and I were _____.",
+      "distractors": [
+        "people who give public speeches",
+        "people who repair machines for a living",
+        "people who travel frequently for work"
+      ],
+      "surfaceForms": [
+        "conspirators"
+      ],
+      "clozeAnswerSurfaceForm": "conspirators"
+    },
+    {
+      "lemma": "diction",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "the way someone chooses and pronounces words when speaking",
+      "translationZh": "措辭；發音方式",
+      "exampleSentence": "“I don’t know if you want to use that one,” I said to her, using my best diction, as if she and I were conspirators.",
+      "clozeSentence": "“I don’t know if you want to use that one,” I said to her, using my best _____, as if she and I were conspirators.",
+      "distractors": [
+        "a written record of a conversation",
+        "a formal agreement between two parties",
+        "the speed at which someone reads"
+      ],
+      "surfaceForms": [
+        "diction"
+      ],
+      "clozeAnswerSurfaceForm": "diction"
+    },
+    {
+      "lemma": "swing",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to move something back and forth or in a circular motion",
+      "translationZh": "擺動；搖晃",
+      "exampleSentence": "After the show my mother took Daniela and me for pizza at Applewood, and as we walked back to the car, we took turns swinging her cloth purse by the long handle, making huge and violent circles above the sidewalk.",
+      "clozeSentence": "After the show my mother took Daniela and me for pizza at Applewood, and as we walked back to the car, we took turns _____ her cloth purse by the long handle, making huge and violent circles above the sidewalk.",
+      "distractors": [
+        "to throw something a short distance",
+        "to fold something in half",
+        "to hold something very tightly"
+      ],
+      "surfaceForms": [
+        "swinging"
+      ],
+      "clozeAnswerSurfaceForm": "swinging"
+    },
+    {
+      "lemma": "blade",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the flat, sharp cutting part of a knife or tool",
+      "translationZh": "（刀、劍等的）刀刃",
+      "exampleSentence": "An X-Acto blade my mother used for art projects must have made its way to the bottom, come uncapped, and poked through the fabric.",
+      "clozeSentence": "An X-Acto _____ my mother used for art projects must have made its way to the bottom, come uncapped, and poked through the fabric.",
+      "distractors": [
+        "the handle of a cutting tool",
+        "a soft cloth used for cleaning",
+        "a small container for liquids"
+      ],
+      "surfaceForms": [
+        "blade"
+      ],
+      "clozeAnswerSurfaceForm": "blade"
+    },
+    {
+      "lemma": "project",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a planned piece of work, often creative or academic",
+      "translationZh": "（藝術或學術）專案；企劃",
+      "exampleSentence": "An X-Acto blade my mother used for art projects must have made its way to the bottom, come uncapped, and poked through the fabric.",
+      "clozeSentence": "An X-Acto blade my mother used for art _____ must have made its way to the bottom, come uncapped, and poked through the fabric.",
+      "distractors": [
+        "a formal complaint about a product",
+        "a small hand tool used for cutting",
+        "a type of decorative fabric"
+      ],
+      "surfaceForms": [
+        "projects"
+      ],
+      "clozeAnswerSurfaceForm": "projects"
+    },
+    {
+      "lemma": "uncap",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to remove the cap or cover from something",
+      "translationZh": "打開蓋子；拔掉蓋子",
+      "exampleSentence": "An X-Acto blade my mother used for art projects must have made its way to the bottom, come uncapped, and poked through the fabric.",
+      "clozeSentence": "An X-Acto blade my mother used for art projects must have made its way to the bottom, come _____, and poked through the fabric.",
+      "distractors": [
+        "to fill something completely with liquid",
+        "to break something into small pieces",
+        "to attach a lid tightly onto something"
+      ],
+      "surfaceForms": [
+        "uncapped"
+      ],
+      "clozeAnswerSurfaceForm": "uncapped"
+    },
+    {
+      "lemma": "bisect",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to divide something into two equal or roughly equal parts",
+      "translationZh": "把……一分為二；橫切",
+      "exampleSentence": "Later, it developed into a scar an inch long, vertical, bisecting my forearm, an “I” shape that was not unattractive and that I have become used to.",
+      "clozeSentence": "Later, it developed into a scar an inch long, vertical, _____ my forearm, an “I” shape that was not unattractive and that I have become used to.",
+      "distractors": [
+        "to join two things together tightly",
+        "to decorate the surface of something",
+        "to remove the outer layer of something"
+      ],
+      "surfaceForms": [
+        "bisecting"
+      ],
+      "clozeAnswerSurfaceForm": "bisecting"
+    },
+    {
+      "lemma": "forearm",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the part of the arm between the elbow and the wrist",
+      "translationZh": "前臂",
+      "exampleSentence": "Later, it developed into a scar an inch long, vertical, bisecting my forearm, an “I” shape that was not unattractive and that I have become used to.",
+      "clozeSentence": "Later, it developed into a scar an inch long, vertical, bisecting my _____, an “I” shape that was not unattractive and that I have become used to.",
+      "distractors": [
+        "the part of the leg between the knee and ankle",
+        "the joint that connects the arm to the shoulder",
+        "the back part of the hand"
+      ],
+      "surfaceForms": [
+        "forearm"
+      ],
+      "clozeAnswerSurfaceForm": "forearm"
+    },
+    {
+      "lemma": "scar",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a mark left on the skin after a wound has healed",
+      "translationZh": "疤痕",
+      "exampleSentence": "Later, it developed into a scar an inch long, vertical, bisecting my forearm, an “I” shape that was not unattractive and that I have become used to.",
+      "clozeSentence": "Later, it developed into a _____ an inch long, vertical, bisecting my forearm, an “I” shape that was not unattractive and that I have become used to.",
+      "distractors": [
+        "a soft spot on a piece of fruit",
+        "a decorative pattern on fabric",
+        "a type of bruise that appears suddenly"
+      ],
+      "surfaceForms": [
+        "scar"
+      ],
+      "clozeAnswerSurfaceForm": "scar"
+    },
+    {
+      "lemma": "unattractive",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "not pleasant or appealing to look at",
+      "translationZh": "不吸引人的；不好看的",
+      "exampleSentence": "Later, it developed into a scar an inch long, vertical, bisecting my forearm, an “I” shape that was not unattractive and that I have become used to.",
+      "clozeSentence": "Later, it developed into a scar an inch long, vertical, bisecting my forearm, an “I” shape that was not _____ and that I have become used to.",
+      "distractors": [
+        "extremely beautiful and eye-catching",
+        "unusually large in size",
+        "difficult to remove or clean"
+      ],
+      "surfaceForms": [
+        "unattractive"
+      ],
+      "clozeAnswerSurfaceForm": "unattractive"
+    },
+    {
+      "lemma": "vertical",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "positioned straight up and down, not sideways",
+      "translationZh": "垂直的；豎直的",
+      "exampleSentence": "Later, it developed into a scar an inch long, vertical, bisecting my forearm, an “I” shape that was not unattractive and that I have become used to.",
+      "clozeSentence": "Later, it developed into a scar an inch long, _____, bisecting my forearm, an “I” shape that was not unattractive and that I have become used to.",
+      "distractors": [
+        "positioned flat and level",
+        "curved in a circular shape",
+        "positioned at a slight angle"
+      ],
+      "surfaceForms": [
+        "vertical"
+      ],
+      "clozeAnswerSurfaceForm": "vertical"
+    },
+    {
+      "lemma": "exclaim",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to say something suddenly and loudly, showing strong emotion",
+      "translationZh": "驚呼；大聲喊叫",
+      "exampleSentence": "But then years later she would point and exclaim, “I signed you!” like I was her art.",
+      "clozeSentence": "But then years later she would point and _____, “I signed you!” like I was her art.",
+      "distractors": [
+        "to whisper something secretly",
+        "to write something down carefully",
+        "to explain something in great detail"
+      ],
+      "surfaceForms": [
+        "exclaim"
+      ],
+      "clozeAnswerSurfaceForm": "exclaim"
+    },
+    {
+      "lemma": "intervene",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to become involved in a situation to change its outcome",
+      "translationZh": "介入；干預",
+      "exampleSentence": "Sometimes my mother remarked how her own mother, Virginia, wouldn’t have done this or that: wouldn’t have taken her to a café to get cake, or intervened on her behalf in school, or brought her snacks in bed when she was hungry—and the summation of these small comments, as far as I understood, at the very least, was that her mother had withheld from her the elements of my own childhood that I liked the most.",
+      "clozeSentence": "Sometimes my mother remarked how her own mother, Virginia, wouldn’t have done this or that: wouldn’t have taken her to a café to get cake, or _____ on her behalf in school, or brought her snacks in bed when she was hungry—and the summation of these small comments, as far as I understood, at the very least, was that her mother had withheld from her the elements of my own childhood that I liked the most.",
+      "distractors": [
+        "to observe something from a distance",
+        "to remember something from the past",
+        "to agree with someone's opinion"
+      ],
+      "surfaceForms": [
+        "intervened"
+      ],
+      "clozeAnswerSurfaceForm": "intervened"
+    },
+    {
+      "lemma": "summation",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a summary or total combination of several things",
+      "translationZh": "總結；總和",
+      "exampleSentence": "Sometimes my mother remarked how her own mother, Virginia, wouldn’t have done this or that: wouldn’t have taken her to a café to get cake, or intervened on her behalf in school, or brought her snacks in bed when she was hungry—and the summation of these small comments, as far as I understood, at the very least, was that her mother had withheld from her the elements of my own childhood that I liked the most.",
+      "clozeSentence": "Sometimes my mother remarked how her own mother, Virginia, wouldn’t have done this or that: wouldn’t have taken her to a café to get cake, or intervened on her behalf in school, or brought her snacks in bed when she was hungry—and the _____ of these small comments, as far as I understood, at the very least, was that her mother had withheld from her the elements of my own childhood that I liked the most.",
+      "distractors": [
+        "a formal accusation made in court",
+        "a sudden change of plan",
+        "a private conversation between two people"
+      ],
+      "surfaceForms": [
+        "summation"
+      ],
+      "clozeAnswerSurfaceForm": "summation"
+    },
+    {
+      "lemma": "withhold",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to refuse to give something that someone wants or needs",
+      "translationZh": "保留；扣留（不給）",
+      "exampleSentence": "Sometimes my mother remarked how her own mother, Virginia, wouldn’t have done this or that: wouldn’t have taken her to a café to get cake, or intervened on her behalf in school, or brought her snacks in bed when she was hungry—and the summation of these small comments, as far as I understood, at the very least, was that her mother had withheld from her the elements of my own childhood that I liked the most.",
+      "clozeSentence": "Sometimes my mother remarked how her own mother, Virginia, wouldn’t have done this or that: wouldn’t have taken her to a café to get cake, or intervened on her behalf in school, or brought her snacks in bed when she was hungry—and the summation of these small comments, as far as I understood, at the very least, was that her mother had _____ from her the elements of my own childhood that I liked the most.",
+      "distractors": [
+        "to offer something generously",
+        "to explain something in great detail",
+        "to return something that was borrowed"
+      ],
+      "surfaceForms": [
+        "withheld"
+      ],
+      "clozeAnswerSurfaceForm": "withheld"
+    },
+    {
+      "lemma": "easel",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a wooden stand used to hold a painting while an artist works on it",
+      "translationZh": "畫架",
+      "exampleSentence": "“When I was little,” she said, “my mother noticed I had artistic talent, and she went out and bought my sister Linda an easel and an elaborate paint set.",
+      "clozeSentence": "“When I was little,” she said, “my mother noticed I had artistic talent, and she went out and bought my sister Linda an _____ and an elaborate paint set.",
+      "distractors": [
+        "a small brush used for fine details",
+        "a container for mixing paint colors",
+        "a type of frame for hanging pictures"
+      ],
+      "surfaceForms": [
+        "easel"
+      ],
+      "clozeAnswerSurfaceForm": "easel"
+    },
+    {
+      "lemma": "elaborate",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "made with great detail or complexity",
+      "translationZh": "精心製作的；複雜精細的",
+      "exampleSentence": "“When I was little,” she said, “my mother noticed I had artistic talent, and she went out and bought my sister Linda an easel and an elaborate paint set.",
+      "clozeSentence": "“When I was little,” she said, “my mother noticed I had artistic talent, and she went out and bought my sister Linda an easel and an _____ paint set.",
+      "distractors": [
+        "made quickly without much thought",
+        "kept extremely simple and plain",
+        "borrowed from someone else"
+      ],
+      "surfaceForms": [
+        "elaborate"
+      ],
+      "clozeAnswerSurfaceForm": "elaborate"
+    },
+    {
+      "lemma": "cardinal",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a North American songbird, the male of which has bright red feathers",
+      "translationZh": "紅雀（一種北美鳴禽）",
+      "exampleSentence": "Once, on a snowy day, Virginia looked out the window and saw two bright-red cardinals sitting on a branch and decided she would buy herself a pair of red shoes, and did.",
+      "clozeSentence": "Once, on a snowy day, Virginia looked out the window and saw two bright-red _____ sitting on a branch and decided she would buy herself a pair of red shoes, and did.",
+      "distractors": [
+        "a shape with four straight sides",
+        "a piece of furniture used for sitting",
+        "a strong wind that occurs in winter"
+      ],
+      "surfaceForms": [
+        "cardinals"
+      ],
+      "clozeAnswerSurfaceForm": "cardinals"
+    },
+    {
+      "lemma": "imply",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to suggest something without saying it directly",
+      "translationZh": "暗示；意味著",
+      "exampleSentence": "It was important to defend Virginia, my mother implied, even before I knew what we were defending her against.",
+      "clozeSentence": "It was important to defend Virginia, my mother _____, even before I knew what we were defending her against.",
+      "distractors": [
+        "to state something very clearly and directly",
+        "to deny something firmly",
+        "to repeat something several times"
+      ],
+      "surfaceForms": [
+        "implied"
+      ],
+      "clozeAnswerSurfaceForm": "implied"
+    },
+    {
+      "lemma": "crib",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a small bed with high sides for a baby",
+      "translationZh": "嬰兒床",
+      "exampleSentence": "“My first memory was as a baby in my crib, looking around, noticing how meager the room was,” she said.",
+      "clozeSentence": "“My first memory was as a baby in my _____, looking around, noticing how meager the room was,” she said.",
+      "distractors": [
+        "a small wooden table for eating",
+        "a soft chair used for resting",
+        "a container for storing toys"
+      ],
+      "surfaceForms": [
+        "crib"
+      ],
+      "clozeAnswerSurfaceForm": "crib"
+    },
+    {
+      "lemma": "meager",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "very small in amount and not enough",
+      "translationZh": "微薄的；不足的",
+      "exampleSentence": "“My first memory was as a baby in my crib, looking around, noticing how meager the room was,” she said.",
+      "clozeSentence": "“My first memory was as a baby in my crib, looking around, noticing how _____ the room was,” she said.",
+      "distractors": [
+        "extremely generous and plentiful",
+        "well organized and neat",
+        "brightly lit and cheerful"
+      ],
+      "surfaceForms": [
+        "meager"
+      ],
+      "clozeAnswerSurfaceForm": "meager"
+    },
+    {
+      "lemma": "considerably",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to a large degree; quite a lot",
+      "translationZh": "相當地；很大程度上",
+      "exampleSentence": "“As if I’d come from some other place that was considerably nicer.” In her stories of childhood, she was sometimes defenseless and at other times powerful.",
+      "clozeSentence": "“As if I’d come from some other place that was _____ nicer.” In her stories of childhood, she was sometimes defenseless and at other times powerful.",
+      "distractors": [
+        "in a careful and cautious manner",
+        "only for a brief moment",
+        "in a way that causes confusion"
+      ],
+      "surfaceForms": [
+        "considerably"
+      ],
+      "clozeAnswerSurfaceForm": "considerably"
+    },
+    {
+      "lemma": "defenseless",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "unable to protect oneself from harm or attack",
+      "translationZh": "無力自衛的；毫無防禦能力的",
+      "exampleSentence": "“As if I’d come from some other place that was considerably nicer.” In her stories of childhood, she was sometimes defenseless and at other times powerful.",
+      "clozeSentence": "“As if I’d come from some other place that was considerably nicer.” In her stories of childhood, she was sometimes _____ and at other times powerful.",
+      "distractors": [
+        "extremely confident and assertive",
+        "full of energy and enthusiasm",
+        "skilled at solving problems quickly"
+      ],
+      "surfaceForms": [
+        "defenseless"
+      ],
+      "clozeAnswerSurfaceForm": "defenseless"
+    },
+    {
+      "lemma": "binoculars",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a device with two lenses for viewing distant objects, held with both hands",
+      "translationZh": "雙筒望遠鏡",
+      "exampleSentence": "She was required to wear skirts and flimsy coats to school in the freezing Ohio winters; she had the initiative and independence to save cereal tokens and trade them for binoculars and went wandering and bird-watching alone at dawn.",
+      "clozeSentence": "She was required to wear skirts and flimsy coats to school in the freezing Ohio winters; she had the initiative and independence to save cereal tokens and trade them for _____ and went wandering and bird-watching alone at dawn.",
+      "distractors": [
+        "a small bag for carrying food",
+        "a type of warm winter clothing",
+        "a musical instrument played by blowing"
+      ],
+      "surfaceForms": [
+        "binoculars"
+      ],
+      "clozeAnswerSurfaceForm": "binoculars"
+    },
+    {
+      "lemma": "bird-watching",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the hobby of observing wild birds in their natural habitat",
+      "translationZh": "賞鳥（活動）",
+      "exampleSentence": "She was required to wear skirts and flimsy coats to school in the freezing Ohio winters; she had the initiative and independence to save cereal tokens and trade them for binoculars and went wandering and bird-watching alone at dawn.",
+      "clozeSentence": "She was required to wear skirts and flimsy coats to school in the freezing Ohio winters; she had the initiative and independence to save cereal tokens and trade them for binoculars and went wandering and _____ alone at dawn.",
+      "distractors": [
+        "the activity of collecting old coins",
+        "a game played with a ball outdoors",
+        "the practice of painting pictures of animals"
+      ],
+      "surfaceForms": [
+        "bird-watching"
+      ],
+      "clozeAnswerSurfaceForm": "bird-watching"
+    },
+    {
+      "lemma": "dawn",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the time of day when light first appears in the sky",
+      "translationZh": "黎明；拂曉",
+      "exampleSentence": "She was required to wear skirts and flimsy coats to school in the freezing Ohio winters; she had the initiative and independence to save cereal tokens and trade them for binoculars and went wandering and bird-watching alone at dawn.",
+      "clozeSentence": "She was required to wear skirts and flimsy coats to school in the freezing Ohio winters; she had the initiative and independence to save cereal tokens and trade them for binoculars and went wandering and bird-watching alone at _____.",
+      "distractors": [
+        "the moment the sun sets completely",
+        "the middle part of the afternoon",
+        "a period of heavy rain"
+      ],
+      "surfaceForms": [
+        "dawn"
+      ],
+      "clozeAnswerSurfaceForm": "dawn"
+    },
+    {
+      "lemma": "flimsy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "thin, light, and easily damaged or torn",
+      "translationZh": "脆弱的；單薄的",
+      "exampleSentence": "She was required to wear skirts and flimsy coats to school in the freezing Ohio winters; she had the initiative and independence to save cereal tokens and trade them for binoculars and went wandering and bird-watching alone at dawn.",
+      "clozeSentence": "She was required to wear skirts and _____ coats to school in the freezing Ohio winters; she had the initiative and independence to save cereal tokens and trade them for binoculars and went wandering and bird-watching alone at dawn.",
+      "distractors": [
+        "extremely heavy and difficult to carry",
+        "brightly colored and eye-catching",
+        "expensive and hard to find"
+      ],
+      "surfaceForms": [
+        "flimsy"
+      ],
+      "clozeAnswerSurfaceForm": "flimsy"
+    },
+    {
+      "lemma": "initiative",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the ability to decide and act on one's own without being told",
+      "translationZh": "主動性；積極性",
+      "exampleSentence": "She was required to wear skirts and flimsy coats to school in the freezing Ohio winters; she had the initiative and independence to save cereal tokens and trade them for binoculars and went wandering and bird-watching alone at dawn.",
+      "clozeSentence": "She was required to wear skirts and flimsy coats to school in the freezing Ohio winters; she had the _____ and independence to save cereal tokens and trade them for binoculars and went wandering and bird-watching alone at dawn.",
+      "distractors": [
+        "a strong feeling of fear or worry",
+        "a formal written agreement",
+        "the act of copying someone else's idea"
+      ],
+      "surfaceForms": [
+        "initiative"
+      ],
+      "clozeAnswerSurfaceForm": "initiative"
+    },
+    {
+      "lemma": "token",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a small object used in place of money for a specific purpose",
+      "translationZh": "代幣；兌換券",
+      "exampleSentence": "She was required to wear skirts and flimsy coats to school in the freezing Ohio winters; she had the initiative and independence to save cereal tokens and trade them for binoculars and went wandering and bird-watching alone at dawn.",
+      "clozeSentence": "She was required to wear skirts and flimsy coats to school in the freezing Ohio winters; she had the initiative and independence to save cereal _____ and trade them for binoculars and went wandering and bird-watching alone at dawn.",
+      "distractors": [
+        "a written note used to send messages",
+        "a small tool used for repairs",
+        "a piece of jewelry worn as decoration"
+      ],
+      "surfaceForms": [
+        "tokens"
+      ],
+      "clozeAnswerSurfaceForm": "tokens"
+    },
+    {
+      "lemma": "exquisite",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "extremely beautiful or delicate",
+      "translationZh": "精緻的；極美的",
+      "exampleSentence": "Now she was looking for something much better than what she’d ever experienced before—she wanted it for both of us—something exquisite that she could imagine but that we hadn’t seen or tasted yet.",
+      "clozeSentence": "Now she was looking for something much better than what she’d ever experienced before—she wanted it for both of us—something _____ that she could imagine but that we hadn’t seen or tasted yet.",
+      "distractors": [
+        "very ordinary and unremarkable",
+        "slightly damaged or broken",
+        "difficult to understand"
+      ],
+      "surfaceForms": [
+        "exquisite"
+      ],
+      "clozeAnswerSurfaceForm": "exquisite"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "whip",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to move something quickly and suddenly",
+      "translationZh": "迅速揮動；猛然轉動",
+      "exampleSentence": "Daniela whipped it around.",
+      "clozeSentence": "Daniela _____ it around.",
+      "distractors": [
+        "to fold something carefully",
+        "to place something down gently",
+        "to tie something into a knot"
+      ],
+      "surfaceForms": [
+        "whipped"
+      ],
+      "clozeAnswerSurfaceForm": "whipped"
+    },
+    {
+      "lemma": "heavy-gauge",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "made of thick, heavy material or thread",
+      "translationZh": "厚重材質的；粗厚的",
+      "exampleSentence": "I wore heavy-gauge white wool tights.",
+      "clozeSentence": "I wore _____ white wool tights.",
+      "distractors": [
+        "extremely light and delicate",
+        "designed to be waterproof",
+        "produced by hand rather than machine"
+      ],
+      "surfaceForms": [
+        "heavy-gauge"
+      ],
+      "clozeAnswerSurfaceForm": "heavy-gauge"
+    },
+    {
+      "lemma": "cruelty",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "behavior that causes pain or suffering to others",
+      "translationZh": "殘忍；殘酷",
+      "exampleSentence": "I wanted more stories like that one—stories of Virginia’s cruelty—but instead she mostly told me about how her mother was a great cook and had strung up fat hand-cut noodles around the kitchen to dry like socks, had insisted on buying feather duvets when this was not common.",
+      "clozeSentence": "I wanted more stories like that one—stories of Virginia’s _____—but instead she mostly told me about how her mother was a great cook and had strung up fat hand-cut noodles around the kitchen to dry like socks, had insisted on buying feather duvets when this was not common.",
+      "distractors": [
+        "a strong feeling of admiration",
+        "the state of being generous with money",
+        "a habit of telling jokes"
+      ],
+      "surfaceForms": [
+        "cruelty"
+      ],
+      "clozeAnswerSurfaceForm": "cruelty—but"
+    },
+    {
+      "lemma": "pee",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to urinate; to pass liquid waste from the body",
+      "translationZh": "小便；尿尿",
+      "exampleSentence": "I had to pee in the middle of the performance but it wasn’t possible to leave.",
+      "clozeSentence": "I had to _____ in the middle of the performance but it wasn’t possible to leave.",
+      "distractors": [
+        "to feel very tired suddenly",
+        "to laugh uncontrollably",
+        "to cry quietly"
+      ],
+      "surfaceForms": [
+        "pee",
+        "peed"
+      ],
+      "clozeAnswerSurfaceForm": "pee"
+    },
+    {
+      "lemma": "relieve",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "feeling less worried after a problem is solved or avoided",
+      "translationZh": "感到寬慰的；放心的",
+      "exampleSentence": "I held it for as long as I could, and then finally, not able to hold it any longer, I peed in my tights. (I was relieved to notice, when the lights turned on, that you couldn’t tell from looking that they were soaked).",
+      "clozeSentence": "I held it for as long as I could, and then finally, not able to hold it any longer, I peed in my tights. (I was _____ to notice, when the lights turned on, that you couldn’t tell from looking that they were soaked).",
+      "distractors": [
+        "feeling extremely angry about something",
+        "feeling confused about a decision",
+        "feeling proud of an achievement"
+      ],
+      "surfaceForms": [
+        "relieved"
+      ],
+      "clozeAnswerSurfaceForm": "relieved"
+    },
+    {
+      "lemma": "soak",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "completely wet, having absorbed a lot of liquid",
+      "translationZh": "濕透的；浸濕的",
+      "exampleSentence": "I held it for as long as I could, and then finally, not able to hold it any longer, I peed in my tights. (I was relieved to notice, when the lights turned on, that you couldn’t tell from looking that they were soaked).",
+      "clozeSentence": "I held it for as long as I could, and then finally, not able to hold it any longer, I peed in my tights. (I was relieved to notice, when the lights turned on, that you couldn’t tell from looking that they were _____).",
+      "distractors": [
+        "completely dry and dusty",
+        "torn into small pieces",
+        "faded in color from the sun"
+      ],
+      "surfaceForms": [
+        "soaked"
+      ],
+      "clozeAnswerSurfaceForm": "soaked"
+    },
+    {
+      "lemma": "flush",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to clean something by making water pass through it quickly",
+      "translationZh": "沖（水）；沖洗",
+      "exampleSentence": "In the bathroom at intermission, I tried to flush the tights down the toilet.",
+      "clozeSentence": "In the bathroom at intermission, I tried to _____ the tights down the toilet.",
+      "distractors": [
+        "to fold something into a small shape",
+        "to attach two objects together",
+        "to paint over a surface"
+      ],
+      "surfaceForms": [
+        "flush"
+      ],
+      "clozeAnswerSurfaceForm": "flush"
+    },
+    {
+      "lemma": "sodden",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "completely soaked with liquid; very wet and heavy",
+      "translationZh": "濕透的；濕漉漉的（文學用語）",
+      "exampleSentence": "They gathered near the hole, stuck, a twirl of sodden fabric.",
+      "clozeSentence": "They gathered near the hole, stuck, a twirl of _____ fabric.",
+      "distractors": [
+        "extremely light and airy",
+        "covered in dust or dirt",
+        "wrapped tightly in cloth"
+      ],
+      "surfaceForms": [
+        "sodden"
+      ],
+      "clozeAnswerSurfaceForm": "sodden"
+    },
+    {
+      "lemma": "fabric",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "cloth or woven material used to make things like clothes",
+      "translationZh": "布料；織物",
+      "exampleSentence": "They gathered near the hole, stuck, a twirl of sodden fabric.",
+      "clozeSentence": "They gathered near the hole, stuck, a twirl of sodden _____.",
+      "distractors": [
+        "a type of building material made of stone",
+        "a liquid used for cleaning clothes",
+        "a pattern used in mathematics"
+      ],
+      "surfaceForms": [
+        "fabric"
+      ],
+      "clozeAnswerSurfaceForm": "fabric"
+    },
+    {
+      "lemma": "slash",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to cut something with a quick, sweeping movement",
+      "translationZh": "割破；劃破",
+      "exampleSentence": "The bottom of the bag brushed against the top of my wrist and slashed it open.",
+      "clozeSentence": "The bottom of the bag brushed against the top of my wrist and _____ it open.",
+      "distractors": [
+        "to fold something neatly",
+        "to polish something until it shines",
+        "to tie something tightly together"
+      ],
+      "surfaceForms": [
+        "slashed"
+      ],
+      "clozeAnswerSurfaceForm": "slashed"
+    },
+    {
+      "lemma": "twirl",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to turn or spin quickly and repeatedly",
+      "translationZh": "旋轉；打轉",
+      "exampleSentence": "They gathered near the hole, stuck, a twirl of sodden fabric.",
+      "clozeSentence": "They gathered near the hole, stuck, a _____ of sodden fabric.",
+      "distractors": [
+        "to fold something into a small square",
+        "to press something firmly downward",
+        "to break something into pieces"
+      ],
+      "surfaceForms": [
+        "twirl"
+      ],
+      "clozeAnswerSurfaceForm": "twirl"
+    },
+    {
+      "lemma": "conspirator",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a person who secretly plans something with others, often something harmful",
+      "translationZh": "共謀者；同謀",
+      "exampleSentence": "“I don’t know if you want to use that one,” I said to her, using my best diction, as if she and I were conspirators.",
+      "clozeSentence": "“I don’t know if you want to use that one,” I said to her, using my best diction, as if she and I were _____.",
+      "distractors": [
+        "people who give public speeches",
+        "people who repair machines for a living",
+        "people who travel frequently for work"
+      ],
+      "surfaceForms": [
+        "conspirators"
+      ],
+      "clozeAnswerSurfaceForm": "conspirators"
+    },
+    {
+      "lemma": "diction",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "the way someone chooses and pronounces words when speaking",
+      "translationZh": "措辭；發音方式",
+      "exampleSentence": "“I don’t know if you want to use that one,” I said to her, using my best diction, as if she and I were conspirators.",
+      "clozeSentence": "“I don’t know if you want to use that one,” I said to her, using my best _____, as if she and I were conspirators.",
+      "distractors": [
+        "a written record of a conversation",
+        "a formal agreement between two parties",
+        "the speed at which someone reads"
+      ],
+      "surfaceForms": [
+        "diction"
+      ],
+      "clozeAnswerSurfaceForm": "diction"
+    },
+    {
+      "lemma": "bisect",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to divide something into two equal or roughly equal parts",
+      "translationZh": "把……一分為二；橫切",
+      "exampleSentence": "Later, it developed into a scar an inch long, vertical, bisecting my forearm, an “I” shape that was not unattractive and that I have become used to.",
+      "clozeSentence": "Later, it developed into a scar an inch long, vertical, _____ my forearm, an “I” shape that was not unattractive and that I have become used to.",
+      "distractors": [
+        "to join two things together tightly",
+        "to decorate the surface of something",
+        "to remove the outer layer of something"
+      ],
+      "surfaceForms": [
+        "bisecting"
+      ],
+      "clozeAnswerSurfaceForm": "bisecting"
+    },
+    {
+      "lemma": "vertical",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "positioned straight up and down, not sideways",
+      "translationZh": "垂直的；豎直的",
+      "exampleSentence": "Later, it developed into a scar an inch long, vertical, bisecting my forearm, an “I” shape that was not unattractive and that I have become used to.",
+      "clozeSentence": "Later, it developed into a scar an inch long, _____, bisecting my forearm, an “I” shape that was not unattractive and that I have become used to.",
+      "distractors": [
+        "positioned flat and level",
+        "curved in a circular shape",
+        "positioned at a slight angle"
+      ],
+      "surfaceForms": [
+        "vertical"
+      ],
+      "clozeAnswerSurfaceForm": "vertical"
+    },
+    {
+      "lemma": "intervene",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to become involved in a situation to change its outcome",
+      "translationZh": "介入；干預",
+      "exampleSentence": "Sometimes my mother remarked how her own mother, Virginia, wouldn’t have done this or that: wouldn’t have taken her to a café to get cake, or intervened on her behalf in school, or brought her snacks in bed when she was hungry—and the summation of these small comments, as far as I understood, at the very least, was that her mother had withheld from her the elements of my own childhood that I liked the most.",
+      "clozeSentence": "Sometimes my mother remarked how her own mother, Virginia, wouldn’t have done this or that: wouldn’t have taken her to a café to get cake, or _____ on her behalf in school, or brought her snacks in bed when she was hungry—and the summation of these small comments, as far as I understood, at the very least, was that her mother had withheld from her the elements of my own childhood that I liked the most.",
+      "distractors": [
+        "to observe something from a distance",
+        "to remember something from the past",
+        "to agree with someone's opinion"
+      ],
+      "surfaceForms": [
+        "intervened"
+      ],
+      "clozeAnswerSurfaceForm": "intervened"
+    },
+    {
+      "lemma": "summation",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a summary or total combination of several things",
+      "translationZh": "總結；總和",
+      "exampleSentence": "Sometimes my mother remarked how her own mother, Virginia, wouldn’t have done this or that: wouldn’t have taken her to a café to get cake, or intervened on her behalf in school, or brought her snacks in bed when she was hungry—and the summation of these small comments, as far as I understood, at the very least, was that her mother had withheld from her the elements of my own childhood that I liked the most.",
+      "clozeSentence": "Sometimes my mother remarked how her own mother, Virginia, wouldn’t have done this or that: wouldn’t have taken her to a café to get cake, or intervened on her behalf in school, or brought her snacks in bed when she was hungry—and the _____ of these small comments, as far as I understood, at the very least, was that her mother had withheld from her the elements of my own childhood that I liked the most.",
+      "distractors": [
+        "a formal accusation made in court",
+        "a sudden change of plan",
+        "a private conversation between two people"
+      ],
+      "surfaceForms": [
+        "summation"
+      ],
+      "clozeAnswerSurfaceForm": "summation"
+    },
+    {
+      "lemma": "withhold",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to refuse to give something that someone wants or needs",
+      "translationZh": "保留；扣留（不給）",
+      "exampleSentence": "Sometimes my mother remarked how her own mother, Virginia, wouldn’t have done this or that: wouldn’t have taken her to a café to get cake, or intervened on her behalf in school, or brought her snacks in bed when she was hungry—and the summation of these small comments, as far as I understood, at the very least, was that her mother had withheld from her the elements of my own childhood that I liked the most.",
+      "clozeSentence": "Sometimes my mother remarked how her own mother, Virginia, wouldn’t have done this or that: wouldn’t have taken her to a café to get cake, or intervened on her behalf in school, or brought her snacks in bed when she was hungry—and the summation of these small comments, as far as I understood, at the very least, was that her mother had _____ from her the elements of my own childhood that I liked the most.",
+      "distractors": [
+        "to offer something generously",
+        "to explain something in great detail",
+        "to return something that was borrowed"
+      ],
+      "surfaceForms": [
+        "withheld"
+      ],
+      "clozeAnswerSurfaceForm": "withheld"
+    },
+    {
+      "lemma": "elaborate",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "made with great detail or complexity",
+      "translationZh": "精心製作的；複雜精細的",
+      "exampleSentence": "“When I was little,” she said, “my mother noticed I had artistic talent, and she went out and bought my sister Linda an easel and an elaborate paint set.",
+      "clozeSentence": "“When I was little,” she said, “my mother noticed I had artistic talent, and she went out and bought my sister Linda an easel and an _____ paint set.",
+      "distractors": [
+        "made quickly without much thought",
+        "kept extremely simple and plain",
+        "borrowed from someone else"
+      ],
+      "surfaceForms": [
+        "elaborate"
+      ],
+      "clozeAnswerSurfaceForm": "elaborate"
+    },
+    {
+      "lemma": "meager",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "very small in amount and not enough",
+      "translationZh": "微薄的；不足的",
+      "exampleSentence": "“My first memory was as a baby in my crib, looking around, noticing how meager the room was,” she said.",
+      "clozeSentence": "“My first memory was as a baby in my crib, looking around, noticing how _____ the room was,” she said.",
+      "distractors": [
+        "extremely generous and plentiful",
+        "well organized and neat",
+        "brightly lit and cheerful"
+      ],
+      "surfaceForms": [
+        "meager"
+      ],
+      "clozeAnswerSurfaceForm": "meager"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "translation",
+      "wordLemma": "vertical",
+      "prompt": "垂直的；豎直的",
+      "options": [
+        "whip",
+        "diction",
+        "vertical",
+        "heavy-gauge"
+      ],
+      "answer": "vertical"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "diction",
+      "prompt": "diction",
+      "options": [
+        "a written record of a conversation",
+        "the speed at which someone reads",
+        "the way someone chooses and pronounces words when speaking",
+        "a formal agreement between two parties"
+      ],
+      "answer": "the way someone chooses and pronounces words when speaking"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "heavy-gauge",
+      "prompt": "I wore _____ white wool tights.",
+      "options": [
+        "summation",
+        "sodden",
+        "heavy-gauge",
+        "vertical"
+      ],
+      "answer": "heavy-gauge"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "conspirator",
+      "prompt": "共謀者；同謀",
+      "options": [
+        "withhold",
+        "summation",
+        "meager",
+        "conspirator"
+      ],
+      "answer": "conspirator"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "flush",
+      "prompt": "flush",
+      "options": [
+        "to fold something into a small shape",
+        "to paint over a surface",
+        "to clean something by making water pass through it quickly",
+        "to attach two objects together"
+      ],
+      "answer": "to clean something by making water pass through it quickly"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "soak",
+      "prompt": "濕透的；浸濕的",
+      "options": [
+        "meager",
+        "soak",
+        "summation",
+        "slash"
+      ],
+      "answer": "soak"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "slash",
+      "prompt": "slash",
+      "options": [
+        "to polish something until it shines",
+        "to tie something tightly together",
+        "to fold something neatly",
+        "to cut something with a quick, sweeping movement"
+      ],
+      "answer": "to cut something with a quick, sweeping movement"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "relieve",
+      "prompt": "I held it for as long as I could, and then finally, not able to hold it any longer, I peed in my tights. (I was _____ to notice, when the lights turned on, that you couldn’t tell from looking that they were soaked).",
+      "options": [
+        "elaborate",
+        "fabric",
+        "diction",
+        "relieved"
+      ],
+      "answer": "relieved"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "cruelty",
+      "prompt": "殘忍；殘酷",
+      "options": [
+        "fabric",
+        "slash",
+        "cruelty",
+        "intervene"
+      ],
+      "answer": "cruelty"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "pee",
+      "prompt": "pee",
+      "options": [
+        "to urinate; to pass liquid waste from the body",
+        "to feel very tired suddenly",
+        "to cry quietly",
+        "to laugh uncontrollably"
+      ],
+      "answer": "to urinate; to pass liquid waste from the body"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "twirl",
+      "prompt": "They gathered near the hole, stuck, a _____ of sodden fabric.",
+      "options": [
+        "twirl",
+        "vertical",
+        "soaked",
+        "relieved"
+      ],
+      "answer": "twirl"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "fabric",
+      "prompt": "布料；織物",
+      "options": [
+        "fabric",
+        "conspirator",
+        "cruelty",
+        "soak"
+      ],
+      "answer": "fabric"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "intervene",
+      "prompt": "intervene",
+      "options": [
+        "to become involved in a situation to change its outcome",
+        "to observe something from a distance",
+        "to remember something from the past",
+        "to agree with someone's opinion"
+      ],
+      "answer": "to become involved in a situation to change its outcome"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "withhold",
+      "prompt": "保留；扣留（不給）",
+      "options": [
+        "slash",
+        "withhold",
+        "pee",
+        "cruelty"
+      ],
+      "answer": "withhold"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "sodden",
+      "prompt": "They gathered near the hole, stuck, a twirl of _____ fabric.",
+      "options": [
+        "flush",
+        "heavy-gauge",
+        "sodden",
+        "slashed"
+      ],
+      "answer": "sodden"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "bisect",
+      "prompt": "Later, it developed into a scar an inch long, vertical, _____ my forearm, an “I” shape that was not unattractive and that I have become used to.",
+      "options": [
+        "vertical",
+        "pee",
+        "meager",
+        "bisecting"
+      ],
+      "answer": "bisecting"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "whip",
+      "prompt": "whip",
+      "options": [
+        "to fold something carefully",
+        "to move something quickly and suddenly",
+        "to place something down gently",
+        "to tie something into a knot"
+      ],
+      "answer": "to move something quickly and suddenly"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "summation",
+      "prompt": "Sometimes my mother remarked how her own mother, Virginia, wouldn’t have done this or that: wouldn’t have taken her to a café to get cake, or intervened on her behalf in school, or brought her snacks in bed when she was hungry—and the _____ of these small comments, as far as I understood, at the very least, was that her mother had withheld from her the elements of my own childhood that I liked the most.",
+      "options": [
+        "summation",
+        "whipped",
+        "conspirators",
+        "slashed"
+      ],
+      "answer": "summation"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "elaborate",
+      "prompt": "elaborate",
+      "options": [
+        "kept extremely simple and plain",
+        "made quickly without much thought",
+        "made with great detail or complexity",
+        "borrowed from someone else"
+      ],
+      "answer": "made with great detail or complexity"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "meager",
+      "prompt": "“My first memory was as a baby in my crib, looking around, noticing how _____ the room was,” she said.",
+      "options": [
+        "meager",
+        "soaked",
+        "flush",
+        "twirl"
+      ],
+      "answer": "meager"
+    }
+  ]
+}

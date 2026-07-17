@@ -1,0 +1,1851 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 3,
+  "partTitle": "Let’s Blast",
+  "sectionIndex": 7,
+  "paragraphs": [
+    "After the hot tub, we watched The Red Balloon and then we watched Harold and Maude, lying on our sides in his bed, him closer to the screen. I didn’t like The Red Balloon, because it seemed too young and immature for me; also, I had a feeling I was supposed to like it because he’d chosen it beforehand, the First Movie, and this made me self-conscious. Harold and Maude I loved. He paused the movie when I got up to pee. “That’s the church in Palo Alto,” he said, about the church where they meet.",
+    "Both movies were on laser discs, which looked like bright silver records. He held the disc from the center and edge, not touching the surface, and when the player closed, it made a series of mechanical sounds: four notes.",
+    "The laser disc insertion, the hydraulic thump of the car doors, the click of the lever that controlled the headlights—the noises surrounding him were different. Beside his bed was a lamp with a cloth shade and gold-colored base. You only had to touch the base to turn the lamp on and off. I tried it a few times. Ingenious. Why didn’t everyone have one? Why did we bother with switches and serrated knobs?",
+    "“Time to go to bed,” he said after the movie ended.",
+    "Was it late? I couldn’t tell. We existed outside regular time. The mornings with him, too, would have a timeless quality, more empty space and white light and silence—unlike the mornings with my mother, when we raced to dress in front of the heaters and ate toast in the car on the way to school, the windshield mostly white, waiting for the heat to work. Here there was no rush, no breathlessness.",
+    "At night the crickets made a roar I hadn’t noticed before lying in the bed. The sound would advance toward me over the dark land, the dark lawn, the big dark house, and press against my ears, but just when I thought I’d be swallowed up, it would stop, empty. It was terrible and lonely, I felt then, to be in this cavernous house with this man I hardly knew.",
+    "My mother had a string of lentil-sized bells on a ribbon she’d brought back from India, meant to be tied around the ankles of Indian dancers, and the crickets sounded like these bells—thousands of dancers moving vigorously almost in unison faster and faster until they all stopped at once.",
+    "“Why don’t you wear a watch?” I asked the next morning. I was already dressed for school. Fancy men wore watches.",
+    "“I don’t want to be bound by time,” he said.",
+    "“What’s that?” I was looking out the kitchen window, pointing to a tall structure that looked like a booth for a ticket collector, with a screen in the front so you could see in, topped by a minaret.",
+    "“It’s an aviary. For birds.”",
+    "“Are there birds inside?”",
+    "“No. A friend gave me a peacock once, but it wandered off.”",
+    "“Will you get some birds to put in?” I asked.",
+    "“Nope.”",
+    "I could tell he was getting annoyed by my questions. How big was seven acres, I wondered. If you stood on the huge lawn and looked toward the gathered hills with your back to the tennis court and the pool, and looked past the aviary, past a huge copper beech tree, the raspberries, more oaks, the building where the water tower would have been—maybe that was where the property ended, where the hills rose up and the forest began. “There,” he’d said once, pointing, but I wasn’t sure where he meant.",
+    "He put two apples and a handful of almonds in a paper bag, a grocery bag, not a lunch bag, and rolled up the top. “Here’s your lunch,” he said, handing it over. The almonds rattled around at the bottom of the bag.",
+    "I walked out ahead of him, through the pantry, the dining room, and into the huge room with the piano. On a small table in front of the couch was a coffee-table book called The Red Couch. The pictures inside were of a worn red velvet couch, upon which sat various famous people in different locations around the world. I flipped a page, and there he was. In the picture he looked dreamy, his eyes like vellum. Unlike the others in the book, he steepled his hands, the fingertips meeting, index to index, middle to middle, and so on, the wrists held out from each other like the rib cage of a small animal. Over the next few months I tried to incorporate the steepled hands into my own repertoire—on top of my desk in class, or on the table before my mother and I ate dinner, or on my lap sitting outside with friends at lunchtime. I could never make it look natural; in that position, ballooned out, my hands felt huge and foolish.",
+    "We walked out the door. “You don’t lock it?” I asked.",
+    "“There’s nothing to take,” he said.",
+    "“You could get more furniture,” I said. I imagined how grand the house could be if he’d just get some furniture. I wanted him to be attached to it so substantially that he wanted to decorate it and keep it. At school, we played a game called MASH: mansion, apartment, shack, house, writing down options about cars, husbands, and houses and then counting out our futures based on a random number. I had firsthand knowledge of all four categories—even a shack, if you counted the studio on Oak Grove. My father had a mansion. I didn’t know anyone else who could say that. Everyone wanted a mansion, and also the best kind of car—Porsche, Ferrari, Lamborghini.",
+    "At the curve that led over Highway 280, my father said, “If you look where you’re going, your hands naturally know how to steer toward that point. It’s really amazing.”",
+    "He had no idea that I’d driven, too, sitting on my mother’s lap when I was six. For him, maybe I had no past; I was simply here now beside him.",
+    "At the top of Sand Hill Road, he pointed to Hoover Tower sticking up past the rooflines.",
+    "“Look,” he said. “It’s a penis.”",
+    "I wasn’t sure what he meant.",
+    "“The Penis of Palo Alto,” he said. “Just look at it, with that red top.”",
+    "The tower was glowing in the morning sun, and the dome at the top matched the red terracotta of the university rooftops. I’d been up there with my mother, near the bells and the pigeons and the wind. There was a net surrounding the bells so that the pigeons wouldn’t roost inside them.",
+    "“Oh,” I said, laughing a little, trying to make the connection between this structure and the very few penises I’d seen, skin-colored cylinders that dangled down.",
+    "“It looks like a penis,” he said again, defiantly."
+  ],
+  "words": [
+    {
+      "lemma": "peacock",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "A large bird known for its colorful tail feathers.",
+      "translationZh": "孔雀",
+      "exampleSentence": "A friend gave me a peacock once, but it wandered off.”",
+      "clozeSentence": "A friend gave me a _____ once, but it wandered off.”",
+      "distractors": [
+        "A small pet dog",
+        "A type of garden flower",
+        "A wild farm horse"
+      ],
+      "surfaceForms": [
+        "peacock"
+      ],
+      "clozeAnswerSurfaceForm": "peacock"
+    },
+    {
+      "lemma": "tub",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A large open container, especially for bathing.",
+      "translationZh": "浴缸；桶",
+      "exampleSentence": "After the hot tub, we watched The Red Balloon and then we watched Harold and Maude, lying on our sides in his bed, him closer to the screen.",
+      "clozeSentence": "After the hot _____, we watched The Red Balloon and then we watched Harold and Maude, lying on our sides in his bed, him closer to the screen.",
+      "distractors": [
+        "A tall narrow closet",
+        "A small kitchen drawer",
+        "A wide outdoor porch"
+      ],
+      "surfaceForms": [
+        "tub"
+      ],
+      "clozeAnswerSurfaceForm": "tub"
+    },
+    {
+      "lemma": "dome",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A rounded roof or ceiling shaped like half a ball.",
+      "translationZh": "圓頂；穹頂",
+      "exampleSentence": "The tower was glowing in the morning sun, and the dome at the top matched the red terracotta of the university rooftops.",
+      "clozeSentence": "The tower was glowing in the morning sun, and the _____ at the top matched the red terracotta of the university rooftops.",
+      "distractors": [
+        "A narrow staircase",
+        "A flat rooftop terrace",
+        "A tall thin spire"
+      ],
+      "surfaceForms": [
+        "dome"
+      ],
+      "clozeAnswerSurfaceForm": "dome"
+    },
+    {
+      "lemma": "glow",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To shine with a soft, steady light.",
+      "translationZh": "發光；閃耀",
+      "exampleSentence": "The tower was glowing in the morning sun, and the dome at the top matched the red terracotta of the university rooftops.",
+      "clozeSentence": "The tower was _____ in the morning sun, and the dome at the top matched the red terracotta of the university rooftops.",
+      "distractors": [
+        "To make a loud noise",
+        "To shake or tremble slightly",
+        "To disappear suddenly"
+      ],
+      "surfaceForms": [
+        "glowing"
+      ],
+      "clozeAnswerSurfaceForm": "glowing"
+    },
+    {
+      "lemma": "hydraulic",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Operated by the pressure of a liquid moving through pipes.",
+      "translationZh": "液壓的",
+      "exampleSentence": "The laser disc insertion, the hydraulic thump of the car doors, the click of the lever that controlled the headlights—the noises surrounding him were different.",
+      "clozeSentence": "The laser disc insertion, the _____ thump of the car doors, the click of the lever that controlled the headlights—the noises surrounding him were different.",
+      "distractors": [
+        "Powered by wind or air",
+        "Operated completely by hand",
+        "Controlled by sound waves"
+      ],
+      "surfaceForms": [
+        "hydraulic"
+      ],
+      "clozeAnswerSurfaceForm": "hydraulic"
+    },
+    {
+      "lemma": "insertion",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The act of putting something into something else.",
+      "translationZh": "插入（動作）",
+      "exampleSentence": "The laser disc insertion, the hydraulic thump of the car doors, the click of the lever that controlled the headlights—the noises surrounding him were different.",
+      "clozeSentence": "The laser disc _____, the hydraulic thump of the car doors, the click of the lever that controlled the headlights—the noises surrounding him were different.",
+      "distractors": [
+        "The removal of something",
+        "The repair of a broken device",
+        "The cleaning of a surface"
+      ],
+      "surfaceForms": [
+        "insertion"
+      ],
+      "clozeAnswerSurfaceForm": "insertion"
+    },
+    {
+      "lemma": "lawn",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "An area of short, mowed grass, usually near a house.",
+      "translationZh": "草坪",
+      "exampleSentence": "The sound would advance toward me over the dark land, the dark lawn, the big dark house, and press against my ears, but just when I thought I’d be swallowed up, it would stop, empty.",
+      "clozeSentence": "The sound would advance toward me over the dark land, the dark _____, the big dark house, and press against my ears, but just when I thought I’d be swallowed up, it would stop, empty.",
+      "distractors": [
+        "A paved driveway",
+        "A wooden fence",
+        "A stone pathway"
+      ],
+      "surfaceForms": [
+        "lawn"
+      ],
+      "clozeAnswerSurfaceForm": "lawn"
+    },
+    {
+      "lemma": "lever",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A bar used to operate or control a machine.",
+      "translationZh": "槓桿；操縱桿",
+      "exampleSentence": "The laser disc insertion, the hydraulic thump of the car doors, the click of the lever that controlled the headlights—the noises surrounding him were different.",
+      "clozeSentence": "The laser disc insertion, the hydraulic thump of the car doors, the click of the _____ that controlled the headlights—the noises surrounding him were different.",
+      "distractors": [
+        "A small screen displaying numbers",
+        "A soft cushion for sitting",
+        "A thin wire carrying electricity"
+      ],
+      "surfaceForms": [
+        "lever"
+      ],
+      "clozeAnswerSurfaceForm": "lever"
+    },
+    {
+      "lemma": "rattle",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To make a series of short, sharp knocking sounds.",
+      "translationZh": "發出咯咯聲；搖晃作響",
+      "exampleSentence": "The almonds rattled around at the bottom of the bag.",
+      "clozeSentence": "The almonds _____ around at the bottom of the bag.",
+      "distractors": [
+        "Melted away slowly",
+        "Glowed brightly in the dark",
+        "Remained perfectly silent"
+      ],
+      "surfaceForms": [
+        "rattled"
+      ],
+      "clozeAnswerSurfaceForm": "rattled"
+    },
+    {
+      "lemma": "rooftop",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The outer surface or top of a roof.",
+      "translationZh": "屋頂",
+      "exampleSentence": "The tower was glowing in the morning sun, and the dome at the top matched the red terracotta of the university rooftops.",
+      "clozeSentence": "The tower was glowing in the morning sun, and the dome at the top matched the red terracotta of the university _____.",
+      "distractors": [
+        "The basement of a building",
+        "The entrance hall of a house",
+        "The garden behind a house"
+      ],
+      "surfaceForms": [
+        "rooftops"
+      ],
+      "clozeAnswerSurfaceForm": "rooftops"
+    },
+    {
+      "lemma": "terracotta",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A brownish-orange clay material used for pottery and roofing.",
+      "translationZh": "赤陶；陶土色",
+      "exampleSentence": "The tower was glowing in the morning sun, and the dome at the top matched the red terracotta of the university rooftops.",
+      "clozeSentence": "The tower was glowing in the morning sun, and the dome at the top matched the red _____ of the university rooftops.",
+      "distractors": [
+        "A shiny black metal",
+        "A soft white fabric",
+        "A dark green paint"
+      ],
+      "surfaceForms": [
+        "terracotta"
+      ],
+      "clozeAnswerSurfaceForm": "terracotta"
+    },
+    {
+      "lemma": "timeless",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Not affected by the passing of time; existing outside of time.",
+      "translationZh": "永恆的；不受時間影響的",
+      "exampleSentence": "The mornings with him, too, would have a timeless quality, more empty space and white light and silence—unlike the mornings with my mother, when we raced to dress in front of the heaters and ate toast in the car on the way to school, the windshield mostly white, waiting for the heat to work.",
+      "clozeSentence": "The mornings with him, too, would have a _____ quality, more empty space and white light and silence—unlike the mornings with my mother, when we raced to dress in front of the heaters and ate toast in the car on the way to school, the windshield mostly white, waiting for the heat to work.",
+      "distractors": [
+        "Rushed and hurried",
+        "Old-fashioned and outdated",
+        "Brief and fleeting"
+      ],
+      "surfaceForms": [
+        "timeless"
+      ],
+      "clozeAnswerSurfaceForm": "timeless"
+    },
+    {
+      "lemma": "velvet",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A soft fabric with a thick, short pile.",
+      "translationZh": "天鵝絨；絲絨",
+      "exampleSentence": "The pictures inside were of a worn red velvet couch, upon which sat various famous people in different locations around the world.",
+      "clozeSentence": "The pictures inside were of a worn red _____ couch, upon which sat various famous people in different locations around the world.",
+      "distractors": [
+        "A hard wooden surface",
+        "A thin, transparent plastic",
+        "A rough woven burlap"
+      ],
+      "surfaceForms": [
+        "velvet"
+      ],
+      "clozeAnswerSurfaceForm": "velvet"
+    },
+    {
+      "lemma": "windshield",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The front window of a vehicle.",
+      "translationZh": "擋風玻璃",
+      "exampleSentence": "The mornings with him, too, would have a timeless quality, more empty space and white light and silence—unlike the mornings with my mother, when we raced to dress in front of the heaters and ate toast in the car on the way to school, the windshield mostly white, waiting for the heat to work.",
+      "clozeSentence": "The mornings with him, too, would have a timeless quality, more empty space and white light and silence—unlike the mornings with my mother, when we raced to dress in front of the heaters and ate toast in the car on the way to school, the _____ mostly white, waiting for the heat to work.",
+      "distractors": [
+        "The back seat of a car",
+        "The steering wheel",
+        "The trunk of a car"
+      ],
+      "surfaceForms": [
+        "windshield"
+      ],
+      "clozeAnswerSurfaceForm": "windshield"
+    },
+    {
+      "lemma": "beforehand",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Before a particular time or event; in advance.",
+      "translationZh": "事先；預先",
+      "exampleSentence": "I didn’t like The Red Balloon, because it seemed too young and immature for me; also, I had a feeling I was supposed to like it because he’d chosen it beforehand, the First Movie, and this made me self-conscious.",
+      "clozeSentence": "I didn’t like The Red Balloon, because it seemed too young and immature for me; also, I had a feeling I was supposed to like it because he’d chosen it _____, the First Movie, and this made me self-conscious.",
+      "distractors": [
+        "At the same time as something else",
+        "Immediately after an event",
+        "Without any preparation"
+      ],
+      "surfaceForms": [
+        "beforehand"
+      ],
+      "clozeAnswerSurfaceForm": "beforehand"
+    },
+    {
+      "lemma": "decorate",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To make something look more attractive by adding items.",
+      "translationZh": "裝飾；佈置",
+      "exampleSentence": "I wanted him to be attached to it so substantially that he wanted to decorate it and keep it.",
+      "clozeSentence": "I wanted him to be attached to it so substantially that he wanted to _____ it and keep it.",
+      "distractors": [
+        "To sell something quickly",
+        "To remove all items from a place",
+        "To hide something from view"
+      ],
+      "surfaceForms": [
+        "decorate"
+      ],
+      "clozeAnswerSurfaceForm": "decorate"
+    },
+    {
+      "lemma": "firsthand",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Obtained directly from personal experience, not secondhand.",
+      "translationZh": "親身的；第一手的",
+      "exampleSentence": "I had firsthand knowledge of all four categories—even a shack, if you counted the studio on Oak Grove.",
+      "clozeSentence": "I had _____ knowledge of all four categories—even a shack, if you counted the studio on Oak Grove.",
+      "distractors": [
+        "Knowledge learned from a book",
+        "Information heard from a rumor",
+        "A guess based on little evidence"
+      ],
+      "surfaceForms": [
+        "firsthand"
+      ],
+      "clozeAnswerSurfaceForm": "firsthand"
+    },
+    {
+      "lemma": "flip",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To turn something over quickly, such as a page.",
+      "translationZh": "翻（頁）；快速翻動",
+      "exampleSentence": "I flipped a page, and there he was.",
+      "clozeSentence": "I _____ a page, and there he was.",
+      "distractors": [
+        "To fold something into a small shape",
+        "To tear something into pieces",
+        "To carefully read every word"
+      ],
+      "surfaceForms": [
+        "flipped"
+      ],
+      "clozeAnswerSurfaceForm": "flipped"
+    },
+    {
+      "lemma": "grand",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Impressive in size, appearance, or style.",
+      "translationZh": "宏偉的；氣派的",
+      "exampleSentence": "I imagined how grand the house could be if he’d just get some furniture.",
+      "clozeSentence": "I imagined how _____ the house could be if he’d just get some furniture.",
+      "distractors": [
+        "Small and cramped",
+        "Old and broken-down",
+        "Plain and ordinary"
+      ],
+      "surfaceForms": [
+        "grand"
+      ],
+      "clozeAnswerSurfaceForm": "grand"
+    },
+    {
+      "lemma": "immature",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Not fully developed; behaving in a childish way.",
+      "translationZh": "不成熟的；幼稚的",
+      "exampleSentence": "I didn’t like The Red Balloon, because it seemed too young and immature for me; also, I had a feeling I was supposed to like it because he’d chosen it beforehand, the First Movie, and this made me self-conscious.",
+      "clozeSentence": "I didn’t like The Red Balloon, because it seemed too young and _____ for me; also, I had a feeling I was supposed to like it because he’d chosen it beforehand, the First Movie, and this made me self-conscious.",
+      "distractors": [
+        "Extremely serious and formal",
+        "Fully grown and experienced",
+        "Well organized and logical"
+      ],
+      "surfaceForms": [
+        "immature"
+      ],
+      "clozeAnswerSurfaceForm": "immature"
+    },
+    {
+      "lemma": "pantry",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A small room or closet used to store food.",
+      "translationZh": "食品儲藏室",
+      "exampleSentence": "I walked out ahead of him, through the pantry, the dining room, and into the huge room with the piano.",
+      "clozeSentence": "I walked out ahead of him, through the _____, the dining room, and into the huge room with the piano.",
+      "distractors": [
+        "A room used only for sleeping",
+        "An outdoor storage shed",
+        "A room for washing clothes"
+      ],
+      "surfaceForms": [
+        "pantry"
+      ],
+      "clozeAnswerSurfaceForm": "pantry"
+    },
+    {
+      "lemma": "self-conscious",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Nervous or awkward about how one appears to others.",
+      "translationZh": "難為情的；不自在的",
+      "exampleSentence": "I didn’t like The Red Balloon, because it seemed too young and immature for me; also, I had a feeling I was supposed to like it because he’d chosen it beforehand, the First Movie, and this made me self-conscious.",
+      "clozeSentence": "I didn’t like The Red Balloon, because it seemed too young and immature for me; also, I had a feeling I was supposed to like it because he’d chosen it beforehand, the First Movie, and this made me _____.",
+      "distractors": [
+        "Completely relaxed and confident",
+        "Very proud and boastful",
+        "Angry and impatient"
+      ],
+      "surfaceForms": [
+        "self-conscious"
+      ],
+      "clozeAnswerSurfaceForm": "self-conscious"
+    },
+    {
+      "lemma": "substantially",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "To a great or important extent.",
+      "translationZh": "大幅地；實質上",
+      "exampleSentence": "I wanted him to be attached to it so substantially that he wanted to decorate it and keep it.",
+      "clozeSentence": "I wanted him to be attached to it so _____ that he wanted to decorate it and keep it.",
+      "distractors": [
+        "Only slightly or barely",
+        "In a temporary way",
+        "Without any real effect"
+      ],
+      "surfaceForms": [
+        "substantially"
+      ],
+      "clozeAnswerSurfaceForm": "substantially"
+    },
+    {
+      "lemma": "handful",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A small amount that fits in one hand.",
+      "translationZh": "一把；少量",
+      "exampleSentence": "He put two apples and a handful of almonds in a paper bag, a grocery bag, not a lunch bag, and rolled up the top.",
+      "clozeSentence": "He put two apples and a _____ of almonds in a paper bag, a grocery bag, not a lunch bag, and rolled up the top.",
+      "distractors": [
+        "An enormous, overflowing pile",
+        "A single, tiny piece",
+        "A carefully measured cupful"
+      ],
+      "surfaceForms": [
+        "handful"
+      ],
+      "clozeAnswerSurfaceForm": "handful"
+    },
+    {
+      "lemma": "pee",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To urinate (informal).",
+      "translationZh": "小便（口語）",
+      "exampleSentence": "He paused the movie when I got up to pee.",
+      "clozeSentence": "He paused the movie when I got up to _____.",
+      "distractors": [
+        "To take a nap",
+        "To get a drink of water",
+        "To change clothes"
+      ],
+      "surfaceForms": [
+        "pee"
+      ],
+      "clozeAnswerSurfaceForm": "pee"
+    },
+    {
+      "lemma": "laser",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A device producing a narrow, intense beam of light.",
+      "translationZh": "雷射",
+      "exampleSentence": "Both movies were on laser discs, which looked like bright silver records.",
+      "clozeSentence": "Both movies were on _____ discs, which looked like bright silver records.",
+      "distractors": [
+        "A device that records sound only",
+        "A tool used for cutting paper",
+        "A type of old film reel"
+      ],
+      "surfaceForms": [
+        "laser"
+      ],
+      "clozeAnswerSurfaceForm": "laser"
+    },
+    {
+      "lemma": "gold-colored",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Having the color of gold.",
+      "translationZh": "金色的",
+      "exampleSentence": "Beside his bed was a lamp with a cloth shade and gold-colored base.",
+      "clozeSentence": "Beside his bed was a lamp with a cloth shade and _____ base.",
+      "distractors": [
+        "Having a rough, uneven surface",
+        "Made of heavy, solid stone",
+        "Having a strong, sweet smell"
+      ],
+      "surfaceForms": [
+        "gold-colored"
+      ],
+      "clozeAnswerSurfaceForm": "gold-colored"
+    },
+    {
+      "lemma": "dreamy",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Having a soft, distant, or peaceful quality, as if lost in thought.",
+      "translationZh": "夢幻般的；恍惚的",
+      "exampleSentence": "In the picture he looked dreamy, his eyes like vellum.",
+      "clozeSentence": "In the picture he looked _____, his eyes like vellum.",
+      "distractors": [
+        "Alert and fully focused",
+        "Angry and tense",
+        "Loud and energetic"
+      ],
+      "surfaceForms": [
+        "dreamy"
+      ],
+      "clozeAnswerSurfaceForm": "dreamy"
+    },
+    {
+      "lemma": "ingenious",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Clever, original, and inventive.",
+      "translationZh": "巧妙的；有創意的",
+      "exampleSentence": "Ingenious.",
+      "clozeSentence": "_____.",
+      "distractors": [
+        "Boring and unoriginal",
+        "Dangerous and reckless",
+        "Simple and predictable"
+      ],
+      "surfaceForms": [
+        "ingenious"
+      ],
+      "clozeAnswerSurfaceForm": "Ingenious"
+    },
+    {
+      "lemma": "vellum",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "A fine, smooth material made from animal skin, used for writing or as a pale, translucent surface.",
+      "translationZh": "犢皮紙；淡黃色皮紙",
+      "exampleSentence": "In the picture he looked dreamy, his eyes like vellum.",
+      "clozeSentence": "In the picture he looked dreamy, his eyes like _____.",
+      "distractors": [
+        "Polished dark stone",
+        "Rough tree bark",
+        "Bright colored glass"
+      ],
+      "surfaceForms": [
+        "vellum"
+      ],
+      "clozeAnswerSurfaceForm": "vellum"
+    },
+    {
+      "lemma": "knob",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A round handle or switch, often used to control a device.",
+      "translationZh": "旋鈕；把手",
+      "exampleSentence": "Why did we bother with switches and serrated knobs?",
+      "clozeSentence": "Why did we bother with switches and serrated _____?",
+      "distractors": [
+        "A flat button on a keyboard",
+        "A long cord or wire",
+        "A small hinge on a door"
+      ],
+      "surfaceForms": [
+        "knobs"
+      ],
+      "clozeAnswerSurfaceForm": "knobs"
+    },
+    {
+      "lemma": "serrate",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Having a jagged, saw-like edge.",
+      "translationZh": "鋸齒狀的",
+      "exampleSentence": "Why did we bother with switches and serrated knobs?",
+      "clozeSentence": "Why did we bother with switches and _____ knobs?",
+      "distractors": [
+        "Perfectly smooth and round",
+        "Extremely soft and flexible",
+        "Transparent and see-through"
+      ],
+      "surfaceForms": [
+        "serrated"
+      ],
+      "clozeAnswerSurfaceForm": "serrated"
+    },
+    {
+      "lemma": "breathlessness",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "The state of being out of breath or feeling rushed.",
+      "translationZh": "喘不過氣；急促感",
+      "exampleSentence": "Here there was no rush, no breathlessness.",
+      "clozeSentence": "Here there was no rush, no _____.",
+      "distractors": [
+        "A state of deep calmness",
+        "A strong feeling of hunger",
+        "A sudden burst of energy"
+      ],
+      "surfaceForms": [
+        "breathlessness"
+      ],
+      "clozeAnswerSurfaceForm": "breathlessness"
+    },
+    {
+      "lemma": "mansion",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A very large, impressive house.",
+      "translationZh": "豪宅；大宅",
+      "exampleSentence": "At school, we played a game called MASH: mansion, apartment, shack, house, writing down options about cars, husbands, and houses and then counting out our futures based on a random number.",
+      "clozeSentence": "At school, we played a game called MASH: _____, apartment, shack, house, writing down options about cars, husbands, and houses and then counting out our futures based on a random number.",
+      "distractors": [
+        "A small rented room",
+        "A temporary tent",
+        "A public office building"
+      ],
+      "surfaceForms": [
+        "mansion"
+      ],
+      "clozeAnswerSurfaceForm": "mansion"
+    },
+    {
+      "lemma": "random",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Happening or chosen without a plan or pattern.",
+      "translationZh": "隨機的",
+      "exampleSentence": "At school, we played a game called MASH: mansion, apartment, shack, house, writing down options about cars, husbands, and houses and then counting out our futures based on a random number.",
+      "clozeSentence": "At school, we played a game called MASH: mansion, apartment, shack, house, writing down options about cars, husbands, and houses and then counting out our futures based on a _____ number.",
+      "distractors": [
+        "A carefully calculated number",
+        "A number written by hand",
+        "A very large number"
+      ],
+      "surfaceForms": [
+        "random"
+      ],
+      "clozeAnswerSurfaceForm": "random"
+    },
+    {
+      "lemma": "roar",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A loud, deep sound.",
+      "translationZh": "轟鳴聲；咆哮聲",
+      "exampleSentence": "At night the crickets made a roar I hadn’t noticed before lying in the bed.",
+      "clozeSentence": "At night the crickets made a _____ I hadn’t noticed before lying in the bed.",
+      "distractors": [
+        "A gentle whisper",
+        "A soft musical tune",
+        "A brief moment of silence"
+      ],
+      "surfaceForms": [
+        "roar"
+      ],
+      "clozeAnswerSurfaceForm": "roar"
+    },
+    {
+      "lemma": "rooflines",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The shapes formed by the tops of roofs against the sky.",
+      "translationZh": "屋頂輪廓線",
+      "exampleSentence": "At the top of Sand Hill Road, he pointed to Hoover Tower sticking up past the rooflines.",
+      "clozeSentence": "At the top of Sand Hill Road, he pointed to Hoover Tower sticking up past the _____.",
+      "distractors": [
+        "The underground pipes of a building",
+        "The windows along a street",
+        "The paths through a garden"
+      ],
+      "surfaceForms": [
+        "rooflines"
+      ],
+      "clozeAnswerSurfaceForm": "rooflines"
+    },
+    {
+      "lemma": "shack",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A small, roughly built hut or cabin.",
+      "translationZh": "小屋；棚屋",
+      "exampleSentence": "At school, we played a game called MASH: mansion, apartment, shack, house, writing down options about cars, husbands, and houses and then counting out our futures based on a random number.",
+      "clozeSentence": "At school, we played a game called MASH: mansion, apartment, _____, house, writing down options about cars, husbands, and houses and then counting out our futures based on a random number.",
+      "distractors": [
+        "A tall office building",
+        "A luxury hotel room",
+        "An underground parking garage"
+      ],
+      "surfaceForms": [
+        "shack"
+      ],
+      "clozeAnswerSurfaceForm": "shack"
+    },
+    {
+      "lemma": "steer",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To guide or control the direction of something, like a vehicle.",
+      "translationZh": "駕駛；操縱方向",
+      "exampleSentence": "At the curve that led over Highway 280, my father said, “If you look where you’re going, your hands naturally know how to steer toward that point.",
+      "clozeSentence": "At the curve that led over Highway 280, my father said, “If you look where you’re going, your hands naturally know how to _____ toward that point.",
+      "distractors": [
+        "To stop completely",
+        "To speed up suddenly",
+        "To turn off the engine"
+      ],
+      "surfaceForms": [
+        "steer"
+      ],
+      "clozeAnswerSurfaceForm": "steer"
+    },
+    {
+      "lemma": "pigeon",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "A common gray bird often found in cities.",
+      "translationZh": "鴿子",
+      "exampleSentence": "I’d been up there with my mother, near the bells and the pigeons and the wind.",
+      "clozeSentence": "I’d been up there with my mother, near the bells and the _____ and the wind.",
+      "distractors": [
+        "A small furry rodent",
+        "A type of colorful butterfly",
+        "A large farm animal"
+      ],
+      "surfaceForms": [
+        "pigeons"
+      ],
+      "clozeAnswerSurfaceForm": "pigeons"
+    },
+    {
+      "lemma": "cavernous",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Large, dark, and empty like a cave.",
+      "translationZh": "空洞巨大的；如洞穴般的",
+      "exampleSentence": "It was terrible and lonely, I felt then, to be in this cavernous house with this man I hardly knew.",
+      "clozeSentence": "It was terrible and lonely, I felt then, to be in this _____ house with this man I hardly knew.",
+      "distractors": [
+        "Warm and cozy",
+        "Brightly decorated",
+        "Cluttered with furniture"
+      ],
+      "surfaceForms": [
+        "cavernous"
+      ],
+      "clozeAnswerSurfaceForm": "cavernous"
+    },
+    {
+      "lemma": "lentil-sized",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "About the size of a lentil; very small.",
+      "translationZh": "如扁豆般大小的；極小的",
+      "exampleSentence": "My mother had a string of lentil-sized bells on a ribbon she’d brought back from India, meant to be tied around the ankles of Indian dancers, and the crickets sounded like these bells—thousands of dancers moving vigorously almost in unison faster and faster until they all stopped at once.",
+      "clozeSentence": "My mother had a string of _____ bells on a ribbon she’d brought back from India, meant to be tied around the ankles of Indian dancers, and the crickets sounded like these bells—thousands of dancers moving vigorously almost in unison faster and faster until they all stopped at once.",
+      "distractors": [
+        "As large as a fist",
+        "Shaped like a long tube",
+        "Flat and paper-thin"
+      ],
+      "surfaceForms": [
+        "lentil-sized"
+      ],
+      "clozeAnswerSurfaceForm": "lentil-sized"
+    },
+    {
+      "lemma": "unison",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Doing or saying something together at the same time.",
+      "translationZh": "一致；齊聲",
+      "exampleSentence": "My mother had a string of lentil-sized bells on a ribbon she’d brought back from India, meant to be tied around the ankles of Indian dancers, and the crickets sounded like these bells—thousands of dancers moving vigorously almost in unison faster and faster until they all stopped at once.",
+      "clozeSentence": "My mother had a string of lentil-sized bells on a ribbon she’d brought back from India, meant to be tied around the ankles of Indian dancers, and the crickets sounded like these bells—thousands of dancers moving vigorously almost in _____ faster and faster until they all stopped at once.",
+      "distractors": [
+        "Complete disorder",
+        "Total silence",
+        "Random timing"
+      ],
+      "surfaceForms": [
+        "unison"
+      ],
+      "clozeAnswerSurfaceForm": "unison"
+    },
+    {
+      "lemma": "vigorously",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "In a strong, energetic, and forceful way.",
+      "translationZh": "有活力地；用力地",
+      "exampleSentence": "My mother had a string of lentil-sized bells on a ribbon she’d brought back from India, meant to be tied around the ankles of Indian dancers, and the crickets sounded like these bells—thousands of dancers moving vigorously almost in unison faster and faster until they all stopped at once.",
+      "clozeSentence": "My mother had a string of lentil-sized bells on a ribbon she’d brought back from India, meant to be tied around the ankles of Indian dancers, and the crickets sounded like these bells—thousands of dancers moving _____ almost in unison faster and faster until they all stopped at once.",
+      "distractors": [
+        "Very slowly and gently",
+        "Quietly and carefully",
+        "Occasionally and rarely"
+      ],
+      "surfaceForms": [
+        "vigorously"
+      ],
+      "clozeAnswerSurfaceForm": "vigorously"
+    },
+    {
+      "lemma": "bind",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Tied or restricted by rules, time, or obligation.",
+      "translationZh": "受約束的；被束縛的",
+      "exampleSentence": "“I don’t want to be bound by time,” he said.",
+      "clozeSentence": "“I don’t want to be _____ by time,” he said.",
+      "distractors": [
+        "Freed from all responsibility",
+        "Confused about a decision",
+        "Excited about a plan"
+      ],
+      "surfaceForms": [
+        "bound"
+      ],
+      "clozeAnswerSurfaceForm": "bound"
+    },
+    {
+      "lemma": "booth",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A small enclosed structure, often for a specific purpose like selling tickets.",
+      "translationZh": "亭子；小隔間（如售票亭）",
+      "exampleSentence": "“What’s that?” I was looking out the kitchen window, pointing to a tall structure that looked like a booth for a ticket collector, with a screen in the front so you could see in, topped by a minaret.",
+      "clozeSentence": "“What’s that?” I was looking out the kitchen window, pointing to a tall structure that looked like a _____ for a ticket collector, with a screen in the front so you could see in, topped by a minaret.",
+      "distractors": [
+        "A tall tower used for observation",
+        "A wide open courtyard",
+        "A narrow underground tunnel"
+      ],
+      "surfaceForms": [
+        "booth"
+      ],
+      "clozeAnswerSurfaceForm": "booth"
+    },
+    {
+      "lemma": "collector",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A person whose job is to gather or receive something, like tickets or money.",
+      "translationZh": "收票員；收款人",
+      "exampleSentence": "“What’s that?” I was looking out the kitchen window, pointing to a tall structure that looked like a booth for a ticket collector, with a screen in the front so you could see in, topped by a minaret.",
+      "clozeSentence": "“What’s that?” I was looking out the kitchen window, pointing to a tall structure that looked like a booth for a ticket _____, with a screen in the front so you could see in, topped by a minaret.",
+      "distractors": [
+        "A person who repairs machines",
+        "A person who sells food",
+        "A person who cleans buildings"
+      ],
+      "surfaceForms": [
+        "collector"
+      ],
+      "clozeAnswerSurfaceForm": "collector"
+    },
+    {
+      "lemma": "minaret",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A tall, thin tower on a mosque.",
+      "translationZh": "尖塔（清真寺的高塔）",
+      "exampleSentence": "“What’s that?” I was looking out the kitchen window, pointing to a tall structure that looked like a booth for a ticket collector, with a screen in the front so you could see in, topped by a minaret.",
+      "clozeSentence": "“What’s that?” I was looking out the kitchen window, pointing to a tall structure that looked like a booth for a ticket collector, with a screen in the front so you could see in, topped by a _____.",
+      "distractors": [
+        "A wide, flat roof",
+        "A short garden wall",
+        "A round underground room"
+      ],
+      "surfaceForms": [
+        "minaret"
+      ],
+      "clozeAnswerSurfaceForm": "minaret"
+    },
+    {
+      "lemma": "aviary",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A large enclosure for keeping birds.",
+      "translationZh": "鳥舍；大型養鳥場",
+      "exampleSentence": "“It’s an aviary.",
+      "clozeSentence": "“It’s an _____.",
+      "distractors": [
+        "A greenhouse for growing plants",
+        "A small pond for fish",
+        "A shed for storing tools"
+      ],
+      "surfaceForms": [
+        "aviary"
+      ],
+      "clozeAnswerSurfaceForm": "aviary"
+    },
+    {
+      "lemma": "defiantly",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "In a way that shows open resistance or refusal to obey.",
+      "translationZh": "反抗地；挑釁地",
+      "exampleSentence": "“It looks like a penis,” he said again, defiantly.",
+      "clozeSentence": "“It looks like a penis,” he said again, _____.",
+      "distractors": [
+        "In a shy and quiet way",
+        "In a confused manner",
+        "In a cheerful, playful way"
+      ],
+      "surfaceForms": [
+        "defiantly"
+      ],
+      "clozeAnswerSurfaceForm": "defiantly"
+    },
+    {
+      "lemma": "penis",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The male sex organ.",
+      "translationZh": "陰莖",
+      "exampleSentence": "“It’s a penis.”",
+      "clozeSentence": "“It’s a _____.”",
+      "distractors": [
+        "A type of hand tool",
+        "A small kitchen appliance",
+        "A piece of jewelry"
+      ],
+      "surfaceForms": [
+        "penis",
+        "penises"
+      ],
+      "clozeAnswerSurfaceForm": "penis"
+    },
+    {
+      "lemma": "amaze",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Causing great surprise or wonder.",
+      "translationZh": "令人驚訝的；令人驚嘆的",
+      "exampleSentence": "It’s really amazing.”",
+      "clozeSentence": "It’s really _____.”",
+      "distractors": [
+        "Causing mild boredom",
+        "Making someone feel afraid",
+        "Being extremely ordinary"
+      ],
+      "surfaceForms": [
+        "amazing"
+      ],
+      "clozeAnswerSurfaceForm": "amazing"
+    },
+    {
+      "lemma": "acre",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "A unit of land area, about 4,000 square meters.",
+      "translationZh": "英畝（土地面積單位）",
+      "exampleSentence": "How big was seven acres, I wondered.",
+      "clozeSentence": "How big was seven _____, I wondered.",
+      "distractors": [
+        "A unit of weight for produce",
+        "A type of farming tool",
+        "A legal document for land ownership"
+      ],
+      "surfaceForms": [
+        "acres"
+      ],
+      "clozeAnswerSurfaceForm": "acres"
+    },
+    {
+      "lemma": "beech",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A type of tree with smooth bark and small nuts.",
+      "translationZh": "山毛櫸（一種樹木）",
+      "exampleSentence": "If you stood on the huge lawn and looked toward the gathered hills with your back to the tennis court and the pool, and looked past the aviary, past a huge copper beech tree, the raspberries, more oaks, the building where the water tower would have been—maybe that was where the property ended, where the hills rose up and the forest began.",
+      "clozeSentence": "If you stood on the huge lawn and looked toward the gathered hills with your back to the tennis court and the pool, and looked past the aviary, past a huge copper _____ tree, the raspberries, more oaks, the building where the water tower would have been—maybe that was where the property ended, where the hills rose up and the forest began.",
+      "distractors": [
+        "A type of flowering shrub",
+        "A tool used for gardening",
+        "A kind of stone used in building"
+      ],
+      "surfaceForms": [
+        "beech"
+      ],
+      "clozeAnswerSurfaceForm": "beech"
+    },
+    {
+      "lemma": "copper",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A reddish-brown metal, or having that color.",
+      "translationZh": "銅；銅色的",
+      "exampleSentence": "If you stood on the huge lawn and looked toward the gathered hills with your back to the tennis court and the pool, and looked past the aviary, past a huge copper beech tree, the raspberries, more oaks, the building where the water tower would have been—maybe that was where the property ended, where the hills rose up and the forest began.",
+      "clozeSentence": "If you stood on the huge lawn and looked toward the gathered hills with your back to the tennis court and the pool, and looked past the aviary, past a huge _____ beech tree, the raspberries, more oaks, the building where the water tower would have been—maybe that was where the property ended, where the hills rose up and the forest began.",
+      "distractors": [
+        "A shiny silver color",
+        "A dull gray color",
+        "A bright green color"
+      ],
+      "surfaceForms": [
+        "copper"
+      ],
+      "clozeAnswerSurfaceForm": "copper"
+    },
+    {
+      "lemma": "roost",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To settle somewhere to rest or sleep, especially birds.",
+      "translationZh": "棲息（多指鳥類）",
+      "exampleSentence": "There was a net surrounding the bells so that the pigeons wouldn’t roost inside them.",
+      "clozeSentence": "There was a net surrounding the bells so that the pigeons wouldn’t _____ inside them.",
+      "distractors": [
+        "To fly very high",
+        "To make loud noises",
+        "To search for food"
+      ],
+      "surfaceForms": [
+        "roost"
+      ],
+      "clozeAnswerSurfaceForm": "roost"
+    },
+    {
+      "lemma": "coffee-table",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Describing a large, decorative book meant for display, often with pictures.",
+      "translationZh": "大型精美畫冊（常置於茶几展示）的",
+      "exampleSentence": "On a small table in front of the couch was a coffee-table book called The Red Couch.",
+      "clozeSentence": "On a small table in front of the couch was a _____ book called The Red Couch.",
+      "distractors": [
+        "A book written for young children",
+        "A book used only in schools",
+        "A book with no pictures or illustrations"
+      ],
+      "surfaceForms": [
+        "coffee-table"
+      ],
+      "clozeAnswerSurfaceForm": "coffee-table"
+    },
+    {
+      "lemma": "fingertip",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The very end of a finger.",
+      "translationZh": "指尖",
+      "exampleSentence": "Unlike the others in the book, he steepled his hands, the fingertips meeting, index to index, middle to middle, and so on, the wrists held out from each other like the rib cage of a small animal.",
+      "clozeSentence": "Unlike the others in the book, he steepled his hands, the _____ meeting, index to index, middle to middle, and so on, the wrists held out from each other like the rib cage of a small animal.",
+      "distractors": [
+        "The knuckle joint of a finger",
+        "The palm of the hand",
+        "The nail bed of a toe"
+      ],
+      "surfaceForms": [
+        "fingertips"
+      ],
+      "clozeAnswerSurfaceForm": "fingertips"
+    },
+    {
+      "lemma": "index",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The finger next to the thumb.",
+      "translationZh": "食指",
+      "exampleSentence": "Unlike the others in the book, he steepled his hands, the fingertips meeting, index to index, middle to middle, and so on, the wrists held out from each other like the rib cage of a small animal.",
+      "clozeSentence": "Unlike the others in the book, he steepled his hands, the fingertips meeting, _____ to index, middle to middle, and so on, the wrists held out from each other like the rib cage of a small animal.",
+      "distractors": [
+        "The smallest finger on the hand",
+        "The thumb of the hand",
+        "The middle joint of the arm"
+      ],
+      "surfaceForms": [
+        "index"
+      ],
+      "clozeAnswerSurfaceForm": "index"
+    },
+    {
+      "lemma": "rib",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "One of the curved bones surrounding the chest.",
+      "translationZh": "肋骨",
+      "exampleSentence": "Unlike the others in the book, he steepled his hands, the fingertips meeting, index to index, middle to middle, and so on, the wrists held out from each other like the rib cage of a small animal.",
+      "clozeSentence": "Unlike the others in the book, he steepled his hands, the fingertips meeting, index to index, middle to middle, and so on, the wrists held out from each other like the _____ cage of a small animal.",
+      "distractors": [
+        "The soft fur of an animal",
+        "The tail of a fish",
+        "The claws of a bird"
+      ],
+      "surfaceForms": [
+        "rib"
+      ],
+      "clozeAnswerSurfaceForm": "rib"
+    },
+    {
+      "lemma": "steepled",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Placed together with fingertips touching, forming a shape like a steeple.",
+      "translationZh": "（雙手）指尖相對呈尖塔狀",
+      "exampleSentence": "Unlike the others in the book, he steepled his hands, the fingertips meeting, index to index, middle to middle, and so on, the wrists held out from each other like the rib cage of a small animal.",
+      "clozeSentence": "Unlike the others in the book, he _____ his hands, the fingertips meeting, index to index, middle to middle, and so on, the wrists held out from each other like the rib cage of a small animal.",
+      "distractors": [
+        "Clapped his hands loudly",
+        "Hid his hands in his pockets",
+        "Waved his hands in the air"
+      ],
+      "surfaceForms": [
+        "steepled"
+      ],
+      "clozeAnswerSurfaceForm": "steepled"
+    },
+    {
+      "lemma": "incorporate",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To include something as part of a whole.",
+      "translationZh": "納入；融入",
+      "exampleSentence": "Over the next few months I tried to incorporate the steepled hands into my own repertoire—on top of my desk in class, or on the table before my mother and I ate dinner, or on my lap sitting outside with friends at lunchtime.",
+      "clozeSentence": "Over the next few months I tried to _____ the steepled hands into my own repertoire—on top of my desk in class, or on the table before my mother and I ate dinner, or on my lap sitting outside with friends at lunchtime.",
+      "distractors": [
+        "To remove something completely",
+        "To criticize something harshly",
+        "To copy something exactly without change"
+      ],
+      "surfaceForms": [
+        "incorporate"
+      ],
+      "clozeAnswerSurfaceForm": "incorporate"
+    },
+    {
+      "lemma": "lap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The flat area formed by the upper legs of a seated person.",
+      "translationZh": "大腿（坐著時形成的平面）",
+      "exampleSentence": "Over the next few months I tried to incorporate the steepled hands into my own repertoire—on top of my desk in class, or on the table before my mother and I ate dinner, or on my lap sitting outside with friends at lunchtime.",
+      "clozeSentence": "Over the next few months I tried to incorporate the steepled hands into my own repertoire—on top of my desk in class, or on the table before my mother and I ate dinner, or on my _____ sitting outside with friends at lunchtime.",
+      "distractors": [
+        "The back of a chair",
+        "The top of a table",
+        "The space under a bed"
+      ],
+      "surfaceForms": [
+        "lap"
+      ],
+      "clozeAnswerSurfaceForm": "lap"
+    },
+    {
+      "lemma": "repertoire",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The range of skills, works, or actions someone regularly performs.",
+      "translationZh": "全部技能；保留節目",
+      "exampleSentence": "Over the next few months I tried to incorporate the steepled hands into my own repertoire—on top of my desk in class, or on the table before my mother and I ate dinner, or on my lap sitting outside with friends at lunchtime.",
+      "clozeSentence": "Over the next few months I tried to incorporate the steepled hands into my own _____—on top of my desk in class, or on the table before my mother and I ate dinner, or on my lap sitting outside with friends at lunchtime.",
+      "distractors": [
+        "A collection of old photographs",
+        "A list of household chores",
+        "A schedule of daily meals"
+      ],
+      "surfaceForms": [
+        "repertoire"
+      ],
+      "clozeAnswerSurfaceForm": "repertoire—on"
+    },
+    {
+      "lemma": "cylinder",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A solid or hollow object with straight sides and circular ends.",
+      "translationZh": "圓柱體",
+      "exampleSentence": "“Oh,” I said, laughing a little, trying to make the connection between this structure and the very few penises I’d seen, skin-colored cylinders that dangled down.",
+      "clozeSentence": "“Oh,” I said, laughing a little, trying to make the connection between this structure and the very few penises I’d seen, skin-colored _____ that dangled down.",
+      "distractors": [
+        "A flat, square-shaped object",
+        "A thin, pointed object",
+        "A round, hollow ball"
+      ],
+      "surfaceForms": [
+        "cylinders"
+      ],
+      "clozeAnswerSurfaceForm": "cylinders"
+    },
+    {
+      "lemma": "dangle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To hang loosely, swinging slightly.",
+      "translationZh": "懸掛；晃動地垂下",
+      "exampleSentence": "“Oh,” I said, laughing a little, trying to make the connection between this structure and the very few penises I’d seen, skin-colored cylinders that dangled down.",
+      "clozeSentence": "“Oh,” I said, laughing a little, trying to make the connection between this structure and the very few penises I’d seen, skin-colored cylinders that _____ down.",
+      "distractors": [
+        "Stood up straight and stiff",
+        "Moved forward quickly",
+        "Broke into small pieces"
+      ],
+      "surfaceForms": [
+        "dangled"
+      ],
+      "clozeAnswerSurfaceForm": "dangled"
+    },
+    {
+      "lemma": "skin-colored",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Having a color similar to human skin.",
+      "translationZh": "膚色的",
+      "exampleSentence": "“Oh,” I said, laughing a little, trying to make the connection between this structure and the very few penises I’d seen, skin-colored cylinders that dangled down.",
+      "clozeSentence": "“Oh,” I said, laughing a little, trying to make the connection between this structure and the very few penises I’d seen, _____ cylinders that dangled down.",
+      "distractors": [
+        "Bright and multicolored",
+        "Transparent and clear",
+        "Dark and shiny like metal"
+      ],
+      "surfaceForms": [
+        "skin-colored"
+      ],
+      "clozeAnswerSurfaceForm": "skin-colored"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "peacock",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "A large bird known for its colorful tail feathers.",
+      "translationZh": "孔雀",
+      "exampleSentence": "A friend gave me a peacock once, but it wandered off.”",
+      "clozeSentence": "A friend gave me a _____ once, but it wandered off.”",
+      "distractors": [
+        "A small pet dog",
+        "A type of garden flower",
+        "A wild farm horse"
+      ],
+      "surfaceForms": [
+        "peacock"
+      ],
+      "clozeAnswerSurfaceForm": "peacock"
+    },
+    {
+      "lemma": "tub",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A large open container, especially for bathing.",
+      "translationZh": "浴缸；桶",
+      "exampleSentence": "After the hot tub, we watched The Red Balloon and then we watched Harold and Maude, lying on our sides in his bed, him closer to the screen.",
+      "clozeSentence": "After the hot _____, we watched The Red Balloon and then we watched Harold and Maude, lying on our sides in his bed, him closer to the screen.",
+      "distractors": [
+        "A tall narrow closet",
+        "A small kitchen drawer",
+        "A wide outdoor porch"
+      ],
+      "surfaceForms": [
+        "tub"
+      ],
+      "clozeAnswerSurfaceForm": "tub"
+    },
+    {
+      "lemma": "hydraulic",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Operated by the pressure of a liquid moving through pipes.",
+      "translationZh": "液壓的",
+      "exampleSentence": "The laser disc insertion, the hydraulic thump of the car doors, the click of the lever that controlled the headlights—the noises surrounding him were different.",
+      "clozeSentence": "The laser disc insertion, the _____ thump of the car doors, the click of the lever that controlled the headlights—the noises surrounding him were different.",
+      "distractors": [
+        "Powered by wind or air",
+        "Operated completely by hand",
+        "Controlled by sound waves"
+      ],
+      "surfaceForms": [
+        "hydraulic"
+      ],
+      "clozeAnswerSurfaceForm": "hydraulic"
+    },
+    {
+      "lemma": "terracotta",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A brownish-orange clay material used for pottery and roofing.",
+      "translationZh": "赤陶；陶土色",
+      "exampleSentence": "The tower was glowing in the morning sun, and the dome at the top matched the red terracotta of the university rooftops.",
+      "clozeSentence": "The tower was glowing in the morning sun, and the dome at the top matched the red _____ of the university rooftops.",
+      "distractors": [
+        "A shiny black metal",
+        "A soft white fabric",
+        "A dark green paint"
+      ],
+      "surfaceForms": [
+        "terracotta"
+      ],
+      "clozeAnswerSurfaceForm": "terracotta"
+    },
+    {
+      "lemma": "beforehand",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Before a particular time or event; in advance.",
+      "translationZh": "事先；預先",
+      "exampleSentence": "I didn’t like The Red Balloon, because it seemed too young and immature for me; also, I had a feeling I was supposed to like it because he’d chosen it beforehand, the First Movie, and this made me self-conscious.",
+      "clozeSentence": "I didn’t like The Red Balloon, because it seemed too young and immature for me; also, I had a feeling I was supposed to like it because he’d chosen it _____, the First Movie, and this made me self-conscious.",
+      "distractors": [
+        "At the same time as something else",
+        "Immediately after an event",
+        "Without any preparation"
+      ],
+      "surfaceForms": [
+        "beforehand"
+      ],
+      "clozeAnswerSurfaceForm": "beforehand"
+    },
+    {
+      "lemma": "self-conscious",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Nervous or awkward about how one appears to others.",
+      "translationZh": "難為情的；不自在的",
+      "exampleSentence": "I didn’t like The Red Balloon, because it seemed too young and immature for me; also, I had a feeling I was supposed to like it because he’d chosen it beforehand, the First Movie, and this made me self-conscious.",
+      "clozeSentence": "I didn’t like The Red Balloon, because it seemed too young and immature for me; also, I had a feeling I was supposed to like it because he’d chosen it beforehand, the First Movie, and this made me _____.",
+      "distractors": [
+        "Completely relaxed and confident",
+        "Very proud and boastful",
+        "Angry and impatient"
+      ],
+      "surfaceForms": [
+        "self-conscious"
+      ],
+      "clozeAnswerSurfaceForm": "self-conscious"
+    },
+    {
+      "lemma": "substantially",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "To a great or important extent.",
+      "translationZh": "大幅地；實質上",
+      "exampleSentence": "I wanted him to be attached to it so substantially that he wanted to decorate it and keep it.",
+      "clozeSentence": "I wanted him to be attached to it so _____ that he wanted to decorate it and keep it.",
+      "distractors": [
+        "Only slightly or barely",
+        "In a temporary way",
+        "Without any real effect"
+      ],
+      "surfaceForms": [
+        "substantially"
+      ],
+      "clozeAnswerSurfaceForm": "substantially"
+    },
+    {
+      "lemma": "vellum",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "A fine, smooth material made from animal skin, used for writing or as a pale, translucent surface.",
+      "translationZh": "犢皮紙；淡黃色皮紙",
+      "exampleSentence": "In the picture he looked dreamy, his eyes like vellum.",
+      "clozeSentence": "In the picture he looked dreamy, his eyes like _____.",
+      "distractors": [
+        "Polished dark stone",
+        "Rough tree bark",
+        "Bright colored glass"
+      ],
+      "surfaceForms": [
+        "vellum"
+      ],
+      "clozeAnswerSurfaceForm": "vellum"
+    },
+    {
+      "lemma": "ingenious",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Clever, original, and inventive.",
+      "translationZh": "巧妙的；有創意的",
+      "exampleSentence": "Ingenious.",
+      "clozeSentence": "_____.",
+      "distractors": [
+        "Boring and unoriginal",
+        "Dangerous and reckless",
+        "Simple and predictable"
+      ],
+      "surfaceForms": [
+        "ingenious"
+      ],
+      "clozeAnswerSurfaceForm": "Ingenious"
+    },
+    {
+      "lemma": "serrate",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Having a jagged, saw-like edge.",
+      "translationZh": "鋸齒狀的",
+      "exampleSentence": "Why did we bother with switches and serrated knobs?",
+      "clozeSentence": "Why did we bother with switches and _____ knobs?",
+      "distractors": [
+        "Perfectly smooth and round",
+        "Extremely soft and flexible",
+        "Transparent and see-through"
+      ],
+      "surfaceForms": [
+        "serrated"
+      ],
+      "clozeAnswerSurfaceForm": "serrated"
+    },
+    {
+      "lemma": "breathlessness",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "The state of being out of breath or feeling rushed.",
+      "translationZh": "喘不過氣；急促感",
+      "exampleSentence": "Here there was no rush, no breathlessness.",
+      "clozeSentence": "Here there was no rush, no _____.",
+      "distractors": [
+        "A state of deep calmness",
+        "A strong feeling of hunger",
+        "A sudden burst of energy"
+      ],
+      "surfaceForms": [
+        "breathlessness"
+      ],
+      "clozeAnswerSurfaceForm": "breathlessness"
+    },
+    {
+      "lemma": "pigeon",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "A common gray bird often found in cities.",
+      "translationZh": "鴿子",
+      "exampleSentence": "I’d been up there with my mother, near the bells and the pigeons and the wind.",
+      "clozeSentence": "I’d been up there with my mother, near the bells and the _____ and the wind.",
+      "distractors": [
+        "A small furry rodent",
+        "A type of colorful butterfly",
+        "A large farm animal"
+      ],
+      "surfaceForms": [
+        "pigeons"
+      ],
+      "clozeAnswerSurfaceForm": "pigeons"
+    },
+    {
+      "lemma": "cavernous",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Large, dark, and empty like a cave.",
+      "translationZh": "空洞巨大的；如洞穴般的",
+      "exampleSentence": "It was terrible and lonely, I felt then, to be in this cavernous house with this man I hardly knew.",
+      "clozeSentence": "It was terrible and lonely, I felt then, to be in this _____ house with this man I hardly knew.",
+      "distractors": [
+        "Warm and cozy",
+        "Brightly decorated",
+        "Cluttered with furniture"
+      ],
+      "surfaceForms": [
+        "cavernous"
+      ],
+      "clozeAnswerSurfaceForm": "cavernous"
+    },
+    {
+      "lemma": "lentil-sized",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "About the size of a lentil; very small.",
+      "translationZh": "如扁豆般大小的；極小的",
+      "exampleSentence": "My mother had a string of lentil-sized bells on a ribbon she’d brought back from India, meant to be tied around the ankles of Indian dancers, and the crickets sounded like these bells—thousands of dancers moving vigorously almost in unison faster and faster until they all stopped at once.",
+      "clozeSentence": "My mother had a string of _____ bells on a ribbon she’d brought back from India, meant to be tied around the ankles of Indian dancers, and the crickets sounded like these bells—thousands of dancers moving vigorously almost in unison faster and faster until they all stopped at once.",
+      "distractors": [
+        "As large as a fist",
+        "Shaped like a long tube",
+        "Flat and paper-thin"
+      ],
+      "surfaceForms": [
+        "lentil-sized"
+      ],
+      "clozeAnswerSurfaceForm": "lentil-sized"
+    },
+    {
+      "lemma": "unison",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Doing or saying something together at the same time.",
+      "translationZh": "一致；齊聲",
+      "exampleSentence": "My mother had a string of lentil-sized bells on a ribbon she’d brought back from India, meant to be tied around the ankles of Indian dancers, and the crickets sounded like these bells—thousands of dancers moving vigorously almost in unison faster and faster until they all stopped at once.",
+      "clozeSentence": "My mother had a string of lentil-sized bells on a ribbon she’d brought back from India, meant to be tied around the ankles of Indian dancers, and the crickets sounded like these bells—thousands of dancers moving vigorously almost in _____ faster and faster until they all stopped at once.",
+      "distractors": [
+        "Complete disorder",
+        "Total silence",
+        "Random timing"
+      ],
+      "surfaceForms": [
+        "unison"
+      ],
+      "clozeAnswerSurfaceForm": "unison"
+    },
+    {
+      "lemma": "minaret",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A tall, thin tower on a mosque.",
+      "translationZh": "尖塔（清真寺的高塔）",
+      "exampleSentence": "“What’s that?” I was looking out the kitchen window, pointing to a tall structure that looked like a booth for a ticket collector, with a screen in the front so you could see in, topped by a minaret.",
+      "clozeSentence": "“What’s that?” I was looking out the kitchen window, pointing to a tall structure that looked like a booth for a ticket collector, with a screen in the front so you could see in, topped by a _____.",
+      "distractors": [
+        "A wide, flat roof",
+        "A short garden wall",
+        "A round underground room"
+      ],
+      "surfaceForms": [
+        "minaret"
+      ],
+      "clozeAnswerSurfaceForm": "minaret"
+    },
+    {
+      "lemma": "aviary",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A large enclosure for keeping birds.",
+      "translationZh": "鳥舍；大型養鳥場",
+      "exampleSentence": "“It’s an aviary.",
+      "clozeSentence": "“It’s an _____.",
+      "distractors": [
+        "A greenhouse for growing plants",
+        "A small pond for fish",
+        "A shed for storing tools"
+      ],
+      "surfaceForms": [
+        "aviary"
+      ],
+      "clozeAnswerSurfaceForm": "aviary"
+    },
+    {
+      "lemma": "acre",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "A unit of land area, about 4,000 square meters.",
+      "translationZh": "英畝（土地面積單位）",
+      "exampleSentence": "How big was seven acres, I wondered.",
+      "clozeSentence": "How big was seven _____, I wondered.",
+      "distractors": [
+        "A unit of weight for produce",
+        "A type of farming tool",
+        "A legal document for land ownership"
+      ],
+      "surfaceForms": [
+        "acres"
+      ],
+      "clozeAnswerSurfaceForm": "acres"
+    },
+    {
+      "lemma": "beech",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A type of tree with smooth bark and small nuts.",
+      "translationZh": "山毛櫸（一種樹木）",
+      "exampleSentence": "If you stood on the huge lawn and looked toward the gathered hills with your back to the tennis court and the pool, and looked past the aviary, past a huge copper beech tree, the raspberries, more oaks, the building where the water tower would have been—maybe that was where the property ended, where the hills rose up and the forest began.",
+      "clozeSentence": "If you stood on the huge lawn and looked toward the gathered hills with your back to the tennis court and the pool, and looked past the aviary, past a huge copper _____ tree, the raspberries, more oaks, the building where the water tower would have been—maybe that was where the property ended, where the hills rose up and the forest began.",
+      "distractors": [
+        "A type of flowering shrub",
+        "A tool used for gardening",
+        "A kind of stone used in building"
+      ],
+      "surfaceForms": [
+        "beech"
+      ],
+      "clozeAnswerSurfaceForm": "beech"
+    },
+    {
+      "lemma": "steepled",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Placed together with fingertips touching, forming a shape like a steeple.",
+      "translationZh": "（雙手）指尖相對呈尖塔狀",
+      "exampleSentence": "Unlike the others in the book, he steepled his hands, the fingertips meeting, index to index, middle to middle, and so on, the wrists held out from each other like the rib cage of a small animal.",
+      "clozeSentence": "Unlike the others in the book, he _____ his hands, the fingertips meeting, index to index, middle to middle, and so on, the wrists held out from each other like the rib cage of a small animal.",
+      "distractors": [
+        "Clapped his hands loudly",
+        "Hid his hands in his pockets",
+        "Waved his hands in the air"
+      ],
+      "surfaceForms": [
+        "steepled"
+      ],
+      "clozeAnswerSurfaceForm": "steepled"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "wordLemma": "serrate",
+      "prompt": "serrate",
+      "options": [
+        "Perfectly smooth and round",
+        "Having a jagged, saw-like edge.",
+        "Transparent and see-through",
+        "Extremely soft and flexible"
+      ],
+      "answer": "Having a jagged, saw-like edge."
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "substantially",
+      "prompt": "substantially",
+      "options": [
+        "Only slightly or barely",
+        "To a great or important extent.",
+        "Without any real effect",
+        "In a temporary way"
+      ],
+      "answer": "To a great or important extent."
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "steepled",
+      "prompt": "Unlike the others in the book, he _____ his hands, the fingertips meeting, index to index, middle to middle, and so on, the wrists held out from each other like the rib cage of a small animal.",
+      "options": [
+        "terracotta",
+        "beforehand",
+        "vellum",
+        "steepled"
+      ],
+      "answer": "steepled"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "self-conscious",
+      "prompt": "難為情的；不自在的",
+      "options": [
+        "breathlessness",
+        "hydraulic",
+        "minaret",
+        "self-conscious"
+      ],
+      "answer": "self-conscious"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "unison",
+      "prompt": "一致；齊聲",
+      "options": [
+        "serrate",
+        "acre",
+        "unison",
+        "ingenious"
+      ],
+      "answer": "unison"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "aviary",
+      "prompt": "“It’s an _____.",
+      "options": [
+        "acres",
+        "peacock",
+        "aviary",
+        "pigeons"
+      ],
+      "answer": "aviary"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "pigeon",
+      "prompt": "鴿子",
+      "options": [
+        "beech",
+        "beforehand",
+        "pigeon",
+        "tub"
+      ],
+      "answer": "pigeon"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "beech",
+      "prompt": "beech",
+      "options": [
+        "A type of tree with smooth bark and small nuts.",
+        "A tool used for gardening",
+        "A type of flowering shrub",
+        "A kind of stone used in building"
+      ],
+      "answer": "A type of tree with smooth bark and small nuts."
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "terracotta",
+      "prompt": "terracotta",
+      "options": [
+        "A brownish-orange clay material used for pottery and roofing.",
+        "A dark green paint",
+        "A soft white fabric",
+        "A shiny black metal"
+      ],
+      "answer": "A brownish-orange clay material used for pottery and roofing."
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "beforehand",
+      "prompt": "I didn’t like The Red Balloon, because it seemed too young and immature for me; also, I had a feeling I was supposed to like it because he’d chosen it _____, the First Movie, and this made me self-conscious.",
+      "options": [
+        "lentil-sized",
+        "beforehand",
+        "unison",
+        "serrated"
+      ],
+      "answer": "beforehand"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "lentil-sized",
+      "prompt": "My mother had a string of _____ bells on a ribbon she’d brought back from India, meant to be tied around the ankles of Indian dancers, and the crickets sounded like these bells—thousands of dancers moving vigorously almost in unison faster and faster until they all stopped at once.",
+      "options": [
+        "beforehand",
+        "aviary",
+        "lentil-sized",
+        "tub"
+      ],
+      "answer": "lentil-sized"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "ingenious",
+      "prompt": "巧妙的；有創意的",
+      "options": [
+        "unison",
+        "lentil-sized",
+        "steepled",
+        "ingenious"
+      ],
+      "answer": "ingenious"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "minaret",
+      "prompt": "minaret",
+      "options": [
+        "A tall, thin tower on a mosque.",
+        "A round underground room",
+        "A wide, flat roof",
+        "A short garden wall"
+      ],
+      "answer": "A tall, thin tower on a mosque."
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "peacock",
+      "prompt": "peacock",
+      "options": [
+        "A large bird known for its colorful tail feathers.",
+        "A type of garden flower",
+        "A small pet dog",
+        "A wild farm horse"
+      ],
+      "answer": "A large bird known for its colorful tail feathers."
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "tub",
+      "prompt": "After the hot _____, we watched The Red Balloon and then we watched Harold and Maude, lying on our sides in his bed, him closer to the screen.",
+      "options": [
+        "cavernous",
+        "tub",
+        "self-conscious",
+        "serrated"
+      ],
+      "answer": "tub"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "breathlessness",
+      "prompt": "Here there was no rush, no _____.",
+      "options": [
+        "pigeons",
+        "vellum",
+        "minaret",
+        "breathlessness"
+      ],
+      "answer": "breathlessness"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "vellum",
+      "prompt": "In the picture he looked dreamy, his eyes like _____.",
+      "options": [
+        "hydraulic",
+        "peacock",
+        "terracotta",
+        "vellum"
+      ],
+      "answer": "vellum"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "hydraulic",
+      "prompt": "液壓的",
+      "options": [
+        "beforehand",
+        "terracotta",
+        "beech",
+        "hydraulic"
+      ],
+      "answer": "hydraulic"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "cavernous",
+      "prompt": "cavernous",
+      "options": [
+        "Cluttered with furniture",
+        "Warm and cozy",
+        "Large, dark, and empty like a cave.",
+        "Brightly decorated"
+      ],
+      "answer": "Large, dark, and empty like a cave."
+    },
+    {
+      "type": "translation",
+      "wordLemma": "acre",
+      "prompt": "英畝（土地面積單位）",
+      "options": [
+        "acre",
+        "unison",
+        "self-conscious",
+        "tub"
+      ],
+      "answer": "acre"
+    }
+  ]
+}

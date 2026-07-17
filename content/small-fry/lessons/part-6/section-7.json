@@ -1,0 +1,1391 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 6,
+  "partTitle": "Small Nation",
+  "sectionIndex": 7,
+  "paragraphs": [
+    "My mother and I planned to meet for brunch on a Saturday. Since our reunion at Christmas, we’d seen each other twice, but these visits had devolved into fights. I picked Il Fornaio because it was close enough that I could get there and back on my own—a twenty-minute walk to my father’s house. I didn’t have a new bike yet. If she lost her temper, I could leave. When I arrived, she was already waiting. We hugged. She was wearing a new dress. The maître d’ with the gray mustache said, “Follow me,” and walked us into the courtyard, past the fountain, to a round metal table near a potted tree covered in purple flowers. He didn’t seem to recognize me, even though I’d come here many times with my father to pick up marinara pizzas with onions, olives, and oregano.",
+    "My mother faced out and I faced the back of the courtyard, where there were no more tables. We put our napkins in our laps. We weren’t connected anymore but separate. I wasn’t sure how to let her know that I was still her daughter. If she yelled, I would get up and leave; just imagining it, the boldness of it, made me feel giddy and guilty both.",
+    "“How are you doing?” she asked.",
+    "“I’m okay,” I said. “How are you?”",
+    "“I’m fine. I miss you. How do you like Paly?”",
+    "“It’s all right.” It was terrible. “I mean, I think it will get better,” I said in a cheery voice.",
+    "The formality could not continue. I knew she would break it.",
+    "“So it sounds like everything’s just great,” she said—a hint of sarcasm.",
+    "The waiter came and asked if we were ready to order, jolly, as if he was interacting with any mother and daughter on any morning. I ordered the pancakes with stewed peaches and whipped cream.",
+    "“You just seem like this strange, distant person,” she said, when the waiter left. “Completely different. It’s like you’re not even my daughter anymore since you moved out.” She sounded curious about it, and the curiosity hurt me—as if she noticed but didn’t care. I wondered if it was true; I might be worse than I thought, irreparably changed. Near her I was a perfect shell that even I could not break.",
+    "“I moved out because we were fighting,” I said. “I didn’t want to.”",
+    "“Oh, come on,” she said. “You just worry about yourself. Your perfect life. Things get tough and Lisa goes with the rich people. Poof.”",
+    "My life didn’t feel rich; maybe it looked rich, or richer, from the outside. It was true I had nicer clothes now. Not a lot of clothes, but better ones, and newer. When we went for Indian food at the mall, my father would sometimes guide us into Armani Exchange, where he would buy me a T-shirt or a pair of trousers. Before this, when I got something new, I’d wear it a lot and wear it out until it looked like the other things in my closet, but shopping with them worked differently: small and more frequent renewals, nicer fabrics, and because most of the clothes came from the same shop at around the same time, they went together. Blue, white, charcoal. For the first time, when I looked into my closet, I could find something newish that fit and could be worn with something else newish that fit. I knew my mother would have loved to have this same feeling, and I felt guilty to have it first. “You have a real problem, Lisa,” she continued, growling through her clenched teeth. “You know what’s wrong with you? You want to be like them so much that you have no idea what’s important in life.”",
+    "In fact, I wanted to be just like them, but it wasn’t possible, hard as I tried. I stuck out. I did not blend, needing more than I was given and hoping to hide it.",
+    "My mother began to speak in a high, piercing voice meant to mock mine.",
+    "“I’m just so delicate, such a princess,” she said.",
+    "“You’re like them,” she said. She began to raise her voice and speak angrily. “Cold, and heartless, and phony. I guess you might as well be with them.”",
+    "I looked around at the other tables—no one was sitting too close, but a few people looked. “This isn’t okay,” I said, standing. “You can’t yell at me anymore. I’m leaving.”",
+    "She looked at me, stunned. I walked through the courtyard, through the belly of the restaurant past the row of chefs, the bustle, the warmth, and din. I was self-conscious about my back and my legs. Everything she could see as she watched me go—the way I moved, my clothes, the way I walked—might confirm what she’d said about me. I tried to walk as I’d always walked, the way I’d walked when I was with her, so that she would see this walk and understand that I was still who I was before. I quickened my step as soon as I was out the door, in case she was following me to yell more. I wanted her to follow me; I was terrified she would.",
+    "I walked home. My hands were shaking. I’d abandoned my mother. I’d left her all alone. The street was empty and peaceful. I felt a strange sort of calm, too calm; I was a girl walking and a girl who watched a girl walking. I was what she said I was, the kind of person who left the people they loved.",
+    "I kept looking back. In between looks I stepped carefully to avoid the hard fruits from the sweet gums. The trees were fiery orange and red, with star-shaped leaves, and because it had rained the day before, there were leaves on the ground, unnaturally bright on the gray sidewalk. The fruits were the size of cherries, brown with brown spines. They left rust-colored marks on the sidewalk. These same fruits had fallen from the tree in the backyard at the Rinconada house, thonking on the deck—so many that it had been impossible to walk without losing my balance until my mother came outside and swept them away."
+  ],
+  "words": [
+    {
+      "lemma": "brunch",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A meal eaten late in the morning, combining breakfast and lunch",
+      "translationZh": "早午餐",
+      "exampleSentence": "My mother and I planned to meet for brunch on a Saturday.",
+      "clozeSentence": "My mother and I planned to meet for _____ on a Saturday.",
+      "distractors": [
+        "A small snack eaten late at night",
+        "A formal dinner eaten in the evening",
+        "A quick breakfast eaten while walking"
+      ],
+      "surfaceForms": [
+        "brunch"
+      ],
+      "clozeAnswerSurfaceForm": "brunch"
+    },
+    {
+      "lemma": "mock",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To imitate someone in a way that makes fun of them",
+      "translationZh": "嘲笑；模仿取笑",
+      "exampleSentence": "My mother began to speak in a high, piercing voice meant to mock mine.",
+      "clozeSentence": "My mother began to speak in a high, piercing voice meant to _____ mine.",
+      "distractors": [
+        "To praise someone sincerely",
+        "To help someone in need",
+        "To forgive someone completely"
+      ],
+      "surfaceForms": [
+        "mock"
+      ],
+      "clozeAnswerSurfaceForm": "mock"
+    },
+    {
+      "lemma": "pierce",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Sharp and penetrating, cutting through like a needle",
+      "translationZh": "刺耳的；尖銳穿透的",
+      "exampleSentence": "My mother began to speak in a high, piercing voice meant to mock mine.",
+      "clozeSentence": "My mother began to speak in a high, _____ voice meant to mock mine.",
+      "distractors": [
+        "Soft and soothing",
+        "Low and barely audible",
+        "Warm and comforting"
+      ],
+      "surfaceForms": [
+        "piercing"
+      ],
+      "clozeAnswerSurfaceForm": "piercing"
+    },
+    {
+      "lemma": "bustle",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Busy, noisy activity and movement",
+      "translationZh": "喧鬧忙碌（的景象）",
+      "exampleSentence": "I walked through the courtyard, through the belly of the restaurant past the row of chefs, the bustle, the warmth, and din.",
+      "clozeSentence": "I walked through the courtyard, through the belly of the restaurant past the row of chefs, the _____, the warmth, and din.",
+      "distractors": [
+        "Complete silence and stillness",
+        "A quiet, peaceful sleep",
+        "A slow, careful walk"
+      ],
+      "surfaceForms": [
+        "bustle"
+      ],
+      "clozeAnswerSurfaceForm": "bustle"
+    },
+    {
+      "lemma": "din",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A loud, unpleasant, continuous noise",
+      "translationZh": "喧囂聲；嘈雜聲",
+      "exampleSentence": "I walked through the courtyard, through the belly of the restaurant past the row of chefs, the bustle, the warmth, and din.",
+      "clozeSentence": "I walked through the courtyard, through the belly of the restaurant past the row of chefs, the bustle, the warmth, and _____.",
+      "distractors": [
+        "A moment of complete silence",
+        "A soft, gentle melody",
+        "A quiet whisper"
+      ],
+      "surfaceForms": [
+        "din"
+      ],
+      "clozeAnswerSurfaceForm": "din"
+    },
+    {
+      "lemma": "irreparably",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "In a way that cannot be repaired or fixed",
+      "translationZh": "無法挽回地",
+      "exampleSentence": "I wondered if it was true; I might be worse than I thought, irreparably changed.",
+      "clozeSentence": "I wondered if it was true; I might be worse than I thought, _____ changed.",
+      "distractors": [
+        "In a way that can be easily fixed",
+        "In a temporary, short-lived way",
+        "In a gradual, barely noticeable way"
+      ],
+      "surfaceForms": [
+        "irreparably"
+      ],
+      "clozeAnswerSurfaceForm": "irreparably"
+    },
+    {
+      "lemma": "pancake",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A flat, round cake cooked in a pan",
+      "translationZh": "鬆餅；煎餅",
+      "exampleSentence": "I ordered the pancakes with stewed peaches and whipped cream.",
+      "clozeSentence": "I ordered the _____ with stewed peaches and whipped cream.",
+      "distractors": [
+        "A type of bread baked in a loaf",
+        "A cold, frozen dessert",
+        "A thin, crispy cracker"
+      ],
+      "surfaceForms": [
+        "pancakes"
+      ],
+      "clozeAnswerSurfaceForm": "pancakes"
+    },
+    {
+      "lemma": "peach",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A round, soft fruit with fuzzy skin and a large pit",
+      "translationZh": "桃子",
+      "exampleSentence": "I ordered the pancakes with stewed peaches and whipped cream.",
+      "clozeSentence": "I ordered the pancakes with stewed _____ and whipped cream.",
+      "distractors": [
+        "A hard, green citrus fruit",
+        "A dark purple berry",
+        "A long yellow tropical fruit"
+      ],
+      "surfaceForms": [
+        "peaches"
+      ],
+      "clozeAnswerSurfaceForm": "peaches"
+    },
+    {
+      "lemma": "quicken",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To become or make faster",
+      "translationZh": "加快",
+      "exampleSentence": "I quickened my step as soon as I was out the door, in case she was following me to yell more.",
+      "clozeSentence": "I _____ my step as soon as I was out the door, in case she was following me to yell more.",
+      "distractors": [
+        "To become or make slower",
+        "To stop completely",
+        "To become quieter"
+      ],
+      "surfaceForms": [
+        "quickened"
+      ],
+      "clozeAnswerSurfaceForm": "quickened"
+    },
+    {
+      "lemma": "self-conscious",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Uncomfortably aware of oneself or how one appears to others",
+      "translationZh": "難為情的；不自在的",
+      "exampleSentence": "I was self-conscious about my back and my legs.",
+      "clozeSentence": "I was _____ about my back and my legs.",
+      "distractors": [
+        "Completely relaxed and carefree",
+        "Extremely confident and proud",
+        "Unaware of one's surroundings"
+      ],
+      "surfaceForms": [
+        "self-conscious"
+      ],
+      "clozeAnswerSurfaceForm": "self-conscious"
+    },
+    {
+      "lemma": "stew",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Cooked slowly in liquid over low heat",
+      "translationZh": "燉煮的",
+      "exampleSentence": "I ordered the pancakes with stewed peaches and whipped cream.",
+      "clozeSentence": "I ordered the pancakes with _____ peaches and whipped cream.",
+      "distractors": [
+        "Fried quickly in hot oil",
+        "Frozen and served cold",
+        "Grilled directly over a flame"
+      ],
+      "surfaceForms": [
+        "stewed"
+      ],
+      "clozeAnswerSurfaceForm": "stewed"
+    },
+    {
+      "lemma": "whip",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Beaten quickly until light, thick, and fluffy",
+      "translationZh": "打發的（如鮮奶油）",
+      "exampleSentence": "I ordered the pancakes with stewed peaches and whipped cream.",
+      "clozeSentence": "I ordered the pancakes with stewed peaches and _____ cream.",
+      "distractors": [
+        "Melted slowly over low heat",
+        "Left to sit until it hardens",
+        "Mixed with sugar and frozen"
+      ],
+      "surfaceForms": [
+        "whipped"
+      ],
+      "clozeAnswerSurfaceForm": "whipped"
+    },
+    {
+      "lemma": "devolve",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To gradually change into a worse or lower state",
+      "translationZh": "逐漸惡化；退化",
+      "exampleSentence": "Since our reunion at Christmas, we’d seen each other twice, but these visits had devolved into fights.",
+      "clozeSentence": "Since our reunion at Christmas, we’d seen each other twice, but these visits had _____ into fights.",
+      "distractors": [
+        "To improve steadily over time",
+        "To remain exactly the same",
+        "To end suddenly and completely"
+      ],
+      "surfaceForms": [
+        "devolved"
+      ],
+      "clozeAnswerSurfaceForm": "devolved"
+    },
+    {
+      "lemma": "boldness",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The quality of being brave, confident, and willing to take risks",
+      "translationZh": "大膽；勇敢",
+      "exampleSentence": "If she yelled, I would get up and leave; just imagining it, the boldness of it, made me feel giddy and guilty both.",
+      "clozeSentence": "If she yelled, I would get up and leave; just imagining it, the _____ of it, made me feel giddy and guilty both.",
+      "distractors": [
+        "A feeling of shyness and fear",
+        "A state of deep confusion",
+        "A sense of extreme tiredness"
+      ],
+      "surfaceForms": [
+        "boldness"
+      ],
+      "clozeAnswerSurfaceForm": "boldness"
+    },
+    {
+      "lemma": "giddy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Feeling excited and slightly dizzy",
+      "translationZh": "興奮暈眩的",
+      "exampleSentence": "If she yelled, I would get up and leave; just imagining it, the boldness of it, made me feel giddy and guilty both.",
+      "clozeSentence": "If she yelled, I would get up and leave; just imagining it, the boldness of it, made me feel _____ and guilty both.",
+      "distractors": [
+        "Feeling calm and steady",
+        "Feeling tired and sleepy",
+        "Feeling angry and tense"
+      ],
+      "surfaceForms": [
+        "giddy"
+      ],
+      "clozeAnswerSurfaceForm": "giddy"
+    },
+    {
+      "lemma": "trouser",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A piece of clothing covering the legs, worn from the waist down",
+      "translationZh": "長褲",
+      "exampleSentence": "When we went for Indian food at the mall, my father would sometimes guide us into Armani Exchange, where he would buy me a T-shirt or a pair of trousers.",
+      "clozeSentence": "When we went for Indian food at the mall, my father would sometimes guide us into Armani Exchange, where he would buy me a T-shirt or a pair of _____.",
+      "distractors": [
+        "A piece of clothing worn on the feet",
+        "A garment worn around the neck",
+        "A piece of clothing worn on the head"
+      ],
+      "surfaceForms": [
+        "trousers"
+      ],
+      "clozeAnswerSurfaceForm": "trousers"
+    },
+    {
+      "lemma": "lap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The upper part of the legs when a person is sitting",
+      "translationZh": "（坐著時的）大腿；膝上",
+      "exampleSentence": "We put our napkins in our laps.",
+      "clozeSentence": "We put our napkins in our _____.",
+      "distractors": [
+        "The back of the neck",
+        "The palm of the hand",
+        "The sole of the foot"
+      ],
+      "surfaceForms": [
+        "laps"
+      ],
+      "clozeAnswerSurfaceForm": "laps"
+    },
+    {
+      "lemma": "cherry",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A small, round, red fruit with a pit",
+      "translationZh": "櫻桃",
+      "exampleSentence": "The fruits were the size of cherries, brown with brown spines.",
+      "clozeSentence": "The fruits were the size of _____, brown with brown spines.",
+      "distractors": [
+        "A large, yellow tropical fruit",
+        "A green leafy vegetable",
+        "A type of nut with a hard shell"
+      ],
+      "surfaceForms": [
+        "cherries"
+      ],
+      "clozeAnswerSurfaceForm": "cherries"
+    },
+    {
+      "lemma": "courtyard",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "An open space surrounded by walls or buildings",
+      "translationZh": "庭院；中庭",
+      "exampleSentence": "The maître d’ with the gray mustache said, “Follow me,” and walked us into the courtyard, past the fountain, to a round metal table near a potted tree covered in purple flowers.",
+      "clozeSentence": "The maître d’ with the gray mustache said, “Follow me,” and walked us into the _____, past the fountain, to a round metal table near a potted tree covered in purple flowers.",
+      "distractors": [
+        "A room used for cooking",
+        "A narrow path through a forest",
+        "A large public library"
+      ],
+      "surfaceForms": [
+        "courtyard"
+      ],
+      "clozeAnswerSurfaceForm": "courtyard"
+    },
+    {
+      "lemma": "fiery",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Bright red or orange like fire, or full of intense emotion",
+      "translationZh": "火紅的；熱烈的",
+      "exampleSentence": "The trees were fiery orange and red, with star-shaped leaves, and because it had rained the day before, there were leaves on the ground, unnaturally bright on the gray sidewalk.",
+      "clozeSentence": "The trees were _____ orange and red, with star-shaped leaves, and because it had rained the day before, there were leaves on the ground, unnaturally bright on the gray sidewalk.",
+      "distractors": [
+        "Pale and colorless",
+        "Cold and calm",
+        "Dull and lifeless"
+      ],
+      "surfaceForms": [
+        "fiery"
+      ],
+      "clozeAnswerSurfaceForm": "fiery"
+    },
+    {
+      "lemma": "formality",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "A formal act, procedure, or way of behaving",
+      "translationZh": "拘謹；形式化的禮節",
+      "exampleSentence": "The formality could not continue.",
+      "clozeSentence": "The _____ could not continue.",
+      "distractors": [
+        "A casual, relaxed conversation",
+        "A sudden burst of emotion",
+        "A private personal secret"
+      ],
+      "surfaceForms": [
+        "formality"
+      ],
+      "clozeAnswerSurfaceForm": "formality"
+    },
+    {
+      "lemma": "jolly",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Happy and cheerful in manner",
+      "translationZh": "愉快的；歡樂的",
+      "exampleSentence": "The waiter came and asked if we were ready to order, jolly, as if he was interacting with any mother and daughter on any morning.",
+      "clozeSentence": "The waiter came and asked if we were ready to order, _____, as if he was interacting with any mother and daughter on any morning.",
+      "distractors": [
+        "Serious and unfriendly",
+        "Nervous and hesitant",
+        "Tired and irritable"
+      ],
+      "surfaceForms": [
+        "jolly"
+      ],
+      "clozeAnswerSurfaceForm": "jolly"
+    },
+    {
+      "lemma": "mustache",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Hair that grows on the upper lip",
+      "translationZh": "鬍子（上唇的）",
+      "exampleSentence": "The maître d’ with the gray mustache said, “Follow me,” and walked us into the courtyard, past the fountain, to a round metal table near a potted tree covered in purple flowers.",
+      "clozeSentence": "The maître d’ with the gray _____ said, “Follow me,” and walked us into the courtyard, past the fountain, to a round metal table near a potted tree covered in purple flowers.",
+      "distractors": [
+        "Hair that grows on the chin only",
+        "A scar on the face",
+        "A pair of glasses"
+      ],
+      "surfaceForms": [
+        "mustache"
+      ],
+      "clozeAnswerSurfaceForm": "mustache"
+    },
+    {
+      "lemma": "spine",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A sharp, pointed growth on a plant, animal, or fruit",
+      "translationZh": "（果實、植物等的）刺",
+      "exampleSentence": "The fruits were the size of cherries, brown with brown spines.",
+      "clozeSentence": "The fruits were the size of cherries, brown with brown _____.",
+      "distractors": [
+        "A smooth, round seed inside a fruit",
+        "A sweet liquid found in fruit",
+        "A thin outer skin of a fruit"
+      ],
+      "surfaceForms": [
+        "spine"
+      ],
+      "clozeAnswerSurfaceForm": "spines"
+    },
+    {
+      "lemma": "unnaturally",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "In a way that is not natural or normal",
+      "translationZh": "不自然地",
+      "exampleSentence": "The trees were fiery orange and red, with star-shaped leaves, and because it had rained the day before, there were leaves on the ground, unnaturally bright on the gray sidewalk.",
+      "clozeSentence": "The trees were fiery orange and red, with star-shaped leaves, and because it had rained the day before, there were leaves on the ground, _____ bright on the gray sidewalk.",
+      "distractors": [
+        "In a completely natural, expected way",
+        "In a slow, careful way",
+        "In a friendly, warm way"
+      ],
+      "surfaceForms": [
+        "unnaturally"
+      ],
+      "clozeAnswerSurfaceForm": "unnaturally"
+    },
+    {
+      "lemma": "olive",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A small, oval fruit, often green or black, used in cooking",
+      "translationZh": "橄欖",
+      "exampleSentence": "He didn’t seem to recognize me, even though I’d come here many times with my father to pick up marinara pizzas with onions, olives, and oregano.",
+      "clozeSentence": "He didn’t seem to recognize me, even though I’d come here many times with my father to pick up marinara pizzas with onions, _____, and oregano.",
+      "distractors": [
+        "A small, round red berry",
+        "A type of dried grain",
+        "A tropical citrus fruit"
+      ],
+      "surfaceForms": [
+        "olives"
+      ],
+      "clozeAnswerSurfaceForm": "olives"
+    },
+    {
+      "lemma": "cheery",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Happy, bright, and cheerful",
+      "translationZh": "開朗愉快的",
+      "exampleSentence": "“I mean, I think it will get better,” I said in a cheery voice.",
+      "clozeSentence": "“I mean, I think it will get better,” I said in a _____ voice.",
+      "distractors": [
+        "Sad and gloomy",
+        "Angry and irritated",
+        "Nervous and anxious"
+      ],
+      "surfaceForms": [
+        "cheery"
+      ],
+      "clozeAnswerSurfaceForm": "cheery"
+    },
+    {
+      "lemma": "hint",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A small sign or slight suggestion of something",
+      "translationZh": "暗示；跡象",
+      "exampleSentence": "“So it sounds like everything’s just great,” she said—a hint of sarcasm.",
+      "clozeSentence": "“So it sounds like everything’s just great,” she said—a _____ of sarcasm.",
+      "distractors": [
+        "A firm, direct order",
+        "A loud complaint",
+        "A detailed explanation"
+      ],
+      "surfaceForms": [
+        "hint"
+      ],
+      "clozeAnswerSurfaceForm": "hint"
+    },
+    {
+      "lemma": "sarcasm",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "The use of remarks that mean the opposite of what they say, to mock",
+      "translationZh": "諷刺；挖苦",
+      "exampleSentence": "“So it sounds like everything’s just great,” she said—a hint of sarcasm.",
+      "clozeSentence": "“So it sounds like everything’s just great,” she said—a hint of _____.",
+      "distractors": [
+        "Sincere and heartfelt praise",
+        "A quiet, thoughtful silence",
+        "A formal written apology"
+      ],
+      "surfaceForms": [
+        "sarcasm"
+      ],
+      "clozeAnswerSurfaceForm": "sarcasm"
+    },
+    {
+      "lemma": "clench",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "To close or squeeze tightly, especially teeth or fists",
+      "translationZh": "緊咬；緊握",
+      "exampleSentence": "“You have a real problem, Lisa,” she continued, growling through her clenched teeth.",
+      "clozeSentence": "“You have a real problem, Lisa,” she continued, growling through her _____ teeth.",
+      "distractors": [
+        "To open something gently",
+        "To wave in greeting",
+        "To gently stroke something"
+      ],
+      "surfaceForms": [
+        "clenched"
+      ],
+      "clozeAnswerSurfaceForm": "clenched"
+    },
+    {
+      "lemma": "growl",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To make a low, rough, threatening sound in the throat",
+      "translationZh": "咆哮；低吼",
+      "exampleSentence": "“You have a real problem, Lisa,” she continued, growling through her clenched teeth.",
+      "clozeSentence": "“You have a real problem, Lisa,” she continued, _____ through her clenched teeth.",
+      "distractors": [
+        "To speak in a soft, gentle voice",
+        "To laugh cheerfully",
+        "To sing a melody"
+      ],
+      "surfaceForms": [
+        "growling"
+      ],
+      "clozeAnswerSurfaceForm": "growling"
+    },
+    {
+      "lemma": "tough",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Difficult or hard to deal with",
+      "translationZh": "艱難的；棘手的",
+      "exampleSentence": "Things get tough and Lisa goes with the rich people.",
+      "clozeSentence": "Things get _____ and Lisa goes with the rich people.",
+      "distractors": [
+        "Simple and easy to handle",
+        "Bright and colorful",
+        "Quiet and calm"
+      ],
+      "surfaceForms": [
+        "tough"
+      ],
+      "clozeAnswerSurfaceForm": "tough"
+    },
+    {
+      "lemma": "gum",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A type of tree that produces sticky sap and spiky seed balls",
+      "translationZh": "楓香樹（膠樹）",
+      "exampleSentence": "In between looks I stepped carefully to avoid the hard fruits from the sweet gums.",
+      "clozeSentence": "In between looks I stepped carefully to avoid the hard fruits from the sweet _____.",
+      "distractors": [
+        "A type of flower that blooms in spring",
+        "A tool used for cutting wood",
+        "A small, round stone"
+      ],
+      "surfaceForms": [
+        "gums"
+      ],
+      "clozeAnswerSurfaceForm": "gums"
+    },
+    {
+      "lemma": "fabric",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Cloth or material made by weaving fibers together",
+      "translationZh": "布料；織物",
+      "exampleSentence": "Before this, when I got something new, I’d wear it a lot and wear it out until it looked like the other things in my closet, but shopping with them worked differently: small and more frequent renewals, nicer fabrics, and because most of the clothes came from the same shop at around the same time, they went together.",
+      "clozeSentence": "Before this, when I got something new, I’d wear it a lot and wear it out until it looked like the other things in my closet, but shopping with them worked differently: small and more frequent renewals, nicer _____, and because most of the clothes came from the same shop at around the same time, they went together.",
+      "distractors": [
+        "A type of building material like brick",
+        "A liquid used for cleaning",
+        "A metal used for jewelry"
+      ],
+      "surfaceForms": [
+        "fabrics"
+      ],
+      "clozeAnswerSurfaceForm": "fabrics"
+    },
+    {
+      "lemma": "renewal",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The act of replacing something old with something new, or starting again",
+      "translationZh": "更新；重新開始",
+      "exampleSentence": "Before this, when I got something new, I’d wear it a lot and wear it out until it looked like the other things in my closet, but shopping with them worked differently: small and more frequent renewals, nicer fabrics, and because most of the clothes came from the same shop at around the same time, they went together.",
+      "clozeSentence": "Before this, when I got something new, I’d wear it a lot and wear it out until it looked like the other things in my closet, but shopping with them worked differently: small and more frequent _____, nicer fabrics, and because most of the clothes came from the same shop at around the same time, they went together.",
+      "distractors": [
+        "The act of destroying something permanently",
+        "A sudden, unexpected ending",
+        "A formal complaint or objection"
+      ],
+      "surfaceForms": [
+        "renewals"
+      ],
+      "clozeAnswerSurfaceForm": "renewals"
+    },
+    {
+      "lemma": "charcoal",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A dark grey-black color, like burnt wood",
+      "translationZh": "炭灰色的",
+      "exampleSentence": "Blue, white, charcoal.",
+      "clozeSentence": "Blue, white, _____.",
+      "distractors": [
+        "A bright, pale yellow color",
+        "A soft pastel pink color",
+        "A shiny golden color"
+      ],
+      "surfaceForms": [
+        "charcoal"
+      ],
+      "clozeAnswerSurfaceForm": "charcoal"
+    },
+    {
+      "lemma": "heartless",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Without sympathy or compassion for others",
+      "translationZh": "無情的；冷酷的",
+      "exampleSentence": "“Cold, and heartless, and phony.",
+      "clozeSentence": "“Cold, and _____, and phony.",
+      "distractors": [
+        "Full of kindness and warmth",
+        "Extremely shy and quiet",
+        "Very generous with money"
+      ],
+      "surfaceForms": [
+        "heartless"
+      ],
+      "clozeAnswerSurfaceForm": "heartless"
+    },
+    {
+      "lemma": "phony",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Not genuine or sincere; fake",
+      "translationZh": "虛假的；不真誠的",
+      "exampleSentence": "“Cold, and heartless, and phony.",
+      "clozeSentence": "“Cold, and heartless, and _____.",
+      "distractors": [
+        "Completely honest and sincere",
+        "Extremely shy and reserved",
+        "Very generous and kind"
+      ],
+      "surfaceForms": [
+        "phony"
+      ],
+      "clozeAnswerSurfaceForm": "phony"
+    },
+    {
+      "lemma": "rust-colored",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Having a reddish-brown color, like rust",
+      "translationZh": "鏽紅色的",
+      "exampleSentence": "They left rust-colored marks on the sidewalk.",
+      "clozeSentence": "They left _____ marks on the sidewalk.",
+      "distractors": [
+        "Having a bright, pale blue color",
+        "Having a shiny silver color",
+        "Having a deep forest-green color"
+      ],
+      "surfaceForms": [
+        "rust-colored"
+      ],
+      "clozeAnswerSurfaceForm": "rust-colored"
+    },
+    {
+      "lemma": "backyard",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The area of land behind a house",
+      "translationZh": "後院",
+      "exampleSentence": "These same fruits had fallen from the tree in the backyard at the Rinconada house, thonking on the deck—so many that it had been impossible to walk without losing my balance until my mother came outside and swept them away.",
+      "clozeSentence": "These same fruits had fallen from the tree in the _____ at the Rinconada house, thonking on the deck—so many that it had been impossible to walk without losing my balance until my mother came outside and swept them away.",
+      "distractors": [
+        "The front entrance of a building",
+        "A room used for storage",
+        "A public park in a city"
+      ],
+      "surfaceForms": [
+        "backyard"
+      ],
+      "clozeAnswerSurfaceForm": "backyard"
+    },
+    {
+      "lemma": "deck",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A flat, outdoor platform attached to a house",
+      "translationZh": "（房屋外的）露臺；甲板",
+      "exampleSentence": "These same fruits had fallen from the tree in the backyard at the Rinconada house, thonking on the deck—so many that it had been impossible to walk without losing my balance until my mother came outside and swept them away.",
+      "clozeSentence": "These same fruits had fallen from the tree in the backyard at the Rinconada house, thonking on the _____—so many that it had been impossible to walk without losing my balance until my mother came outside and swept them away.",
+      "distractors": [
+        "A room inside a house used for cooking",
+        "An underground storage space",
+        "A tall fence around a yard"
+      ],
+      "surfaceForms": [
+        "deck"
+      ],
+      "clozeAnswerSurfaceForm": "deck—so"
+    },
+    {
+      "lemma": "sweep",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To clean or clear something away, as with a broom",
+      "translationZh": "打掃；清除",
+      "exampleSentence": "These same fruits had fallen from the tree in the backyard at the Rinconada house, thonking on the deck—so many that it had been impossible to walk without losing my balance until my mother came outside and swept them away.",
+      "clozeSentence": "These same fruits had fallen from the tree in the backyard at the Rinconada house, thonking on the deck—so many that it had been impossible to walk without losing my balance until my mother came outside and _____ them away.",
+      "distractors": [
+        "To carefully paint a surface",
+        "To carry something on one's back",
+        "To measure the size of a room"
+      ],
+      "surfaceForms": [
+        "swept"
+      ],
+      "clozeAnswerSurfaceForm": "swept"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "brunch",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A meal eaten late in the morning, combining breakfast and lunch",
+      "translationZh": "早午餐",
+      "exampleSentence": "My mother and I planned to meet for brunch on a Saturday.",
+      "clozeSentence": "My mother and I planned to meet for _____ on a Saturday.",
+      "distractors": [
+        "A small snack eaten late at night",
+        "A formal dinner eaten in the evening",
+        "A quick breakfast eaten while walking"
+      ],
+      "surfaceForms": [
+        "brunch"
+      ],
+      "clozeAnswerSurfaceForm": "brunch"
+    },
+    {
+      "lemma": "mock",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To imitate someone in a way that makes fun of them",
+      "translationZh": "嘲笑；模仿取笑",
+      "exampleSentence": "My mother began to speak in a high, piercing voice meant to mock mine.",
+      "clozeSentence": "My mother began to speak in a high, piercing voice meant to _____ mine.",
+      "distractors": [
+        "To praise someone sincerely",
+        "To help someone in need",
+        "To forgive someone completely"
+      ],
+      "surfaceForms": [
+        "mock"
+      ],
+      "clozeAnswerSurfaceForm": "mock"
+    },
+    {
+      "lemma": "pierce",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Sharp and penetrating, cutting through like a needle",
+      "translationZh": "刺耳的；尖銳穿透的",
+      "exampleSentence": "My mother began to speak in a high, piercing voice meant to mock mine.",
+      "clozeSentence": "My mother began to speak in a high, _____ voice meant to mock mine.",
+      "distractors": [
+        "Soft and soothing",
+        "Low and barely audible",
+        "Warm and comforting"
+      ],
+      "surfaceForms": [
+        "piercing"
+      ],
+      "clozeAnswerSurfaceForm": "piercing"
+    },
+    {
+      "lemma": "irreparably",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "In a way that cannot be repaired or fixed",
+      "translationZh": "無法挽回地",
+      "exampleSentence": "I wondered if it was true; I might be worse than I thought, irreparably changed.",
+      "clozeSentence": "I wondered if it was true; I might be worse than I thought, _____ changed.",
+      "distractors": [
+        "In a way that can be easily fixed",
+        "In a temporary, short-lived way",
+        "In a gradual, barely noticeable way"
+      ],
+      "surfaceForms": [
+        "irreparably"
+      ],
+      "clozeAnswerSurfaceForm": "irreparably"
+    },
+    {
+      "lemma": "self-conscious",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Uncomfortably aware of oneself or how one appears to others",
+      "translationZh": "難為情的；不自在的",
+      "exampleSentence": "I was self-conscious about my back and my legs.",
+      "clozeSentence": "I was _____ about my back and my legs.",
+      "distractors": [
+        "Completely relaxed and carefree",
+        "Extremely confident and proud",
+        "Unaware of one's surroundings"
+      ],
+      "surfaceForms": [
+        "self-conscious"
+      ],
+      "clozeAnswerSurfaceForm": "self-conscious"
+    },
+    {
+      "lemma": "bustle",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Busy, noisy activity and movement",
+      "translationZh": "喧鬧忙碌（的景象）",
+      "exampleSentence": "I walked through the courtyard, through the belly of the restaurant past the row of chefs, the bustle, the warmth, and din.",
+      "clozeSentence": "I walked through the courtyard, through the belly of the restaurant past the row of chefs, the _____, the warmth, and din.",
+      "distractors": [
+        "Complete silence and stillness",
+        "A quiet, peaceful sleep",
+        "A slow, careful walk"
+      ],
+      "surfaceForms": [
+        "bustle"
+      ],
+      "clozeAnswerSurfaceForm": "bustle"
+    },
+    {
+      "lemma": "din",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A loud, unpleasant, continuous noise",
+      "translationZh": "喧囂聲；嘈雜聲",
+      "exampleSentence": "I walked through the courtyard, through the belly of the restaurant past the row of chefs, the bustle, the warmth, and din.",
+      "clozeSentence": "I walked through the courtyard, through the belly of the restaurant past the row of chefs, the bustle, the warmth, and _____.",
+      "distractors": [
+        "A moment of complete silence",
+        "A soft, gentle melody",
+        "A quiet whisper"
+      ],
+      "surfaceForms": [
+        "din"
+      ],
+      "clozeAnswerSurfaceForm": "din"
+    },
+    {
+      "lemma": "pancake",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A flat, round cake cooked in a pan",
+      "translationZh": "鬆餅；煎餅",
+      "exampleSentence": "I ordered the pancakes with stewed peaches and whipped cream.",
+      "clozeSentence": "I ordered the _____ with stewed peaches and whipped cream.",
+      "distractors": [
+        "A type of bread baked in a loaf",
+        "A cold, frozen dessert",
+        "A thin, crispy cracker"
+      ],
+      "surfaceForms": [
+        "pancakes"
+      ],
+      "clozeAnswerSurfaceForm": "pancakes"
+    },
+    {
+      "lemma": "peach",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A round, soft fruit with fuzzy skin and a large pit",
+      "translationZh": "桃子",
+      "exampleSentence": "I ordered the pancakes with stewed peaches and whipped cream.",
+      "clozeSentence": "I ordered the pancakes with stewed _____ and whipped cream.",
+      "distractors": [
+        "A hard, green citrus fruit",
+        "A dark purple berry",
+        "A long yellow tropical fruit"
+      ],
+      "surfaceForms": [
+        "peaches"
+      ],
+      "clozeAnswerSurfaceForm": "peaches"
+    },
+    {
+      "lemma": "quicken",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To become or make faster",
+      "translationZh": "加快",
+      "exampleSentence": "I quickened my step as soon as I was out the door, in case she was following me to yell more.",
+      "clozeSentence": "I _____ my step as soon as I was out the door, in case she was following me to yell more.",
+      "distractors": [
+        "To become or make slower",
+        "To stop completely",
+        "To become quieter"
+      ],
+      "surfaceForms": [
+        "quickened"
+      ],
+      "clozeAnswerSurfaceForm": "quickened"
+    },
+    {
+      "lemma": "stew",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Cooked slowly in liquid over low heat",
+      "translationZh": "燉煮的",
+      "exampleSentence": "I ordered the pancakes with stewed peaches and whipped cream.",
+      "clozeSentence": "I ordered the pancakes with _____ peaches and whipped cream.",
+      "distractors": [
+        "Fried quickly in hot oil",
+        "Frozen and served cold",
+        "Grilled directly over a flame"
+      ],
+      "surfaceForms": [
+        "stewed"
+      ],
+      "clozeAnswerSurfaceForm": "stewed"
+    },
+    {
+      "lemma": "whip",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Beaten quickly until light, thick, and fluffy",
+      "translationZh": "打發的（如鮮奶油）",
+      "exampleSentence": "I ordered the pancakes with stewed peaches and whipped cream.",
+      "clozeSentence": "I ordered the pancakes with stewed peaches and _____ cream.",
+      "distractors": [
+        "Melted slowly over low heat",
+        "Left to sit until it hardens",
+        "Mixed with sugar and frozen"
+      ],
+      "surfaceForms": [
+        "whipped"
+      ],
+      "clozeAnswerSurfaceForm": "whipped"
+    },
+    {
+      "lemma": "devolve",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To gradually change into a worse or lower state",
+      "translationZh": "逐漸惡化；退化",
+      "exampleSentence": "Since our reunion at Christmas, we’d seen each other twice, but these visits had devolved into fights.",
+      "clozeSentence": "Since our reunion at Christmas, we’d seen each other twice, but these visits had _____ into fights.",
+      "distractors": [
+        "To improve steadily over time",
+        "To remain exactly the same",
+        "To end suddenly and completely"
+      ],
+      "surfaceForms": [
+        "devolved"
+      ],
+      "clozeAnswerSurfaceForm": "devolved"
+    },
+    {
+      "lemma": "boldness",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The quality of being brave, confident, and willing to take risks",
+      "translationZh": "大膽；勇敢",
+      "exampleSentence": "If she yelled, I would get up and leave; just imagining it, the boldness of it, made me feel giddy and guilty both.",
+      "clozeSentence": "If she yelled, I would get up and leave; just imagining it, the _____ of it, made me feel giddy and guilty both.",
+      "distractors": [
+        "A feeling of shyness and fear",
+        "A state of deep confusion",
+        "A sense of extreme tiredness"
+      ],
+      "surfaceForms": [
+        "boldness"
+      ],
+      "clozeAnswerSurfaceForm": "boldness"
+    },
+    {
+      "lemma": "giddy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Feeling excited and slightly dizzy",
+      "translationZh": "興奮暈眩的",
+      "exampleSentence": "If she yelled, I would get up and leave; just imagining it, the boldness of it, made me feel giddy and guilty both.",
+      "clozeSentence": "If she yelled, I would get up and leave; just imagining it, the boldness of it, made me feel _____ and guilty both.",
+      "distractors": [
+        "Feeling calm and steady",
+        "Feeling tired and sleepy",
+        "Feeling angry and tense"
+      ],
+      "surfaceForms": [
+        "giddy"
+      ],
+      "clozeAnswerSurfaceForm": "giddy"
+    },
+    {
+      "lemma": "trouser",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A piece of clothing covering the legs, worn from the waist down",
+      "translationZh": "長褲",
+      "exampleSentence": "When we went for Indian food at the mall, my father would sometimes guide us into Armani Exchange, where he would buy me a T-shirt or a pair of trousers.",
+      "clozeSentence": "When we went for Indian food at the mall, my father would sometimes guide us into Armani Exchange, where he would buy me a T-shirt or a pair of _____.",
+      "distractors": [
+        "A piece of clothing worn on the feet",
+        "A garment worn around the neck",
+        "A piece of clothing worn on the head"
+      ],
+      "surfaceForms": [
+        "trousers"
+      ],
+      "clozeAnswerSurfaceForm": "trousers"
+    },
+    {
+      "lemma": "lap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The upper part of the legs when a person is sitting",
+      "translationZh": "（坐著時的）大腿；膝上",
+      "exampleSentence": "We put our napkins in our laps.",
+      "clozeSentence": "We put our napkins in our _____.",
+      "distractors": [
+        "The back of the neck",
+        "The palm of the hand",
+        "The sole of the foot"
+      ],
+      "surfaceForms": [
+        "laps"
+      ],
+      "clozeAnswerSurfaceForm": "laps"
+    },
+    {
+      "lemma": "formality",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "A formal act, procedure, or way of behaving",
+      "translationZh": "拘謹；形式化的禮節",
+      "exampleSentence": "The formality could not continue.",
+      "clozeSentence": "The _____ could not continue.",
+      "distractors": [
+        "A casual, relaxed conversation",
+        "A sudden burst of emotion",
+        "A private personal secret"
+      ],
+      "surfaceForms": [
+        "formality"
+      ],
+      "clozeAnswerSurfaceForm": "formality"
+    },
+    {
+      "lemma": "sarcasm",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "The use of remarks that mean the opposite of what they say, to mock",
+      "translationZh": "諷刺；挖苦",
+      "exampleSentence": "“So it sounds like everything’s just great,” she said—a hint of sarcasm.",
+      "clozeSentence": "“So it sounds like everything’s just great,” she said—a hint of _____.",
+      "distractors": [
+        "Sincere and heartfelt praise",
+        "A quiet, thoughtful silence",
+        "A formal written apology"
+      ],
+      "surfaceForms": [
+        "sarcasm"
+      ],
+      "clozeAnswerSurfaceForm": "sarcasm"
+    },
+    {
+      "lemma": "clench",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "To close or squeeze tightly, especially teeth or fists",
+      "translationZh": "緊咬；緊握",
+      "exampleSentence": "“You have a real problem, Lisa,” she continued, growling through her clenched teeth.",
+      "clozeSentence": "“You have a real problem, Lisa,” she continued, growling through her _____ teeth.",
+      "distractors": [
+        "To open something gently",
+        "To wave in greeting",
+        "To gently stroke something"
+      ],
+      "surfaceForms": [
+        "clenched"
+      ],
+      "clozeAnswerSurfaceForm": "clenched"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "translation",
+      "wordLemma": "pierce",
+      "prompt": "刺耳的；尖銳穿透的",
+      "options": [
+        "pierce",
+        "lap",
+        "din",
+        "quicken"
+      ],
+      "answer": "pierce"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "irreparably",
+      "prompt": "irreparably",
+      "options": [
+        "In a temporary, short-lived way",
+        "In a gradual, barely noticeable way",
+        "In a way that can be easily fixed",
+        "In a way that cannot be repaired or fixed"
+      ],
+      "answer": "In a way that cannot be repaired or fixed"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "whip",
+      "prompt": "打發的（如鮮奶油）",
+      "options": [
+        "lap",
+        "whip",
+        "boldness",
+        "pancake"
+      ],
+      "answer": "whip"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "clench",
+      "prompt": "“You have a real problem, Lisa,” she continued, growling through her _____ teeth.",
+      "options": [
+        "laps",
+        "whipped",
+        "pancakes",
+        "clenched"
+      ],
+      "answer": "clenched"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "devolve",
+      "prompt": "devolve",
+      "options": [
+        "To gradually change into a worse or lower state",
+        "To remain exactly the same",
+        "To end suddenly and completely",
+        "To improve steadily over time"
+      ],
+      "answer": "To gradually change into a worse or lower state"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "quicken",
+      "prompt": "quicken",
+      "options": [
+        "To become or make faster",
+        "To become or make slower",
+        "To become quieter",
+        "To stop completely"
+      ],
+      "answer": "To become or make faster"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "formality",
+      "prompt": "拘謹；形式化的禮節",
+      "options": [
+        "pancake",
+        "formality",
+        "bustle",
+        "sarcasm"
+      ],
+      "answer": "formality"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "sarcasm",
+      "prompt": "sarcasm",
+      "options": [
+        "A quiet, thoughtful silence",
+        "Sincere and heartfelt praise",
+        "The use of remarks that mean the opposite of what they say, to mock",
+        "A formal written apology"
+      ],
+      "answer": "The use of remarks that mean the opposite of what they say, to mock"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "peach",
+      "prompt": "桃子",
+      "options": [
+        "pierce",
+        "peach",
+        "stew",
+        "mock"
+      ],
+      "answer": "peach"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "trouser",
+      "prompt": "trouser",
+      "options": [
+        "A piece of clothing worn on the feet",
+        "A piece of clothing covering the legs, worn from the waist down",
+        "A garment worn around the neck",
+        "A piece of clothing worn on the head"
+      ],
+      "answer": "A piece of clothing covering the legs, worn from the waist down"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "self-conscious",
+      "prompt": "I was _____ about my back and my legs.",
+      "options": [
+        "self-conscious",
+        "brunch",
+        "whipped",
+        "laps"
+      ],
+      "answer": "self-conscious"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "boldness",
+      "prompt": "If she yelled, I would get up and leave; just imagining it, the _____ of it, made me feel giddy and guilty both.",
+      "options": [
+        "stewed",
+        "boldness",
+        "formality",
+        "bustle"
+      ],
+      "answer": "boldness"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "brunch",
+      "prompt": "brunch",
+      "options": [
+        "A meal eaten late in the morning, combining breakfast and lunch",
+        "A quick breakfast eaten while walking",
+        "A formal dinner eaten in the evening",
+        "A small snack eaten late at night"
+      ],
+      "answer": "A meal eaten late in the morning, combining breakfast and lunch"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "din",
+      "prompt": "din",
+      "options": [
+        "A loud, unpleasant, continuous noise",
+        "A soft, gentle melody",
+        "A moment of complete silence",
+        "A quiet whisper"
+      ],
+      "answer": "A loud, unpleasant, continuous noise"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "mock",
+      "prompt": "My mother began to speak in a high, piercing voice meant to _____ mine.",
+      "options": [
+        "mock",
+        "laps",
+        "pancakes",
+        "giddy"
+      ],
+      "answer": "mock"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "bustle",
+      "prompt": "喧鬧忙碌（的景象）",
+      "options": [
+        "din",
+        "self-conscious",
+        "giddy",
+        "bustle"
+      ],
+      "answer": "bustle"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "pancake",
+      "prompt": "I ordered the _____ with stewed peaches and whipped cream.",
+      "options": [
+        "pancakes",
+        "formality",
+        "mock",
+        "bustle"
+      ],
+      "answer": "pancakes"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "lap",
+      "prompt": "We put our napkins in our _____.",
+      "options": [
+        "pancakes",
+        "clenched",
+        "sarcasm",
+        "laps"
+      ],
+      "answer": "laps"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "giddy",
+      "prompt": "興奮暈眩的",
+      "options": [
+        "whip",
+        "peach",
+        "mock",
+        "giddy"
+      ],
+      "answer": "giddy"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "stew",
+      "prompt": "I ordered the pancakes with _____ peaches and whipped cream.",
+      "options": [
+        "whipped",
+        "peaches",
+        "stewed",
+        "din"
+      ],
+      "answer": "stewed"
+    }
+  ]
+}

@@ -1,0 +1,1374 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 6,
+  "partTitle": "Small Nation",
+  "sectionIndex": 10,
+  "paragraphs": [
+    "My father opened a large, thick-paper envelope—an invitation to a wedding in Napa.",
+    "“Hey, Lis, you wanna come?”",
+    "Often when my father and Laurene went to parties, I babysat for my brother. This time I would be included, in public, part of the family! The daughter, the sister. I thought of what dress to bring, and how I’d have to buy nylons, an ecstasy of decision-making. A few weeks later, the date of the wedding arrived.",
+    "On the way we stopped for sandwiches at a fancy grocery store, and later, on the road, my father shook a water bottle when I said I had to pee. My brother sat beside me in his elevated seat.",
+    "Shortly before we arrived, my father delivered a lecture about Risk and Consequence that seemed like a performance. “Lis, do you know about Risk and Consequence?” he asked. “It’s a way of evaluating whether to do something, a sliding scale. For example, if the risk is low, but the consequence is high, you might decide not to do something.”",
+    "“Right,” I said.",
+    "“Even laws,” he said. “They aren’t about what you can and can’t do. They’re based on whether or not you get caught. For example, cars can do one hundred twenty miles an hour, way faster than any speed limit in this country. You can drive as fast as you want—as long as you don’t get caught.”",
+    "I remembered a story my mother told me about how, before I knew him, he’d drive home so fast down the roads in Woodside, and without license plates, that for almost a year the cops couldn’t catch him. He was the cool one, the fast one, telling me how to break rules. I could see the freedom of his intelligence, how it made you lighter on your feet.",
+    "The ceremony would be held at the Meadowood Napa Valley, with its grand curving entrance, somewhere near the golf course, past pools and suites that looked like wood cabins.",
+    "When we arrived at the hotel and got into the room, we all got ready. Laurene put my brother in a light blue cotton confection, pantaloons with straps over the shoulders. She wore a dress made of vintage Japanese kimonos stitched together; my father wore a black formal jacket, a white shirt, and jeans.",
+    "“Okay, we’re off,” he said, almost to the door.",
+    "The idea that I was invited to the ceremony had been implied but never explicitly stated.",
+    "“Hold on. I’m not ready yet,” I said. I’d just hitched up my stockings; damp skin made them stick midway.",
+    "“That’s all right,” Laurene said. “Take your time. Here he is.” She handed Reed to me in a way that suggested she was in motion and I would be still.",
+    "By her tone and movement, I understood. They were moving quickly, as if to flee. No time to mention what we should eat for dinner. When I realized my mistake, I felt ashamed most of all to have presumed. But in the car when I’d hung the dress, they might have told me I wouldn’t need any dresses.",
+    "“Why don’t you two head out, maybe to the pool?” Laurene said, as they walked through the door.",
+    "I changed into jeans. Outside the door of each room was parked a red wagon. I put Reed inside, leaving his fancy outfit on. He wanted to be pulled, and then carried, and then pulled again. The weather was damp and cool, too cool for swimming. “Ky,” Reed said, pointing up. Bug, tree, pool. The light was muted under a thin layer of clouds like tissue paper that made it diffuse, everywhere and nowhere.",
+    "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay upright, always on the cusp of falling, like a marionette held under the armpits by strings. I ran after him and caught him, helped him lie belly-down on the concrete lip so he could touch the water. I crouched beside him, grabbed a leg. He smacked his hands against the surface of the water.",
+    "“Slap, slap, slap,” I said.",
+    "“Lap lap lap,” he repeated.",
+    "Behind us I heard a motor and laughter. I looked up to see a convertible drive past, an old sports car, chrome and cream, limbs hanging out the windows, teenagers. The car crackled its way up the long drive that curved from the hotel to the road under a double row of trees with high, arching branches that created a different sense of scale—a huge enclosed room, light shining through the bright green foliage.",
+    "I don’t want to be here, babysitting, I thought. That is where I want to be instead. In that car, with them."
+  ],
+  "words": [
+    {
+      "lemma": "elevate",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Raised to a higher position or level",
+      "translationZh": "提高的；升高的",
+      "exampleSentence": "My brother sat beside me in his elevated seat.",
+      "clozeSentence": "My brother sat beside me in his _____ seat.",
+      "distractors": [
+        "Lowered to the ground",
+        "Placed far away",
+        "Turned upside down"
+      ],
+      "surfaceForms": [
+        "elevated"
+      ],
+      "clozeAnswerSurfaceForm": "elevated"
+    },
+    {
+      "lemma": "wed",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A ceremony where two people get married",
+      "translationZh": "婚禮",
+      "exampleSentence": "My father opened a large, thick-paper envelope—an invitation to a wedding in Napa.",
+      "clozeSentence": "My father opened a large, thick-paper envelope—an invitation to a _____ in Napa.",
+      "distractors": [
+        "A large formal dinner party",
+        "A celebration for a new job",
+        "A religious holiday"
+      ],
+      "surfaceForms": [
+        "wedding"
+      ],
+      "clozeAnswerSurfaceForm": "wedding"
+    },
+    {
+      "lemma": "smack",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To hit something firmly, often making a sharp sound",
+      "translationZh": "拍打；擊打",
+      "exampleSentence": "He smacked his hands against the surface of the water.",
+      "clozeSentence": "He _____ his hands against the surface of the water.",
+      "distractors": [
+        "To gently stroke something",
+        "To quietly whisper something",
+        "To carefully balance something"
+      ],
+      "surfaceForms": [
+        "smacked"
+      ],
+      "clozeAnswerSurfaceForm": "smacked"
+    },
+    {
+      "lemma": "confection",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "An elaborate or fancy item, often referring to clothing or a sweet food",
+      "translationZh": "精緻的服飾（或糖果）",
+      "exampleSentence": "Laurene put my brother in a light blue cotton confection, pantaloons with straps over the shoulders.",
+      "clozeSentence": "Laurene put my brother in a light blue cotton _____, pantaloons with straps over the shoulders.",
+      "distractors": [
+        "A plain, simple piece of clothing",
+        "A type of heavy work tool",
+        "A written agreement between people"
+      ],
+      "surfaceForms": [
+        "confection"
+      ],
+      "clozeAnswerSurfaceForm": "confection"
+    },
+    {
+      "lemma": "strap",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "A narrow strip of material used to fasten or hold something",
+      "translationZh": "帶子；肩帶",
+      "exampleSentence": "Laurene put my brother in a light blue cotton confection, pantaloons with straps over the shoulders.",
+      "clozeSentence": "Laurene put my brother in a light blue cotton confection, pantaloons with _____ over the shoulders.",
+      "distractors": [
+        "A small round button",
+        "A type of heavy shoe",
+        "A soft cushion"
+      ],
+      "surfaceForms": [
+        "straps"
+      ],
+      "clozeAnswerSurfaceForm": "straps"
+    },
+    {
+      "lemma": "pantaloon",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Loose trousers, often worn by children, that gather at the ankle",
+      "translationZh": "燈籠褲；寬鬆長褲",
+      "exampleSentence": "Laurene put my brother in a light blue cotton confection, pantaloons with straps over the shoulders.",
+      "clozeSentence": "Laurene put my brother in a light blue cotton confection, _____ with straps over the shoulders.",
+      "distractors": [
+        "A short-sleeved cotton shirt",
+        "A pair of formal leather shoes",
+        "A wide-brimmed sun hat"
+      ],
+      "surfaceForms": [
+        "pantaloons"
+      ],
+      "clozeAnswerSurfaceForm": "pantaloons"
+    },
+    {
+      "lemma": "concrete",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A hard building material made from cement, sand, and water",
+      "translationZh": "混凝土",
+      "exampleSentence": "I ran after him and caught him, helped him lie belly-down on the concrete lip so he could touch the water.",
+      "clozeSentence": "I ran after him and caught him, helped him lie belly-down on the _____ lip so he could touch the water.",
+      "distractors": [
+        "A soft fabric used for clothing",
+        "A type of natural stone found on beaches",
+        "A liquid used for cleaning surfaces"
+      ],
+      "surfaceForms": [
+        "concrete"
+      ],
+      "clozeAnswerSurfaceForm": "concrete"
+    },
+    {
+      "lemma": "limb",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "An arm or leg of a person or animal",
+      "translationZh": "四肢（手臂或腿）",
+      "exampleSentence": "I looked up to see a convertible drive past, an old sports car, chrome and cream, limbs hanging out the windows, teenagers.",
+      "clozeSentence": "I looked up to see a convertible drive past, an old sports car, chrome and cream, _____ hanging out the windows, teenagers.",
+      "distractors": [
+        "The center of the body",
+        "A piece of clothing",
+        "A type of vehicle part"
+      ],
+      "surfaceForms": [
+        "limbs"
+      ],
+      "clozeAnswerSurfaceForm": "limbs"
+    },
+    {
+      "lemma": "outfit",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A set of clothes worn together",
+      "translationZh": "一套服裝；裝扮",
+      "exampleSentence": "I put Reed inside, leaving his fancy outfit on.",
+      "clozeSentence": "I put Reed inside, leaving his fancy _____ on.",
+      "distractors": [
+        "A single piece of furniture",
+        "A type of musical instrument",
+        "A large vehicle"
+      ],
+      "surfaceForms": [
+        "outfit"
+      ],
+      "clozeAnswerSurfaceForm": "outfit"
+    },
+    {
+      "lemma": "chrome",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A shiny, silver-colored metal coating used to decorate objects",
+      "translationZh": "鉻；鍍鉻的",
+      "exampleSentence": "I looked up to see a convertible drive past, an old sports car, chrome and cream, limbs hanging out the windows, teenagers.",
+      "clozeSentence": "I looked up to see a convertible drive past, an old sports car, _____ and cream, limbs hanging out the windows, teenagers.",
+      "distractors": [
+        "A soft woolen fabric",
+        "A dull black paint",
+        "A type of transparent glass"
+      ],
+      "surfaceForms": [
+        "chrome"
+      ],
+      "clozeAnswerSurfaceForm": "chrome"
+    },
+    {
+      "lemma": "convertible",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A car with a roof that can be folded down or removed",
+      "translationZh": "敞篷車",
+      "exampleSentence": "I looked up to see a convertible drive past, an old sports car, chrome and cream, limbs hanging out the windows, teenagers.",
+      "clozeSentence": "I looked up to see a _____ drive past, an old sports car, chrome and cream, limbs hanging out the windows, teenagers.",
+      "distractors": [
+        "A car with no engine",
+        "A bicycle with two seats",
+        "A truck used for deliveries"
+      ],
+      "surfaceForms": [
+        "convertible"
+      ],
+      "clozeAnswerSurfaceForm": "convertible"
+    },
+    {
+      "lemma": "crouch",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To bend low with knees bent close to the body",
+      "translationZh": "蹲下",
+      "exampleSentence": "I crouched beside him, grabbed a leg.",
+      "clozeSentence": "I _____ beside him, grabbed a leg.",
+      "distractors": [
+        "To stand very tall and straight",
+        "To run at full speed",
+        "To lie flat and sleep"
+      ],
+      "surfaceForms": [
+        "crouched"
+      ],
+      "clozeAnswerSurfaceForm": "crouched"
+    },
+    {
+      "lemma": "decision-making",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The process of choosing between different options",
+      "translationZh": "決策；做決定",
+      "exampleSentence": "I thought of what dress to bring, and how I’d have to buy nylons, an ecstasy of decision-making.",
+      "clozeSentence": "I thought of what dress to bring, and how I’d have to buy nylons, an ecstasy of _____.",
+      "distractors": [
+        "The act of forgetting something important",
+        "The process of repairing something broken",
+        "The act of copying someone else's work"
+      ],
+      "surfaceForms": [
+        "decision-making"
+      ],
+      "clozeAnswerSurfaceForm": "decision-making"
+    },
+    {
+      "lemma": "nylon",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A strong, lightweight synthetic fabric, often used for stockings",
+      "translationZh": "尼龍（絲襪）",
+      "exampleSentence": "I thought of what dress to bring, and how I’d have to buy nylons, an ecstasy of decision-making.",
+      "clozeSentence": "I thought of what dress to bring, and how I’d have to buy _____, an ecstasy of decision-making.",
+      "distractors": [
+        "A type of natural cotton cloth",
+        "A thick woolen material",
+        "A soft leather fabric"
+      ],
+      "surfaceForms": [
+        "nylons"
+      ],
+      "clozeAnswerSurfaceForm": "nylons"
+    },
+    {
+      "lemma": "arch",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To form a curved shape, like an arch",
+      "translationZh": "拱起；成弧形",
+      "exampleSentence": "The car crackled its way up the long drive that curved from the hotel to the road under a double row of trees with high, arching branches that created a different sense of scale—a huge enclosed room, light shining through the bright green foliage.",
+      "clozeSentence": "The car crackled its way up the long drive that curved from the hotel to the road under a double row of trees with high, _____ branches that created a different sense of scale—a huge enclosed room, light shining through the bright green foliage.",
+      "distractors": [
+        "To break into pieces suddenly",
+        "To grow extremely tall",
+        "To remain completely straight"
+      ],
+      "surfaceForms": [
+        "arching"
+      ],
+      "clozeAnswerSurfaceForm": "arching"
+    },
+    {
+      "lemma": "diffuse",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "Spread out over a wide area rather than concentrated",
+      "translationZh": "瀰漫的；擴散的",
+      "exampleSentence": "The light was muted under a thin layer of clouds like tissue paper that made it diffuse, everywhere and nowhere.",
+      "clozeSentence": "The light was muted under a thin layer of clouds like tissue paper that made it _____, everywhere and nowhere.",
+      "distractors": [
+        "Extremely bright and focused",
+        "Completely dark and hidden",
+        "Sharp and clearly defined"
+      ],
+      "surfaceForms": [
+        "diffuse"
+      ],
+      "clozeAnswerSurfaceForm": "diffuse"
+    },
+    {
+      "lemma": "grand",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Impressive in size or style; magnificent",
+      "translationZh": "壯麗的；宏偉的",
+      "exampleSentence": "The ceremony would be held at the Meadowood Napa Valley, with its grand curving entrance, somewhere near the golf course, past pools and suites that looked like wood cabins.",
+      "clozeSentence": "The ceremony would be held at the Meadowood Napa Valley, with its _____ curving entrance, somewhere near the golf course, past pools and suites that looked like wood cabins.",
+      "distractors": [
+        "Small and unnoticeable",
+        "Old and broken down",
+        "Plain and ordinary"
+      ],
+      "surfaceForms": [
+        "grand"
+      ],
+      "clozeAnswerSurfaceForm": "grand"
+    },
+    {
+      "lemma": "imply",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To suggest something indirectly without saying it directly",
+      "translationZh": "暗示",
+      "exampleSentence": "The idea that I was invited to the ceremony had been implied but never explicitly stated.",
+      "clozeSentence": "The idea that I was invited to the ceremony had been _____ but never explicitly stated.",
+      "distractors": [
+        "To state something very clearly and directly",
+        "To completely deny something",
+        "To forget about something entirely"
+      ],
+      "surfaceForms": [
+        "implied"
+      ],
+      "clozeAnswerSurfaceForm": "implied"
+    },
+    {
+      "lemma": "crackle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To make a series of short, sharp popping sounds",
+      "translationZh": "（發出）劈啪聲",
+      "exampleSentence": "The car crackled its way up the long drive that curved from the hotel to the road under a double row of trees with high, arching branches that created a different sense of scale—a huge enclosed room, light shining through the bright green foliage.",
+      "clozeSentence": "The car _____ its way up the long drive that curved from the hotel to the road under a double row of trees with high, arching branches that created a different sense of scale—a huge enclosed room, light shining through the bright green foliage.",
+      "distractors": [
+        "To move in complete silence",
+        "To shine with a soft glow",
+        "To collapse suddenly"
+      ],
+      "surfaceForms": [
+        "crackled"
+      ],
+      "clozeAnswerSurfaceForm": "crackled"
+    },
+    {
+      "lemma": "explicitly",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "In a clear and direct way, leaving no doubt",
+      "translationZh": "明確地；明白地",
+      "exampleSentence": "The idea that I was invited to the ceremony had been implied but never explicitly stated.",
+      "clozeSentence": "The idea that I was invited to the ceremony had been implied but never _____ stated.",
+      "distractors": [
+        "In a vague and confusing way",
+        "In a quiet, hesitant way",
+        "In a rushed, careless way"
+      ],
+      "surfaceForms": [
+        "explicitly"
+      ],
+      "clozeAnswerSurfaceForm": "explicitly"
+    },
+    {
+      "lemma": "foliage",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "The leaves of plants and trees collectively",
+      "translationZh": "葉子；樹葉（總稱）",
+      "exampleSentence": "The car crackled its way up the long drive that curved from the hotel to the road under a double row of trees with high, arching branches that created a different sense of scale—a huge enclosed room, light shining through the bright green foliage.",
+      "clozeSentence": "The car crackled its way up the long drive that curved from the hotel to the road under a double row of trees with high, arching branches that created a different sense of scale—a huge enclosed room, light shining through the bright green _____.",
+      "distractors": [
+        "The roots of a plant",
+        "The flowers of a tree",
+        "The bark covering a tree trunk"
+      ],
+      "surfaceForms": [
+        "foliage"
+      ],
+      "clozeAnswerSurfaceForm": "foliage"
+    },
+    {
+      "lemma": "mute",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Made softer, quieter, or less bright",
+      "translationZh": "（使）柔和；變弱",
+      "exampleSentence": "The light was muted under a thin layer of clouds like tissue paper that made it diffuse, everywhere and nowhere.",
+      "clozeSentence": "The light was _____ under a thin layer of clouds like tissue paper that made it diffuse, everywhere and nowhere.",
+      "distractors": [
+        "Made much brighter and stronger",
+        "Made completely invisible",
+        "Made larger in size"
+      ],
+      "surfaceForms": [
+        "muted"
+      ],
+      "clozeAnswerSurfaceForm": "muted"
+    },
+    {
+      "lemma": "hitch",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "To pull or lift something up with a quick movement",
+      "translationZh": "（猛然）拉起",
+      "exampleSentence": "I’d just hitched up my stockings; damp skin made them stick midway.",
+      "clozeSentence": "I’d just _____ up my stockings; damp skin made them stick midway.",
+      "distractors": [
+        "To slowly lower something down",
+        "To tie a knot very loosely",
+        "To wash something thoroughly"
+      ],
+      "surfaceForms": [
+        "hitched"
+      ],
+      "clozeAnswerSurfaceForm": "hitched"
+    },
+    {
+      "lemma": "midway",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "At or near the middle point of a distance or period",
+      "translationZh": "中途；半路",
+      "exampleSentence": "I’d just hitched up my stockings; damp skin made them stick midway.",
+      "clozeSentence": "I’d just hitched up my stockings; damp skin made them stick _____.",
+      "distractors": [
+        "At the very beginning",
+        "Far past the end",
+        "Completely outside the area"
+      ],
+      "surfaceForms": [
+        "midway"
+      ],
+      "clozeAnswerSurfaceForm": "midway"
+    },
+    {
+      "lemma": "stocking",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A close-fitting garment covering the foot and leg",
+      "translationZh": "長襪",
+      "exampleSentence": "I’d just hitched up my stockings; damp skin made them stick midway.",
+      "clozeSentence": "I’d just hitched up my _____; damp skin made them stick midway.",
+      "distractors": [
+        "A type of formal glove",
+        "A short piece of rope",
+        "A small handbag"
+      ],
+      "surfaceForms": [
+        "stockings"
+      ],
+      "clozeAnswerSurfaceForm": "stockings"
+    },
+    {
+      "lemma": "pee",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To urinate (informal)",
+      "translationZh": "尿尿；小便",
+      "exampleSentence": "On the way we stopped for sandwiches at a fancy grocery store, and later, on the road, my father shook a water bottle when I said I had to pee.",
+      "clozeSentence": "On the way we stopped for sandwiches at a fancy grocery store, and later, on the road, my father shook a water bottle when I said I had to _____.",
+      "distractors": [
+        "To sneeze suddenly",
+        "To fall asleep quickly",
+        "To feel very hungry"
+      ],
+      "surfaceForms": [
+        "pee"
+      ],
+      "clozeAnswerSurfaceForm": "pee"
+    },
+    {
+      "lemma": "evaluate",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To judge or assess the value or quality of something",
+      "translationZh": "評估；評量",
+      "exampleSentence": "“It’s a way of evaluating whether to do something, a sliding scale.",
+      "clozeSentence": "“It’s a way of _____ whether to do something, a sliding scale.",
+      "distractors": [
+        "To completely forget about something",
+        "To copy something exactly",
+        "To hide something from others"
+      ],
+      "surfaceForms": [
+        "evaluating"
+      ],
+      "clozeAnswerSurfaceForm": "evaluating"
+    },
+    {
+      "lemma": "flee",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To run away from danger quickly",
+      "translationZh": "逃跑；逃離",
+      "exampleSentence": "They were moving quickly, as if to flee.",
+      "clozeSentence": "They were moving quickly, as if to _____.",
+      "distractors": [
+        "To walk very slowly and calmly",
+        "To stay in one place",
+        "To celebrate something joyfully"
+      ],
+      "surfaceForms": [
+        "flee"
+      ],
+      "clozeAnswerSurfaceForm": "flee"
+    },
+    {
+      "lemma": "pavement",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A hard paved surface, such as a sidewalk or road",
+      "translationZh": "人行道；鋪面道路",
+      "exampleSentence": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay upright, always on the cusp of falling, like a marionette held under the armpits by strings.",
+      "clozeSentence": "When we reached the place where the _____ ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay upright, always on the cusp of falling, like a marionette held under the armpits by strings.",
+      "distractors": [
+        "A grassy open field",
+        "A tall building",
+        "A body of water"
+      ],
+      "surfaceForms": [
+        "pavement"
+      ],
+      "clozeAnswerSurfaceForm": "pavement"
+    },
+    {
+      "lemma": "upright",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "In a vertical or standing position",
+      "translationZh": "直立的",
+      "exampleSentence": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay upright, always on the cusp of falling, like a marionette held under the armpits by strings.",
+      "clozeSentence": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay _____, always on the cusp of falling, like a marionette held under the armpits by strings.",
+      "distractors": [
+        "Lying flat on the ground",
+        "Moving very quickly",
+        "Bent into a curve"
+      ],
+      "surfaceForms": [
+        "upright"
+      ],
+      "clozeAnswerSurfaceForm": "upright"
+    },
+    {
+      "lemma": "armpit",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The area under the arm where it joins the shoulder",
+      "translationZh": "腋下",
+      "exampleSentence": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay upright, always on the cusp of falling, like a marionette held under the armpits by strings.",
+      "clozeSentence": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay upright, always on the cusp of falling, like a marionette held under the _____ by strings.",
+      "distractors": [
+        "The back of the knee",
+        "The top of the head",
+        "The palm of the hand"
+      ],
+      "surfaceForms": [
+        "armpits"
+      ],
+      "clozeAnswerSurfaceForm": "armpits"
+    },
+    {
+      "lemma": "clod",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A lump or small mass of earth or clay",
+      "translationZh": "土塊",
+      "exampleSentence": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay upright, always on the cusp of falling, like a marionette held under the armpits by strings.",
+      "clozeSentence": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on _____ of dirt in the grass but managing to stay upright, always on the cusp of falling, like a marionette held under the armpits by strings.",
+      "distractors": [
+        "A small metal container",
+        "A piece of broken glass",
+        "A soft pillow or cushion"
+      ],
+      "surfaceForms": [
+        "clods"
+      ],
+      "clozeAnswerSurfaceForm": "clods"
+    },
+    {
+      "lemma": "cusp",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "The point at which something is about to happen or change",
+      "translationZh": "邊緣；臨界點",
+      "exampleSentence": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay upright, always on the cusp of falling, like a marionette held under the armpits by strings.",
+      "clozeSentence": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay upright, always on the _____ of falling, like a marionette held under the armpits by strings.",
+      "distractors": [
+        "The exact middle of a process",
+        "A long period of time",
+        "A final, completed result"
+      ],
+      "surfaceForms": [
+        "cusp"
+      ],
+      "clozeAnswerSurfaceForm": "cusp"
+    },
+    {
+      "lemma": "marionette",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A puppet controlled by strings from above",
+      "translationZh": "懸絲木偶",
+      "exampleSentence": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay upright, always on the cusp of falling, like a marionette held under the armpits by strings.",
+      "clozeSentence": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay upright, always on the cusp of falling, like a _____ held under the armpits by strings.",
+      "distractors": [
+        "A small toy car",
+        "A type of stuffed animal",
+        "A wind-up mechanical clock"
+      ],
+      "surfaceForms": [
+        "marionette"
+      ],
+      "clozeAnswerSurfaceForm": "marionette"
+    },
+    {
+      "lemma": "presume",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To assume something is true without proof",
+      "translationZh": "假設；擅自認為",
+      "exampleSentence": "When I realized my mistake, I felt ashamed most of all to have presumed.",
+      "clozeSentence": "When I realized my mistake, I felt ashamed most of all to have _____.",
+      "distractors": [
+        "To completely deny something",
+        "To carefully investigate something",
+        "To publicly announce something"
+      ],
+      "surfaceForms": [
+        "presumed"
+      ],
+      "clozeAnswerSurfaceForm": "presumed"
+    },
+    {
+      "lemma": "stitch",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To sew pieces of fabric together",
+      "translationZh": "縫合",
+      "exampleSentence": "She wore a dress made of vintage Japanese kimonos stitched together; my father wore a black formal jacket, a white shirt, and jeans.",
+      "clozeSentence": "She wore a dress made of vintage Japanese kimonos _____ together; my father wore a black formal jacket, a white shirt, and jeans.",
+      "distractors": [
+        "To cut fabric into pieces",
+        "To wash clothing by hand",
+        "To fold paper neatly"
+      ],
+      "surfaceForms": [
+        "stitched"
+      ],
+      "clozeAnswerSurfaceForm": "stitched"
+    },
+    {
+      "lemma": "kimono",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A traditional Japanese robe with wide sleeves, tied with a sash",
+      "translationZh": "和服",
+      "exampleSentence": "She wore a dress made of vintage Japanese kimonos stitched together; my father wore a black formal jacket, a white shirt, and jeans.",
+      "clozeSentence": "She wore a dress made of vintage Japanese _____ stitched together; my father wore a black formal jacket, a white shirt, and jeans.",
+      "distractors": [
+        "A traditional Japanese hat",
+        "A type of Japanese footwear",
+        "A Japanese musical instrument"
+      ],
+      "surfaceForms": [
+        "kimonos"
+      ],
+      "clozeAnswerSurfaceForm": "kimonos"
+    },
+    {
+      "lemma": "vintage",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "From the past and considered to be of high quality or classic style",
+      "translationZh": "復古的；古董的",
+      "exampleSentence": "She wore a dress made of vintage Japanese kimonos stitched together; my father wore a black formal jacket, a white shirt, and jeans.",
+      "clozeSentence": "She wore a dress made of _____ Japanese kimonos stitched together; my father wore a black formal jacket, a white shirt, and jeans.",
+      "distractors": [
+        "Brand new and modern",
+        "Cheap and poorly made",
+        "Extremely large in size"
+      ],
+      "surfaceForms": [
+        "vintage"
+      ],
+      "clozeAnswerSurfaceForm": "vintage"
+    },
+    {
+      "lemma": "motion",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The act or process of moving",
+      "translationZh": "運動；移動",
+      "exampleSentence": "Here he is.” She handed Reed to me in a way that suggested she was in motion and I would be still.",
+      "clozeSentence": "Here he is.” She handed Reed to me in a way that suggested she was in _____ and I would be still.",
+      "distractors": [
+        "A state of complete stillness",
+        "A strong feeling of anger",
+        "A written document"
+      ],
+      "surfaceForms": [
+        "motion"
+      ],
+      "clozeAnswerSurfaceForm": "motion"
+    },
+    {
+      "lemma": "slap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To hit something quickly with an open hand, making a sharp sound",
+      "translationZh": "拍打；掌摑",
+      "exampleSentence": "“Slap, slap, slap,” I said.",
+      "clozeSentence": "“_____, slap, slap,” I said.",
+      "distractors": [
+        "To hold something gently",
+        "To throw something far away",
+        "To speak in a whisper"
+      ],
+      "surfaceForms": [
+        "slap"
+      ],
+      "clozeAnswerSurfaceForm": "Slap"
+    },
+    {
+      "lemma": "lap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The sound or action of water gently splashing against something",
+      "translationZh": "（水）拍打聲；舔",
+      "exampleSentence": "“Lap lap lap,” he repeated.",
+      "clozeSentence": "“_____ lap lap,” he repeated.",
+      "distractors": [
+        "A loud crashing sound",
+        "The feeling of being tired",
+        "A sudden bright flash of light"
+      ],
+      "surfaceForms": [
+        "lap"
+      ],
+      "clozeAnswerSurfaceForm": "Lap"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "elevate",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Raised to a higher position or level",
+      "translationZh": "提高的；升高的",
+      "exampleSentence": "My brother sat beside me in his elevated seat.",
+      "clozeSentence": "My brother sat beside me in his _____ seat.",
+      "distractors": [
+        "Lowered to the ground",
+        "Placed far away",
+        "Turned upside down"
+      ],
+      "surfaceForms": [
+        "elevated"
+      ],
+      "clozeAnswerSurfaceForm": "elevated"
+    },
+    {
+      "lemma": "wed",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A ceremony where two people get married",
+      "translationZh": "婚禮",
+      "exampleSentence": "My father opened a large, thick-paper envelope—an invitation to a wedding in Napa.",
+      "clozeSentence": "My father opened a large, thick-paper envelope—an invitation to a _____ in Napa.",
+      "distractors": [
+        "A large formal dinner party",
+        "A celebration for a new job",
+        "A religious holiday"
+      ],
+      "surfaceForms": [
+        "wedding"
+      ],
+      "clozeAnswerSurfaceForm": "wedding"
+    },
+    {
+      "lemma": "smack",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To hit something firmly, often making a sharp sound",
+      "translationZh": "拍打；擊打",
+      "exampleSentence": "He smacked his hands against the surface of the water.",
+      "clozeSentence": "He _____ his hands against the surface of the water.",
+      "distractors": [
+        "To gently stroke something",
+        "To quietly whisper something",
+        "To carefully balance something"
+      ],
+      "surfaceForms": [
+        "smacked"
+      ],
+      "clozeAnswerSurfaceForm": "smacked"
+    },
+    {
+      "lemma": "confection",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "An elaborate or fancy item, often referring to clothing or a sweet food",
+      "translationZh": "精緻的服飾（或糖果）",
+      "exampleSentence": "Laurene put my brother in a light blue cotton confection, pantaloons with straps over the shoulders.",
+      "clozeSentence": "Laurene put my brother in a light blue cotton _____, pantaloons with straps over the shoulders.",
+      "distractors": [
+        "A plain, simple piece of clothing",
+        "A type of heavy work tool",
+        "A written agreement between people"
+      ],
+      "surfaceForms": [
+        "confection"
+      ],
+      "clozeAnswerSurfaceForm": "confection"
+    },
+    {
+      "lemma": "strap",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "A narrow strip of material used to fasten or hold something",
+      "translationZh": "帶子；肩帶",
+      "exampleSentence": "Laurene put my brother in a light blue cotton confection, pantaloons with straps over the shoulders.",
+      "clozeSentence": "Laurene put my brother in a light blue cotton confection, pantaloons with _____ over the shoulders.",
+      "distractors": [
+        "A small round button",
+        "A type of heavy shoe",
+        "A soft cushion"
+      ],
+      "surfaceForms": [
+        "straps"
+      ],
+      "clozeAnswerSurfaceForm": "straps"
+    },
+    {
+      "lemma": "pantaloon",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Loose trousers, often worn by children, that gather at the ankle",
+      "translationZh": "燈籠褲；寬鬆長褲",
+      "exampleSentence": "Laurene put my brother in a light blue cotton confection, pantaloons with straps over the shoulders.",
+      "clozeSentence": "Laurene put my brother in a light blue cotton confection, _____ with straps over the shoulders.",
+      "distractors": [
+        "A short-sleeved cotton shirt",
+        "A pair of formal leather shoes",
+        "A wide-brimmed sun hat"
+      ],
+      "surfaceForms": [
+        "pantaloons"
+      ],
+      "clozeAnswerSurfaceForm": "pantaloons"
+    },
+    {
+      "lemma": "concrete",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A hard building material made from cement, sand, and water",
+      "translationZh": "混凝土",
+      "exampleSentence": "I ran after him and caught him, helped him lie belly-down on the concrete lip so he could touch the water.",
+      "clozeSentence": "I ran after him and caught him, helped him lie belly-down on the _____ lip so he could touch the water.",
+      "distractors": [
+        "A soft fabric used for clothing",
+        "A type of natural stone found on beaches",
+        "A liquid used for cleaning surfaces"
+      ],
+      "surfaceForms": [
+        "concrete"
+      ],
+      "clozeAnswerSurfaceForm": "concrete"
+    },
+    {
+      "lemma": "limb",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "An arm or leg of a person or animal",
+      "translationZh": "四肢（手臂或腿）",
+      "exampleSentence": "I looked up to see a convertible drive past, an old sports car, chrome and cream, limbs hanging out the windows, teenagers.",
+      "clozeSentence": "I looked up to see a convertible drive past, an old sports car, chrome and cream, _____ hanging out the windows, teenagers.",
+      "distractors": [
+        "The center of the body",
+        "A piece of clothing",
+        "A type of vehicle part"
+      ],
+      "surfaceForms": [
+        "limbs"
+      ],
+      "clozeAnswerSurfaceForm": "limbs"
+    },
+    {
+      "lemma": "outfit",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A set of clothes worn together",
+      "translationZh": "一套服裝；裝扮",
+      "exampleSentence": "I put Reed inside, leaving his fancy outfit on.",
+      "clozeSentence": "I put Reed inside, leaving his fancy _____ on.",
+      "distractors": [
+        "A single piece of furniture",
+        "A type of musical instrument",
+        "A large vehicle"
+      ],
+      "surfaceForms": [
+        "outfit"
+      ],
+      "clozeAnswerSurfaceForm": "outfit"
+    },
+    {
+      "lemma": "chrome",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A shiny, silver-colored metal coating used to decorate objects",
+      "translationZh": "鉻；鍍鉻的",
+      "exampleSentence": "I looked up to see a convertible drive past, an old sports car, chrome and cream, limbs hanging out the windows, teenagers.",
+      "clozeSentence": "I looked up to see a convertible drive past, an old sports car, _____ and cream, limbs hanging out the windows, teenagers.",
+      "distractors": [
+        "A soft woolen fabric",
+        "A dull black paint",
+        "A type of transparent glass"
+      ],
+      "surfaceForms": [
+        "chrome"
+      ],
+      "clozeAnswerSurfaceForm": "chrome"
+    },
+    {
+      "lemma": "convertible",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A car with a roof that can be folded down or removed",
+      "translationZh": "敞篷車",
+      "exampleSentence": "I looked up to see a convertible drive past, an old sports car, chrome and cream, limbs hanging out the windows, teenagers.",
+      "clozeSentence": "I looked up to see a _____ drive past, an old sports car, chrome and cream, limbs hanging out the windows, teenagers.",
+      "distractors": [
+        "A car with no engine",
+        "A bicycle with two seats",
+        "A truck used for deliveries"
+      ],
+      "surfaceForms": [
+        "convertible"
+      ],
+      "clozeAnswerSurfaceForm": "convertible"
+    },
+    {
+      "lemma": "crouch",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To bend low with knees bent close to the body",
+      "translationZh": "蹲下",
+      "exampleSentence": "I crouched beside him, grabbed a leg.",
+      "clozeSentence": "I _____ beside him, grabbed a leg.",
+      "distractors": [
+        "To stand very tall and straight",
+        "To run at full speed",
+        "To lie flat and sleep"
+      ],
+      "surfaceForms": [
+        "crouched"
+      ],
+      "clozeAnswerSurfaceForm": "crouched"
+    },
+    {
+      "lemma": "decision-making",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The process of choosing between different options",
+      "translationZh": "決策；做決定",
+      "exampleSentence": "I thought of what dress to bring, and how I’d have to buy nylons, an ecstasy of decision-making.",
+      "clozeSentence": "I thought of what dress to bring, and how I’d have to buy nylons, an ecstasy of _____.",
+      "distractors": [
+        "The act of forgetting something important",
+        "The process of repairing something broken",
+        "The act of copying someone else's work"
+      ],
+      "surfaceForms": [
+        "decision-making"
+      ],
+      "clozeAnswerSurfaceForm": "decision-making"
+    },
+    {
+      "lemma": "nylon",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A strong, lightweight synthetic fabric, often used for stockings",
+      "translationZh": "尼龍（絲襪）",
+      "exampleSentence": "I thought of what dress to bring, and how I’d have to buy nylons, an ecstasy of decision-making.",
+      "clozeSentence": "I thought of what dress to bring, and how I’d have to buy _____, an ecstasy of decision-making.",
+      "distractors": [
+        "A type of natural cotton cloth",
+        "A thick woolen material",
+        "A soft leather fabric"
+      ],
+      "surfaceForms": [
+        "nylons"
+      ],
+      "clozeAnswerSurfaceForm": "nylons"
+    },
+    {
+      "lemma": "diffuse",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "Spread out over a wide area rather than concentrated",
+      "translationZh": "瀰漫的；擴散的",
+      "exampleSentence": "The light was muted under a thin layer of clouds like tissue paper that made it diffuse, everywhere and nowhere.",
+      "clozeSentence": "The light was muted under a thin layer of clouds like tissue paper that made it _____, everywhere and nowhere.",
+      "distractors": [
+        "Extremely bright and focused",
+        "Completely dark and hidden",
+        "Sharp and clearly defined"
+      ],
+      "surfaceForms": [
+        "diffuse"
+      ],
+      "clozeAnswerSurfaceForm": "diffuse"
+    },
+    {
+      "lemma": "foliage",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "The leaves of plants and trees collectively",
+      "translationZh": "葉子；樹葉（總稱）",
+      "exampleSentence": "The car crackled its way up the long drive that curved from the hotel to the road under a double row of trees with high, arching branches that created a different sense of scale—a huge enclosed room, light shining through the bright green foliage.",
+      "clozeSentence": "The car crackled its way up the long drive that curved from the hotel to the road under a double row of trees with high, arching branches that created a different sense of scale—a huge enclosed room, light shining through the bright green _____.",
+      "distractors": [
+        "The roots of a plant",
+        "The flowers of a tree",
+        "The bark covering a tree trunk"
+      ],
+      "surfaceForms": [
+        "foliage"
+      ],
+      "clozeAnswerSurfaceForm": "foliage"
+    },
+    {
+      "lemma": "hitch",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "To pull or lift something up with a quick movement",
+      "translationZh": "（猛然）拉起",
+      "exampleSentence": "I’d just hitched up my stockings; damp skin made them stick midway.",
+      "clozeSentence": "I’d just _____ up my stockings; damp skin made them stick midway.",
+      "distractors": [
+        "To slowly lower something down",
+        "To tie a knot very loosely",
+        "To wash something thoroughly"
+      ],
+      "surfaceForms": [
+        "hitched"
+      ],
+      "clozeAnswerSurfaceForm": "hitched"
+    },
+    {
+      "lemma": "clod",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A lump or small mass of earth or clay",
+      "translationZh": "土塊",
+      "exampleSentence": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay upright, always on the cusp of falling, like a marionette held under the armpits by strings.",
+      "clozeSentence": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on _____ of dirt in the grass but managing to stay upright, always on the cusp of falling, like a marionette held under the armpits by strings.",
+      "distractors": [
+        "A small metal container",
+        "A piece of broken glass",
+        "A soft pillow or cushion"
+      ],
+      "surfaceForms": [
+        "clods"
+      ],
+      "clozeAnswerSurfaceForm": "clods"
+    },
+    {
+      "lemma": "cusp",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "The point at which something is about to happen or change",
+      "translationZh": "邊緣；臨界點",
+      "exampleSentence": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay upright, always on the cusp of falling, like a marionette held under the armpits by strings.",
+      "clozeSentence": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay upright, always on the _____ of falling, like a marionette held under the armpits by strings.",
+      "distractors": [
+        "The exact middle of a process",
+        "A long period of time",
+        "A final, completed result"
+      ],
+      "surfaceForms": [
+        "cusp"
+      ],
+      "clozeAnswerSurfaceForm": "cusp"
+    },
+    {
+      "lemma": "marionette",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A puppet controlled by strings from above",
+      "translationZh": "懸絲木偶",
+      "exampleSentence": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay upright, always on the cusp of falling, like a marionette held under the armpits by strings.",
+      "clozeSentence": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay upright, always on the cusp of falling, like a _____ held under the armpits by strings.",
+      "distractors": [
+        "A small toy car",
+        "A type of stuffed animal",
+        "A wind-up mechanical clock"
+      ],
+      "surfaceForms": [
+        "marionette"
+      ],
+      "clozeAnswerSurfaceForm": "marionette"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "wordLemma": "foliage",
+      "prompt": "foliage",
+      "options": [
+        "The bark covering a tree trunk",
+        "The leaves of plants and trees collectively",
+        "The roots of a plant",
+        "The flowers of a tree"
+      ],
+      "answer": "The leaves of plants and trees collectively"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "concrete",
+      "prompt": "concrete",
+      "options": [
+        "A soft fabric used for clothing",
+        "A type of natural stone found on beaches",
+        "A hard building material made from cement, sand, and water",
+        "A liquid used for cleaning surfaces"
+      ],
+      "answer": "A hard building material made from cement, sand, and water"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "cusp",
+      "prompt": "cusp",
+      "options": [
+        "The exact middle of a process",
+        "A long period of time",
+        "A final, completed result",
+        "The point at which something is about to happen or change"
+      ],
+      "answer": "The point at which something is about to happen or change"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "convertible",
+      "prompt": "I looked up to see a _____ drive past, an old sports car, chrome and cream, limbs hanging out the windows, teenagers.",
+      "options": [
+        "nylons",
+        "confection",
+        "elevated",
+        "convertible"
+      ],
+      "answer": "convertible"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "hitch",
+      "prompt": "I’d just _____ up my stockings; damp skin made them stick midway.",
+      "options": [
+        "marionette",
+        "diffuse",
+        "hitched",
+        "outfit"
+      ],
+      "answer": "hitched"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "crouch",
+      "prompt": "蹲下",
+      "options": [
+        "concrete",
+        "marionette",
+        "crouch",
+        "nylon"
+      ],
+      "answer": "crouch"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "marionette",
+      "prompt": "When we reached the place where the pavement ended and the field began, I lifted him out of the wagon and he ran forward, toward the edge of the pool, almost tripping on clods of dirt in the grass but managing to stay upright, always on the cusp of falling, like a _____ held under the armpits by strings.",
+      "options": [
+        "outfit",
+        "straps",
+        "marionette",
+        "smacked"
+      ],
+      "answer": "marionette"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "outfit",
+      "prompt": "一套服裝；裝扮",
+      "options": [
+        "outfit",
+        "foliage",
+        "smack",
+        "cusp"
+      ],
+      "answer": "outfit"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "confection",
+      "prompt": "confection",
+      "options": [
+        "An elaborate or fancy item, often referring to clothing or a sweet food",
+        "A type of heavy work tool",
+        "A written agreement between people",
+        "A plain, simple piece of clothing"
+      ],
+      "answer": "An elaborate or fancy item, often referring to clothing or a sweet food"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "diffuse",
+      "prompt": "瀰漫的；擴散的",
+      "options": [
+        "nylon",
+        "foliage",
+        "cusp",
+        "diffuse"
+      ],
+      "answer": "diffuse"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "elevate",
+      "prompt": "elevate",
+      "options": [
+        "Lowered to the ground",
+        "Turned upside down",
+        "Placed far away",
+        "Raised to a higher position or level"
+      ],
+      "answer": "Raised to a higher position or level"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "pantaloon",
+      "prompt": "燈籠褲；寬鬆長褲",
+      "options": [
+        "hitch",
+        "crouch",
+        "pantaloon",
+        "smack"
+      ],
+      "answer": "pantaloon"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "strap",
+      "prompt": "Laurene put my brother in a light blue cotton confection, pantaloons with _____ over the shoulders.",
+      "options": [
+        "wedding",
+        "straps",
+        "smacked",
+        "limbs"
+      ],
+      "answer": "straps"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "smack",
+      "prompt": "拍打；擊打",
+      "options": [
+        "clod",
+        "smack",
+        "limb",
+        "diffuse"
+      ],
+      "answer": "smack"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "wed",
+      "prompt": "My father opened a large, thick-paper envelope—an invitation to a _____ in Napa.",
+      "options": [
+        "hitched",
+        "convertible",
+        "concrete",
+        "wedding"
+      ],
+      "answer": "wedding"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "chrome",
+      "prompt": "chrome",
+      "options": [
+        "A dull black paint",
+        "A shiny, silver-colored metal coating used to decorate objects",
+        "A type of transparent glass",
+        "A soft woolen fabric"
+      ],
+      "answer": "A shiny, silver-colored metal coating used to decorate objects"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "nylon",
+      "prompt": "I thought of what dress to bring, and how I’d have to buy _____, an ecstasy of decision-making.",
+      "options": [
+        "clods",
+        "nylons",
+        "cusp",
+        "straps"
+      ],
+      "answer": "nylons"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "decision-making",
+      "prompt": "decision-making",
+      "options": [
+        "The act of copying someone else's work",
+        "The process of repairing something broken",
+        "The act of forgetting something important",
+        "The process of choosing between different options"
+      ],
+      "answer": "The process of choosing between different options"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "limb",
+      "prompt": "I looked up to see a convertible drive past, an old sports car, chrome and cream, _____ hanging out the windows, teenagers.",
+      "options": [
+        "clods",
+        "limbs",
+        "chrome",
+        "confection"
+      ],
+      "answer": "limbs"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "clod",
+      "prompt": "土塊",
+      "options": [
+        "clod",
+        "foliage",
+        "outfit",
+        "cusp"
+      ],
+      "answer": "clod"
+    }
+  ]
+}

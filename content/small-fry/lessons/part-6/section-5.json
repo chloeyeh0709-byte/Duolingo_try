@@ -1,0 +1,1718 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 6,
+  "partTitle": "Small Nation",
+  "sectionIndex": 5,
+  "paragraphs": [
+    "It was midyear when I decided to transfer to Paly, and my father drove me over to sign up for classes. The administrative offices were off a long, glossy corridor that smelled of the same cleaning fluid as the public library, and had the same combination of muffled sounds and sharp echoes. I felt the glow of nearness to my father, his attention on me. Walking beside him down the corridor I felt protected; he was confident in this school.",
+    "We sat down in the office of a registrar who helped to fill out my schedule, sometimes placing me in classes I needed that were already full.",
+    "“Is there a student government?” I asked her.",
+    "“Yes,” she said. “Maybe you could run for representative. There are two per class—the elections are soon.” A demotion, I thought. I’d run for president instead.",
+    "Several Christmas wreaths arrived from Smith & Hawken. Three were the size of small bird’s nests. My father carried one through the kitchen, to hang on the wooden beam between the banks of French doors in the hallway. He didn’t want me or anyone else to touch the wreaths, or any of the Christmas decorations he’d ordered. Even the tree lights—which he insisted on hanging by himself, looping the twisted cords around the branches of a Douglas fir in a process that took him the whole day—were off-limits. He fussed about the small round wreath, adjusting it on the nail, stepping back; adjusting it, stepping back again.",
+    "I laughed, watching him. “I guess you have to get it just right,” I said.",
+    "“If it’s not just right,” he said, in a high falsetto, rolling the r, “I will perish.” When he was happy, he became goofy, able to laugh at himself and his fastidiousness.",
+    "Sometimes my father sang extemporaneous rhyming songs about me to me—the way Bob Dylan did in the recording studio, he said. My bike and hike I liked to school, my books, my looks, my life as a wife of a fife.",
+    "He adjusted the wreath one last time and lunged for me, wiggling his index finger under my rib cage. I reached for him too, trying to dig my hand into his armpit to tickle him first. He got me, I laughed—a shrill laugh that did not sound like part of me. He jumped away so that I couldn’t reach him, sashaying, his bare legs tapered, silly-looking, like a frog’s.",
+    "He’d recently bought a CD he played for me, a recording of the last castrato, who didn’t sound like a woman or man, but had a haunting high kind of voice in between, like someone singing after sucking on a balloon. “Perish, simply perish,” he sang again in that high voice, on the way back to his office to make a series of work calls under the spotlight of a desk lamp that looked, bent and hovering, like a praying mantis.",
+    "For Christmas he gave Laurene a ball gown from Giorgio Armani and a pair of shoes, too narrow for her feet. He gave me only the pair of shoes, the same ones he’d bought for her—slim black loafers, also from Armani. They fit me perfectly. He was cold toward Laurene after noticing the shoes didn’t fit, as if her wider feet were an indication of some deeper offense. I was jealous of the ball gown, which was diaphanous, long, and unfolded out of the box. I felt superior about my feet, though, for a little while, as if their slim shape was an indication of something noble and pure.",
+    "It had been more than five months since I’d seen my mother. I was angry with her; I missed her. I hated her, I pitied her, I wanted to eradicate all the signs of her in myself, I missed being touched by her. She didn’t know what I did every day now, how I babysat my brother and sometimes he cried and I didn’t know what to do or how to soothe him.",
+    "During the months we didn’t see each other, my mother had a recurring dream of a nuclear attack in which she would throw a sheet over her head and run over to get me.",
+    "Finally, for Christmas, my father agreed we could see each other again.",
+    "As soon as I felt I could leave, I walked to the Rinconada house and opened the front door. It had a smell, warm wood and soil and paint, that I hadn’t noticed when I lived there. I hopped into her lap—I was still small enough for that—and she grabbed me, felt my shoulders and my head, my arms and legs, my fingers, and smelled my hair. Later she described that moment for her, a shock, a relief, to hold me—that some part of her, after not seeing me for so long, had felt as if I were dead. I remember that she wouldn’t let me go.",
+    "I started school at Paly after the holidays, using my new name.",
+    "The Paly quad was grass worn away in places to stubble or bald dirt. I went to the classes in the sequence the registrar had arranged for me, using the textbooks with holes in the cover where brown cardboard showed through, notes from previous students written in the margins.",
+    "I’d never had trouble making friends before; now I was cripplingly shy, doubting myself before raising my hand in class. I didn’t have a single friend.",
+    "The algebra lessons at the new school were different from the ones at Lick-Wilmerding, based on formulas I didn’t know, more difficult. Most evenings for a couple of months I asked Laurene to help, and she would get up with a sigh, we’d go downstairs, she’d work out the problem in a businesslike way, and then tell me the procedure to follow to get the answer.",
+    "At night, after they went upstairs, I was incredibly lonely and cried myself to sleep. I was also cold. I discovered the heating didn’t work in my part of the house.",
+    "I might have asked to move into the bedroom upstairs, the one located over the garage, with slanted windows along the roof. It was the room my father had first offered to me, thinking I would like it the most because it was large, with a fireplace, and its own Juliet balcony with stairs leading down to the courtyard. When he offered it, he said I might sneak out at night, and winked. But that room had since been turned into a guest room, and when I finally asked to move, he said no.",
+    "“I’m cold,” I said to my father in the kitchen in the morning. “Would you get the heater fixed?”",
+    "He pulled an apple juice from the fridge. “Nope. Not until we renovate the kitchen,” he said, “and we’re not going to do that anytime soon.”"
+  ],
+  "words": [
+    {
+      "lemma": "cardboard",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a stiff, thick material made from paper pulp",
+      "translationZh": "厚紙板",
+      "exampleSentence": "I went to the classes in the sequence the registrar had arranged for me, using the textbooks with holes in the cover where brown cardboard showed through, notes from previous students written in the margins.",
+      "clozeSentence": "I went to the classes in the sequence the registrar had arranged for me, using the textbooks with holes in the cover where brown _____ showed through, notes from previous students written in the margins.",
+      "distractors": [
+        "a soft, flexible fabric",
+        "a shiny, transparent plastic",
+        "a smooth, polished metal"
+      ],
+      "surfaceForms": [
+        "cardboard"
+      ],
+      "clozeAnswerSurfaceForm": "cardboard"
+    },
+    {
+      "lemma": "fireplace",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a structure in a room where a fire can be lit for heating",
+      "translationZh": "壁爐",
+      "exampleSentence": "It was the room my father had first offered to me, thinking I would like it the most because it was large, with a fireplace, and its own Juliet balcony with stairs leading down to the courtyard.",
+      "clozeSentence": "It was the room my father had first offered to me, thinking I would like it the most because it was large, with a _____, and its own Juliet balcony with stairs leading down to the courtyard.",
+      "distractors": [
+        "a small closet for coats",
+        "a raised platform for speaking",
+        "a decorative ceiling light"
+      ],
+      "surfaceForms": [
+        "fireplace"
+      ],
+      "clozeAnswerSurfaceForm": "fireplace"
+    },
+    {
+      "lemma": "glow",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a warm, steady light or feeling",
+      "translationZh": "光輝；（情感的）溫暖光彩",
+      "exampleSentence": "I felt the glow of nearness to my father, his attention on me.",
+      "clozeSentence": "I felt the _____ of nearness to my father, his attention on me.",
+      "distractors": [
+        "a sudden loud noise",
+        "a sharp, cold sensation",
+        "a strong unpleasant smell"
+      ],
+      "surfaceForms": [
+        "glow"
+      ],
+      "clozeAnswerSurfaceForm": "glow"
+    },
+    {
+      "lemma": "lap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the flat area formed by the thighs of a seated person",
+      "translationZh": "大腿（坐姿時形成的平面）",
+      "exampleSentence": "I hopped into her lap—I was still small enough for that—and she grabbed me, felt my shoulders and my head, my arms and legs, my fingers, and smelled my hair.",
+      "clozeSentence": "I hopped into her _____—I was still small enough for that—and she grabbed me, felt my shoulders and my head, my arms and legs, my fingers, and smelled my hair.",
+      "distractors": [
+        "the back of a chair",
+        "the space under a table",
+        "the top of one's shoulders"
+      ],
+      "surfaceForms": [
+        "lap"
+      ],
+      "clozeAnswerSurfaceForm": "lap—I"
+    },
+    {
+      "lemma": "margin",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the blank space around the edge of a page",
+      "translationZh": "頁邊空白",
+      "exampleSentence": "I went to the classes in the sequence the registrar had arranged for me, using the textbooks with holes in the cover where brown cardboard showed through, notes from previous students written in the margins.",
+      "clozeSentence": "I went to the classes in the sequence the registrar had arranged for me, using the textbooks with holes in the cover where brown cardboard showed through, notes from previous students written in the _____.",
+      "distractors": [
+        "the title printed at the top of a page",
+        "the number printed on a page",
+        "the binding that holds pages together"
+      ],
+      "surfaceForms": [
+        "margins"
+      ],
+      "clozeAnswerSurfaceForm": "margins"
+    },
+    {
+      "lemma": "noble",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "having high moral qualities or ideals",
+      "translationZh": "高尚的；崇高的",
+      "exampleSentence": "I felt superior about my feet, though, for a little while, as if their slim shape was an indication of something noble and pure.",
+      "clozeSentence": "I felt superior about my feet, though, for a little while, as if their slim shape was an indication of something _____ and pure.",
+      "distractors": [
+        "dishonest and untrustworthy",
+        "ordinary and unremarkable",
+        "fragile and easily broken"
+      ],
+      "surfaceForms": [
+        "noble"
+      ],
+      "clozeAnswerSurfaceForm": "noble"
+    },
+    {
+      "lemma": "tickle",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to touch someone lightly to cause laughter or a ticklish feeling",
+      "translationZh": "搔癢",
+      "exampleSentence": "I reached for him too, trying to dig my hand into his armpit to tickle him first.",
+      "clozeSentence": "I reached for him too, trying to dig my hand into his armpit to _____ him first.",
+      "distractors": [
+        "to push someone away firmly",
+        "to hug someone tightly",
+        "to pat someone gently on the back"
+      ],
+      "surfaceForms": [
+        "tickle"
+      ],
+      "clozeAnswerSurfaceForm": "tickle"
+    },
+    {
+      "lemma": "courtyard",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "an open area enclosed by walls or buildings",
+      "translationZh": "庭院；天井",
+      "exampleSentence": "It was the room my father had first offered to me, thinking I would like it the most because it was large, with a fireplace, and its own Juliet balcony with stairs leading down to the courtyard.",
+      "clozeSentence": "It was the room my father had first offered to me, thinking I would like it the most because it was large, with a fireplace, and its own Juliet balcony with stairs leading down to the _____.",
+      "distractors": [
+        "a covered indoor hallway",
+        "a raised outdoor stage",
+        "an underground parking area"
+      ],
+      "surfaceForms": [
+        "courtyard"
+      ],
+      "clozeAnswerSurfaceForm": "courtyard"
+    },
+    {
+      "lemma": "diaphanous",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "light, delicate, and almost see-through",
+      "translationZh": "薄透的；輕盈透明的",
+      "exampleSentence": "I was jealous of the ball gown, which was diaphanous, long, and unfolded out of the box.",
+      "clozeSentence": "I was jealous of the ball gown, which was _____, long, and unfolded out of the box.",
+      "distractors": [
+        "heavy and thick in texture",
+        "brightly colored and patterned",
+        "stiff and rigid in shape"
+      ],
+      "surfaceForms": [
+        "diaphanous"
+      ],
+      "clozeAnswerSurfaceForm": "diaphanous"
+    },
+    {
+      "lemma": "eradicate",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to completely destroy or eliminate something",
+      "translationZh": "根除；徹底消滅",
+      "exampleSentence": "I hated her, I pitied her, I wanted to eradicate all the signs of her in myself, I missed being touched by her.",
+      "clozeSentence": "I hated her, I pitied her, I wanted to _____ all the signs of her in myself, I missed being touched by her.",
+      "distractors": [
+        "to slightly reduce something",
+        "to carefully preserve something",
+        "to temporarily hide something"
+      ],
+      "surfaceForms": [
+        "eradicate"
+      ],
+      "clozeAnswerSurfaceForm": "eradicate"
+    },
+    {
+      "lemma": "midyear",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "occurring at or relating to the middle of the year",
+      "translationZh": "年中的",
+      "exampleSentence": "It was midyear when I decided to transfer to Paly, and my father drove me over to sign up for classes.",
+      "clozeSentence": "It was _____ when I decided to transfer to Paly, and my father drove me over to sign up for classes.",
+      "distractors": [
+        "occurring at the very beginning of the year",
+        "occurring once every few years",
+        "occurring only on holidays"
+      ],
+      "surfaceForms": [
+        "midyear"
+      ],
+      "clozeAnswerSurfaceForm": "midyear"
+    },
+    {
+      "lemma": "nearness",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the state of being close to someone or something",
+      "translationZh": "親近；接近",
+      "exampleSentence": "I felt the glow of nearness to my father, his attention on me.",
+      "clozeSentence": "I felt the glow of _____ to my father, his attention on me.",
+      "distractors": [
+        "the state of being far away",
+        "the state of feeling nervous",
+        "the state of being alone"
+      ],
+      "surfaceForms": [
+        "nearness"
+      ],
+      "clozeAnswerSurfaceForm": "nearness"
+    },
+    {
+      "lemma": "slant",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "sloping at an angle rather than horizontal or vertical",
+      "translationZh": "傾斜的",
+      "exampleSentence": "I might have asked to move into the bedroom upstairs, the one located over the garage, with slanted windows along the roof.",
+      "clozeSentence": "I might have asked to move into the bedroom upstairs, the one located over the garage, with _____ windows along the roof.",
+      "distractors": [
+        "perfectly flat and level",
+        "curved in a full circle",
+        "covered completely in glass"
+      ],
+      "surfaceForms": [
+        "slanted"
+      ],
+      "clozeAnswerSurfaceForm": "slanted"
+    },
+    {
+      "lemma": "administrative",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "relating to the management or organization of something",
+      "translationZh": "行政的；管理的",
+      "exampleSentence": "The administrative offices were off a long, glossy corridor that smelled of the same cleaning fluid as the public library, and had the same combination of muffled sounds and sharp echoes.",
+      "clozeSentence": "The _____ offices were off a long, glossy corridor that smelled of the same cleaning fluid as the public library, and had the same combination of muffled sounds and sharp echoes.",
+      "distractors": [
+        "relating to sports and athletics",
+        "relating to art and design",
+        "relating to farming and agriculture"
+      ],
+      "surfaceForms": [
+        "administrative"
+      ],
+      "clozeAnswerSurfaceForm": "administrative"
+    },
+    {
+      "lemma": "corridor",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a long passage in a building with rooms on one or both sides",
+      "translationZh": "走廊",
+      "exampleSentence": "The administrative offices were off a long, glossy corridor that smelled of the same cleaning fluid as the public library, and had the same combination of muffled sounds and sharp echoes.",
+      "clozeSentence": "The administrative offices were off a long, glossy _____ that smelled of the same cleaning fluid as the public library, and had the same combination of muffled sounds and sharp echoes.",
+      "distractors": [
+        "a large open courtyard",
+        "a small underground room",
+        "a wide outdoor staircase"
+      ],
+      "surfaceForms": [
+        "corridor"
+      ],
+      "clozeAnswerSurfaceForm": "corridor"
+    },
+    {
+      "lemma": "echo",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "a sound that is reflected and heard again",
+      "translationZh": "回音；回聲",
+      "exampleSentence": "The administrative offices were off a long, glossy corridor that smelled of the same cleaning fluid as the public library, and had the same combination of muffled sounds and sharp echoes.",
+      "clozeSentence": "The administrative offices were off a long, glossy corridor that smelled of the same cleaning fluid as the public library, and had the same combination of muffled sounds and sharp _____.",
+      "distractors": [
+        "a sudden burst of silence",
+        "a low background hum",
+        "a bright flash of light"
+      ],
+      "surfaceForms": [
+        "echoes"
+      ],
+      "clozeAnswerSurfaceForm": "echoes"
+    },
+    {
+      "lemma": "fluid",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a substance that flows, such as a liquid",
+      "translationZh": "液體；流質",
+      "exampleSentence": "The administrative offices were off a long, glossy corridor that smelled of the same cleaning fluid as the public library, and had the same combination of muffled sounds and sharp echoes.",
+      "clozeSentence": "The administrative offices were off a long, glossy corridor that smelled of the same cleaning _____ as the public library, and had the same combination of muffled sounds and sharp echoes.",
+      "distractors": [
+        "a solid, hard material",
+        "a light, gas-like vapor",
+        "a soft, powdery substance"
+      ],
+      "surfaceForms": [
+        "fluid"
+      ],
+      "clozeAnswerSurfaceForm": "fluid"
+    },
+    {
+      "lemma": "algebra",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a branch of mathematics using letters and symbols to represent numbers",
+      "translationZh": "代數學",
+      "exampleSentence": "The algebra lessons at the new school were different from the ones at Lick-Wilmerding, based on formulas I didn’t know, more difficult.",
+      "clozeSentence": "The _____ lessons at the new school were different from the ones at Lick-Wilmerding, based on formulas I didn’t know, more difficult.",
+      "distractors": [
+        "the study of historical events",
+        "a branch of biology about cells",
+        "the study of the earth's surface"
+      ],
+      "surfaceForms": [
+        "algebra"
+      ],
+      "clozeAnswerSurfaceForm": "algebra"
+    },
+    {
+      "lemma": "glossy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "smooth and shiny in appearance",
+      "translationZh": "光滑亮麗的；有光澤的",
+      "exampleSentence": "The administrative offices were off a long, glossy corridor that smelled of the same cleaning fluid as the public library, and had the same combination of muffled sounds and sharp echoes.",
+      "clozeSentence": "The administrative offices were off a long, _____ corridor that smelled of the same cleaning fluid as the public library, and had the same combination of muffled sounds and sharp echoes.",
+      "distractors": [
+        "rough and dull in appearance",
+        "cracked and worn looking",
+        "dark and completely matte"
+      ],
+      "surfaceForms": [
+        "glossy"
+      ],
+      "clozeAnswerSurfaceForm": "glossy"
+    },
+    {
+      "lemma": "muffle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to make a sound quieter or less clear",
+      "translationZh": "使聲音悶住；使變小聲",
+      "exampleSentence": "The administrative offices were off a long, glossy corridor that smelled of the same cleaning fluid as the public library, and had the same combination of muffled sounds and sharp echoes.",
+      "clozeSentence": "The administrative offices were off a long, glossy corridor that smelled of the same cleaning fluid as the public library, and had the same combination of _____ sounds and sharp echoes.",
+      "distractors": [
+        "to make a sound louder and sharper",
+        "to repeat a sound many times",
+        "to record a sound permanently"
+      ],
+      "surfaceForms": [
+        "muffled"
+      ],
+      "clozeAnswerSurfaceForm": "muffled"
+    },
+    {
+      "lemma": "quad",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "an open, quadrangular courtyard, especially at a school",
+      "translationZh": "（校園中的）方形庭院",
+      "exampleSentence": "The Paly quad was grass worn away in places to stubble or bald dirt.",
+      "clozeSentence": "The Paly _____ was grass worn away in places to stubble or bald dirt.",
+      "distractors": [
+        "a covered indoor gymnasium",
+        "a narrow underground tunnel",
+        "a small private office"
+      ],
+      "surfaceForms": [
+        "quad"
+      ],
+      "clozeAnswerSurfaceForm": "quad"
+    },
+    {
+      "lemma": "stubble",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "short, rough remains of cut grass or crops",
+      "translationZh": "殘株；短茬",
+      "exampleSentence": "The Paly quad was grass worn away in places to stubble or bald dirt.",
+      "clozeSentence": "The Paly quad was grass worn away in places to _____ or bald dirt.",
+      "distractors": [
+        "tall, thick green grass",
+        "smooth bare soil with no grass",
+        "a field of colorful flowers"
+      ],
+      "surfaceForms": [
+        "stubble"
+      ],
+      "clozeAnswerSurfaceForm": "stubble"
+    },
+    {
+      "lemma": "registrar",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "an official responsible for keeping official records, as at a school",
+      "translationZh": "教務註冊員；註冊主任",
+      "exampleSentence": "We sat down in the office of a registrar who helped to fill out my schedule, sometimes placing me in classes I needed that were already full.",
+      "clozeSentence": "We sat down in the office of a _____ who helped to fill out my schedule, sometimes placing me in classes I needed that were already full.",
+      "distractors": [
+        "a teacher who grades exams",
+        "a student who represents the class",
+        "a security guard at the entrance"
+      ],
+      "surfaceForms": [
+        "registrar"
+      ],
+      "clozeAnswerSurfaceForm": "registrar"
+    },
+    {
+      "lemma": "demotion",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a move to a lower rank or position",
+      "translationZh": "降級；降職",
+      "exampleSentence": "There are two per class—the elections are soon.” A demotion, I thought.",
+      "clozeSentence": "There are two per class—the elections are soon.” A _____, I thought.",
+      "distractors": [
+        "a move to a higher rank or position",
+        "a temporary leave of absence",
+        "a formal public announcement"
+      ],
+      "surfaceForms": [
+        "demotion"
+      ],
+      "clozeAnswerSurfaceForm": "demotion"
+    },
+    {
+      "lemma": "cripplingly",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to an extreme, damaging degree",
+      "translationZh": "極度地；嚴重削弱地",
+      "exampleSentence": "I’d never had trouble making friends before; now I was cripplingly shy, doubting myself before raising my hand in class.",
+      "clozeSentence": "I’d never had trouble making friends before; now I was _____ shy, doubting myself before raising my hand in class.",
+      "distractors": [
+        "slightly and briefly",
+        "unexpectedly and pleasantly",
+        "gradually and gently"
+      ],
+      "surfaceForms": [
+        "cripplingly"
+      ],
+      "clozeAnswerSurfaceForm": "cripplingly"
+    },
+    {
+      "lemma": "wreath",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a circular arrangement of flowers or leaves, often used as decoration",
+      "translationZh": "花圈；花環",
+      "exampleSentence": "Several Christmas wreaths arrived from Smith & Hawken.",
+      "clozeSentence": "Several Christmas _____ arrived from Smith & Hawken.",
+      "distractors": [
+        "a tall decorated tree",
+        "a string of small lights",
+        "a wrapped gift box"
+      ],
+      "surfaceForms": [
+        "wreaths",
+        "wreath"
+      ],
+      "clozeAnswerSurfaceForm": "wreaths"
+    },
+    {
+      "lemma": "beam",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a long, thick piece of wood or metal used as a support",
+      "translationZh": "橫樑",
+      "exampleSentence": "My father carried one through the kitchen, to hang on the wooden beam between the banks of French doors in the hallway.",
+      "clozeSentence": "My father carried one through the kitchen, to hang on the wooden _____ between the banks of French doors in the hallway.",
+      "distractors": [
+        "a thin curtain hanging on a window",
+        "a small decorative light bulb",
+        "a soft cushion on a chair"
+      ],
+      "surfaceForms": [
+        "beam"
+      ],
+      "clozeAnswerSurfaceForm": "beam"
+    },
+    {
+      "lemma": "fife",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a small, high-pitched flute-like musical instrument",
+      "translationZh": "橫笛；風笛",
+      "exampleSentence": "My bike and hike I liked to school, my books, my looks, my life as a wife of a fife.",
+      "clozeSentence": "My bike and hike I liked to school, my books, my looks, my life as a wife of a _____.",
+      "distractors": [
+        "a large stringed instrument like a guitar",
+        "a percussion instrument struck with sticks",
+        "a brass instrument played with a mouthpiece"
+      ],
+      "surfaceForms": [
+        "fife"
+      ],
+      "clozeAnswerSurfaceForm": "fife"
+    },
+    {
+      "lemma": "decoration",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "an object used to make something look more attractive",
+      "translationZh": "裝飾品",
+      "exampleSentence": "He didn’t want me or anyone else to touch the wreaths, or any of the Christmas decorations he’d ordered.",
+      "clozeSentence": "He didn’t want me or anyone else to touch the wreaths, or any of the Christmas _____ he’d ordered.",
+      "distractors": [
+        "a tool used for repairing furniture",
+        "a document proving ownership",
+        "a container for storing food"
+      ],
+      "surfaceForms": [
+        "decorations"
+      ],
+      "clozeAnswerSurfaceForm": "decorations"
+    },
+    {
+      "lemma": "index",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the finger next to the thumb; also, a list or system for finding information",
+      "translationZh": "食指；索引",
+      "exampleSentence": "He adjusted the wreath one last time and lunged for me, wiggling his index finger under my rib cage.",
+      "clozeSentence": "He adjusted the wreath one last time and lunged for me, wiggling his _____ finger under my rib cage.",
+      "distractors": [
+        "the smallest finger on the hand",
+        "the joint connecting the arm to the hand",
+        "the back part of the hand"
+      ],
+      "surfaceForms": [
+        "index"
+      ],
+      "clozeAnswerSurfaceForm": "index"
+    },
+    {
+      "lemma": "offense",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a feeling of hurt or annoyance caused by a perceived insult",
+      "translationZh": "冒犯；不悅",
+      "exampleSentence": "He was cold toward Laurene after noticing the shoes didn’t fit, as if her wider feet were an indication of some deeper offense.",
+      "clozeSentence": "He was cold toward Laurene after noticing the shoes didn’t fit, as if her wider feet were an indication of some deeper _____.",
+      "distractors": [
+        "a formal congratulation",
+        "a moment of quiet relief",
+        "a shared joke between friends"
+      ],
+      "surfaceForms": [
+        "offense"
+      ],
+      "clozeAnswerSurfaceForm": "offense"
+    },
+    {
+      "lemma": "rib",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "one of the curved bones surrounding the chest",
+      "translationZh": "肋骨",
+      "exampleSentence": "He adjusted the wreath one last time and lunged for me, wiggling his index finger under my rib cage.",
+      "clozeSentence": "He adjusted the wreath one last time and lunged for me, wiggling his index finger under my _____ cage.",
+      "distractors": [
+        "a bone in the lower leg",
+        "a joint in the shoulder",
+        "a muscle in the neck"
+      ],
+      "surfaceForms": [
+        "rib"
+      ],
+      "clozeAnswerSurfaceForm": "rib"
+    },
+    {
+      "lemma": "indication",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a sign or piece of information that shows something",
+      "translationZh": "跡象；徵兆",
+      "exampleSentence": "He was cold toward Laurene after noticing the shoes didn’t fit, as if her wider feet were an indication of some deeper offense.",
+      "clozeSentence": "He was cold toward Laurene after noticing the shoes didn’t fit, as if her wider feet were an _____ of some deeper offense.",
+      "distractors": [
+        "a formal written excuse",
+        "a direct order or command",
+        "a strong personal opinion"
+      ],
+      "surfaceForms": [
+        "indication"
+      ],
+      "clozeAnswerSurfaceForm": "indication"
+    },
+    {
+      "lemma": "loafer",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a comfortable, flat shoe without laces",
+      "translationZh": "樂福鞋（無鞋帶便鞋）",
+      "exampleSentence": "He gave me only the pair of shoes, the same ones he’d bought for her—slim black loafers, also from Armani.",
+      "clozeSentence": "He gave me only the pair of shoes, the same ones he’d bought for her—slim black _____, also from Armani.",
+      "distractors": [
+        "a shoe with tall laces up the ankle",
+        "a sandal worn only in summer",
+        "a heavy boot for hiking"
+      ],
+      "surfaceForms": [
+        "loafers"
+      ],
+      "clozeAnswerSurfaceForm": "loafers"
+    },
+    {
+      "lemma": "lunge",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to make a sudden forward movement toward someone or something",
+      "translationZh": "猛撲；突然前衝",
+      "exampleSentence": "He adjusted the wreath one last time and lunged for me, wiggling his index finger under my rib cage.",
+      "clozeSentence": "He adjusted the wreath one last time and _____ for me, wiggling his index finger under my rib cage.",
+      "distractors": [
+        "to slowly back away from someone",
+        "to stand completely still",
+        "to gently wave at someone"
+      ],
+      "surfaceForms": [
+        "lunged"
+      ],
+      "clozeAnswerSurfaceForm": "lunged"
+    },
+    {
+      "lemma": "sashay",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to walk in a confident, casual, swaying manner",
+      "translationZh": "搖擺著走；款款而行",
+      "exampleSentence": "He jumped away so that I couldn’t reach him, sashaying, his bare legs tapered, silly-looking, like a frog’s.",
+      "clozeSentence": "He jumped away so that I couldn’t reach him, _____, his bare legs tapered, silly-looking, like a frog’s.",
+      "distractors": [
+        "to run as fast as possible",
+        "to crawl along the ground",
+        "to stand frozen in place"
+      ],
+      "surfaceForms": [
+        "sashaying"
+      ],
+      "clozeAnswerSurfaceForm": "sashaying"
+    },
+    {
+      "lemma": "shrill",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "high-pitched and piercing in sound",
+      "translationZh": "尖銳刺耳的",
+      "exampleSentence": "He got me, I laughed—a shrill laugh that did not sound like part of me.",
+      "clozeSentence": "He got me, I laughed—a _____ laugh that did not sound like part of me.",
+      "distractors": [
+        "low and soothing in sound",
+        "soft and barely audible",
+        "deep and rhythmic"
+      ],
+      "surfaceForms": [
+        "shrill"
+      ],
+      "clozeAnswerSurfaceForm": "shrill"
+    },
+    {
+      "lemma": "taper",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to gradually become narrower toward one end",
+      "translationZh": "逐漸變細",
+      "exampleSentence": "He jumped away so that I couldn’t reach him, sashaying, his bare legs tapered, silly-looking, like a frog’s.",
+      "clozeSentence": "He jumped away so that I couldn’t reach him, sashaying, his bare legs _____, silly-looking, like a frog’s.",
+      "distractors": [
+        "to become gradually wider",
+        "to remain exactly the same width",
+        "to bend sharply at one point"
+      ],
+      "surfaceForms": [
+        "tapered"
+      ],
+      "clozeAnswerSurfaceForm": "tapered"
+    },
+    {
+      "lemma": "wiggle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to move with small twisting or turning motions",
+      "translationZh": "扭動；擺動",
+      "exampleSentence": "He adjusted the wreath one last time and lunged for me, wiggling his index finger under my rib cage.",
+      "clozeSentence": "He adjusted the wreath one last time and lunged for me, _____ his index finger under my rib cage.",
+      "distractors": [
+        "to hold something perfectly still",
+        "to throw something forcefully",
+        "to squeeze something tightly"
+      ],
+      "surfaceForms": [
+        "wiggling"
+      ],
+      "clozeAnswerSurfaceForm": "wiggling"
+    },
+    {
+      "lemma": "fir",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a type of evergreen tree with needle-like leaves",
+      "translationZh": "冷杉",
+      "exampleSentence": "Even the tree lights—which he insisted on hanging by himself, looping the twisted cords around the branches of a Douglas fir in a process that took him the whole day—were off-limits.",
+      "clozeSentence": "Even the tree lights—which he insisted on hanging by himself, looping the twisted cords around the branches of a Douglas _____ in a process that took him the whole day—were off-limits.",
+      "distractors": [
+        "a type of flowering desert plant",
+        "a wide, leafy shade tree that loses its leaves",
+        "a type of climbing vine"
+      ],
+      "surfaceForms": [
+        "fir"
+      ],
+      "clozeAnswerSurfaceForm": "fir"
+    },
+    {
+      "lemma": "loop",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to form something into a circular or curved shape around something",
+      "translationZh": "使成圈；纏繞",
+      "exampleSentence": "Even the tree lights—which he insisted on hanging by himself, looping the twisted cords around the branches of a Douglas fir in a process that took him the whole day—were off-limits.",
+      "clozeSentence": "Even the tree lights—which he insisted on hanging by himself, _____ the twisted cords around the branches of a Douglas fir in a process that took him the whole day—were off-limits.",
+      "distractors": [
+        "to cut something into short pieces",
+        "to stretch something perfectly straight",
+        "to remove something from a surface"
+      ],
+      "surfaceForms": [
+        "looping"
+      ],
+      "clozeAnswerSurfaceForm": "looping"
+    },
+    {
+      "lemma": "off-limits",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "forbidden to be entered or used",
+      "translationZh": "禁止進入的；被限制使用的",
+      "exampleSentence": "Even the tree lights—which he insisted on hanging by himself, looping the twisted cords around the branches of a Douglas fir in a process that took him the whole day—were off-limits.",
+      "clozeSentence": "Even the tree lights—which he insisted on hanging by himself, looping the twisted cords around the branches of a Douglas fir in a process that took him the whole day—were _____.",
+      "distractors": [
+        "freely open to everyone",
+        "specially reserved for guests",
+        "recently cleaned and repaired"
+      ],
+      "surfaceForms": [
+        "off-limits"
+      ],
+      "clozeAnswerSurfaceForm": "off-limits"
+    },
+    {
+      "lemma": "falsetto",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a high-pitched singing voice, especially in men, above the natural range",
+      "translationZh": "假聲；假音",
+      "exampleSentence": "“If it’s not just right,” he said, in a high falsetto, rolling the r, “I will perish.” When he was happy, he became goofy, able to laugh at himself and his fastidiousness.",
+      "clozeSentence": "“If it’s not just right,” he said, in a high _____, rolling the r, “I will perish.” When he was happy, he became goofy, able to laugh at himself and his fastidiousness.",
+      "distractors": [
+        "a very low, deep speaking voice",
+        "a whispered, quiet tone",
+        "a harsh, shouting voice"
+      ],
+      "surfaceForms": [
+        "falsetto"
+      ],
+      "clozeAnswerSurfaceForm": "falsetto"
+    },
+    {
+      "lemma": "fastidiousness",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "extreme attention to detail and cleanliness; being hard to please",
+      "translationZh": "吹毛求疵；一絲不苟",
+      "exampleSentence": "“If it’s not just right,” he said, in a high falsetto, rolling the r, “I will perish.” When he was happy, he became goofy, able to laugh at himself and his fastidiousness.",
+      "clozeSentence": "“If it’s not just right,” he said, in a high falsetto, rolling the r, “I will perish.” When he was happy, he became goofy, able to laugh at himself and his _____.",
+      "distractors": [
+        "a relaxed, carefree attitude",
+        "a tendency to forget things",
+        "a strong sense of generosity"
+      ],
+      "surfaceForms": [
+        "fastidiousness"
+      ],
+      "clozeAnswerSurfaceForm": "fastidiousness"
+    },
+    {
+      "lemma": "goofy",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "silly or ridiculous in a harmless, amusing way",
+      "translationZh": "傻氣的；滑稽的",
+      "exampleSentence": "“If it’s not just right,” he said, in a high falsetto, rolling the r, “I will perish.” When he was happy, he became goofy, able to laugh at himself and his fastidiousness.",
+      "clozeSentence": "“If it’s not just right,” he said, in a high falsetto, rolling the r, “I will perish.” When he was happy, he became _____, able to laugh at himself and his fastidiousness.",
+      "distractors": [
+        "strict and serious",
+        "cold and distant",
+        "nervous and anxious"
+      ],
+      "surfaceForms": [
+        "goofy"
+      ],
+      "clozeAnswerSurfaceForm": "goofy"
+    },
+    {
+      "lemma": "perish",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to die or be destroyed, often suddenly or violently",
+      "translationZh": "死去；毀滅",
+      "exampleSentence": "“If it’s not just right,” he said, in a high falsetto, rolling the r, “I will perish.” When he was happy, he became goofy, able to laugh at himself and his fastidiousness.",
+      "clozeSentence": "“If it’s not just right,” he said, in a high falsetto, rolling the r, “I will _____.” When he was happy, he became goofy, able to laugh at himself and his fastidiousness.",
+      "distractors": [
+        "to recover quickly and fully",
+        "to grow stronger over time",
+        "to fall asleep peacefully"
+      ],
+      "surfaceForms": [
+        "perish"
+      ],
+      "clozeAnswerSurfaceForm": "perish"
+    },
+    {
+      "lemma": "sneak",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to go somewhere quietly and secretly",
+      "translationZh": "偷偷地去；溜",
+      "exampleSentence": "When he offered it, he said I might sneak out at night, and winked.",
+      "clozeSentence": "When he offered it, he said I might _____ out at night, and winked.",
+      "distractors": [
+        "to walk somewhere openly and loudly",
+        "to run somewhere quickly for exercise",
+        "to travel somewhere with a large group"
+      ],
+      "surfaceForms": [
+        "sneak"
+      ],
+      "clozeAnswerSurfaceForm": "sneak"
+    },
+    {
+      "lemma": "wink",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to briefly close and open one eye as a signal",
+      "translationZh": "眨眼（示意）",
+      "exampleSentence": "When he offered it, he said I might sneak out at night, and winked.",
+      "clozeSentence": "When he offered it, he said I might sneak out at night, and _____.",
+      "distractors": [
+        "to shake one's head in disagreement",
+        "to raise both eyebrows in surprise",
+        "to smile without showing teeth"
+      ],
+      "surfaceForms": [
+        "winked"
+      ],
+      "clozeAnswerSurfaceForm": "winked"
+    },
+    {
+      "lemma": "rhyme",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "having words that end with the same sound, as in poetry or song",
+      "translationZh": "押韻的",
+      "exampleSentence": "Sometimes my father sang extemporaneous rhyming songs about me to me—the way Bob Dylan did in the recording studio, he said.",
+      "clozeSentence": "Sometimes my father sang extemporaneous _____ songs about me to me—the way Bob Dylan did in the recording studio, he said.",
+      "distractors": [
+        "written entirely in a foreign language",
+        "sung without any musical instruments",
+        "repeated exactly the same way twice"
+      ],
+      "surfaceForms": [
+        "rhyming"
+      ],
+      "clozeAnswerSurfaceForm": "rhyming"
+    },
+    {
+      "lemma": "extemporaneous",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "done or spoken without preparation; improvised",
+      "translationZh": "即興的；未事先準備的",
+      "exampleSentence": "Sometimes my father sang extemporaneous rhyming songs about me to me—the way Bob Dylan did in the recording studio, he said.",
+      "clozeSentence": "Sometimes my father sang _____ rhyming songs about me to me—the way Bob Dylan did in the recording studio, he said.",
+      "distractors": [
+        "carefully rehearsed in advance",
+        "written down and memorized",
+        "translated from another language"
+      ],
+      "surfaceForms": [
+        "extemporaneous"
+      ],
+      "clozeAnswerSurfaceForm": "extemporaneous"
+    },
+    {
+      "lemma": "suck",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to draw liquid or air into the mouth by tightening the lips",
+      "translationZh": "吸吮",
+      "exampleSentence": "He’d recently bought a CD he played for me, a recording of the last castrato, who didn’t sound like a woman or man, but had a haunting high kind of voice in between, like someone singing after sucking on a balloon.",
+      "clozeSentence": "He’d recently bought a CD he played for me, a recording of the last castrato, who didn’t sound like a woman or man, but had a haunting high kind of voice in between, like someone singing after _____ on a balloon.",
+      "distractors": [
+        "to blow air out forcefully",
+        "to chew something slowly",
+        "to swallow something whole"
+      ],
+      "surfaceForms": [
+        "sucking"
+      ],
+      "clozeAnswerSurfaceForm": "sucking"
+    },
+    {
+      "lemma": "castrato",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "a male singer castrated in boyhood to preserve a high singing voice",
+      "translationZh": "閹伶（保留高音的被閹割男歌手）",
+      "exampleSentence": "He’d recently bought a CD he played for me, a recording of the last castrato, who didn’t sound like a woman or man, but had a haunting high kind of voice in between, like someone singing after sucking on a balloon.",
+      "clozeSentence": "He’d recently bought a CD he played for me, a recording of the last _____, who didn’t sound like a woman or man, but had a haunting high kind of voice in between, like someone singing after sucking on a balloon.",
+      "distractors": [
+        "a conductor who leads an orchestra",
+        "a singer trained only in opera choruses",
+        "an instrument used in classical music"
+      ],
+      "surfaceForms": [
+        "castrato"
+      ],
+      "clozeAnswerSurfaceForm": "castrato"
+    },
+    {
+      "lemma": "hover",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to stay in one place in the air, or seem suspended",
+      "translationZh": "懸浮；盤旋",
+      "exampleSentence": "“Perish, simply perish,” he sang again in that high voice, on the way back to his office to make a series of work calls under the spotlight of a desk lamp that looked, bent and hovering, like a praying mantis.",
+      "clozeSentence": "“Perish, simply perish,” he sang again in that high voice, on the way back to his office to make a series of work calls under the spotlight of a desk lamp that looked, bent and _____, like a praying mantis.",
+      "distractors": [
+        "to fall suddenly to the ground",
+        "to spin rapidly in circles",
+        "to shrink smaller over time"
+      ],
+      "surfaceForms": [
+        "hovering"
+      ],
+      "clozeAnswerSurfaceForm": "hovering"
+    },
+    {
+      "lemma": "mantis",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a large insect that holds its front legs as if praying",
+      "translationZh": "螳螂",
+      "exampleSentence": "“Perish, simply perish,” he sang again in that high voice, on the way back to his office to make a series of work calls under the spotlight of a desk lamp that looked, bent and hovering, like a praying mantis.",
+      "clozeSentence": "“Perish, simply perish,” he sang again in that high voice, on the way back to his office to make a series of work calls under the spotlight of a desk lamp that looked, bent and hovering, like a praying _____.",
+      "distractors": [
+        "a small brightly colored butterfly",
+        "a type of stinging wasp",
+        "a fast-flying dragonfly"
+      ],
+      "surfaceForms": [
+        "mantis"
+      ],
+      "clozeAnswerSurfaceForm": "mantis"
+    },
+    {
+      "lemma": "spotlight",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a strong beam of light directed at one small area",
+      "translationZh": "聚光燈；強光",
+      "exampleSentence": "“Perish, simply perish,” he sang again in that high voice, on the way back to his office to make a series of work calls under the spotlight of a desk lamp that looked, bent and hovering, like a praying mantis.",
+      "clozeSentence": "“Perish, simply perish,” he sang again in that high voice, on the way back to his office to make a series of work calls under the _____ of a desk lamp that looked, bent and hovering, like a praying mantis.",
+      "distractors": [
+        "a soft, dim background light",
+        "a light that flashes on and off",
+        "a light powered by candles"
+      ],
+      "surfaceForms": [
+        "spotlight"
+      ],
+      "clozeAnswerSurfaceForm": "spotlight"
+    },
+    {
+      "lemma": "recur",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to happen again, especially repeatedly",
+      "translationZh": "反覆發生；復發",
+      "exampleSentence": "During the months we didn’t see each other, my mother had a recurring dream of a nuclear attack in which she would throw a sheet over her head and run over to get me.",
+      "clozeSentence": "During the months we didn’t see each other, my mother had a _____ dream of a nuclear attack in which she would throw a sheet over her head and run over to get me.",
+      "distractors": [
+        "to happen only once",
+        "to be completely forgotten",
+        "to end permanently"
+      ],
+      "surfaceForms": [
+        "recurring"
+      ],
+      "clozeAnswerSurfaceForm": "recurring"
+    },
+    {
+      "lemma": "relief",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a feeling of reassurance after anxiety or distress",
+      "translationZh": "如釋重負；寬慰",
+      "exampleSentence": "Later she described that moment for her, a shock, a relief, to hold me—that some part of her, after not seeing me for so long, had felt as if I were dead.",
+      "clozeSentence": "Later she described that moment for her, a shock, a _____, to hold me—that some part of her, after not seeing me for so long, had felt as if I were dead.",
+      "distractors": [
+        "a feeling of deep embarrassment",
+        "a feeling of intense curiosity",
+        "a feeling of quiet boredom"
+      ],
+      "surfaceForms": [
+        "relief"
+      ],
+      "clozeAnswerSurfaceForm": "relief"
+    },
+    {
+      "lemma": "procedure",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a series of actions done in a certain order to achieve something",
+      "translationZh": "程序；步驟",
+      "exampleSentence": "Most evenings for a couple of months I asked Laurene to help, and she would get up with a sigh, we’d go downstairs, she’d work out the problem in a businesslike way, and then tell me the procedure to follow to get the answer.",
+      "clozeSentence": "Most evenings for a couple of months I asked Laurene to help, and she would get up with a sigh, we’d go downstairs, she’d work out the problem in a businesslike way, and then tell me the _____ to follow to get the answer.",
+      "distractors": [
+        "a sudden unexpected event",
+        "a personal opinion or belief",
+        "a written apology"
+      ],
+      "surfaceForms": [
+        "procedure"
+      ],
+      "clozeAnswerSurfaceForm": "procedure"
+    },
+    {
+      "lemma": "businesslike",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "efficient and practical, without wasting time or emotion",
+      "translationZh": "有效率的；一板一眼的",
+      "exampleSentence": "Most evenings for a couple of months I asked Laurene to help, and she would get up with a sigh, we’d go downstairs, she’d work out the problem in a businesslike way, and then tell me the procedure to follow to get the answer.",
+      "clozeSentence": "Most evenings for a couple of months I asked Laurene to help, and she would get up with a sigh, we’d go downstairs, she’d work out the problem in a _____ way, and then tell me the procedure to follow to get the answer.",
+      "distractors": [
+        "playful and lighthearted",
+        "confused and disorganized",
+        "emotional and sentimental"
+      ],
+      "surfaceForms": [
+        "businesslike"
+      ],
+      "clozeAnswerSurfaceForm": "businesslike"
+    },
+    {
+      "lemma": "renovate",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to repair and improve something, especially a building",
+      "translationZh": "翻新；整修",
+      "exampleSentence": "Not until we renovate the kitchen,” he said, “and we’re not going to do that anytime soon.”",
+      "clozeSentence": "Not until we _____ the kitchen,” he said, “and we’re not going to do that anytime soon.”",
+      "distractors": [
+        "to sell something quickly",
+        "to completely demolish something",
+        "to paint something a new color only"
+      ],
+      "surfaceForms": [
+        "renovate"
+      ],
+      "clozeAnswerSurfaceForm": "renovate"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "diaphanous",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "light, delicate, and almost see-through",
+      "translationZh": "薄透的；輕盈透明的",
+      "exampleSentence": "I was jealous of the ball gown, which was diaphanous, long, and unfolded out of the box.",
+      "clozeSentence": "I was jealous of the ball gown, which was _____, long, and unfolded out of the box.",
+      "distractors": [
+        "heavy and thick in texture",
+        "brightly colored and patterned",
+        "stiff and rigid in shape"
+      ],
+      "surfaceForms": [
+        "diaphanous"
+      ],
+      "clozeAnswerSurfaceForm": "diaphanous"
+    },
+    {
+      "lemma": "eradicate",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to completely destroy or eliminate something",
+      "translationZh": "根除；徹底消滅",
+      "exampleSentence": "I hated her, I pitied her, I wanted to eradicate all the signs of her in myself, I missed being touched by her.",
+      "clozeSentence": "I hated her, I pitied her, I wanted to _____ all the signs of her in myself, I missed being touched by her.",
+      "distractors": [
+        "to slightly reduce something",
+        "to carefully preserve something",
+        "to temporarily hide something"
+      ],
+      "surfaceForms": [
+        "eradicate"
+      ],
+      "clozeAnswerSurfaceForm": "eradicate"
+    },
+    {
+      "lemma": "cardboard",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a stiff, thick material made from paper pulp",
+      "translationZh": "厚紙板",
+      "exampleSentence": "I went to the classes in the sequence the registrar had arranged for me, using the textbooks with holes in the cover where brown cardboard showed through, notes from previous students written in the margins.",
+      "clozeSentence": "I went to the classes in the sequence the registrar had arranged for me, using the textbooks with holes in the cover where brown _____ showed through, notes from previous students written in the margins.",
+      "distractors": [
+        "a soft, flexible fabric",
+        "a shiny, transparent plastic",
+        "a smooth, polished metal"
+      ],
+      "surfaceForms": [
+        "cardboard"
+      ],
+      "clozeAnswerSurfaceForm": "cardboard"
+    },
+    {
+      "lemma": "fireplace",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a structure in a room where a fire can be lit for heating",
+      "translationZh": "壁爐",
+      "exampleSentence": "It was the room my father had first offered to me, thinking I would like it the most because it was large, with a fireplace, and its own Juliet balcony with stairs leading down to the courtyard.",
+      "clozeSentence": "It was the room my father had first offered to me, thinking I would like it the most because it was large, with a _____, and its own Juliet balcony with stairs leading down to the courtyard.",
+      "distractors": [
+        "a small closet for coats",
+        "a raised platform for speaking",
+        "a decorative ceiling light"
+      ],
+      "surfaceForms": [
+        "fireplace"
+      ],
+      "clozeAnswerSurfaceForm": "fireplace"
+    },
+    {
+      "lemma": "glow",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a warm, steady light or feeling",
+      "translationZh": "光輝；（情感的）溫暖光彩",
+      "exampleSentence": "I felt the glow of nearness to my father, his attention on me.",
+      "clozeSentence": "I felt the _____ of nearness to my father, his attention on me.",
+      "distractors": [
+        "a sudden loud noise",
+        "a sharp, cold sensation",
+        "a strong unpleasant smell"
+      ],
+      "surfaceForms": [
+        "glow"
+      ],
+      "clozeAnswerSurfaceForm": "glow"
+    },
+    {
+      "lemma": "lap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the flat area formed by the thighs of a seated person",
+      "translationZh": "大腿（坐姿時形成的平面）",
+      "exampleSentence": "I hopped into her lap—I was still small enough for that—and she grabbed me, felt my shoulders and my head, my arms and legs, my fingers, and smelled my hair.",
+      "clozeSentence": "I hopped into her _____—I was still small enough for that—and she grabbed me, felt my shoulders and my head, my arms and legs, my fingers, and smelled my hair.",
+      "distractors": [
+        "the back of a chair",
+        "the space under a table",
+        "the top of one's shoulders"
+      ],
+      "surfaceForms": [
+        "lap"
+      ],
+      "clozeAnswerSurfaceForm": "lap—I"
+    },
+    {
+      "lemma": "margin",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the blank space around the edge of a page",
+      "translationZh": "頁邊空白",
+      "exampleSentence": "I went to the classes in the sequence the registrar had arranged for me, using the textbooks with holes in the cover where brown cardboard showed through, notes from previous students written in the margins.",
+      "clozeSentence": "I went to the classes in the sequence the registrar had arranged for me, using the textbooks with holes in the cover where brown cardboard showed through, notes from previous students written in the _____.",
+      "distractors": [
+        "the title printed at the top of a page",
+        "the number printed on a page",
+        "the binding that holds pages together"
+      ],
+      "surfaceForms": [
+        "margins"
+      ],
+      "clozeAnswerSurfaceForm": "margins"
+    },
+    {
+      "lemma": "noble",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "having high moral qualities or ideals",
+      "translationZh": "高尚的；崇高的",
+      "exampleSentence": "I felt superior about my feet, though, for a little while, as if their slim shape was an indication of something noble and pure.",
+      "clozeSentence": "I felt superior about my feet, though, for a little while, as if their slim shape was an indication of something _____ and pure.",
+      "distractors": [
+        "dishonest and untrustworthy",
+        "ordinary and unremarkable",
+        "fragile and easily broken"
+      ],
+      "surfaceForms": [
+        "noble"
+      ],
+      "clozeAnswerSurfaceForm": "noble"
+    },
+    {
+      "lemma": "tickle",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to touch someone lightly to cause laughter or a ticklish feeling",
+      "translationZh": "搔癢",
+      "exampleSentence": "I reached for him too, trying to dig my hand into his armpit to tickle him first.",
+      "clozeSentence": "I reached for him too, trying to dig my hand into his armpit to _____ him first.",
+      "distractors": [
+        "to push someone away firmly",
+        "to hug someone tightly",
+        "to pat someone gently on the back"
+      ],
+      "surfaceForms": [
+        "tickle"
+      ],
+      "clozeAnswerSurfaceForm": "tickle"
+    },
+    {
+      "lemma": "courtyard",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "an open area enclosed by walls or buildings",
+      "translationZh": "庭院；天井",
+      "exampleSentence": "It was the room my father had first offered to me, thinking I would like it the most because it was large, with a fireplace, and its own Juliet balcony with stairs leading down to the courtyard.",
+      "clozeSentence": "It was the room my father had first offered to me, thinking I would like it the most because it was large, with a fireplace, and its own Juliet balcony with stairs leading down to the _____.",
+      "distractors": [
+        "a covered indoor hallway",
+        "a raised outdoor stage",
+        "an underground parking area"
+      ],
+      "surfaceForms": [
+        "courtyard"
+      ],
+      "clozeAnswerSurfaceForm": "courtyard"
+    },
+    {
+      "lemma": "echo",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "a sound that is reflected and heard again",
+      "translationZh": "回音；回聲",
+      "exampleSentence": "The administrative offices were off a long, glossy corridor that smelled of the same cleaning fluid as the public library, and had the same combination of muffled sounds and sharp echoes.",
+      "clozeSentence": "The administrative offices were off a long, glossy corridor that smelled of the same cleaning fluid as the public library, and had the same combination of muffled sounds and sharp _____.",
+      "distractors": [
+        "a sudden burst of silence",
+        "a low background hum",
+        "a bright flash of light"
+      ],
+      "surfaceForms": [
+        "echoes"
+      ],
+      "clozeAnswerSurfaceForm": "echoes"
+    },
+    {
+      "lemma": "registrar",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "an official responsible for keeping official records, as at a school",
+      "translationZh": "教務註冊員；註冊主任",
+      "exampleSentence": "We sat down in the office of a registrar who helped to fill out my schedule, sometimes placing me in classes I needed that were already full.",
+      "clozeSentence": "We sat down in the office of a _____ who helped to fill out my schedule, sometimes placing me in classes I needed that were already full.",
+      "distractors": [
+        "a teacher who grades exams",
+        "a student who represents the class",
+        "a security guard at the entrance"
+      ],
+      "surfaceForms": [
+        "registrar"
+      ],
+      "clozeAnswerSurfaceForm": "registrar"
+    },
+    {
+      "lemma": "cripplingly",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to an extreme, damaging degree",
+      "translationZh": "極度地；嚴重削弱地",
+      "exampleSentence": "I’d never had trouble making friends before; now I was cripplingly shy, doubting myself before raising my hand in class.",
+      "clozeSentence": "I’d never had trouble making friends before; now I was _____ shy, doubting myself before raising my hand in class.",
+      "distractors": [
+        "slightly and briefly",
+        "unexpectedly and pleasantly",
+        "gradually and gently"
+      ],
+      "surfaceForms": [
+        "cripplingly"
+      ],
+      "clozeAnswerSurfaceForm": "cripplingly"
+    },
+    {
+      "lemma": "fife",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a small, high-pitched flute-like musical instrument",
+      "translationZh": "橫笛；風笛",
+      "exampleSentence": "My bike and hike I liked to school, my books, my looks, my life as a wife of a fife.",
+      "clozeSentence": "My bike and hike I liked to school, my books, my looks, my life as a wife of a _____.",
+      "distractors": [
+        "a large stringed instrument like a guitar",
+        "a percussion instrument struck with sticks",
+        "a brass instrument played with a mouthpiece"
+      ],
+      "surfaceForms": [
+        "fife"
+      ],
+      "clozeAnswerSurfaceForm": "fife"
+    },
+    {
+      "lemma": "sashay",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to walk in a confident, casual, swaying manner",
+      "translationZh": "搖擺著走；款款而行",
+      "exampleSentence": "He jumped away so that I couldn’t reach him, sashaying, his bare legs tapered, silly-looking, like a frog’s.",
+      "clozeSentence": "He jumped away so that I couldn’t reach him, _____, his bare legs tapered, silly-looking, like a frog’s.",
+      "distractors": [
+        "to run as fast as possible",
+        "to crawl along the ground",
+        "to stand frozen in place"
+      ],
+      "surfaceForms": [
+        "sashaying"
+      ],
+      "clozeAnswerSurfaceForm": "sashaying"
+    },
+    {
+      "lemma": "falsetto",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a high-pitched singing voice, especially in men, above the natural range",
+      "translationZh": "假聲；假音",
+      "exampleSentence": "“If it’s not just right,” he said, in a high falsetto, rolling the r, “I will perish.” When he was happy, he became goofy, able to laugh at himself and his fastidiousness.",
+      "clozeSentence": "“If it’s not just right,” he said, in a high _____, rolling the r, “I will perish.” When he was happy, he became goofy, able to laugh at himself and his fastidiousness.",
+      "distractors": [
+        "a very low, deep speaking voice",
+        "a whispered, quiet tone",
+        "a harsh, shouting voice"
+      ],
+      "surfaceForms": [
+        "falsetto"
+      ],
+      "clozeAnswerSurfaceForm": "falsetto"
+    },
+    {
+      "lemma": "fastidiousness",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "extreme attention to detail and cleanliness; being hard to please",
+      "translationZh": "吹毛求疵；一絲不苟",
+      "exampleSentence": "“If it’s not just right,” he said, in a high falsetto, rolling the r, “I will perish.” When he was happy, he became goofy, able to laugh at himself and his fastidiousness.",
+      "clozeSentence": "“If it’s not just right,” he said, in a high falsetto, rolling the r, “I will perish.” When he was happy, he became goofy, able to laugh at himself and his _____.",
+      "distractors": [
+        "a relaxed, carefree attitude",
+        "a tendency to forget things",
+        "a strong sense of generosity"
+      ],
+      "surfaceForms": [
+        "fastidiousness"
+      ],
+      "clozeAnswerSurfaceForm": "fastidiousness"
+    },
+    {
+      "lemma": "extemporaneous",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "done or spoken without preparation; improvised",
+      "translationZh": "即興的；未事先準備的",
+      "exampleSentence": "Sometimes my father sang extemporaneous rhyming songs about me to me—the way Bob Dylan did in the recording studio, he said.",
+      "clozeSentence": "Sometimes my father sang _____ rhyming songs about me to me—the way Bob Dylan did in the recording studio, he said.",
+      "distractors": [
+        "carefully rehearsed in advance",
+        "written down and memorized",
+        "translated from another language"
+      ],
+      "surfaceForms": [
+        "extemporaneous"
+      ],
+      "clozeAnswerSurfaceForm": "extemporaneous"
+    },
+    {
+      "lemma": "castrato",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "a male singer castrated in boyhood to preserve a high singing voice",
+      "translationZh": "閹伶（保留高音的被閹割男歌手）",
+      "exampleSentence": "He’d recently bought a CD he played for me, a recording of the last castrato, who didn’t sound like a woman or man, but had a haunting high kind of voice in between, like someone singing after sucking on a balloon.",
+      "clozeSentence": "He’d recently bought a CD he played for me, a recording of the last _____, who didn’t sound like a woman or man, but had a haunting high kind of voice in between, like someone singing after sucking on a balloon.",
+      "distractors": [
+        "a conductor who leads an orchestra",
+        "a singer trained only in opera choruses",
+        "an instrument used in classical music"
+      ],
+      "surfaceForms": [
+        "castrato"
+      ],
+      "clozeAnswerSurfaceForm": "castrato"
+    },
+    {
+      "lemma": "mantis",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a large insect that holds its front legs as if praying",
+      "translationZh": "螳螂",
+      "exampleSentence": "“Perish, simply perish,” he sang again in that high voice, on the way back to his office to make a series of work calls under the spotlight of a desk lamp that looked, bent and hovering, like a praying mantis.",
+      "clozeSentence": "“Perish, simply perish,” he sang again in that high voice, on the way back to his office to make a series of work calls under the spotlight of a desk lamp that looked, bent and hovering, like a praying _____.",
+      "distractors": [
+        "a small brightly colored butterfly",
+        "a type of stinging wasp",
+        "a fast-flying dragonfly"
+      ],
+      "surfaceForms": [
+        "mantis"
+      ],
+      "clozeAnswerSurfaceForm": "mantis"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "translation",
+      "wordLemma": "cardboard",
+      "prompt": "厚紙板",
+      "options": [
+        "cripplingly",
+        "cardboard",
+        "fastidiousness",
+        "echo"
+      ],
+      "answer": "cardboard"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "sashay",
+      "prompt": "搖擺著走；款款而行",
+      "options": [
+        "sashay",
+        "castrato",
+        "courtyard",
+        "margin"
+      ],
+      "answer": "sashay"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "fife",
+      "prompt": "My bike and hike I liked to school, my books, my looks, my life as a wife of a _____.",
+      "options": [
+        "fife",
+        "fastidiousness",
+        "tickle",
+        "falsetto"
+      ],
+      "answer": "fife"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "mantis",
+      "prompt": "“Perish, simply perish,” he sang again in that high voice, on the way back to his office to make a series of work calls under the spotlight of a desk lamp that looked, bent and hovering, like a praying _____.",
+      "options": [
+        "mantis",
+        "cripplingly",
+        "castrato",
+        "registrar"
+      ],
+      "answer": "mantis"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "echo",
+      "prompt": "The administrative offices were off a long, glossy corridor that smelled of the same cleaning fluid as the public library, and had the same combination of muffled sounds and sharp _____.",
+      "options": [
+        "echoes",
+        "lap—I",
+        "cripplingly",
+        "sashaying"
+      ],
+      "answer": "echoes"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "registrar",
+      "prompt": "教務註冊員；註冊主任",
+      "options": [
+        "noble",
+        "registrar",
+        "extemporaneous",
+        "tickle"
+      ],
+      "answer": "registrar"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "noble",
+      "prompt": "I felt superior about my feet, though, for a little while, as if their slim shape was an indication of something _____ and pure.",
+      "options": [
+        "noble",
+        "castrato",
+        "falsetto",
+        "fireplace"
+      ],
+      "answer": "noble"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "lap",
+      "prompt": "大腿（坐姿時形成的平面）",
+      "options": [
+        "lap",
+        "diaphanous",
+        "cripplingly",
+        "tickle"
+      ],
+      "answer": "lap"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "castrato",
+      "prompt": "castrato",
+      "options": [
+        "an instrument used in classical music",
+        "a male singer castrated in boyhood to preserve a high singing voice",
+        "a singer trained only in opera choruses",
+        "a conductor who leads an orchestra"
+      ],
+      "answer": "a male singer castrated in boyhood to preserve a high singing voice"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "cripplingly",
+      "prompt": "cripplingly",
+      "options": [
+        "unexpectedly and pleasantly",
+        "to an extreme, damaging degree",
+        "gradually and gently",
+        "slightly and briefly"
+      ],
+      "answer": "to an extreme, damaging degree"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "fireplace",
+      "prompt": "fireplace",
+      "options": [
+        "a raised platform for speaking",
+        "a structure in a room where a fire can be lit for heating",
+        "a small closet for coats",
+        "a decorative ceiling light"
+      ],
+      "answer": "a structure in a room where a fire can be lit for heating"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "falsetto",
+      "prompt": "falsetto",
+      "options": [
+        "a harsh, shouting voice",
+        "a high-pitched singing voice, especially in men, above the natural range",
+        "a very low, deep speaking voice",
+        "a whispered, quiet tone"
+      ],
+      "answer": "a high-pitched singing voice, especially in men, above the natural range"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "courtyard",
+      "prompt": "courtyard",
+      "options": [
+        "a raised outdoor stage",
+        "an open area enclosed by walls or buildings",
+        "a covered indoor hallway",
+        "an underground parking area"
+      ],
+      "answer": "an open area enclosed by walls or buildings"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "extemporaneous",
+      "prompt": "即興的；未事先準備的",
+      "options": [
+        "glow",
+        "sashay",
+        "courtyard",
+        "extemporaneous"
+      ],
+      "answer": "extemporaneous"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "tickle",
+      "prompt": "搔癢",
+      "options": [
+        "courtyard",
+        "tickle",
+        "castrato",
+        "noble"
+      ],
+      "answer": "tickle"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "diaphanous",
+      "prompt": "diaphanous",
+      "options": [
+        "light, delicate, and almost see-through",
+        "heavy and thick in texture",
+        "brightly colored and patterned",
+        "stiff and rigid in shape"
+      ],
+      "answer": "light, delicate, and almost see-through"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "margin",
+      "prompt": "margin",
+      "options": [
+        "the number printed on a page",
+        "the title printed at the top of a page",
+        "the binding that holds pages together",
+        "the blank space around the edge of a page"
+      ],
+      "answer": "the blank space around the edge of a page"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "glow",
+      "prompt": "I felt the _____ of nearness to my father, his attention on me.",
+      "options": [
+        "glow",
+        "cardboard",
+        "registrar",
+        "courtyard"
+      ],
+      "answer": "glow"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "fastidiousness",
+      "prompt": "“If it’s not just right,” he said, in a high falsetto, rolling the r, “I will perish.” When he was happy, he became goofy, able to laugh at himself and his _____.",
+      "options": [
+        "margins",
+        "glow",
+        "echoes",
+        "fastidiousness"
+      ],
+      "answer": "fastidiousness"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "eradicate",
+      "prompt": "I hated her, I pitied her, I wanted to _____ all the signs of her in myself, I missed being touched by her.",
+      "options": [
+        "cripplingly",
+        "sashaying",
+        "eradicate",
+        "mantis"
+      ],
+      "answer": "eradicate"
+    }
+  ]
+}

@@ -1,0 +1,1341 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 1,
+  "partTitle": "Hippies",
+  "sectionIndex": 4,
+  "paragraphs": [
+    "Halfway through the school year I joined a kindergarten class in a public school in Palo Alto. Before this I’d gone to another school, but my mother thought the class there had too many boys, so I’d transferred here. On my first day, one of the teaching assistants led me out to the side of the building and took a Polaroid, which she tacked on the board near the photographs of other students, and wrote my name underneath. I had foolishly wrapped my hand around the top of my head because I thought it would look good, while the other students were seated in front of a blue backdrop. The image was light-saturated, makeshift. I felt it revealed not only that I had started late but also that I was insubstantial, washed out by light.",
+    "The teacher, Pat, tall and plump, had a singsong voice and wore jean skirts down to her ankles, sandals with socks, T-shirts that hung over her large bosom, and reading glasses on a string. During recess, we played behind the classroom on a wooden jungle gym with a series of planks connecting the parts. A rope net between two wooden platforms was called the humping pit. Humping, the way I imagined it, demanded an undulation and a catch, an undulation and a catch. There was something sickly about it. Soon after I started at the school, I fell inside the netted part, and others yelled, “Hump-ing! Hump-ing!” as I scrambled out.",
+    "This kindergarten put an emphasis on reading, but I couldn’t read. For each book completed, students received a small teddy bear.",
+    "I memorized a book to trick one of the teaching assistants into handing over a bear.",
+    "“I’m ready,” I said. We sat down on the floor with our backs against the bookshelf in the reading section, the book on my lap. I spoke the words I believed to be on each page, based on what I’d memorized and the corresponding pictures. Two pages in, her face hardened and her lips thinned.",
+    "“You turned the page at the wrong place,” she said. “And you missed a word.”",
+    "“Just one bear,” I said. “Please.”",
+    "“Not yet,” she said.",
+    "Daniela had amassed twenty-two; I asked her if I could have one.",
+    "“You have to read a book to get one,” Daniela said.",
+    "I began to feel there was something gross and shameful about me, and also to know that it was too late to change it, that nothing could be done. I was different from other girls my age, and anyone good and pure could immediately sense this and would be repulsed. One indication was the photograph. Another was that I could not read. The last was that I was meticulous and self-conscious in a way I could tell the other girls were not. My desires were too strong and furious. I was wormy inside, as if I’d caught whatever diseases or larvae were passed through raw eggs and flour when I snuck raw cookie dough. I felt this quality in myself, and I was sure it must show when people saw me, so whenever I passed a mirror, caught my reflection by accident, and saw that I was not as dirty or repulsive as I pictured myself, it gave me a start.",
+    "During the free reading period, Shannon and I snuck around the back of the kindergarten classroom, past the jungle gym, to a hidden area paved with rocks between thick bushes and elementary school classrooms. Shannon had white blonde hair, white whiskery eyebrows and lashes; she also could not read. Her trousers were twisted so the seam did not line up with the middle of her legs. We threw rocks at the classroom windows and then clutched each other as though we were humping and writhed around on the rocks together.",
+    "Pat had told us that a new boy was coming to join our class.",
+    "“Let’s spit water on him,” I said.",
+    "“Yeah,” she said. “From the fountain.”",
+    "I had a feeling it was going to be funny, that even he would find it funny.",
+    "On the morning the new boy arrived, we waited near the water fountain. He wore shorts and had dark hair and looked confident; I’d imagined him to be fragile and small.",
+    "We filled our mouths and caught him at the start of the path, under the tree. “Hey,” Shannon said, the cup of her mouth turned up. I glanced at her, trying not to laugh; her neck was shaking, a rivulet of water streaming down her chin. It would be funny, funnier than anything I’d ever done, and also clever.",
+    "The boy looked up.",
+    "“Uh, uh, uh,” we said, almost in unison. After the final “uh,” we spat. Before his expression changed into shock—before his parents, walking behind him, rushed over and kneeled down and comforted him—and I realized we’d done it, I was full of high confidence.",
+    "Shannon and I were separated, our mothers were called to come pick us up.",
+    "On the way home my mother spoke continuously.",
+    "“How did the boy feel? How do you think he felt?”",
+    "“Bad,” I said. A moment after spitting I had been aware that it was not in any way his joke, as it was when I imagined it beforehand. It was only our joke, and it ended when the water hit him.",
+    "“I’m embarrassed. I feel bad for that boy,” my mother said, driving too fast. “But I also blame Pat. What did she expect? Pat and her stupid fucking bears.”"
+  ],
+  "words": [
+    {
+      "lemma": "backdrop",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the scenery or background scene behind the main subject",
+      "translationZh": "背景",
+      "exampleSentence": "I had foolishly wrapped my hand around the top of my head because I thought it would look good, while the other students were seated in front of a blue backdrop.",
+      "clozeSentence": "I had foolishly wrapped my hand around the top of my head because I thought it would look good, while the other students were seated in front of a blue _____.",
+      "distractors": [
+        "a small decorative object placed on a shelf",
+        "a formal announcement made to a group of people",
+        "a piece of furniture used for storage"
+      ],
+      "surfaceForms": [
+        "backdrop"
+      ],
+      "clozeAnswerSurfaceForm": "backdrop"
+    },
+    {
+      "lemma": "correspond",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "matching or relating closely to something else",
+      "translationZh": "相對應的",
+      "exampleSentence": "I spoke the words I believed to be on each page, based on what I’d memorized and the corresponding pictures.",
+      "clozeSentence": "I spoke the words I believed to be on each page, based on what I’d memorized and the _____ pictures.",
+      "distractors": [
+        "printed in bright, bold colors",
+        "arranged in the wrong order",
+        "kept hidden from public view"
+      ],
+      "surfaceForms": [
+        "corresponding"
+      ],
+      "clozeAnswerSurfaceForm": "corresponding"
+    },
+    {
+      "lemma": "foolishly",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "in a way that shows a lack of good sense or judgment",
+      "translationZh": "愚蠢地",
+      "exampleSentence": "I had foolishly wrapped my hand around the top of my head because I thought it would look good, while the other students were seated in front of a blue backdrop.",
+      "clozeSentence": "I had _____ wrapped my hand around the top of my head because I thought it would look good, while the other students were seated in front of a blue backdrop.",
+      "distractors": [
+        "in a way that shows careful planning",
+        "in a way that hides true feelings",
+        "in a way that copies someone else exactly"
+      ],
+      "surfaceForms": [
+        "foolishly"
+      ],
+      "clozeAnswerSurfaceForm": "foolishly"
+    },
+    {
+      "lemma": "gross",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "very unpleasant or disgusting",
+      "translationZh": "噁心的",
+      "exampleSentence": "I began to feel there was something gross and shameful about me, and also to know that it was too late to change it, that nothing could be done.",
+      "clozeSentence": "I began to feel there was something _____ and shameful about me, and also to know that it was too late to change it, that nothing could be done.",
+      "distractors": [
+        "extremely generous and kind-hearted",
+        "difficult to understand or explain",
+        "brightly colored and eye-catching"
+      ],
+      "surfaceForms": [
+        "gross"
+      ],
+      "clozeAnswerSurfaceForm": "gross"
+    },
+    {
+      "lemma": "insubstantial",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "lacking solidity, substance, or importance; not real or strong",
+      "translationZh": "虛幻不實的",
+      "exampleSentence": "I felt it revealed not only that I had started late but also that I was insubstantial, washed out by light.",
+      "clozeSentence": "I felt it revealed not only that I had started late but also that I was _____, washed out by light.",
+      "distractors": [
+        "extremely heavy and difficult to lift",
+        "brightly colored in a noticeable way",
+        "arranged neatly in a straight line"
+      ],
+      "surfaceForms": [
+        "insubstantial"
+      ],
+      "clozeAnswerSurfaceForm": "insubstantial"
+    },
+    {
+      "lemma": "larva",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "the young, worm-like form of an insect before it becomes an adult",
+      "translationZh": "幼蟲",
+      "exampleSentence": "I was wormy inside, as if I’d caught whatever diseases or larvae were passed through raw eggs and flour when I snuck raw cookie dough.",
+      "clozeSentence": "I was wormy inside, as if I’d caught whatever diseases or _____ were passed through raw eggs and flour when I snuck raw cookie dough.",
+      "distractors": [
+        "a hard shell that protects a small animal",
+        "a type of poisonous plant found outdoors",
+        "a thin layer of ice on water"
+      ],
+      "surfaceForms": [
+        "larvae"
+      ],
+      "clozeAnswerSurfaceForm": "larvae"
+    },
+    {
+      "lemma": "repulse",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to cause someone to feel strong dislike or disgust",
+      "translationZh": "使反感",
+      "exampleSentence": "I was different from other girls my age, and anyone good and pure could immediately sense this and would be repulsed.",
+      "clozeSentence": "I was different from other girls my age, and anyone good and pure could immediately sense this and would be _____.",
+      "distractors": [
+        "to make someone feel calm and relaxed",
+        "to encourage someone to try harder",
+        "to remind someone of a happy memory"
+      ],
+      "surfaceForms": [
+        "repulsed"
+      ],
+      "clozeAnswerSurfaceForm": "repulsed"
+    },
+    {
+      "lemma": "repulsive",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "causing intense dislike or disgust",
+      "translationZh": "令人反感的",
+      "exampleSentence": "I felt this quality in myself, and I was sure it must show when people saw me, so whenever I passed a mirror, caught my reflection by accident, and saw that I was not as dirty or repulsive as I pictured myself, it gave me a start.",
+      "clozeSentence": "I felt this quality in myself, and I was sure it must show when people saw me, so whenever I passed a mirror, caught my reflection by accident, and saw that I was not as dirty or _____ as I pictured myself, it gave me a start.",
+      "distractors": [
+        "causing great admiration and respect",
+        "difficult to notice or find",
+        "pleasant to smell or taste"
+      ],
+      "surfaceForms": [
+        "repulsive"
+      ],
+      "clozeAnswerSurfaceForm": "repulsive"
+    },
+    {
+      "lemma": "rivulet",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "a very small stream or thin flow of liquid",
+      "translationZh": "小溪流",
+      "exampleSentence": "I glanced at her, trying not to laugh; her neck was shaking, a rivulet of water streaming down her chin.",
+      "clozeSentence": "I glanced at her, trying not to laugh; her neck was shaking, a _____ of water streaming down her chin.",
+      "distractors": [
+        "a loud crash caused by breaking glass",
+        "a soft cloth used to clean surfaces",
+        "a deep hole dug into the earth"
+      ],
+      "surfaceForms": [
+        "rivulet"
+      ],
+      "clozeAnswerSurfaceForm": "rivulet"
+    },
+    {
+      "lemma": "sneak",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to do something secretly or take something without permission",
+      "translationZh": "偷偷地做",
+      "exampleSentence": "I was wormy inside, as if I’d caught whatever diseases or larvae were passed through raw eggs and flour when I snuck raw cookie dough.",
+      "clozeSentence": "I was wormy inside, as if I’d caught whatever diseases or larvae were passed through raw eggs and flour when I _____ raw cookie dough.",
+      "distractors": [
+        "to announce something loudly and proudly",
+        "to organize a large group event",
+        "to repair something that is broken"
+      ],
+      "surfaceForms": [
+        "snuck"
+      ],
+      "clozeAnswerSurfaceForm": "snuck"
+    },
+    {
+      "lemma": "wormy",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "infested with or resembling worms; feeling unpleasantly diseased",
+      "translationZh": "蟲蛀般噁心的",
+      "exampleSentence": "I was wormy inside, as if I’d caught whatever diseases or larvae were passed through raw eggs and flour when I snuck raw cookie dough.",
+      "clozeSentence": "I was _____ inside, as if I’d caught whatever diseases or larvae were passed through raw eggs and flour when I snuck raw cookie dough.",
+      "distractors": [
+        "feeling calm and completely at peace",
+        "looking clean and freshly washed",
+        "sounding confident and self-assured"
+      ],
+      "surfaceForms": [
+        "wormy"
+      ],
+      "clozeAnswerSurfaceForm": "wormy"
+    },
+    {
+      "lemma": "beforehand",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "before a particular time or event happens",
+      "translationZh": "事先",
+      "exampleSentence": "A moment after spitting I had been aware that it was not in any way his joke, as it was when I imagined it beforehand.",
+      "clozeSentence": "A moment after spitting I had been aware that it was not in any way his joke, as it was when I imagined it _____.",
+      "distractors": [
+        "immediately after something unexpected happens",
+        "in a way that shows great enthusiasm",
+        "without asking anyone else for permission"
+      ],
+      "surfaceForms": [
+        "beforehand"
+      ],
+      "clozeAnswerSurfaceForm": "beforehand"
+    },
+    {
+      "lemma": "kneel",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to go down on one or both knees",
+      "translationZh": "跪下",
+      "exampleSentence": "Before his expression changed into shock—before his parents, walking behind him, rushed over and kneeled down and comforted him—and I realized we’d done it, I was full of high confidence.",
+      "clozeSentence": "Before his expression changed into shock—before his parents, walking behind him, rushed over and _____ down and comforted him—and I realized we’d done it, I was full of high confidence.",
+      "distractors": [
+        "to jump suddenly in surprise",
+        "to lean against a wall for support",
+        "to walk with slow, heavy steps"
+      ],
+      "surfaceForms": [
+        "kneeled"
+      ],
+      "clozeAnswerSurfaceForm": "kneeled"
+    },
+    {
+      "lemma": "tack",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to fasten something lightly with a small pin or nail",
+      "translationZh": "用圖釘釘上",
+      "exampleSentence": "On my first day, one of the teaching assistants led me out to the side of the building and took a Polaroid, which she tacked on the board near the photographs of other students, and wrote my name underneath.",
+      "clozeSentence": "On my first day, one of the teaching assistants led me out to the side of the building and took a Polaroid, which she _____ on the board near the photographs of other students, and wrote my name underneath.",
+      "distractors": [
+        "to fold something into a small shape",
+        "to erase writing from a surface",
+        "to measure the size of an object"
+      ],
+      "surfaceForms": [
+        "tacked"
+      ],
+      "clozeAnswerSurfaceForm": "tacked"
+    },
+    {
+      "lemma": "bosom",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a woman's chest, especially the breasts",
+      "translationZh": "胸部",
+      "exampleSentence": "The teacher, Pat, tall and plump, had a singsong voice and wore jean skirts down to her ankles, sandals with socks, T-shirts that hung over her large bosom, and reading glasses on a string.",
+      "clozeSentence": "The teacher, Pat, tall and plump, had a singsong voice and wore jean skirts down to her ankles, sandals with socks, T-shirts that hung over her large _____, and reading glasses on a string.",
+      "distractors": [
+        "the back part of the neck and shoulders",
+        "a soft cushion used for sitting comfortably",
+        "the loose folds of a long skirt"
+      ],
+      "surfaceForms": [
+        "bosom"
+      ],
+      "clozeAnswerSurfaceForm": "bosom"
+    },
+    {
+      "lemma": "makeshift",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "temporary and improvised, used because nothing else is available",
+      "translationZh": "臨時湊合的",
+      "exampleSentence": "The image was light-saturated, makeshift.",
+      "clozeSentence": "The image was light-saturated, _____.",
+      "distractors": [
+        "extremely expensive and luxurious",
+        "carefully designed over a long period",
+        "officially approved by an authority"
+      ],
+      "surfaceForms": [
+        "makeshift"
+      ],
+      "clozeAnswerSurfaceForm": "makeshift"
+    },
+    {
+      "lemma": "meticulous",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "showing great attention to detail; very careful and precise",
+      "translationZh": "一絲不苟的",
+      "exampleSentence": "The last was that I was meticulous and self-conscious in a way I could tell the other girls were not.",
+      "clozeSentence": "The last was that I was _____ and self-conscious in a way I could tell the other girls were not.",
+      "distractors": [
+        "willing to take unnecessary risks",
+        "easily distracted from a task",
+        "generous with money and time"
+      ],
+      "surfaceForms": [
+        "meticulous"
+      ],
+      "clozeAnswerSurfaceForm": "meticulous"
+    },
+    {
+      "lemma": "plump",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "somewhat fat in a pleasant or attractive way",
+      "translationZh": "豐滿的",
+      "exampleSentence": "The teacher, Pat, tall and plump, had a singsong voice and wore jean skirts down to her ankles, sandals with socks, T-shirts that hung over her large bosom, and reading glasses on a string.",
+      "clozeSentence": "The teacher, Pat, tall and _____, had a singsong voice and wore jean skirts down to her ankles, sandals with socks, T-shirts that hung over her large bosom, and reading glasses on a string.",
+      "distractors": [
+        "extremely thin and bony",
+        "unusually tall and thin",
+        "covered in wrinkles from age"
+      ],
+      "surfaceForms": [
+        "plump"
+      ],
+      "clozeAnswerSurfaceForm": "plump"
+    },
+    {
+      "lemma": "self-conscious",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "overly aware of and worried about how one appears to others",
+      "translationZh": "難為情的",
+      "exampleSentence": "The last was that I was meticulous and self-conscious in a way I could tell the other girls were not.",
+      "clozeSentence": "The last was that I was meticulous and _____ in a way I could tell the other girls were not.",
+      "distractors": [
+        "completely unaware of one's surroundings",
+        "confident and relaxed in front of others",
+        "quick to forgive other people's mistakes"
+      ],
+      "surfaceForms": [
+        "self-conscious"
+      ],
+      "clozeAnswerSurfaceForm": "self-conscious"
+    },
+    {
+      "lemma": "singsong",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "rising and falling in tone in a repetitive, musical way",
+      "translationZh": "抑揚頓挫的",
+      "exampleSentence": "The teacher, Pat, tall and plump, had a singsong voice and wore jean skirts down to her ankles, sandals with socks, T-shirts that hung over her large bosom, and reading glasses on a string.",
+      "clozeSentence": "The teacher, Pat, tall and plump, had a _____ voice and wore jean skirts down to her ankles, sandals with socks, T-shirts that hung over her large bosom, and reading glasses on a string.",
+      "distractors": [
+        "extremely loud and harsh sounding",
+        "completely silent and without expression",
+        "spoken very quickly without pausing"
+      ],
+      "surfaceForms": [
+        "singsong"
+      ],
+      "clozeAnswerSurfaceForm": "singsong"
+    },
+    {
+      "lemma": "pave",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to cover a surface with a hard material like stone",
+      "translationZh": "鋪設",
+      "exampleSentence": "During the free reading period, Shannon and I snuck around the back of the kindergarten classroom, past the jungle gym, to a hidden area paved with rocks between thick bushes and elementary school classrooms.",
+      "clozeSentence": "During the free reading period, Shannon and I snuck around the back of the kindergarten classroom, past the jungle gym, to a hidden area _____ with rocks between thick bushes and elementary school classrooms.",
+      "distractors": [
+        "to dig a deep hole in the ground",
+        "to paint a wall a bright color",
+        "to plant flowers along a path"
+      ],
+      "surfaceForms": [
+        "paved"
+      ],
+      "clozeAnswerSurfaceForm": "paved"
+    },
+    {
+      "lemma": "plank",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a long, flat piece of wood used in building",
+      "translationZh": "木板",
+      "exampleSentence": "During recess, we played behind the classroom on a wooden jungle gym with a series of planks connecting the parts.",
+      "clozeSentence": "During recess, we played behind the classroom on a wooden jungle gym with a series of _____ connecting the parts.",
+      "distractors": [
+        "a metal tool used for cutting rope",
+        "a soft cushion placed on the floor",
+        "a small container for carrying water"
+      ],
+      "surfaceForms": [
+        "planks"
+      ],
+      "clozeAnswerSurfaceForm": "planks"
+    },
+    {
+      "lemma": "recess",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "a break from lessons at school",
+      "translationZh": "下課時間",
+      "exampleSentence": "During recess, we played behind the classroom on a wooden jungle gym with a series of planks connecting the parts.",
+      "clozeSentence": "During _____, we played behind the classroom on a wooden jungle gym with a series of planks connecting the parts.",
+      "distractors": [
+        "a formal meeting between teachers and parents",
+        "a written test given at the end of term",
+        "a small room used for storing books"
+      ],
+      "surfaceForms": [
+        "recess"
+      ],
+      "clozeAnswerSurfaceForm": "recess"
+    },
+    {
+      "lemma": "undulation",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "a smooth, wave-like rising and falling movement",
+      "translationZh": "波動起伏",
+      "exampleSentence": "Humping, the way I imagined it, demanded an undulation and a catch, an undulation and a catch.",
+      "clozeSentence": "Humping, the way I imagined it, demanded an _____ and a catch, an undulation and a catch.",
+      "distractors": [
+        "a sudden loud noise from an explosion",
+        "a sharp, straight cut through material",
+        "a bright flash of light in the sky"
+      ],
+      "surfaceForms": [
+        "undulation"
+      ],
+      "clozeAnswerSurfaceForm": "undulation"
+    },
+    {
+      "lemma": "sickly",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "suggesting illness or ill health; unpleasantly weak",
+      "translationZh": "病懨懨的",
+      "exampleSentence": "There was something sickly about it.",
+      "clozeSentence": "There was something _____ about it.",
+      "distractors": [
+        "extremely energetic and lively",
+        "bright and cheerful in appearance",
+        "well organized and efficient"
+      ],
+      "surfaceForms": [
+        "sickly"
+      ],
+      "clozeAnswerSurfaceForm": "sickly"
+    },
+    {
+      "lemma": "scramble",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to move or climb quickly and awkwardly using hands and feet",
+      "translationZh": "爬行；急忙移動",
+      "exampleSentence": "Hump-ing!” as I scrambled out.",
+      "clozeSentence": "Hump-ing!” as I _____ out.",
+      "distractors": [
+        "to speak in a calm, steady voice",
+        "to fold clothes neatly into a pile",
+        "to wait patiently without moving"
+      ],
+      "surfaceForms": [
+        "scrambled"
+      ],
+      "clozeAnswerSurfaceForm": "scrambled"
+    },
+    {
+      "lemma": "clutch",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "to hold something or someone tightly",
+      "translationZh": "緊抓",
+      "exampleSentence": "We threw rocks at the classroom windows and then clutched each other as though we were humping and writhed around on the rocks together.",
+      "clozeSentence": "We threw rocks at the classroom windows and then _____ each other as though we were humping and writhed around on the rocks together.",
+      "distractors": [
+        "to push someone away suddenly",
+        "to compare two things carefully",
+        "to whisper something secretly"
+      ],
+      "surfaceForms": [
+        "clutched"
+      ],
+      "clozeAnswerSurfaceForm": "clutched"
+    },
+    {
+      "lemma": "lap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the flat area formed by the thighs when sitting",
+      "translationZh": "大腿上",
+      "exampleSentence": "We sat down on the floor with our backs against the bookshelf in the reading section, the book on my lap.",
+      "clozeSentence": "We sat down on the floor with our backs against the bookshelf in the reading section, the book on my _____.",
+      "distractors": [
+        "a small container used to hold liquids",
+        "the edge of a table or desk",
+        "a soft cushion placed on a chair"
+      ],
+      "surfaceForms": [
+        "lap"
+      ],
+      "clozeAnswerSurfaceForm": "lap"
+    },
+    {
+      "lemma": "writhe",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to twist or squirm the body, often due to pain or strong emotion",
+      "translationZh": "扭動",
+      "exampleSentence": "We threw rocks at the classroom windows and then clutched each other as though we were humping and writhed around on the rocks together.",
+      "clozeSentence": "We threw rocks at the classroom windows and then clutched each other as though we were humping and _____ around on the rocks together.",
+      "distractors": [
+        "to stand perfectly still for a long time",
+        "to speak clearly and confidently",
+        "to walk slowly in a straight line"
+      ],
+      "surfaceForms": [
+        "writhed"
+      ],
+      "clozeAnswerSurfaceForm": "writhed"
+    },
+    {
+      "lemma": "harden",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to become stiff, stern, or unfeeling",
+      "translationZh": "變得嚴厲",
+      "exampleSentence": "Two pages in, her face hardened and her lips thinned.",
+      "clozeSentence": "Two pages in, her face _____ and her lips thinned.",
+      "distractors": [
+        "to become soft and relaxed",
+        "to shine brightly in the light",
+        "to shrink slowly over time"
+      ],
+      "surfaceForms": [
+        "hardened"
+      ],
+      "clozeAnswerSurfaceForm": "hardened"
+    },
+    {
+      "lemma": "amass",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to gradually collect a large quantity of something",
+      "translationZh": "累積",
+      "exampleSentence": "Daniela had amassed twenty-two; I asked her if I could have one.",
+      "clozeSentence": "Daniela had _____ twenty-two; I asked her if I could have one.",
+      "distractors": [
+        "to give something away freely to others",
+        "to break something into many small pieces",
+        "to organize items neatly in a row"
+      ],
+      "surfaceForms": [
+        "amassed"
+      ],
+      "clozeAnswerSurfaceForm": "amassed"
+    },
+    {
+      "lemma": "indication",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a sign or piece of evidence that shows something",
+      "translationZh": "跡象",
+      "exampleSentence": "One indication was the photograph.",
+      "clozeSentence": "One _____ was the photograph.",
+      "distractors": [
+        "a formal apology given after a mistake",
+        "a small gift given as a reward",
+        "a loud noise that startles people"
+      ],
+      "surfaceForms": [
+        "indication"
+      ],
+      "clozeAnswerSurfaceForm": "indication"
+    },
+    {
+      "lemma": "furious",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "extremely angry",
+      "translationZh": "狂怒的",
+      "exampleSentence": "My desires were too strong and furious.",
+      "clozeSentence": "My desires were too strong and _____.",
+      "distractors": [
+        "extremely tired after physical effort",
+        "unable to decide between two choices",
+        "filled with sudden embarrassment"
+      ],
+      "surfaceForms": [
+        "furious"
+      ],
+      "clozeAnswerSurfaceForm": "furious"
+    },
+    {
+      "lemma": "eyebrow",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the line of hair above the eye",
+      "translationZh": "眉毛",
+      "exampleSentence": "Shannon had white blonde hair, white whiskery eyebrows and lashes; she also could not read.",
+      "clozeSentence": "Shannon had white blonde hair, white whiskery _____ and lashes; she also could not read.",
+      "distractors": [
+        "the soft skin below the chin",
+        "the thin skin covering the eyeball",
+        "the curved bone at the top of the leg"
+      ],
+      "surfaceForms": [
+        "eyebrows"
+      ],
+      "clozeAnswerSurfaceForm": "eyebrows"
+    },
+    {
+      "lemma": "lash",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "one of the short hairs growing on the edge of the eyelid",
+      "translationZh": "睫毛",
+      "exampleSentence": "Shannon had white blonde hair, white whiskery eyebrows and lashes; she also could not read.",
+      "clozeSentence": "Shannon had white blonde hair, white whiskery eyebrows and _____; she also could not read.",
+      "distractors": [
+        "a small bone located in the wrist",
+        "the soft part inside the ear",
+        "a fold of skin under the chin"
+      ],
+      "surfaceForms": [
+        "lashes"
+      ],
+      "clozeAnswerSurfaceForm": "lashes"
+    },
+    {
+      "lemma": "whiskery",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "covered with long, stiff hairs, like whiskers",
+      "translationZh": "毛茸茸的",
+      "exampleSentence": "Shannon had white blonde hair, white whiskery eyebrows and lashes; she also could not read.",
+      "clozeSentence": "Shannon had white blonde hair, white _____ eyebrows and lashes; she also could not read.",
+      "distractors": [
+        "smooth and completely hairless",
+        "shiny and reflective like metal",
+        "soft and delicate to the touch"
+      ],
+      "surfaceForms": [
+        "whiskery"
+      ],
+      "clozeAnswerSurfaceForm": "whiskery"
+    },
+    {
+      "lemma": "fragile",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "easily broken, damaged, or hurt; delicate",
+      "translationZh": "脆弱的",
+      "exampleSentence": "He wore shorts and had dark hair and looked confident; I’d imagined him to be fragile and small.",
+      "clozeSentence": "He wore shorts and had dark hair and looked confident; I’d imagined him to be _____ and small.",
+      "distractors": [
+        "extremely loud and difficult to ignore",
+        "able to withstand great pressure or force",
+        "covered in a thick layer of dust"
+      ],
+      "surfaceForms": [
+        "fragile"
+      ],
+      "clozeAnswerSurfaceForm": "fragile"
+    },
+    {
+      "lemma": "seam",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the line where two pieces of fabric are sewn together",
+      "translationZh": "縫線",
+      "exampleSentence": "Her trousers were twisted so the seam did not line up with the middle of her legs.",
+      "clozeSentence": "Her trousers were twisted so the _____ did not line up with the middle of her legs.",
+      "distractors": [
+        "a small pocket sewn onto a jacket",
+        "a decorative button on clothing",
+        "a loose thread hanging from fabric"
+      ],
+      "surfaceForms": [
+        "seam"
+      ],
+      "clozeAnswerSurfaceForm": "seam"
+    },
+    {
+      "lemma": "unison",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "saying or doing something together at the same time",
+      "translationZh": "異口同聲",
+      "exampleSentence": "“Uh, uh, uh,” we said, almost in unison.",
+      "clozeSentence": "“Uh, uh, uh,” we said, almost in _____.",
+      "distractors": [
+        "a state of complete confusion or disorder",
+        "a quiet moment of private reflection",
+        "a strong disagreement between two people"
+      ],
+      "surfaceForms": [
+        "unison"
+      ],
+      "clozeAnswerSurfaceForm": "unison"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "rivulet",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "a very small stream or thin flow of liquid",
+      "translationZh": "小溪流",
+      "exampleSentence": "I glanced at her, trying not to laugh; her neck was shaking, a rivulet of water streaming down her chin.",
+      "clozeSentence": "I glanced at her, trying not to laugh; her neck was shaking, a _____ of water streaming down her chin.",
+      "distractors": [
+        "a loud crash caused by breaking glass",
+        "a soft cloth used to clean surfaces",
+        "a deep hole dug into the earth"
+      ],
+      "surfaceForms": [
+        "rivulet"
+      ],
+      "clozeAnswerSurfaceForm": "rivulet"
+    },
+    {
+      "lemma": "insubstantial",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "lacking solidity, substance, or importance; not real or strong",
+      "translationZh": "虛幻不實的",
+      "exampleSentence": "I felt it revealed not only that I had started late but also that I was insubstantial, washed out by light.",
+      "clozeSentence": "I felt it revealed not only that I had started late but also that I was _____, washed out by light.",
+      "distractors": [
+        "extremely heavy and difficult to lift",
+        "brightly colored in a noticeable way",
+        "arranged neatly in a straight line"
+      ],
+      "surfaceForms": [
+        "insubstantial"
+      ],
+      "clozeAnswerSurfaceForm": "insubstantial"
+    },
+    {
+      "lemma": "larva",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "the young, worm-like form of an insect before it becomes an adult",
+      "translationZh": "幼蟲",
+      "exampleSentence": "I was wormy inside, as if I’d caught whatever diseases or larvae were passed through raw eggs and flour when I snuck raw cookie dough.",
+      "clozeSentence": "I was wormy inside, as if I’d caught whatever diseases or _____ were passed through raw eggs and flour when I snuck raw cookie dough.",
+      "distractors": [
+        "a hard shell that protects a small animal",
+        "a type of poisonous plant found outdoors",
+        "a thin layer of ice on water"
+      ],
+      "surfaceForms": [
+        "larvae"
+      ],
+      "clozeAnswerSurfaceForm": "larvae"
+    },
+    {
+      "lemma": "repulse",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to cause someone to feel strong dislike or disgust",
+      "translationZh": "使反感",
+      "exampleSentence": "I was different from other girls my age, and anyone good and pure could immediately sense this and would be repulsed.",
+      "clozeSentence": "I was different from other girls my age, and anyone good and pure could immediately sense this and would be _____.",
+      "distractors": [
+        "to make someone feel calm and relaxed",
+        "to encourage someone to try harder",
+        "to remind someone of a happy memory"
+      ],
+      "surfaceForms": [
+        "repulsed"
+      ],
+      "clozeAnswerSurfaceForm": "repulsed"
+    },
+    {
+      "lemma": "repulsive",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "causing intense dislike or disgust",
+      "translationZh": "令人反感的",
+      "exampleSentence": "I felt this quality in myself, and I was sure it must show when people saw me, so whenever I passed a mirror, caught my reflection by accident, and saw that I was not as dirty or repulsive as I pictured myself, it gave me a start.",
+      "clozeSentence": "I felt this quality in myself, and I was sure it must show when people saw me, so whenever I passed a mirror, caught my reflection by accident, and saw that I was not as dirty or _____ as I pictured myself, it gave me a start.",
+      "distractors": [
+        "causing great admiration and respect",
+        "difficult to notice or find",
+        "pleasant to smell or taste"
+      ],
+      "surfaceForms": [
+        "repulsive"
+      ],
+      "clozeAnswerSurfaceForm": "repulsive"
+    },
+    {
+      "lemma": "wormy",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "infested with or resembling worms; feeling unpleasantly diseased",
+      "translationZh": "蟲蛀般噁心的",
+      "exampleSentence": "I was wormy inside, as if I’d caught whatever diseases or larvae were passed through raw eggs and flour when I snuck raw cookie dough.",
+      "clozeSentence": "I was _____ inside, as if I’d caught whatever diseases or larvae were passed through raw eggs and flour when I snuck raw cookie dough.",
+      "distractors": [
+        "feeling calm and completely at peace",
+        "looking clean and freshly washed",
+        "sounding confident and self-assured"
+      ],
+      "surfaceForms": [
+        "wormy"
+      ],
+      "clozeAnswerSurfaceForm": "wormy"
+    },
+    {
+      "lemma": "backdrop",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the scenery or background scene behind the main subject",
+      "translationZh": "背景",
+      "exampleSentence": "I had foolishly wrapped my hand around the top of my head because I thought it would look good, while the other students were seated in front of a blue backdrop.",
+      "clozeSentence": "I had foolishly wrapped my hand around the top of my head because I thought it would look good, while the other students were seated in front of a blue _____.",
+      "distractors": [
+        "a small decorative object placed on a shelf",
+        "a formal announcement made to a group of people",
+        "a piece of furniture used for storage"
+      ],
+      "surfaceForms": [
+        "backdrop"
+      ],
+      "clozeAnswerSurfaceForm": "backdrop"
+    },
+    {
+      "lemma": "beforehand",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "before a particular time or event happens",
+      "translationZh": "事先",
+      "exampleSentence": "A moment after spitting I had been aware that it was not in any way his joke, as it was when I imagined it beforehand.",
+      "clozeSentence": "A moment after spitting I had been aware that it was not in any way his joke, as it was when I imagined it _____.",
+      "distractors": [
+        "immediately after something unexpected happens",
+        "in a way that shows great enthusiasm",
+        "without asking anyone else for permission"
+      ],
+      "surfaceForms": [
+        "beforehand"
+      ],
+      "clozeAnswerSurfaceForm": "beforehand"
+    },
+    {
+      "lemma": "meticulous",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "showing great attention to detail; very careful and precise",
+      "translationZh": "一絲不苟的",
+      "exampleSentence": "The last was that I was meticulous and self-conscious in a way I could tell the other girls were not.",
+      "clozeSentence": "The last was that I was _____ and self-conscious in a way I could tell the other girls were not.",
+      "distractors": [
+        "willing to take unnecessary risks",
+        "easily distracted from a task",
+        "generous with money and time"
+      ],
+      "surfaceForms": [
+        "meticulous"
+      ],
+      "clozeAnswerSurfaceForm": "meticulous"
+    },
+    {
+      "lemma": "bosom",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a woman's chest, especially the breasts",
+      "translationZh": "胸部",
+      "exampleSentence": "The teacher, Pat, tall and plump, had a singsong voice and wore jean skirts down to her ankles, sandals with socks, T-shirts that hung over her large bosom, and reading glasses on a string.",
+      "clozeSentence": "The teacher, Pat, tall and plump, had a singsong voice and wore jean skirts down to her ankles, sandals with socks, T-shirts that hung over her large _____, and reading glasses on a string.",
+      "distractors": [
+        "the back part of the neck and shoulders",
+        "a soft cushion used for sitting comfortably",
+        "the loose folds of a long skirt"
+      ],
+      "surfaceForms": [
+        "bosom"
+      ],
+      "clozeAnswerSurfaceForm": "bosom"
+    },
+    {
+      "lemma": "makeshift",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "temporary and improvised, used because nothing else is available",
+      "translationZh": "臨時湊合的",
+      "exampleSentence": "The image was light-saturated, makeshift.",
+      "clozeSentence": "The image was light-saturated, _____.",
+      "distractors": [
+        "extremely expensive and luxurious",
+        "carefully designed over a long period",
+        "officially approved by an authority"
+      ],
+      "surfaceForms": [
+        "makeshift"
+      ],
+      "clozeAnswerSurfaceForm": "makeshift"
+    },
+    {
+      "lemma": "self-conscious",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "overly aware of and worried about how one appears to others",
+      "translationZh": "難為情的",
+      "exampleSentence": "The last was that I was meticulous and self-conscious in a way I could tell the other girls were not.",
+      "clozeSentence": "The last was that I was meticulous and _____ in a way I could tell the other girls were not.",
+      "distractors": [
+        "completely unaware of one's surroundings",
+        "confident and relaxed in front of others",
+        "quick to forgive other people's mistakes"
+      ],
+      "surfaceForms": [
+        "self-conscious"
+      ],
+      "clozeAnswerSurfaceForm": "self-conscious"
+    },
+    {
+      "lemma": "singsong",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "rising and falling in tone in a repetitive, musical way",
+      "translationZh": "抑揚頓挫的",
+      "exampleSentence": "The teacher, Pat, tall and plump, had a singsong voice and wore jean skirts down to her ankles, sandals with socks, T-shirts that hung over her large bosom, and reading glasses on a string.",
+      "clozeSentence": "The teacher, Pat, tall and plump, had a _____ voice and wore jean skirts down to her ankles, sandals with socks, T-shirts that hung over her large bosom, and reading glasses on a string.",
+      "distractors": [
+        "extremely loud and harsh sounding",
+        "completely silent and without expression",
+        "spoken very quickly without pausing"
+      ],
+      "surfaceForms": [
+        "singsong"
+      ],
+      "clozeAnswerSurfaceForm": "singsong"
+    },
+    {
+      "lemma": "recess",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "a break from lessons at school",
+      "translationZh": "下課時間",
+      "exampleSentence": "During recess, we played behind the classroom on a wooden jungle gym with a series of planks connecting the parts.",
+      "clozeSentence": "During _____, we played behind the classroom on a wooden jungle gym with a series of planks connecting the parts.",
+      "distractors": [
+        "a formal meeting between teachers and parents",
+        "a written test given at the end of term",
+        "a small room used for storing books"
+      ],
+      "surfaceForms": [
+        "recess"
+      ],
+      "clozeAnswerSurfaceForm": "recess"
+    },
+    {
+      "lemma": "undulation",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "a smooth, wave-like rising and falling movement",
+      "translationZh": "波動起伏",
+      "exampleSentence": "Humping, the way I imagined it, demanded an undulation and a catch, an undulation and a catch.",
+      "clozeSentence": "Humping, the way I imagined it, demanded an _____ and a catch, an undulation and a catch.",
+      "distractors": [
+        "a sudden loud noise from an explosion",
+        "a sharp, straight cut through material",
+        "a bright flash of light in the sky"
+      ],
+      "surfaceForms": [
+        "undulation"
+      ],
+      "clozeAnswerSurfaceForm": "undulation"
+    },
+    {
+      "lemma": "clutch",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "to hold something or someone tightly",
+      "translationZh": "緊抓",
+      "exampleSentence": "We threw rocks at the classroom windows and then clutched each other as though we were humping and writhed around on the rocks together.",
+      "clozeSentence": "We threw rocks at the classroom windows and then _____ each other as though we were humping and writhed around on the rocks together.",
+      "distractors": [
+        "to push someone away suddenly",
+        "to compare two things carefully",
+        "to whisper something secretly"
+      ],
+      "surfaceForms": [
+        "clutched"
+      ],
+      "clozeAnswerSurfaceForm": "clutched"
+    },
+    {
+      "lemma": "writhe",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to twist or squirm the body, often due to pain or strong emotion",
+      "translationZh": "扭動",
+      "exampleSentence": "We threw rocks at the classroom windows and then clutched each other as though we were humping and writhed around on the rocks together.",
+      "clozeSentence": "We threw rocks at the classroom windows and then clutched each other as though we were humping and _____ around on the rocks together.",
+      "distractors": [
+        "to stand perfectly still for a long time",
+        "to speak clearly and confidently",
+        "to walk slowly in a straight line"
+      ],
+      "surfaceForms": [
+        "writhed"
+      ],
+      "clozeAnswerSurfaceForm": "writhed"
+    },
+    {
+      "lemma": "amass",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to gradually collect a large quantity of something",
+      "translationZh": "累積",
+      "exampleSentence": "Daniela had amassed twenty-two; I asked her if I could have one.",
+      "clozeSentence": "Daniela had _____ twenty-two; I asked her if I could have one.",
+      "distractors": [
+        "to give something away freely to others",
+        "to break something into many small pieces",
+        "to organize items neatly in a row"
+      ],
+      "surfaceForms": [
+        "amassed"
+      ],
+      "clozeAnswerSurfaceForm": "amassed"
+    },
+    {
+      "lemma": "whiskery",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "covered with long, stiff hairs, like whiskers",
+      "translationZh": "毛茸茸的",
+      "exampleSentence": "Shannon had white blonde hair, white whiskery eyebrows and lashes; she also could not read.",
+      "clozeSentence": "Shannon had white blonde hair, white _____ eyebrows and lashes; she also could not read.",
+      "distractors": [
+        "smooth and completely hairless",
+        "shiny and reflective like metal",
+        "soft and delicate to the touch"
+      ],
+      "surfaceForms": [
+        "whiskery"
+      ],
+      "clozeAnswerSurfaceForm": "whiskery"
+    },
+    {
+      "lemma": "unison",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "saying or doing something together at the same time",
+      "translationZh": "異口同聲",
+      "exampleSentence": "“Uh, uh, uh,” we said, almost in unison.",
+      "clozeSentence": "“Uh, uh, uh,” we said, almost in _____.",
+      "distractors": [
+        "a state of complete confusion or disorder",
+        "a quiet moment of private reflection",
+        "a strong disagreement between two people"
+      ],
+      "surfaceForms": [
+        "unison"
+      ],
+      "clozeAnswerSurfaceForm": "unison"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "translation",
+      "wordLemma": "larva",
+      "prompt": "幼蟲",
+      "options": [
+        "undulation",
+        "larva",
+        "makeshift",
+        "repulse"
+      ],
+      "answer": "larva"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "clutch",
+      "prompt": "clutch",
+      "options": [
+        "to hold something or someone tightly",
+        "to compare two things carefully",
+        "to push someone away suddenly",
+        "to whisper something secretly"
+      ],
+      "answer": "to hold something or someone tightly"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "repulsive",
+      "prompt": "I felt this quality in myself, and I was sure it must show when people saw me, so whenever I passed a mirror, caught my reflection by accident, and saw that I was not as dirty or _____ as I pictured myself, it gave me a start.",
+      "options": [
+        "self-conscious",
+        "recess",
+        "backdrop",
+        "repulsive"
+      ],
+      "answer": "repulsive"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "repulse",
+      "prompt": "repulse",
+      "options": [
+        "to cause someone to feel strong dislike or disgust",
+        "to make someone feel calm and relaxed",
+        "to remind someone of a happy memory",
+        "to encourage someone to try harder"
+      ],
+      "answer": "to cause someone to feel strong dislike or disgust"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "unison",
+      "prompt": "“Uh, uh, uh,” we said, almost in _____.",
+      "options": [
+        "singsong",
+        "unison",
+        "undulation",
+        "writhed"
+      ],
+      "answer": "unison"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "backdrop",
+      "prompt": "backdrop",
+      "options": [
+        "a small decorative object placed on a shelf",
+        "a formal announcement made to a group of people",
+        "a piece of furniture used for storage",
+        "the scenery or background scene behind the main subject"
+      ],
+      "answer": "the scenery or background scene behind the main subject"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "recess",
+      "prompt": "During _____, we played behind the classroom on a wooden jungle gym with a series of planks connecting the parts.",
+      "options": [
+        "recess",
+        "singsong",
+        "beforehand",
+        "repulsive"
+      ],
+      "answer": "recess"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "writhe",
+      "prompt": "We threw rocks at the classroom windows and then clutched each other as though we were humping and _____ around on the rocks together.",
+      "options": [
+        "unison",
+        "amassed",
+        "writhed",
+        "singsong"
+      ],
+      "answer": "writhed"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "whiskery",
+      "prompt": "whiskery",
+      "options": [
+        "soft and delicate to the touch",
+        "smooth and completely hairless",
+        "covered with long, stiff hairs, like whiskers",
+        "shiny and reflective like metal"
+      ],
+      "answer": "covered with long, stiff hairs, like whiskers"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "beforehand",
+      "prompt": "A moment after spitting I had been aware that it was not in any way his joke, as it was when I imagined it _____.",
+      "options": [
+        "unison",
+        "beforehand",
+        "repulsive",
+        "backdrop"
+      ],
+      "answer": "beforehand"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "insubstantial",
+      "prompt": "I felt it revealed not only that I had started late but also that I was _____, washed out by light.",
+      "options": [
+        "insubstantial",
+        "makeshift",
+        "backdrop",
+        "larvae"
+      ],
+      "answer": "insubstantial"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "bosom",
+      "prompt": "bosom",
+      "options": [
+        "the back part of the neck and shoulders",
+        "a soft cushion used for sitting comfortably",
+        "the loose folds of a long skirt",
+        "a woman's chest, especially the breasts"
+      ],
+      "answer": "a woman's chest, especially the breasts"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "undulation",
+      "prompt": "波動起伏",
+      "options": [
+        "undulation",
+        "larva",
+        "repulse",
+        "makeshift"
+      ],
+      "answer": "undulation"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "amass",
+      "prompt": "累積",
+      "options": [
+        "amass",
+        "beforehand",
+        "singsong",
+        "repulsive"
+      ],
+      "answer": "amass"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "wormy",
+      "prompt": "蟲蛀般噁心的",
+      "options": [
+        "unison",
+        "wormy",
+        "bosom",
+        "meticulous"
+      ],
+      "answer": "wormy"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "self-conscious",
+      "prompt": "難為情的",
+      "options": [
+        "clutch",
+        "insubstantial",
+        "self-conscious",
+        "singsong"
+      ],
+      "answer": "self-conscious"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "makeshift",
+      "prompt": "The image was light-saturated, _____.",
+      "options": [
+        "undulation",
+        "makeshift",
+        "singsong",
+        "self-conscious"
+      ],
+      "answer": "makeshift"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "meticulous",
+      "prompt": "一絲不苟的",
+      "options": [
+        "whiskery",
+        "undulation",
+        "repulse",
+        "meticulous"
+      ],
+      "answer": "meticulous"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "singsong",
+      "prompt": "singsong",
+      "options": [
+        "spoken very quickly without pausing",
+        "extremely loud and harsh sounding",
+        "rising and falling in tone in a repetitive, musical way",
+        "completely silent and without expression"
+      ],
+      "answer": "rising and falling in tone in a repetitive, musical way"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "rivulet",
+      "prompt": "rivulet",
+      "options": [
+        "a loud crash caused by breaking glass",
+        "a deep hole dug into the earth",
+        "a very small stream or thin flow of liquid",
+        "a soft cloth used to clean surfaces"
+      ],
+      "answer": "a very small stream or thin flow of liquid"
+    }
+  ]
+}

@@ -1,0 +1,1264 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 5,
+  "partTitle": "Runaway",
+  "sectionIndex": 8,
+  "paragraphs": [
+    "The news that Laurene was pregnant hit me like a slap. I thought they’d wait to conceive—for several years, at least. Although I could not have articulated it, I thought I was what they wanted. A house, a woman, a man, and a daughter: now, finally, with the wedding ceremony over, we might enjoy it.",
+    "They invited me for dinner. We ate the same food as on other days: vegan food. On this night, vegetable sushi with brown rice. He’d kissed her on the lips like he was Mr. Passion when he came in the door; she had to bend back awkwardly and steady herself on the island. It looked painful for her neck. I said so afterward, and he laughed.",
+    "He said that he was a good kisser, and lots of women told him so.",
+    "“It looked more like suction than a kiss,” I said.",
+    "Laurene raised her eyebrows and nodded at me, in agreement, behind his back.",
+    "Now we were in the den, and they had become serious. I wondered if I was in trouble.",
+    "I sat on a chair. Laurene sat on an ottoman, my father on the floor.",
+    "“We’re having a baby,” he said. I looked at Laurene to see if it was true. She nodded.",
+    "The light was dim in that room at dusk—only the lamp on his desk and a weak one overhead and royal blue in the windows.",
+    "“That’s great,” I said. I felt the muscles in my face melt and twitch so that I wasn’t sure anymore what the resting position of a face was supposed to be and how to get back to it.",
+    "“We’re very excited,” he said, and put his arm around her.",
+    "I walked home. The lights were on, two yellow eyes. The house was small now, and far away. It was nothing, my mother was nothing. She was not part of the family and new baby and she couldn’t stop it.",
+    "“They’re having a baby,” I told her the next day in the car, both of us looking forward so she couldn’t see my face. I’d kept it to myself, the night before, crying in bed after she said goodnight. When I was with her now, I felt as if I was too much like her, the part of the family that was set aside.",
+    "“Good for them,” she said.",
+    "“But I didn’t think they’d want—they never mentioned having a baby,” I said.",
+    "“That’s why people get married,” she said. “To have babies.”",
+    "This baby would have my father from the start, and the right mother. It was born into luck. The baby was not to blame; this made it worse, somehow. I wished that I were that baby instead, and that Laurene was my mother. Soon Laurene’s stomach became round and tight as a drum. Her belly button poked out like a doll’s ear.",
+    "I went over to the house, into my father’s study, and saw my father had typed out the name—Reed Paul Jobs, three names, three syllables—in many typefaces, fonts, sizes, filling his computer screen. Garamond, Caslon, Bauer Bodoni. He wanted to make sure the name would be good enough for a whole life of use.",
+    "My brother was born with long fingers and curling fern hands that grasped my finger, miniature fingernails with white tips. How I loved him! It was involuntary; I couldn’t help it. The way he smelled, his proportions—his perfect heels and loose-skin knees. I went over to visit him after school and on weekends. I changed his diapers. I wondered who he would become. Curled on his stomach, I noticed the downy hairs on his back, his abdomen flaring out under his ribs like a roasting chicken. Dark straight hair grew around a soupy area on his skull that pressed in like the center of a pie. His lips were pink and made of a different kind of skin, like a clean pink worm that contracted. His tiny diapers made him seem even smaller, spindly thighs and tiny feet shooting out of a big white casing. He had an old, dreamy look in his gray eyes, like he came from a wiser place."
+  ],
+  "words": [
+    {
+      "lemma": "dim",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "not bright; giving out only a little light",
+      "translationZh": "昏暗的",
+      "exampleSentence": "The light was dim in that room at dusk—only the lamp on his desk and a weak one overhead and royal blue in the windows.",
+      "clozeSentence": "The light was _____ in that room at dusk—only the lamp on his desk and a weak one overhead and royal blue in the windows.",
+      "distractors": [
+        "extremely bright and dazzling",
+        "completely dark, with no light at all",
+        "flickering on and off repeatedly"
+      ],
+      "surfaceForms": [
+        "dim"
+      ],
+      "clozeAnswerSurfaceForm": "dim"
+    },
+    {
+      "lemma": "slap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a sudden hit with the flat of the hand, or something that feels like a shock",
+      "translationZh": "一巴掌；重擊般的打擊",
+      "exampleSentence": "The news that Laurene was pregnant hit me like a slap.",
+      "clozeSentence": "The news that Laurene was pregnant hit me like a _____.",
+      "distractors": [
+        "a gentle, comforting touch",
+        "a loud burst of laughter",
+        "a slow, gradual change"
+      ],
+      "surfaceForms": [
+        "slap"
+      ],
+      "clozeAnswerSurfaceForm": "slap"
+    },
+    {
+      "lemma": "dusk",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the time of day just before darkness, after sunset",
+      "translationZh": "黃昏；傍晚",
+      "exampleSentence": "The light was dim in that room at dusk—only the lamp on his desk and a weak one overhead and royal blue in the windows.",
+      "clozeSentence": "The light was dim in that room at _____—only the lamp on his desk and a weak one overhead and royal blue in the windows.",
+      "distractors": [
+        "the time just before sunrise",
+        "the middle of a bright afternoon",
+        "the darkest point of the night"
+      ],
+      "surfaceForms": [
+        "dusk"
+      ],
+      "clozeAnswerSurfaceForm": "dusk—only"
+    },
+    {
+      "lemma": "overhead",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "above one's head, in the space up high",
+      "translationZh": "在頭頂上方的",
+      "exampleSentence": "The light was dim in that room at dusk—only the lamp on his desk and a weak one overhead and royal blue in the windows.",
+      "clozeSentence": "The light was dim in that room at dusk—only the lamp on his desk and a weak one _____ and royal blue in the windows.",
+      "distractors": [
+        "directly below the floor",
+        "off to one side",
+        "hidden behind a wall"
+      ],
+      "surfaceForms": [
+        "overhead"
+      ],
+      "clozeAnswerSurfaceForm": "overhead"
+    },
+    {
+      "lemma": "eyebrow",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the line of hair above each eye",
+      "translationZh": "眉毛",
+      "exampleSentence": "Laurene raised her eyebrows and nodded at me, in agreement, behind his back.",
+      "clozeSentence": "Laurene raised her _____ and nodded at me, in agreement, behind his back.",
+      "distractors": [
+        "the skin folds beneath the eyes",
+        "the eyelashes surrounding the eyes",
+        "the bridge of the nose"
+      ],
+      "surfaceForms": [
+        "eyebrows"
+      ],
+      "clozeAnswerSurfaceForm": "eyebrows"
+    },
+    {
+      "lemma": "ottoman",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a low, cushioned seat or footstool without a back",
+      "translationZh": "矮凳；腳凳",
+      "exampleSentence": "Laurene sat on an ottoman, my father on the floor.",
+      "clozeSentence": "Laurene sat on an _____, my father on the floor.",
+      "distractors": [
+        "a tall wooden bookshelf",
+        "a small round dining table",
+        "a folding chair with armrests"
+      ],
+      "surfaceForms": [
+        "ottoman"
+      ],
+      "clozeAnswerSurfaceForm": "ottoman"
+    },
+    {
+      "lemma": "conceive",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to become pregnant with a baby",
+      "translationZh": "懷孕",
+      "exampleSentence": "I thought they’d wait to conceive—for several years, at least.",
+      "clozeSentence": "I thought they’d wait to _____—for several years, at least.",
+      "distractors": [
+        "to adopt a child legally",
+        "to plan a wedding ceremony",
+        "to raise a child from birth"
+      ],
+      "surfaceForms": [
+        "conceive"
+      ],
+      "clozeAnswerSurfaceForm": "conceive—for"
+    },
+    {
+      "lemma": "syllable",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a unit of sound in a word, containing one vowel sound",
+      "translationZh": "音節",
+      "exampleSentence": "I went over to the house, into my father’s study, and saw my father had typed out the name—Reed Paul Jobs, three names, three syllables—in many typefaces, fonts, sizes, filling his computer screen.",
+      "clozeSentence": "I went over to the house, into my father’s study, and saw my father had typed out the name—Reed Paul Jobs, three names, three _____—in many typefaces, fonts, sizes, filling his computer screen.",
+      "distractors": [
+        "a single letter of the alphabet",
+        "the meaning of a word",
+        "the stress pattern of a sentence"
+      ],
+      "surfaceForms": [
+        "syllables"
+      ],
+      "clozeAnswerSurfaceForm": "syllables—in"
+    },
+    {
+      "lemma": "twitch",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "to make a sudden, small, uncontrolled movement",
+      "translationZh": "抽搐；抽動",
+      "exampleSentence": "I felt the muscles in my face melt and twitch so that I wasn’t sure anymore what the resting position of a face was supposed to be and how to get back to it.",
+      "clozeSentence": "I felt the muscles in my face melt and _____ so that I wasn’t sure anymore what the resting position of a face was supposed to be and how to get back to it.",
+      "distractors": [
+        "to relax completely and go still",
+        "to stretch slowly and deliberately",
+        "to swell up with fluid"
+      ],
+      "surfaceForms": [
+        "twitch"
+      ],
+      "clozeAnswerSurfaceForm": "twitch"
+    },
+    {
+      "lemma": "font",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a particular design or style of printed letters",
+      "translationZh": "字型",
+      "exampleSentence": "I went over to the house, into my father’s study, and saw my father had typed out the name—Reed Paul Jobs, three names, three syllables—in many typefaces, fonts, sizes, filling his computer screen.",
+      "clozeSentence": "I went over to the house, into my father’s study, and saw my father had typed out the name—Reed Paul Jobs, three names, three syllables—in many typefaces, _____, sizes, filling his computer screen.",
+      "distractors": [
+        "the size of printed text",
+        "the color used for printing",
+        "the paper used for printing documents"
+      ],
+      "surfaceForms": [
+        "fonts"
+      ],
+      "clozeAnswerSurfaceForm": "fonts"
+    },
+    {
+      "lemma": "typeface",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a particular style or design of printed letters and numbers",
+      "translationZh": "字體",
+      "exampleSentence": "I went over to the house, into my father’s study, and saw my father had typed out the name—Reed Paul Jobs, three names, three syllables—in many typefaces, fonts, sizes, filling his computer screen.",
+      "clozeSentence": "I went over to the house, into my father’s study, and saw my father had typed out the name—Reed Paul Jobs, three names, three syllables—in many _____, fonts, sizes, filling his computer screen.",
+      "distractors": [
+        "the physical size of printed text",
+        "a machine used for printing documents",
+        "the spacing between lines of text"
+      ],
+      "surfaceForms": [
+        "typefaces"
+      ],
+      "clozeAnswerSurfaceForm": "typefaces"
+    },
+    {
+      "lemma": "articulate",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to express thoughts or feelings clearly in words",
+      "translationZh": "清楚表達",
+      "exampleSentence": "Although I could not have articulated it, I thought I was what they wanted.",
+      "clozeSentence": "Although I could not have _____ it, I thought I was what they wanted.",
+      "distractors": [
+        "to hide one's true feelings from others",
+        "to argue loudly with someone",
+        "to write something down in detail"
+      ],
+      "surfaceForms": [
+        "articulated"
+      ],
+      "clozeAnswerSurfaceForm": "articulated"
+    },
+    {
+      "lemma": "wed",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the ceremony or event of getting married",
+      "translationZh": "婚禮",
+      "exampleSentence": "A house, a woman, a man, and a daughter: now, finally, with the wedding ceremony over, we might enjoy it.",
+      "clozeSentence": "A house, a woman, a man, and a daughter: now, finally, with the _____ ceremony over, we might enjoy it.",
+      "distractors": [
+        "a large family celebration for a birthday",
+        "the signing of a legal business contract",
+        "a religious ceremony for a newborn baby"
+      ],
+      "surfaceForms": [
+        "wedding"
+      ],
+      "clozeAnswerSurfaceForm": "wedding"
+    },
+    {
+      "lemma": "vegan",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "containing no animal products at all",
+      "translationZh": "純素的；全素的",
+      "exampleSentence": "We ate the same food as on other days: vegan food.",
+      "clozeSentence": "We ate the same food as on other days: _____ food.",
+      "distractors": [
+        "containing only fish and seafood",
+        "prepared without any cooking",
+        "extremely low in calories"
+      ],
+      "surfaceForms": [
+        "vegan"
+      ],
+      "clozeAnswerSurfaceForm": "vegan"
+    },
+    {
+      "lemma": "dreamy",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "seeming distant or lost in thought, as if not fully present",
+      "translationZh": "恍惚的；夢幻般的",
+      "exampleSentence": "He had an old, dreamy look in his gray eyes, like he came from a wiser place.",
+      "clozeSentence": "He had an old, _____ look in his gray eyes, like he came from a wiser place.",
+      "distractors": [
+        "alert and sharply focused",
+        "angry and full of tension",
+        "bright and cheerful"
+      ],
+      "surfaceForms": [
+        "dreamy"
+      ],
+      "clozeAnswerSurfaceForm": "dreamy"
+    },
+    {
+      "lemma": "kisser",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a person considered in terms of how well they kiss",
+      "translationZh": "接吻的人（形容接吻技巧）",
+      "exampleSentence": "He said that he was a good kisser, and lots of women told him so.",
+      "clozeSentence": "He said that he was a good _____, and lots of women told him so.",
+      "distractors": [
+        "a person who talks a lot",
+        "a person who dances well",
+        "a person who cooks skillfully"
+      ],
+      "surfaceForms": [
+        "kisser"
+      ],
+      "clozeAnswerSurfaceForm": "kisser"
+    },
+    {
+      "lemma": "awkwardly",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "in a clumsy or uncomfortable way",
+      "translationZh": "笨拙地；不自然地",
+      "exampleSentence": "Passion when he came in the door; she had to bend back awkwardly and steady herself on the island.",
+      "clozeSentence": "Passion when he came in the door; she had to bend back _____ and steady herself on the island.",
+      "distractors": [
+        "in a graceful and smooth way",
+        "in a fast and confident way",
+        "in a quiet and careful way"
+      ],
+      "surfaceForms": [
+        "awkwardly"
+      ],
+      "clozeAnswerSurfaceForm": "awkwardly"
+    },
+    {
+      "lemma": "involuntary",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "done without conscious control or intention",
+      "translationZh": "不自主的；非自願的",
+      "exampleSentence": "It was involuntary; I couldn’t help it.",
+      "clozeSentence": "It was _____; I couldn’t help it.",
+      "distractors": [
+        "done with careful planning",
+        "done to please someone else",
+        "done slowly and deliberately"
+      ],
+      "surfaceForms": [
+        "involuntary"
+      ],
+      "clozeAnswerSurfaceForm": "involuntary"
+    },
+    {
+      "lemma": "suction",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "the force created by removing air, which pulls things together",
+      "translationZh": "吸力；吸附作用",
+      "exampleSentence": "“It looked more like suction than a kiss,” I said.",
+      "clozeSentence": "“It looked more like _____ than a kiss,” I said.",
+      "distractors": [
+        "a gentle push away from something",
+        "a sudden loud noise",
+        "a light, brief touch"
+      ],
+      "surfaceForms": [
+        "suction"
+      ],
+      "clozeAnswerSurfaceForm": "suction"
+    },
+    {
+      "lemma": "poke",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to stick out or push forward slightly",
+      "translationZh": "突出；戳出",
+      "exampleSentence": "Her belly button poked out like a doll’s ear.",
+      "clozeSentence": "Her belly button _____ out like a doll’s ear.",
+      "distractors": [
+        "to fold inward and disappear",
+        "to spin around quickly",
+        "to change color slightly"
+      ],
+      "surfaceForms": [
+        "poked"
+      ],
+      "clozeAnswerSurfaceForm": "poked"
+    },
+    {
+      "lemma": "curl",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to bend or twist into a rounded shape",
+      "translationZh": "捲曲",
+      "exampleSentence": "My brother was born with long fingers and curling fern hands that grasped my finger, miniature fingernails with white tips.",
+      "clozeSentence": "My brother was born with long fingers and _____ fern hands that grasped my finger, miniature fingernails with white tips.",
+      "distractors": [
+        "to stretch straight and flat",
+        "to shake uncontrollably",
+        "to grow rapidly in size"
+      ],
+      "surfaceForms": [
+        "curling",
+        "curled"
+      ],
+      "clozeAnswerSurfaceForm": "curling"
+    },
+    {
+      "lemma": "fingernail",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the hard covering on the tip of a finger",
+      "translationZh": "指甲",
+      "exampleSentence": "My brother was born with long fingers and curling fern hands that grasped my finger, miniature fingernails with white tips.",
+      "clozeSentence": "My brother was born with long fingers and curling fern hands that grasped my finger, miniature _____ with white tips.",
+      "distractors": [
+        "the joint connecting fingers to the hand",
+        "the soft pad on a fingertip",
+        "a small wrinkle in the skin"
+      ],
+      "surfaceForms": [
+        "fingernails"
+      ],
+      "clozeAnswerSurfaceForm": "fingernails"
+    },
+    {
+      "lemma": "grasp",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to take hold of something firmly",
+      "translationZh": "抓住",
+      "exampleSentence": "My brother was born with long fingers and curling fern hands that grasped my finger, miniature fingernails with white tips.",
+      "clozeSentence": "My brother was born with long fingers and curling fern hands that _____ my finger, miniature fingernails with white tips.",
+      "distractors": [
+        "to gently touch something",
+        "to push something away",
+        "to drop something accidentally"
+      ],
+      "surfaceForms": [
+        "grasped"
+      ],
+      "clozeAnswerSurfaceForm": "grasped"
+    },
+    {
+      "lemma": "miniature",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "very small, much smaller than usual",
+      "translationZh": "微小的",
+      "exampleSentence": "My brother was born with long fingers and curling fern hands that grasped my finger, miniature fingernails with white tips.",
+      "clozeSentence": "My brother was born with long fingers and curling fern hands that grasped my finger, _____ fingernails with white tips.",
+      "distractors": [
+        "unusually wide or broad",
+        "perfectly shaped and smooth",
+        "pale and almost invisible"
+      ],
+      "surfaceForms": [
+        "miniature"
+      ],
+      "clozeAnswerSurfaceForm": "miniature"
+    },
+    {
+      "lemma": "fern",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a green plant with feathery leaves and no flowers",
+      "translationZh": "蕨類植物",
+      "exampleSentence": "My brother was born with long fingers and curling fern hands that grasped my finger, miniature fingernails with white tips.",
+      "clozeSentence": "My brother was born with long fingers and curling _____ hands that grasped my finger, miniature fingernails with white tips.",
+      "distractors": [
+        "a tall tree with broad flat leaves",
+        "a flowering plant with a strong scent",
+        "a type of climbing vine with thorns"
+      ],
+      "surfaceForms": [
+        "fern"
+      ],
+      "clozeAnswerSurfaceForm": "fern"
+    },
+    {
+      "lemma": "rib",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "one of the curved bones surrounding the chest",
+      "translationZh": "肋骨",
+      "exampleSentence": "Curled on his stomach, I noticed the downy hairs on his back, his abdomen flaring out under his ribs like a roasting chicken.",
+      "clozeSentence": "Curled on his stomach, I noticed the downy hairs on his back, his abdomen flaring out under his _____ like a roasting chicken.",
+      "distractors": [
+        "the muscles running along the back",
+        "the joints connecting the arms to the body",
+        "the soft tissue covering the stomach"
+      ],
+      "surfaceForms": [
+        "ribs"
+      ],
+      "clozeAnswerSurfaceForm": "ribs"
+    },
+    {
+      "lemma": "abdomen",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the part of the body between the chest and the hips",
+      "translationZh": "腹部",
+      "exampleSentence": "Curled on his stomach, I noticed the downy hairs on his back, his abdomen flaring out under his ribs like a roasting chicken.",
+      "clozeSentence": "Curled on his stomach, I noticed the downy hairs on his back, his _____ flaring out under his ribs like a roasting chicken.",
+      "distractors": [
+        "the upper part of the back",
+        "the area around the neck and shoulders",
+        "the joints of the lower legs"
+      ],
+      "surfaceForms": [
+        "abdomen"
+      ],
+      "clozeAnswerSurfaceForm": "abdomen"
+    },
+    {
+      "lemma": "downy",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "covered with soft, fine, fluffy hair or feathers",
+      "translationZh": "絨毛狀的；柔軟細毛的",
+      "exampleSentence": "Curled on his stomach, I noticed the downy hairs on his back, his abdomen flaring out under his ribs like a roasting chicken.",
+      "clozeSentence": "Curled on his stomach, I noticed the _____ hairs on his back, his abdomen flaring out under his ribs like a roasting chicken.",
+      "distractors": [
+        "covered with coarse, thick hair",
+        "completely smooth and hairless",
+        "covered in tiny scales"
+      ],
+      "surfaceForms": [
+        "downy"
+      ],
+      "clozeAnswerSurfaceForm": "downy"
+    },
+    {
+      "lemma": "flare",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to spread out or open wider suddenly",
+      "translationZh": "張開；擴張",
+      "exampleSentence": "Curled on his stomach, I noticed the downy hairs on his back, his abdomen flaring out under his ribs like a roasting chicken.",
+      "clozeSentence": "Curled on his stomach, I noticed the downy hairs on his back, his abdomen _____ out under his ribs like a roasting chicken.",
+      "distractors": [
+        "to shrink inward suddenly",
+        "to shake back and forth",
+        "to become stiff and rigid"
+      ],
+      "surfaceForms": [
+        "flaring"
+      ],
+      "clozeAnswerSurfaceForm": "flaring"
+    },
+    {
+      "lemma": "skull",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the bony structure of the head that protects the brain",
+      "translationZh": "頭骨",
+      "exampleSentence": "Dark straight hair grew around a soupy area on his skull that pressed in like the center of a pie.",
+      "clozeSentence": "Dark straight hair grew around a soupy area on his _____ that pressed in like the center of a pie.",
+      "distractors": [
+        "the soft tissue at the back of the neck",
+        "the muscle that controls the jaw",
+        "the outer layer of skin on the face"
+      ],
+      "surfaceForms": [
+        "skull"
+      ],
+      "clozeAnswerSurfaceForm": "skull"
+    },
+    {
+      "lemma": "soupy",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "soft and mushy, resembling soup in texture",
+      "translationZh": "軟糊狀的；像湯一樣稀軟的",
+      "exampleSentence": "Dark straight hair grew around a soupy area on his skull that pressed in like the center of a pie.",
+      "clozeSentence": "Dark straight hair grew around a _____ area on his skull that pressed in like the center of a pie.",
+      "distractors": [
+        "hard and firm to the touch",
+        "dry and flaky in texture",
+        "smooth and perfectly round"
+      ],
+      "surfaceForms": [
+        "soupy"
+      ],
+      "clozeAnswerSurfaceForm": "soupy"
+    },
+    {
+      "lemma": "contract",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to become smaller or tighter by drawing together",
+      "translationZh": "收縮",
+      "exampleSentence": "His lips were pink and made of a different kind of skin, like a clean pink worm that contracted.",
+      "clozeSentence": "His lips were pink and made of a different kind of skin, like a clean pink worm that _____.",
+      "distractors": [
+        "to stretch out and become longer",
+        "to change color suddenly",
+        "to make a formal written agreement"
+      ],
+      "surfaceForms": [
+        "contracted"
+      ],
+      "clozeAnswerSurfaceForm": "contracted"
+    },
+    {
+      "lemma": "thigh",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the part of the leg between the hip and the knee",
+      "translationZh": "大腿",
+      "exampleSentence": "His tiny diapers made him seem even smaller, spindly thighs and tiny feet shooting out of a big white casing.",
+      "clozeSentence": "His tiny diapers made him seem even smaller, spindly _____ and tiny feet shooting out of a big white casing.",
+      "distractors": [
+        "the lower part of the leg below the knee",
+        "the joint connecting the leg to the hip",
+        "the sole of the foot"
+      ],
+      "surfaceForms": [
+        "thighs"
+      ],
+      "clozeAnswerSurfaceForm": "thighs"
+    },
+    {
+      "lemma": "worm",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a small, long, soft-bodied creature without legs",
+      "translationZh": "蟲；蠕蟲",
+      "exampleSentence": "His lips were pink and made of a different kind of skin, like a clean pink worm that contracted.",
+      "clozeSentence": "His lips were pink and made of a different kind of skin, like a clean pink _____ that contracted.",
+      "distractors": [
+        "a small flying insect with wings",
+        "a hard-shelled crawling creature",
+        "a tiny amphibian that lives in water"
+      ],
+      "surfaceForms": [
+        "worm"
+      ],
+      "clozeAnswerSurfaceForm": "worm"
+    },
+    {
+      "lemma": "spindly",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "unusually thin, long, and weak-looking",
+      "translationZh": "細長瘦弱的",
+      "exampleSentence": "His tiny diapers made him seem even smaller, spindly thighs and tiny feet shooting out of a big white casing.",
+      "clozeSentence": "His tiny diapers made him seem even smaller, _____ thighs and tiny feet shooting out of a big white casing.",
+      "distractors": [
+        "short and unusually strong",
+        "round and plump",
+        "firm and muscular"
+      ],
+      "surfaceForms": [
+        "spindly"
+      ],
+      "clozeAnswerSurfaceForm": "spindly"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "dim",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "not bright; giving out only a little light",
+      "translationZh": "昏暗的",
+      "exampleSentence": "The light was dim in that room at dusk—only the lamp on his desk and a weak one overhead and royal blue in the windows.",
+      "clozeSentence": "The light was _____ in that room at dusk—only the lamp on his desk and a weak one overhead and royal blue in the windows.",
+      "distractors": [
+        "extremely bright and dazzling",
+        "completely dark, with no light at all",
+        "flickering on and off repeatedly"
+      ],
+      "surfaceForms": [
+        "dim"
+      ],
+      "clozeAnswerSurfaceForm": "dim"
+    },
+    {
+      "lemma": "slap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a sudden hit with the flat of the hand, or something that feels like a shock",
+      "translationZh": "一巴掌；重擊般的打擊",
+      "exampleSentence": "The news that Laurene was pregnant hit me like a slap.",
+      "clozeSentence": "The news that Laurene was pregnant hit me like a _____.",
+      "distractors": [
+        "a gentle, comforting touch",
+        "a loud burst of laughter",
+        "a slow, gradual change"
+      ],
+      "surfaceForms": [
+        "slap"
+      ],
+      "clozeAnswerSurfaceForm": "slap"
+    },
+    {
+      "lemma": "dusk",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the time of day just before darkness, after sunset",
+      "translationZh": "黃昏；傍晚",
+      "exampleSentence": "The light was dim in that room at dusk—only the lamp on his desk and a weak one overhead and royal blue in the windows.",
+      "clozeSentence": "The light was dim in that room at _____—only the lamp on his desk and a weak one overhead and royal blue in the windows.",
+      "distractors": [
+        "the time just before sunrise",
+        "the middle of a bright afternoon",
+        "the darkest point of the night"
+      ],
+      "surfaceForms": [
+        "dusk"
+      ],
+      "clozeAnswerSurfaceForm": "dusk—only"
+    },
+    {
+      "lemma": "overhead",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "above one's head, in the space up high",
+      "translationZh": "在頭頂上方的",
+      "exampleSentence": "The light was dim in that room at dusk—only the lamp on his desk and a weak one overhead and royal blue in the windows.",
+      "clozeSentence": "The light was dim in that room at dusk—only the lamp on his desk and a weak one _____ and royal blue in the windows.",
+      "distractors": [
+        "directly below the floor",
+        "off to one side",
+        "hidden behind a wall"
+      ],
+      "surfaceForms": [
+        "overhead"
+      ],
+      "clozeAnswerSurfaceForm": "overhead"
+    },
+    {
+      "lemma": "eyebrow",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the line of hair above each eye",
+      "translationZh": "眉毛",
+      "exampleSentence": "Laurene raised her eyebrows and nodded at me, in agreement, behind his back.",
+      "clozeSentence": "Laurene raised her _____ and nodded at me, in agreement, behind his back.",
+      "distractors": [
+        "the skin folds beneath the eyes",
+        "the eyelashes surrounding the eyes",
+        "the bridge of the nose"
+      ],
+      "surfaceForms": [
+        "eyebrows"
+      ],
+      "clozeAnswerSurfaceForm": "eyebrows"
+    },
+    {
+      "lemma": "ottoman",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a low, cushioned seat or footstool without a back",
+      "translationZh": "矮凳；腳凳",
+      "exampleSentence": "Laurene sat on an ottoman, my father on the floor.",
+      "clozeSentence": "Laurene sat on an _____, my father on the floor.",
+      "distractors": [
+        "a tall wooden bookshelf",
+        "a small round dining table",
+        "a folding chair with armrests"
+      ],
+      "surfaceForms": [
+        "ottoman"
+      ],
+      "clozeAnswerSurfaceForm": "ottoman"
+    },
+    {
+      "lemma": "twitch",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "to make a sudden, small, uncontrolled movement",
+      "translationZh": "抽搐；抽動",
+      "exampleSentence": "I felt the muscles in my face melt and twitch so that I wasn’t sure anymore what the resting position of a face was supposed to be and how to get back to it.",
+      "clozeSentence": "I felt the muscles in my face melt and _____ so that I wasn’t sure anymore what the resting position of a face was supposed to be and how to get back to it.",
+      "distractors": [
+        "to relax completely and go still",
+        "to stretch slowly and deliberately",
+        "to swell up with fluid"
+      ],
+      "surfaceForms": [
+        "twitch"
+      ],
+      "clozeAnswerSurfaceForm": "twitch"
+    },
+    {
+      "lemma": "conceive",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to become pregnant with a baby",
+      "translationZh": "懷孕",
+      "exampleSentence": "I thought they’d wait to conceive—for several years, at least.",
+      "clozeSentence": "I thought they’d wait to _____—for several years, at least.",
+      "distractors": [
+        "to adopt a child legally",
+        "to plan a wedding ceremony",
+        "to raise a child from birth"
+      ],
+      "surfaceForms": [
+        "conceive"
+      ],
+      "clozeAnswerSurfaceForm": "conceive—for"
+    },
+    {
+      "lemma": "syllable",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a unit of sound in a word, containing one vowel sound",
+      "translationZh": "音節",
+      "exampleSentence": "I went over to the house, into my father’s study, and saw my father had typed out the name—Reed Paul Jobs, three names, three syllables—in many typefaces, fonts, sizes, filling his computer screen.",
+      "clozeSentence": "I went over to the house, into my father’s study, and saw my father had typed out the name—Reed Paul Jobs, three names, three _____—in many typefaces, fonts, sizes, filling his computer screen.",
+      "distractors": [
+        "a single letter of the alphabet",
+        "the meaning of a word",
+        "the stress pattern of a sentence"
+      ],
+      "surfaceForms": [
+        "syllables"
+      ],
+      "clozeAnswerSurfaceForm": "syllables—in"
+    },
+    {
+      "lemma": "font",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a particular design or style of printed letters",
+      "translationZh": "字型",
+      "exampleSentence": "I went over to the house, into my father’s study, and saw my father had typed out the name—Reed Paul Jobs, three names, three syllables—in many typefaces, fonts, sizes, filling his computer screen.",
+      "clozeSentence": "I went over to the house, into my father’s study, and saw my father had typed out the name—Reed Paul Jobs, three names, three syllables—in many typefaces, _____, sizes, filling his computer screen.",
+      "distractors": [
+        "the size of printed text",
+        "the color used for printing",
+        "the paper used for printing documents"
+      ],
+      "surfaceForms": [
+        "fonts"
+      ],
+      "clozeAnswerSurfaceForm": "fonts"
+    },
+    {
+      "lemma": "typeface",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a particular style or design of printed letters and numbers",
+      "translationZh": "字體",
+      "exampleSentence": "I went over to the house, into my father’s study, and saw my father had typed out the name—Reed Paul Jobs, three names, three syllables—in many typefaces, fonts, sizes, filling his computer screen.",
+      "clozeSentence": "I went over to the house, into my father’s study, and saw my father had typed out the name—Reed Paul Jobs, three names, three syllables—in many _____, fonts, sizes, filling his computer screen.",
+      "distractors": [
+        "the physical size of printed text",
+        "a machine used for printing documents",
+        "the spacing between lines of text"
+      ],
+      "surfaceForms": [
+        "typefaces"
+      ],
+      "clozeAnswerSurfaceForm": "typefaces"
+    },
+    {
+      "lemma": "articulate",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to express thoughts or feelings clearly in words",
+      "translationZh": "清楚表達",
+      "exampleSentence": "Although I could not have articulated it, I thought I was what they wanted.",
+      "clozeSentence": "Although I could not have _____ it, I thought I was what they wanted.",
+      "distractors": [
+        "to hide one's true feelings from others",
+        "to argue loudly with someone",
+        "to write something down in detail"
+      ],
+      "surfaceForms": [
+        "articulated"
+      ],
+      "clozeAnswerSurfaceForm": "articulated"
+    },
+    {
+      "lemma": "wed",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "the ceremony or event of getting married",
+      "translationZh": "婚禮",
+      "exampleSentence": "A house, a woman, a man, and a daughter: now, finally, with the wedding ceremony over, we might enjoy it.",
+      "clozeSentence": "A house, a woman, a man, and a daughter: now, finally, with the _____ ceremony over, we might enjoy it.",
+      "distractors": [
+        "a large family celebration for a birthday",
+        "the signing of a legal business contract",
+        "a religious ceremony for a newborn baby"
+      ],
+      "surfaceForms": [
+        "wedding"
+      ],
+      "clozeAnswerSurfaceForm": "wedding"
+    },
+    {
+      "lemma": "vegan",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "containing no animal products at all",
+      "translationZh": "純素的；全素的",
+      "exampleSentence": "We ate the same food as on other days: vegan food.",
+      "clozeSentence": "We ate the same food as on other days: _____ food.",
+      "distractors": [
+        "containing only fish and seafood",
+        "prepared without any cooking",
+        "extremely low in calories"
+      ],
+      "surfaceForms": [
+        "vegan"
+      ],
+      "clozeAnswerSurfaceForm": "vegan"
+    },
+    {
+      "lemma": "kisser",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a person considered in terms of how well they kiss",
+      "translationZh": "接吻的人（形容接吻技巧）",
+      "exampleSentence": "He said that he was a good kisser, and lots of women told him so.",
+      "clozeSentence": "He said that he was a good _____, and lots of women told him so.",
+      "distractors": [
+        "a person who talks a lot",
+        "a person who dances well",
+        "a person who cooks skillfully"
+      ],
+      "surfaceForms": [
+        "kisser"
+      ],
+      "clozeAnswerSurfaceForm": "kisser"
+    },
+    {
+      "lemma": "dreamy",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "seeming distant or lost in thought, as if not fully present",
+      "translationZh": "恍惚的；夢幻般的",
+      "exampleSentence": "He had an old, dreamy look in his gray eyes, like he came from a wiser place.",
+      "clozeSentence": "He had an old, _____ look in his gray eyes, like he came from a wiser place.",
+      "distractors": [
+        "alert and sharply focused",
+        "angry and full of tension",
+        "bright and cheerful"
+      ],
+      "surfaceForms": [
+        "dreamy"
+      ],
+      "clozeAnswerSurfaceForm": "dreamy"
+    },
+    {
+      "lemma": "suction",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "the force created by removing air, which pulls things together",
+      "translationZh": "吸力；吸附作用",
+      "exampleSentence": "“It looked more like suction than a kiss,” I said.",
+      "clozeSentence": "“It looked more like _____ than a kiss,” I said.",
+      "distractors": [
+        "a gentle push away from something",
+        "a sudden loud noise",
+        "a light, brief touch"
+      ],
+      "surfaceForms": [
+        "suction"
+      ],
+      "clozeAnswerSurfaceForm": "suction"
+    },
+    {
+      "lemma": "downy",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "covered with soft, fine, fluffy hair or feathers",
+      "translationZh": "絨毛狀的；柔軟細毛的",
+      "exampleSentence": "Curled on his stomach, I noticed the downy hairs on his back, his abdomen flaring out under his ribs like a roasting chicken.",
+      "clozeSentence": "Curled on his stomach, I noticed the _____ hairs on his back, his abdomen flaring out under his ribs like a roasting chicken.",
+      "distractors": [
+        "covered with coarse, thick hair",
+        "completely smooth and hairless",
+        "covered in tiny scales"
+      ],
+      "surfaceForms": [
+        "downy"
+      ],
+      "clozeAnswerSurfaceForm": "downy"
+    },
+    {
+      "lemma": "soupy",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "soft and mushy, resembling soup in texture",
+      "translationZh": "軟糊狀的；像湯一樣稀軟的",
+      "exampleSentence": "Dark straight hair grew around a soupy area on his skull that pressed in like the center of a pie.",
+      "clozeSentence": "Dark straight hair grew around a _____ area on his skull that pressed in like the center of a pie.",
+      "distractors": [
+        "hard and firm to the touch",
+        "dry and flaky in texture",
+        "smooth and perfectly round"
+      ],
+      "surfaceForms": [
+        "soupy"
+      ],
+      "clozeAnswerSurfaceForm": "soupy"
+    },
+    {
+      "lemma": "spindly",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "unusually thin, long, and weak-looking",
+      "translationZh": "細長瘦弱的",
+      "exampleSentence": "His tiny diapers made him seem even smaller, spindly thighs and tiny feet shooting out of a big white casing.",
+      "clozeSentence": "His tiny diapers made him seem even smaller, _____ thighs and tiny feet shooting out of a big white casing.",
+      "distractors": [
+        "short and unusually strong",
+        "round and plump",
+        "firm and muscular"
+      ],
+      "surfaceForms": [
+        "spindly"
+      ],
+      "clozeAnswerSurfaceForm": "spindly"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "wordLemma": "twitch",
+      "prompt": "twitch",
+      "options": [
+        "to stretch slowly and deliberately",
+        "to relax completely and go still",
+        "to make a sudden, small, uncontrolled movement",
+        "to swell up with fluid"
+      ],
+      "answer": "to make a sudden, small, uncontrolled movement"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "overhead",
+      "prompt": "overhead",
+      "options": [
+        "off to one side",
+        "hidden behind a wall",
+        "directly below the floor",
+        "above one's head, in the space up high"
+      ],
+      "answer": "above one's head, in the space up high"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "articulate",
+      "prompt": "清楚表達",
+      "options": [
+        "eyebrow",
+        "ottoman",
+        "articulate",
+        "dusk"
+      ],
+      "answer": "articulate"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "ottoman",
+      "prompt": "矮凳；腳凳",
+      "options": [
+        "eyebrow",
+        "syllable",
+        "ottoman",
+        "twitch"
+      ],
+      "answer": "ottoman"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "soupy",
+      "prompt": "soupy",
+      "options": [
+        "smooth and perfectly round",
+        "soft and mushy, resembling soup in texture",
+        "dry and flaky in texture",
+        "hard and firm to the touch"
+      ],
+      "answer": "soft and mushy, resembling soup in texture"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "kisser",
+      "prompt": "接吻的人（形容接吻技巧）",
+      "options": [
+        "articulate",
+        "kisser",
+        "dusk",
+        "conceive"
+      ],
+      "answer": "kisser"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "wed",
+      "prompt": "wed",
+      "options": [
+        "the signing of a legal business contract",
+        "the ceremony or event of getting married",
+        "a large family celebration for a birthday",
+        "a religious ceremony for a newborn baby"
+      ],
+      "answer": "the ceremony or event of getting married"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "dusk",
+      "prompt": "黃昏；傍晚",
+      "options": [
+        "dim",
+        "ottoman",
+        "suction",
+        "dusk"
+      ],
+      "answer": "dusk"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "suction",
+      "prompt": "“It looked more like _____ than a kiss,” I said.",
+      "options": [
+        "slap",
+        "dusk—only",
+        "downy",
+        "suction"
+      ],
+      "answer": "suction"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "conceive",
+      "prompt": "I thought they’d wait to _____—for several years, at least.",
+      "options": [
+        "conceive—for",
+        "soupy",
+        "dreamy",
+        "eyebrows"
+      ],
+      "answer": "conceive—for"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "vegan",
+      "prompt": "We ate the same food as on other days: _____ food.",
+      "options": [
+        "fonts",
+        "suction",
+        "wedding",
+        "vegan"
+      ],
+      "answer": "vegan"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "eyebrow",
+      "prompt": "Laurene raised her _____ and nodded at me, in agreement, behind his back.",
+      "options": [
+        "eyebrows",
+        "fonts",
+        "spindly",
+        "typefaces"
+      ],
+      "answer": "eyebrows"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "downy",
+      "prompt": "絨毛狀的；柔軟細毛的",
+      "options": [
+        "downy",
+        "articulate",
+        "kisser",
+        "twitch"
+      ],
+      "answer": "downy"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "typeface",
+      "prompt": "I went over to the house, into my father’s study, and saw my father had typed out the name—Reed Paul Jobs, three names, three syllables—in many _____, fonts, sizes, filling his computer screen.",
+      "options": [
+        "typefaces",
+        "eyebrows",
+        "conceive—for",
+        "spindly"
+      ],
+      "answer": "typefaces"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "spindly",
+      "prompt": "His tiny diapers made him seem even smaller, _____ thighs and tiny feet shooting out of a big white casing.",
+      "options": [
+        "twitch",
+        "spindly",
+        "syllables—in",
+        "overhead"
+      ],
+      "answer": "spindly"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "slap",
+      "prompt": "The news that Laurene was pregnant hit me like a _____.",
+      "options": [
+        "slap",
+        "eyebrows",
+        "wedding",
+        "spindly"
+      ],
+      "answer": "slap"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "dim",
+      "prompt": "dim",
+      "options": [
+        "not bright; giving out only a little light",
+        "extremely bright and dazzling",
+        "completely dark, with no light at all",
+        "flickering on and off repeatedly"
+      ],
+      "answer": "not bright; giving out only a little light"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "font",
+      "prompt": "font",
+      "options": [
+        "the color used for printing",
+        "the size of printed text",
+        "a particular design or style of printed letters",
+        "the paper used for printing documents"
+      ],
+      "answer": "a particular design or style of printed letters"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "syllable",
+      "prompt": "音節",
+      "options": [
+        "dreamy",
+        "suction",
+        "syllable",
+        "eyebrow"
+      ],
+      "answer": "syllable"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "dreamy",
+      "prompt": "dreamy",
+      "options": [
+        "angry and full of tension",
+        "seeming distant or lost in thought, as if not fully present",
+        "alert and sharply focused",
+        "bright and cheerful"
+      ],
+      "answer": "seeming distant or lost in thought, as if not fully present"
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 9,
+  "partTitle": "Coda",
+  "sectionIndex": 5,
+  "paragraphs": [
+    "When I was twenty-seven, no longer at the bank but working at a graphic design company in London, my father invited me to join a yacht trip that he, Laurene, my siblings, and the babysitter were taking in the Mediterranean. He invited me for a weekend, but then implored me to stay for a few more days when the weekend was up. After those days were up, he asked me to stay longer again, until I had stayed as long as I could, for more than two weeks. Off the coast of the South of France my father said we were going to make a stop in the Alpes-Maritimes to meet a friend for lunch. He wouldn’t say who the friend was. We took a boat to the dock, where a van picked us up and took us to a lunch at a villa in Èze.",
+    "It turned out to be Bono’s villa. He met us out front wearing jeans, a T-shirt, and the same sunglasses I’d seen him wearing in pictures and on album covers. He seemed plain, and he was kind, without the awkward distance usually affected by famous people.",
+    "He gave us an exuberant tour of his house, as if he couldn’t quite believe it was his. The windows faced the Mediterranean, and the rooms were cluttered with children’s things. In an empty, light-filled octagonal room, he said, Gandhi once slept.",
+    "We had lunch on a large covered balcony overlooking the sea. I sat a few seats away from my father, who sat beside Bono at the head of the table. Waiters delivered food.",
+    "Bono asked my father about the beginning of Apple. Did the team feel alive, did they sense it was something big and they were going to change the world? My father said it did feel that way as they were making the Macintosh, and Bono said it was that way for him and the band too, and wasn’t it incredible that people in such disparate fields could have the same experience? Then Bono asked, “So was the Lisa computer named after her?”",
+    "There was a pause. I braced myself—prepared for his answer.",
+    "My father hesitated, looked down at his plate for a long moment, and then back at Bono. “Yeah, it was,” he said.",
+    "I sat up in my chair.",
+    "“I thought so,” Bono said.",
+    "“Yup,” my father said.",
+    "I studied my father’s face. What had changed? Why had he admitted it now, after all these years? Of course it was named after me, I thought then. His lie seemed preposterous now. I felt a new power that pulled my chest up.",
+    "“That’s the first time he’s said yes,” I told Bono. “Thank you for asking.” It was as if famous people needed other famous people around to release their secrets."
+  ],
+  "words": [
+    {
+      "lemma": "yacht",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A medium-to-large boat used for pleasure trips or racing.",
+      "translationZh": "遊艇",
+      "exampleSentence": "When I was twenty-seven, no longer at the bank but working at a graphic design company in London, my father invited me to join a yacht trip that he, Laurene, my siblings, and the babysitter were taking in the Mediterranean.",
+      "clozeSentence": "When I was twenty-seven, no longer at the bank but working at a graphic design company in London, my father invited me to join a _____ trip that he, Laurene, my siblings, and the babysitter were taking in the Mediterranean.",
+      "distractors": [
+        "A small fishing rowboat.",
+        "A large commercial cargo ship.",
+        "A floating dock."
+      ],
+      "surfaceForms": [
+        "yacht"
+      ],
+      "clozeAnswerSurfaceForm": "yacht"
+    },
+    {
+      "lemma": "sibling",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A brother or sister.",
+      "translationZh": "手足；兄弟姊妹",
+      "exampleSentence": "When I was twenty-seven, no longer at the bank but working at a graphic design company in London, my father invited me to join a yacht trip that he, Laurene, my siblings, and the babysitter were taking in the Mediterranean.",
+      "clozeSentence": "When I was twenty-seven, no longer at the bank but working at a graphic design company in London, my father invited me to join a yacht trip that he, Laurene, my _____, and the babysitter were taking in the Mediterranean.",
+      "distractors": [
+        "A close friend of the family.",
+        "A distant cousin.",
+        "A parent's coworker."
+      ],
+      "surfaceForms": [
+        "siblings"
+      ],
+      "clozeAnswerSurfaceForm": "siblings"
+    },
+    {
+      "lemma": "brace",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To prepare oneself for something difficult or unpleasant.",
+      "translationZh": "使做好準備（面對困難）",
+      "exampleSentence": "I braced myself—prepared for his answer.",
+      "clozeSentence": "I _____ myself—prepared for his answer.",
+      "distractors": [
+        "To relax completely without worry.",
+        "To celebrate an unexpected success.",
+        "To forget about an upcoming event."
+      ],
+      "surfaceForms": [
+        "braced"
+      ],
+      "clozeAnswerSurfaceForm": "braced"
+    },
+    {
+      "lemma": "exuberant",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Full of energy, excitement, and enthusiasm.",
+      "translationZh": "熱情洋溢的；興高采烈的",
+      "exampleSentence": "He gave us an exuberant tour of his house, as if he couldn’t quite believe it was his.",
+      "clozeSentence": "He gave us an _____ tour of his house, as if he couldn’t quite believe it was his.",
+      "distractors": [
+        "Quiet and reserved.",
+        "Nervous and hesitant.",
+        "Bored and indifferent."
+      ],
+      "surfaceForms": [
+        "exuberant"
+      ],
+      "clozeAnswerSurfaceForm": "exuberant"
+    },
+    {
+      "lemma": "implore",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To beg someone earnestly to do something.",
+      "translationZh": "懇求",
+      "exampleSentence": "He invited me for a weekend, but then implored me to stay for a few more days when the weekend was up.",
+      "clozeSentence": "He invited me for a weekend, but then _____ me to stay for a few more days when the weekend was up.",
+      "distractors": [
+        "To calmly suggest an idea.",
+        "To firmly refuse a request.",
+        "To politely decline an invitation."
+      ],
+      "surfaceForms": [
+        "implored"
+      ],
+      "clozeAnswerSurfaceForm": "implored"
+    },
+    {
+      "lemma": "dock",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A place where boats load, unload, or are moored.",
+      "translationZh": "碼頭",
+      "exampleSentence": "We took a boat to the dock, where a van picked us up and took us to a lunch at a villa in Èze.",
+      "clozeSentence": "We took a boat to the _____, where a van picked us up and took us to a lunch at a villa in Èze.",
+      "distractors": [
+        "A tall lighthouse.",
+        "A wide sandy beach.",
+        "A narrow mountain path."
+      ],
+      "surfaceForms": [
+        "dock"
+      ],
+      "clozeAnswerSurfaceForm": "dock"
+    },
+    {
+      "lemma": "overlook",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To have a view over something from above.",
+      "translationZh": "俯瞰",
+      "exampleSentence": "We had lunch on a large covered balcony overlooking the sea.",
+      "clozeSentence": "We had lunch on a large covered balcony _____ the sea.",
+      "distractors": [
+        "To be hidden underneath something.",
+        "To be located far away from something.",
+        "To completely block a view."
+      ],
+      "surfaceForms": [
+        "overlooking"
+      ],
+      "clozeAnswerSurfaceForm": "overlooking"
+    },
+    {
+      "lemma": "villa",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A large, comfortable house, especially in a warm country.",
+      "translationZh": "別墅",
+      "exampleSentence": "We took a boat to the dock, where a van picked us up and took us to a lunch at a villa in Èze.",
+      "clozeSentence": "We took a boat to the dock, where a van picked us up and took us to a lunch at a _____ in Èze.",
+      "distractors": [
+        "A small rented apartment.",
+        "A tall office building.",
+        "A public campsite."
+      ],
+      "surfaceForms": [
+        "villa"
+      ],
+      "clozeAnswerSurfaceForm": "villa"
+    },
+    {
+      "lemma": "clutter",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "To fill an area with too many untidy things.",
+      "translationZh": "使雜亂堆滿",
+      "exampleSentence": "The windows faced the Mediterranean, and the rooms were cluttered with children’s things.",
+      "clozeSentence": "The windows faced the Mediterranean, and the rooms were _____ with children’s things.",
+      "distractors": [
+        "To arrange things neatly and sparsely.",
+        "To completely empty a space.",
+        "To clean and polish a surface."
+      ],
+      "surfaceForms": [
+        "cluttered"
+      ],
+      "clozeAnswerSurfaceForm": "cluttered"
+    },
+    {
+      "lemma": "light-filled",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Full of natural light.",
+      "translationZh": "充滿光線的；明亮的",
+      "exampleSentence": "In an empty, light-filled octagonal room, he said, Gandhi once slept.",
+      "clozeSentence": "In an empty, _____ octagonal room, he said, Gandhi once slept.",
+      "distractors": [
+        "Completely dark and windowless.",
+        "Painted in dull, dark colors.",
+        "Filled with heavy furniture."
+      ],
+      "surfaceForms": [
+        "light-filled"
+      ],
+      "clozeAnswerSurfaceForm": "light-filled"
+    },
+    {
+      "lemma": "octagonal",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Having eight sides.",
+      "translationZh": "八角形的",
+      "exampleSentence": "In an empty, light-filled octagonal room, he said, Gandhi once slept.",
+      "clozeSentence": "In an empty, light-filled _____ room, he said, Gandhi once slept.",
+      "distractors": [
+        "Having four equal sides.",
+        "Perfectly round in shape.",
+        "Having no straight sides at all."
+      ],
+      "surfaceForms": [
+        "octagonal"
+      ],
+      "clozeAnswerSurfaceForm": "octagonal"
+    },
+    {
+      "lemma": "disparate",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Very different from each other; not able to be compared.",
+      "translationZh": "截然不同的；迥異的",
+      "exampleSentence": "My father said it did feel that way as they were making the Macintosh, and Bono said it was that way for him and the band too, and wasn’t it incredible that people in such disparate fields could have the same experience?",
+      "clozeSentence": "My father said it did feel that way as they were making the Macintosh, and Bono said it was that way for him and the band too, and wasn’t it incredible that people in such _____ fields could have the same experience?",
+      "distractors": [
+        "Very similar and closely related.",
+        "Evenly balanced and equal.",
+        "Gradually increasing in size."
+      ],
+      "surfaceForms": [
+        "disparate"
+      ],
+      "clozeAnswerSurfaceForm": "disparate"
+    },
+    {
+      "lemma": "preposterous",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Utterly absurd or ridiculous.",
+      "translationZh": "荒謬的；不合理的",
+      "exampleSentence": "His lie seemed preposterous now.",
+      "clozeSentence": "His lie seemed _____ now.",
+      "distractors": [
+        "Completely reasonable and sensible.",
+        "Mildly surprising but believable.",
+        "Serious and dignified."
+      ],
+      "surfaceForms": [
+        "preposterous"
+      ],
+      "clozeAnswerSurfaceForm": "preposterous"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "yacht",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A medium-to-large boat used for pleasure trips or racing.",
+      "translationZh": "遊艇",
+      "exampleSentence": "When I was twenty-seven, no longer at the bank but working at a graphic design company in London, my father invited me to join a yacht trip that he, Laurene, my siblings, and the babysitter were taking in the Mediterranean.",
+      "clozeSentence": "When I was twenty-seven, no longer at the bank but working at a graphic design company in London, my father invited me to join a _____ trip that he, Laurene, my siblings, and the babysitter were taking in the Mediterranean.",
+      "distractors": [
+        "A small fishing rowboat.",
+        "A large commercial cargo ship.",
+        "A floating dock."
+      ],
+      "surfaceForms": [
+        "yacht"
+      ],
+      "clozeAnswerSurfaceForm": "yacht"
+    },
+    {
+      "lemma": "sibling",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A brother or sister.",
+      "translationZh": "手足；兄弟姊妹",
+      "exampleSentence": "When I was twenty-seven, no longer at the bank but working at a graphic design company in London, my father invited me to join a yacht trip that he, Laurene, my siblings, and the babysitter were taking in the Mediterranean.",
+      "clozeSentence": "When I was twenty-seven, no longer at the bank but working at a graphic design company in London, my father invited me to join a yacht trip that he, Laurene, my _____, and the babysitter were taking in the Mediterranean.",
+      "distractors": [
+        "A close friend of the family.",
+        "A distant cousin.",
+        "A parent's coworker."
+      ],
+      "surfaceForms": [
+        "siblings"
+      ],
+      "clozeAnswerSurfaceForm": "siblings"
+    },
+    {
+      "lemma": "brace",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To prepare oneself for something difficult or unpleasant.",
+      "translationZh": "使做好準備（面對困難）",
+      "exampleSentence": "I braced myself—prepared for his answer.",
+      "clozeSentence": "I _____ myself—prepared for his answer.",
+      "distractors": [
+        "To relax completely without worry.",
+        "To celebrate an unexpected success.",
+        "To forget about an upcoming event."
+      ],
+      "surfaceForms": [
+        "braced"
+      ],
+      "clozeAnswerSurfaceForm": "braced"
+    },
+    {
+      "lemma": "exuberant",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Full of energy, excitement, and enthusiasm.",
+      "translationZh": "熱情洋溢的；興高采烈的",
+      "exampleSentence": "He gave us an exuberant tour of his house, as if he couldn’t quite believe it was his.",
+      "clozeSentence": "He gave us an _____ tour of his house, as if he couldn’t quite believe it was his.",
+      "distractors": [
+        "Quiet and reserved.",
+        "Nervous and hesitant.",
+        "Bored and indifferent."
+      ],
+      "surfaceForms": [
+        "exuberant"
+      ],
+      "clozeAnswerSurfaceForm": "exuberant"
+    },
+    {
+      "lemma": "implore",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To beg someone earnestly to do something.",
+      "translationZh": "懇求",
+      "exampleSentence": "He invited me for a weekend, but then implored me to stay for a few more days when the weekend was up.",
+      "clozeSentence": "He invited me for a weekend, but then _____ me to stay for a few more days when the weekend was up.",
+      "distractors": [
+        "To calmly suggest an idea.",
+        "To firmly refuse a request.",
+        "To politely decline an invitation."
+      ],
+      "surfaceForms": [
+        "implored"
+      ],
+      "clozeAnswerSurfaceForm": "implored"
+    },
+    {
+      "lemma": "dock",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A place where boats load, unload, or are moored.",
+      "translationZh": "碼頭",
+      "exampleSentence": "We took a boat to the dock, where a van picked us up and took us to a lunch at a villa in Èze.",
+      "clozeSentence": "We took a boat to the _____, where a van picked us up and took us to a lunch at a villa in Èze.",
+      "distractors": [
+        "A tall lighthouse.",
+        "A wide sandy beach.",
+        "A narrow mountain path."
+      ],
+      "surfaceForms": [
+        "dock"
+      ],
+      "clozeAnswerSurfaceForm": "dock"
+    },
+    {
+      "lemma": "overlook",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To have a view over something from above.",
+      "translationZh": "俯瞰",
+      "exampleSentence": "We had lunch on a large covered balcony overlooking the sea.",
+      "clozeSentence": "We had lunch on a large covered balcony _____ the sea.",
+      "distractors": [
+        "To be hidden underneath something.",
+        "To be located far away from something.",
+        "To completely block a view."
+      ],
+      "surfaceForms": [
+        "overlooking"
+      ],
+      "clozeAnswerSurfaceForm": "overlooking"
+    },
+    {
+      "lemma": "villa",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A large, comfortable house, especially in a warm country.",
+      "translationZh": "別墅",
+      "exampleSentence": "We took a boat to the dock, where a van picked us up and took us to a lunch at a villa in Èze.",
+      "clozeSentence": "We took a boat to the dock, where a van picked us up and took us to a lunch at a _____ in Èze.",
+      "distractors": [
+        "A small rented apartment.",
+        "A tall office building.",
+        "A public campsite."
+      ],
+      "surfaceForms": [
+        "villa"
+      ],
+      "clozeAnswerSurfaceForm": "villa"
+    },
+    {
+      "lemma": "clutter",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "To fill an area with too many untidy things.",
+      "translationZh": "使雜亂堆滿",
+      "exampleSentence": "The windows faced the Mediterranean, and the rooms were cluttered with children’s things.",
+      "clozeSentence": "The windows faced the Mediterranean, and the rooms were _____ with children’s things.",
+      "distractors": [
+        "To arrange things neatly and sparsely.",
+        "To completely empty a space.",
+        "To clean and polish a surface."
+      ],
+      "surfaceForms": [
+        "cluttered"
+      ],
+      "clozeAnswerSurfaceForm": "cluttered"
+    },
+    {
+      "lemma": "light-filled",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Full of natural light.",
+      "translationZh": "充滿光線的；明亮的",
+      "exampleSentence": "In an empty, light-filled octagonal room, he said, Gandhi once slept.",
+      "clozeSentence": "In an empty, _____ octagonal room, he said, Gandhi once slept.",
+      "distractors": [
+        "Completely dark and windowless.",
+        "Painted in dull, dark colors.",
+        "Filled with heavy furniture."
+      ],
+      "surfaceForms": [
+        "light-filled"
+      ],
+      "clozeAnswerSurfaceForm": "light-filled"
+    },
+    {
+      "lemma": "octagonal",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Having eight sides.",
+      "translationZh": "八角形的",
+      "exampleSentence": "In an empty, light-filled octagonal room, he said, Gandhi once slept.",
+      "clozeSentence": "In an empty, light-filled _____ room, he said, Gandhi once slept.",
+      "distractors": [
+        "Having four equal sides.",
+        "Perfectly round in shape.",
+        "Having no straight sides at all."
+      ],
+      "surfaceForms": [
+        "octagonal"
+      ],
+      "clozeAnswerSurfaceForm": "octagonal"
+    },
+    {
+      "lemma": "disparate",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Very different from each other; not able to be compared.",
+      "translationZh": "截然不同的；迥異的",
+      "exampleSentence": "My father said it did feel that way as they were making the Macintosh, and Bono said it was that way for him and the band too, and wasn’t it incredible that people in such disparate fields could have the same experience?",
+      "clozeSentence": "My father said it did feel that way as they were making the Macintosh, and Bono said it was that way for him and the band too, and wasn’t it incredible that people in such _____ fields could have the same experience?",
+      "distractors": [
+        "Very similar and closely related.",
+        "Evenly balanced and equal.",
+        "Gradually increasing in size."
+      ],
+      "surfaceForms": [
+        "disparate"
+      ],
+      "clozeAnswerSurfaceForm": "disparate"
+    },
+    {
+      "lemma": "preposterous",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Utterly absurd or ridiculous.",
+      "translationZh": "荒謬的；不合理的",
+      "exampleSentence": "His lie seemed preposterous now.",
+      "clozeSentence": "His lie seemed _____ now.",
+      "distractors": [
+        "Completely reasonable and sensible.",
+        "Mildly surprising but believable.",
+        "Serious and dignified."
+      ],
+      "surfaceForms": [
+        "preposterous"
+      ],
+      "clozeAnswerSurfaceForm": "preposterous"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "wordLemma": "overlook",
+      "prompt": "overlook",
+      "options": [
+        "To be located far away from something.",
+        "To have a view over something from above.",
+        "To be hidden underneath something.",
+        "To completely block a view."
+      ],
+      "answer": "To have a view over something from above."
+    },
+    {
+      "type": "translation",
+      "wordLemma": "clutter",
+      "prompt": "使雜亂堆滿",
+      "options": [
+        "preposterous",
+        "clutter",
+        "brace",
+        "light-filled"
+      ],
+      "answer": "clutter"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "light-filled",
+      "prompt": "light-filled",
+      "options": [
+        "Full of natural light.",
+        "Filled with heavy furniture.",
+        "Painted in dull, dark colors.",
+        "Completely dark and windowless."
+      ],
+      "answer": "Full of natural light."
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "villa",
+      "prompt": "We took a boat to the dock, where a van picked us up and took us to a lunch at a _____ in Èze.",
+      "options": [
+        "yacht",
+        "overlooking",
+        "braced",
+        "villa"
+      ],
+      "answer": "villa"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "sibling",
+      "prompt": "When I was twenty-seven, no longer at the bank but working at a graphic design company in London, my father invited me to join a yacht trip that he, Laurene, my _____, and the babysitter were taking in the Mediterranean.",
+      "options": [
+        "disparate",
+        "octagonal",
+        "siblings",
+        "overlooking"
+      ],
+      "answer": "siblings"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "brace",
+      "prompt": "使做好準備（面對困難）",
+      "options": [
+        "brace",
+        "yacht",
+        "disparate",
+        "preposterous"
+      ],
+      "answer": "brace"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "implore",
+      "prompt": "He invited me for a weekend, but then _____ me to stay for a few more days when the weekend was up.",
+      "options": [
+        "yacht",
+        "exuberant",
+        "implored",
+        "octagonal"
+      ],
+      "answer": "implored"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "dock",
+      "prompt": "碼頭",
+      "options": [
+        "dock",
+        "villa",
+        "exuberant",
+        "overlook"
+      ],
+      "answer": "dock"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "octagonal",
+      "prompt": "In an empty, light-filled _____ room, he said, Gandhi once slept.",
+      "options": [
+        "dock",
+        "light-filled",
+        "octagonal",
+        "cluttered"
+      ],
+      "answer": "octagonal"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "yacht",
+      "prompt": "yacht",
+      "options": [
+        "A large commercial cargo ship.",
+        "A floating dock.",
+        "A small fishing rowboat.",
+        "A medium-to-large boat used for pleasure trips or racing."
+      ],
+      "answer": "A medium-to-large boat used for pleasure trips or racing."
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "preposterous",
+      "prompt": "preposterous",
+      "options": [
+        "Mildly surprising but believable.",
+        "Completely reasonable and sensible.",
+        "Serious and dignified.",
+        "Utterly absurd or ridiculous."
+      ],
+      "answer": "Utterly absurd or ridiculous."
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "exuberant",
+      "prompt": "exuberant",
+      "options": [
+        "Nervous and hesitant.",
+        "Bored and indifferent.",
+        "Full of energy, excitement, and enthusiasm.",
+        "Quiet and reserved."
+      ],
+      "answer": "Full of energy, excitement, and enthusiasm."
+    },
+    {
+      "type": "translation",
+      "wordLemma": "disparate",
+      "prompt": "截然不同的；迥異的",
+      "options": [
+        "yacht",
+        "light-filled",
+        "exuberant",
+        "disparate"
+      ],
+      "answer": "disparate"
+    }
+  ]
+}

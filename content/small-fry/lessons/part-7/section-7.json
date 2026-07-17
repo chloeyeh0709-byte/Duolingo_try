@@ -1,0 +1,1285 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 7,
+  "partTitle": "Marketable Skills",
+  "sectionIndex": 7,
+  "paragraphs": [
+    "When I went back to my father’s house, Mona arrived for a visit with her husband, Richie, for a weekend. My father had a cold. He was in a dark mood. I avoided him, slipping out of rooms when he entered them, trying to stick near Mona and Richie, who were funny and warm, and feeling panicked when they went for a walk and left me alone in the house with him.",
+    "At some point I was hungry and went into the kitchen and found him there standing at the counter, eating from a bag of almonds.",
+    "“How’s homework going?” he asked. I could tell he was preoccupied with something, worried.",
+    "“Fine,” I said, bracing.",
+    "“The thing is, Lis,” he said, in the slow voice that meant he was about to say something incisive and possibly devastating, “you have no marketable skills. Not one.” He popped another almond into his mouth. The subject seemed to come from nowhere—why were we talking about marketable skills midmorning on a Saturday?",
+    "“But I’m doing all these activities,” I said, “and I get A’s!” And yet even as I said it—the newspaper, mock trial, the fact that I’d worked at a lab over the summer, and took Japanese—I wilted. I got his point. The confection of extracurricular activities, the flurry of self-importance—it was just a fever dream. No one hires someone for being on a debate team. I had not impressed him or fooled him. He knew all this stuff wasn’t worth much, and he was worried for my future.",
+    "I assumed that activities led to other activities in a ladder ascending to adult responsibility. I wasn’t supposed to be prepared for an adult job. Others seemed to think that too. At the same time, because he spoke with authority, and because I had been hoping to impress him, and because he was famous and successful and knew about the world, the remark was devastating.",
+    "“I wouldn’t lose sleep over it,” Mona said. “He’s just being silly.” I wanted her to say he was totally insane—to make him recant—in part because I worried he was right, if not about now, then about later, that I’d never be a success, never be able to get a job.",
+    "We all made allowances for his eccentricities, the ways he attacked other people, because he was also brilliant, and sometimes kind and insightful. Now I felt he’d crush me if I let him. He would tell me how little I meant over and over until I believed it. What use was his genius to me?",
+    "I was weary of going back and forth between my parents’ houses. I decided to split the remaining time before college in half, six months with each. I knew my father would not like the idea. The truth is, I would have moved back into my mother’s house, but I worried this would make him furious, and I didn’t want to leave Reed.",
+    "I’d figured out that to negotiate effectively, you must be willing to give up the thing you want, entirely, for something else; you need a fierce apathy. Since he’d said I had no marketable skills, something had shifted and loosened inside me. Things were not going to work out with him the way I’d hoped when I’d moved in.",
+    "I waited for him to walk into the hallway after lunch that weekend, sitting on the side of the door.",
+    "“Can I talk to you for a minute?”",
+    "“Yup,” he said, and sat beside me on the dark wooden bench.",
+    "“I’m sure you know how difficult it is for me to go back and forth,” I said. “The two houses are polar opposites. I’d like to split the year.” I was shaking. The trick was to make the request before revealing the underbelly, the girders and joists, the pylons.",
+    "“But you’re already at two months,” he said. “In fact, I’d like you to start coming more frequently. I don’t like the way you’ve been doing this. If you want to be part of this family, you’re going to have to be here more. You know what? Nope,” he said. “It’s not all right.” Other people sought resolution, but he could sustain a dissonant note.",
+    "He got up and started to walk away.",
+    "“If you won’t let me split it,” I said, as if in passing, “I’m going to go to my mom’s house for the whole year.”",
+    "I watched him from the corner of my eye. He seemed to deflate, all at once. I’d never negotiated with him and won.",
+    "“I—” he turned back. “Well, okay. Fine.” The winning felt uncomfortable, as though I’d wounded him.",
+    "I felt an obligation to be merciful. “Let me know which half you’d like,” I said.",
+    "“I’ll think about it,” he said, walking away.",
+    "I’d won. It wasn’t much; it was a step. I would get away. I would work toward freedom—one day, I would dangle my limbs from a car window beneath high arching branches."
+  ],
+  "words": [
+    {
+      "lemma": "arch",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "curving in the shape of an arch",
+      "translationZh": "拱形的；彎曲的",
+      "exampleSentence": "I would work toward freedom—one day, I would dangle my limbs from a car window beneath high arching branches.",
+      "clozeSentence": "I would work toward freedom—one day, I would dangle my limbs from a car window beneath high _____ branches.",
+      "distractors": [
+        "hanging straight down",
+        "broken into pieces",
+        "covered in leaves"
+      ],
+      "surfaceForms": [
+        "arching"
+      ],
+      "clozeAnswerSurfaceForm": "arching"
+    },
+    {
+      "lemma": "ascend",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to go up or climb higher",
+      "translationZh": "上升；攀登",
+      "exampleSentence": "I assumed that activities led to other activities in a ladder ascending to adult responsibility.",
+      "clozeSentence": "I assumed that activities led to other activities in a ladder _____ to adult responsibility.",
+      "distractors": [
+        "to fall or move downward",
+        "to spread out sideways",
+        "to stay in one fixed position"
+      ],
+      "surfaceForms": [
+        "ascending"
+      ],
+      "clozeAnswerSurfaceForm": "ascending"
+    },
+    {
+      "lemma": "dangle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to hang or swing loosely",
+      "translationZh": "懸掛；晃蕩",
+      "exampleSentence": "I would work toward freedom—one day, I would dangle my limbs from a car window beneath high arching branches.",
+      "clozeSentence": "I would work toward freedom—one day, I would _____ my limbs from a car window beneath high arching branches.",
+      "distractors": [
+        "to stand up straight and still",
+        "to fold up tightly",
+        "to press firmly against a surface"
+      ],
+      "surfaceForms": [
+        "dangle"
+      ],
+      "clozeAnswerSurfaceForm": "dangle"
+    },
+    {
+      "lemma": "limb",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "an arm or leg of a person or animal",
+      "translationZh": "肢體(手臂或腿)",
+      "exampleSentence": "I would work toward freedom—one day, I would dangle my limbs from a car window beneath high arching branches.",
+      "clozeSentence": "I would work toward freedom—one day, I would dangle my _____ from a car window beneath high arching branches.",
+      "distractors": [
+        "a lock of hair",
+        "a piece of clothing",
+        "a section of a road"
+      ],
+      "surfaceForms": [
+        "limbs"
+      ],
+      "clozeAnswerSurfaceForm": "limbs"
+    },
+    {
+      "lemma": "merciful",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "showing kindness or forgiveness toward someone",
+      "translationZh": "仁慈的；寬容的",
+      "exampleSentence": "I felt an obligation to be merciful.",
+      "clozeSentence": "I felt an obligation to be _____.",
+      "distractors": [
+        "showing cruelty or harshness",
+        "showing extreme caution",
+        "showing indifference"
+      ],
+      "surfaceForms": [
+        "merciful"
+      ],
+      "clozeAnswerSurfaceForm": "merciful"
+    },
+    {
+      "lemma": "obligation",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a duty or requirement to do something",
+      "translationZh": "義務；責任",
+      "exampleSentence": "I felt an obligation to be merciful.",
+      "clozeSentence": "I felt an _____ to be merciful.",
+      "distractors": [
+        "a strong personal desire",
+        "a feeling of regret",
+        "a piece of good luck"
+      ],
+      "surfaceForms": [
+        "obligation"
+      ],
+      "clozeAnswerSurfaceForm": "obligation"
+    },
+    {
+      "lemma": "preoccupy",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to fill someone's mind so much that they cannot think of other things",
+      "translationZh": "使全神貫注；使掛心",
+      "exampleSentence": "I could tell he was preoccupied with something, worried.",
+      "clozeSentence": "I could tell he was _____ with something, worried.",
+      "distractors": [
+        "to make someone feel relaxed",
+        "to make someone forget completely",
+        "to make someone extremely tired"
+      ],
+      "surfaceForms": [
+        "preoccupied"
+      ],
+      "clozeAnswerSurfaceForm": "preoccupied"
+    },
+    {
+      "lemma": "weary",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "very tired, especially from something repeated or long",
+      "translationZh": "疲憊的；厭倦的",
+      "exampleSentence": "I was weary of going back and forth between my parents’ houses.",
+      "clozeSentence": "I was _____ of going back and forth between my parents’ houses.",
+      "distractors": [
+        "extremely excited and energetic",
+        "confused and uncertain",
+        "calm and relaxed"
+      ],
+      "surfaceForms": [
+        "weary"
+      ],
+      "clozeAnswerSurfaceForm": "weary"
+    },
+    {
+      "lemma": "deflate",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to suddenly lose confidence, energy, or enthusiasm",
+      "translationZh": "洩氣；士氣低落",
+      "exampleSentence": "He seemed to deflate, all at once.",
+      "clozeSentence": "He seemed to _____, all at once.",
+      "distractors": [
+        "to gain sudden confidence",
+        "to grow physically larger",
+        "to become extremely angry"
+      ],
+      "surfaceForms": [
+        "deflate"
+      ],
+      "clozeAnswerSurfaceForm": "deflate"
+    },
+    {
+      "lemma": "brace",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to prepare oneself for something difficult or unpleasant",
+      "translationZh": "做好心理準備；繃緊身體以應對",
+      "exampleSentence": "“Fine,” I said, bracing.",
+      "clozeSentence": "“Fine,” I said, _____.",
+      "distractors": [
+        "to relax completely without worry",
+        "to celebrate an achievement",
+        "to forget about a problem"
+      ],
+      "surfaceForms": [
+        "bracing"
+      ],
+      "clozeAnswerSurfaceForm": "bracing"
+    },
+    {
+      "lemma": "incisive",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "showing clear, sharp understanding or judgment",
+      "translationZh": "犀利的；一針見血的",
+      "exampleSentence": "“The thing is, Lis,” he said, in the slow voice that meant he was about to say something incisive and possibly devastating, “you have no marketable skills.",
+      "clozeSentence": "“The thing is, Lis,” he said, in the slow voice that meant he was about to say something _____ and possibly devastating, “you have no marketable skills.",
+      "distractors": [
+        "vague and unclear",
+        "gentle and comforting",
+        "slow and hesitant"
+      ],
+      "surfaceForms": [
+        "incisive"
+      ],
+      "clozeAnswerSurfaceForm": "incisive"
+    },
+    {
+      "lemma": "marketable",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "able to be sold or valued by employers or buyers",
+      "translationZh": "有市場價值的；適銷的",
+      "exampleSentence": "“The thing is, Lis,” he said, in the slow voice that meant he was about to say something incisive and possibly devastating, “you have no marketable skills.",
+      "clozeSentence": "“The thing is, Lis,” he said, in the slow voice that meant he was about to say something incisive and possibly devastating, “you have no _____ skills.",
+      "distractors": [
+        "impossible to sell or use",
+        "extremely expensive to produce",
+        "created only for personal enjoyment"
+      ],
+      "surfaceForms": [
+        "marketable"
+      ],
+      "clozeAnswerSurfaceForm": "marketable"
+    },
+    {
+      "lemma": "polar",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "completely opposite in nature",
+      "translationZh": "截然相反的",
+      "exampleSentence": "“The two houses are polar opposites.",
+      "clozeSentence": "“The two houses are _____ opposites.",
+      "distractors": [
+        "almost identical in nature",
+        "slightly different in style",
+        "connected in some way"
+      ],
+      "surfaceForms": [
+        "polar"
+      ],
+      "clozeAnswerSurfaceForm": "polar"
+    },
+    {
+      "lemma": "confection",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "something elaborately created or put together",
+      "translationZh": "精心構築之物；(比喻)拼湊而成的組合",
+      "exampleSentence": "The confection of extracurricular activities, the flurry of self-importance—it was just a fever dream.",
+      "clozeSentence": "The _____ of extracurricular activities, the flurry of self-importance—it was just a fever dream.",
+      "distractors": [
+        "a simple, plain arrangement",
+        "a broken or damaged object",
+        "a written legal agreement"
+      ],
+      "surfaceForms": [
+        "confection"
+      ],
+      "clozeAnswerSurfaceForm": "confection"
+    },
+    {
+      "lemma": "extracurricular",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "outside the normal school curriculum",
+      "translationZh": "課外的",
+      "exampleSentence": "The confection of extracurricular activities, the flurry of self-importance—it was just a fever dream.",
+      "clozeSentence": "The confection of _____ activities, the flurry of self-importance—it was just a fever dream.",
+      "distractors": [
+        "required for graduation",
+        "related to household chores",
+        "connected to part-time jobs"
+      ],
+      "surfaceForms": [
+        "extracurricular"
+      ],
+      "clozeAnswerSurfaceForm": "extracurricular"
+    },
+    {
+      "lemma": "flurry",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a sudden brief period of activity or excitement",
+      "translationZh": "一陣忙亂；一陣騷動",
+      "exampleSentence": "The confection of extracurricular activities, the flurry of self-importance—it was just a fever dream.",
+      "clozeSentence": "The confection of extracurricular activities, the _____ of self-importance—it was just a fever dream.",
+      "distractors": [
+        "a long period of calm",
+        "a permanent state of change",
+        "a slow, steady decline"
+      ],
+      "surfaceForms": [
+        "flurry"
+      ],
+      "clozeAnswerSurfaceForm": "flurry"
+    },
+    {
+      "lemma": "furious",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "extremely angry",
+      "translationZh": "狂怒的",
+      "exampleSentence": "The truth is, I would have moved back into my mother’s house, but I worried this would make him furious, and I didn’t want to leave Reed.",
+      "clozeSentence": "The truth is, I would have moved back into my mother’s house, but I worried this would make him _____, and I didn’t want to leave Reed.",
+      "distractors": [
+        "extremely happy",
+        "very tired",
+        "slightly confused"
+      ],
+      "surfaceForms": [
+        "furious"
+      ],
+      "clozeAnswerSurfaceForm": "furious"
+    },
+    {
+      "lemma": "girder",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a large steel or iron beam used to support a structure",
+      "translationZh": "大樑；桁架",
+      "exampleSentence": "The trick was to make the request before revealing the underbelly, the girders and joists, the pylons.",
+      "clozeSentence": "The trick was to make the request before revealing the underbelly, the _____ and joists, the pylons.",
+      "distractors": [
+        "a thin decorative wire",
+        "a soft cushioning material",
+        "a small connecting screw"
+      ],
+      "surfaceForms": [
+        "girders"
+      ],
+      "clozeAnswerSurfaceForm": "girders"
+    },
+    {
+      "lemma": "joist",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a beam that helps support a floor or ceiling",
+      "translationZh": "托樑；橫樑",
+      "exampleSentence": "The trick was to make the request before revealing the underbelly, the girders and joists, the pylons.",
+      "clozeSentence": "The trick was to make the request before revealing the underbelly, the girders and _____, the pylons.",
+      "distractors": [
+        "a decorative curtain",
+        "a small wooden shelf",
+        "a metal door handle"
+      ],
+      "surfaceForms": [
+        "joists"
+      ],
+      "clozeAnswerSurfaceForm": "joists"
+    },
+    {
+      "lemma": "pylon",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a tall tower-like structure supporting cables or a roadway",
+      "translationZh": "電塔；橋墩",
+      "exampleSentence": "The trick was to make the request before revealing the underbelly, the girders and joists, the pylons.",
+      "clozeSentence": "The trick was to make the request before revealing the underbelly, the girders and joists, the _____.",
+      "distractors": [
+        "a small wooden fence post",
+        "a soft rubber mat",
+        "a decorative garden light"
+      ],
+      "surfaceForms": [
+        "pylons"
+      ],
+      "clozeAnswerSurfaceForm": "pylons"
+    },
+    {
+      "lemma": "self-importance",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "an exaggerated sense of one's own value or significance",
+      "translationZh": "自負；自以為重要",
+      "exampleSentence": "The confection of extracurricular activities, the flurry of self-importance—it was just a fever dream.",
+      "clozeSentence": "The confection of extracurricular activities, the flurry of _____—it was just a fever dream.",
+      "distractors": [
+        "a genuine feeling of humility",
+        "a strong sense of loyalty to others",
+        "a fear of being noticed"
+      ],
+      "surfaceForms": [
+        "self-importance"
+      ],
+      "clozeAnswerSurfaceForm": "self-importance—it"
+    },
+    {
+      "lemma": "underbelly",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "the hidden, often vulnerable part of something",
+      "translationZh": "隱藏的弱點；底層真相",
+      "exampleSentence": "The trick was to make the request before revealing the underbelly, the girders and joists, the pylons.",
+      "clozeSentence": "The trick was to make the request before revealing the _____, the girders and joists, the pylons.",
+      "distractors": [
+        "the most visible, public part",
+        "the strongest, most protected part",
+        "the final, completed stage"
+      ],
+      "surfaceForms": [
+        "underbelly"
+      ],
+      "clozeAnswerSurfaceForm": "underbelly"
+    },
+    {
+      "lemma": "mock",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "not real; done as an imitation or practice",
+      "translationZh": "模擬的",
+      "exampleSentence": "“But I’m doing all these activities,” I said, “and I get A’s!” And yet even as I said it—the newspaper, mock trial, the fact that I’d worked at a lab over the summer, and took Japanese—I wilted.",
+      "clozeSentence": "“But I’m doing all these activities,” I said, “and I get A’s!” And yet even as I said it—the newspaper, _____ trial, the fact that I’d worked at a lab over the summer, and took Japanese—I wilted.",
+      "distractors": [
+        "extremely serious and formal",
+        "held in complete secrecy",
+        "conducted only once a year"
+      ],
+      "surfaceForms": [
+        "mock"
+      ],
+      "clozeAnswerSurfaceForm": "mock"
+    },
+    {
+      "lemma": "trial",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a formal test or examination, or a legal proceeding",
+      "translationZh": "審判；試驗",
+      "exampleSentence": "“But I’m doing all these activities,” I said, “and I get A’s!” And yet even as I said it—the newspaper, mock trial, the fact that I’d worked at a lab over the summer, and took Japanese—I wilted.",
+      "clozeSentence": "“But I’m doing all these activities,” I said, “and I get A’s!” And yet even as I said it—the newspaper, mock _____, the fact that I’d worked at a lab over the summer, and took Japanese—I wilted.",
+      "distractors": [
+        "a casual conversation",
+        "a written report",
+        "a public celebration"
+      ],
+      "surfaceForms": [
+        "trial"
+      ],
+      "clozeAnswerSurfaceForm": "trial"
+    },
+    {
+      "lemma": "wilt",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to lose energy, confidence, or strength, becoming weak",
+      "translationZh": "(信心、精力等)萎靡；洩氣",
+      "exampleSentence": "“But I’m doing all these activities,” I said, “and I get A’s!” And yet even as I said it—the newspaper, mock trial, the fact that I’d worked at a lab over the summer, and took Japanese—I wilted.",
+      "clozeSentence": "“But I’m doing all these activities,” I said, “and I get A’s!” And yet even as I said it—the newspaper, mock trial, the fact that I’d worked at a lab over the summer, and took Japanese—I _____.",
+      "distractors": [
+        "to grow stronger and more confident",
+        "to laugh loudly with joy",
+        "to speak more forcefully"
+      ],
+      "surfaceForms": [
+        "wilted"
+      ],
+      "clozeAnswerSurfaceForm": "wilted"
+    },
+    {
+      "lemma": "apathy",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a lack of interest, enthusiasm, or concern",
+      "translationZh": "冷漠；無動於衷",
+      "exampleSentence": "I’d figured out that to negotiate effectively, you must be willing to give up the thing you want, entirely, for something else; you need a fierce apathy.",
+      "clozeSentence": "I’d figured out that to negotiate effectively, you must be willing to give up the thing you want, entirely, for something else; you need a fierce _____.",
+      "distractors": [
+        "a strong desire to succeed",
+        "an intense fear of failure",
+        "a deep sense of guilt"
+      ],
+      "surfaceForms": [
+        "apathy"
+      ],
+      "clozeAnswerSurfaceForm": "apathy"
+    },
+    {
+      "lemma": "effectively",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "in a way that produces the intended result",
+      "translationZh": "有效地",
+      "exampleSentence": "I’d figured out that to negotiate effectively, you must be willing to give up the thing you want, entirely, for something else; you need a fierce apathy.",
+      "clozeSentence": "I’d figured out that to negotiate _____, you must be willing to give up the thing you want, entirely, for something else; you need a fierce apathy.",
+      "distractors": [
+        "in a slow and careless way",
+        "in a secretive way",
+        "in an aggressive way"
+      ],
+      "surfaceForms": [
+        "effectively"
+      ],
+      "clozeAnswerSurfaceForm": "effectively"
+    },
+    {
+      "lemma": "fierce",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "intense or powerful in a strong, forceful way",
+      "translationZh": "強烈的；猛烈的",
+      "exampleSentence": "I’d figured out that to negotiate effectively, you must be willing to give up the thing you want, entirely, for something else; you need a fierce apathy.",
+      "clozeSentence": "I’d figured out that to negotiate effectively, you must be willing to give up the thing you want, entirely, for something else; you need a _____ apathy.",
+      "distractors": [
+        "gentle and mild",
+        "uncertain and weak",
+        "brief and temporary"
+      ],
+      "surfaceForms": [
+        "fierce"
+      ],
+      "clozeAnswerSurfaceForm": "fierce"
+    },
+    {
+      "lemma": "recant",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to formally withdraw a previously stated belief or opinion",
+      "translationZh": "撤回言論；公開否認",
+      "exampleSentence": "“He’s just being silly.” I wanted her to say he was totally insane—to make him recant—in part because I worried he was right, if not about now, then about later, that I’d never be a success, never be able to get a job.",
+      "clozeSentence": "“He’s just being silly.” I wanted her to say he was totally insane—to make him _____—in part because I worried he was right, if not about now, then about later, that I’d never be a success, never be able to get a job.",
+      "distractors": [
+        "to strongly repeat a belief",
+        "to invent a new idea",
+        "to keep a secret hidden"
+      ],
+      "surfaceForms": [
+        "recant"
+      ],
+      "clozeAnswerSurfaceForm": "recant—in"
+    },
+    {
+      "lemma": "eccentricity",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "unusual or strange behavior",
+      "translationZh": "古怪行為",
+      "exampleSentence": "We all made allowances for his eccentricities, the ways he attacked other people, because he was also brilliant, and sometimes kind and insightful.",
+      "clozeSentence": "We all made allowances for his _____, the ways he attacked other people, because he was also brilliant, and sometimes kind and insightful.",
+      "distractors": [
+        "ordinary, predictable behavior",
+        "a strong sense of responsibility",
+        "a talent for organization"
+      ],
+      "surfaceForms": [
+        "eccentricities"
+      ],
+      "clozeAnswerSurfaceForm": "eccentricities"
+    },
+    {
+      "lemma": "insightful",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "showing a clear, deep understanding of something",
+      "translationZh": "有洞察力的",
+      "exampleSentence": "We all made allowances for his eccentricities, the ways he attacked other people, because he was also brilliant, and sometimes kind and insightful.",
+      "clozeSentence": "We all made allowances for his eccentricities, the ways he attacked other people, because he was also brilliant, and sometimes kind and _____.",
+      "distractors": [
+        "showing confusion about a topic",
+        "showing a lack of interest",
+        "showing excessive caution"
+      ],
+      "surfaceForms": [
+        "insightful"
+      ],
+      "clozeAnswerSurfaceForm": "insightful"
+    },
+    {
+      "lemma": "genius",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "exceptional intellectual or creative ability",
+      "translationZh": "天才；過人才智",
+      "exampleSentence": "What use was his genius to me?",
+      "clozeSentence": "What use was his _____ to me?",
+      "distractors": [
+        "a strong physical strength",
+        "a formal qualification",
+        "a large amount of money"
+      ],
+      "surfaceForms": [
+        "genius"
+      ],
+      "clozeAnswerSurfaceForm": "genius"
+    },
+    {
+      "lemma": "loosen",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to become less tight or tense",
+      "translationZh": "鬆動；放鬆",
+      "exampleSentence": "Since he’d said I had no marketable skills, something had shifted and loosened inside me.",
+      "clozeSentence": "Since he’d said I had no marketable skills, something had shifted and _____ inside me.",
+      "distractors": [
+        "to become tighter or more tense",
+        "to disappear completely",
+        "to grow heavier"
+      ],
+      "surfaceForms": [
+        "loosened"
+      ],
+      "clozeAnswerSurfaceForm": "loosened"
+    },
+    {
+      "lemma": "dissonant",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "clashing or not in harmony; unpleasant-sounding",
+      "translationZh": "不和諧的；刺耳的",
+      "exampleSentence": "“It’s not all right.” Other people sought resolution, but he could sustain a dissonant note.",
+      "clozeSentence": "“It’s not all right.” Other people sought resolution, but he could sustain a _____ note.",
+      "distractors": [
+        "smooth and pleasant-sounding",
+        "loud and joyful",
+        "quiet and soothing"
+      ],
+      "surfaceForms": [
+        "dissonant"
+      ],
+      "clozeAnswerSurfaceForm": "dissonant"
+    },
+    {
+      "lemma": "resolution",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a firm decision or settlement of a problem",
+      "translationZh": "解決；決心",
+      "exampleSentence": "“It’s not all right.” Other people sought resolution, but he could sustain a dissonant note.",
+      "clozeSentence": "“It’s not all right.” Other people sought _____, but he could sustain a dissonant note.",
+      "distractors": [
+        "a sudden strong emotion",
+        "a formal celebration",
+        "an unexpected surprise"
+      ],
+      "surfaceForms": [
+        "resolution"
+      ],
+      "clozeAnswerSurfaceForm": "resolution"
+    },
+    {
+      "lemma": "sustain",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to keep something continuing over time",
+      "translationZh": "維持；持續",
+      "exampleSentence": "“It’s not all right.” Other people sought resolution, but he could sustain a dissonant note.",
+      "clozeSentence": "“It’s not all right.” Other people sought resolution, but he could _____ a dissonant note.",
+      "distractors": [
+        "to bring something to a sudden stop",
+        "to destroy something completely",
+        "to hide something from others"
+      ],
+      "surfaceForms": [
+        "sustain"
+      ],
+      "clozeAnswerSurfaceForm": "sustain"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "arch",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "curving in the shape of an arch",
+      "translationZh": "拱形的；彎曲的",
+      "exampleSentence": "I would work toward freedom—one day, I would dangle my limbs from a car window beneath high arching branches.",
+      "clozeSentence": "I would work toward freedom—one day, I would dangle my limbs from a car window beneath high _____ branches.",
+      "distractors": [
+        "hanging straight down",
+        "broken into pieces",
+        "covered in leaves"
+      ],
+      "surfaceForms": [
+        "arching"
+      ],
+      "clozeAnswerSurfaceForm": "arching"
+    },
+    {
+      "lemma": "ascend",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to go up or climb higher",
+      "translationZh": "上升；攀登",
+      "exampleSentence": "I assumed that activities led to other activities in a ladder ascending to adult responsibility.",
+      "clozeSentence": "I assumed that activities led to other activities in a ladder _____ to adult responsibility.",
+      "distractors": [
+        "to fall or move downward",
+        "to spread out sideways",
+        "to stay in one fixed position"
+      ],
+      "surfaceForms": [
+        "ascending"
+      ],
+      "clozeAnswerSurfaceForm": "ascending"
+    },
+    {
+      "lemma": "dangle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to hang or swing loosely",
+      "translationZh": "懸掛；晃蕩",
+      "exampleSentence": "I would work toward freedom—one day, I would dangle my limbs from a car window beneath high arching branches.",
+      "clozeSentence": "I would work toward freedom—one day, I would _____ my limbs from a car window beneath high arching branches.",
+      "distractors": [
+        "to stand up straight and still",
+        "to fold up tightly",
+        "to press firmly against a surface"
+      ],
+      "surfaceForms": [
+        "dangle"
+      ],
+      "clozeAnswerSurfaceForm": "dangle"
+    },
+    {
+      "lemma": "limb",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "an arm or leg of a person or animal",
+      "translationZh": "肢體(手臂或腿)",
+      "exampleSentence": "I would work toward freedom—one day, I would dangle my limbs from a car window beneath high arching branches.",
+      "clozeSentence": "I would work toward freedom—one day, I would dangle my _____ from a car window beneath high arching branches.",
+      "distractors": [
+        "a lock of hair",
+        "a piece of clothing",
+        "a section of a road"
+      ],
+      "surfaceForms": [
+        "limbs"
+      ],
+      "clozeAnswerSurfaceForm": "limbs"
+    },
+    {
+      "lemma": "merciful",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "showing kindness or forgiveness toward someone",
+      "translationZh": "仁慈的；寬容的",
+      "exampleSentence": "I felt an obligation to be merciful.",
+      "clozeSentence": "I felt an obligation to be _____.",
+      "distractors": [
+        "showing cruelty or harshness",
+        "showing extreme caution",
+        "showing indifference"
+      ],
+      "surfaceForms": [
+        "merciful"
+      ],
+      "clozeAnswerSurfaceForm": "merciful"
+    },
+    {
+      "lemma": "obligation",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a duty or requirement to do something",
+      "translationZh": "義務；責任",
+      "exampleSentence": "I felt an obligation to be merciful.",
+      "clozeSentence": "I felt an _____ to be merciful.",
+      "distractors": [
+        "a strong personal desire",
+        "a feeling of regret",
+        "a piece of good luck"
+      ],
+      "surfaceForms": [
+        "obligation"
+      ],
+      "clozeAnswerSurfaceForm": "obligation"
+    },
+    {
+      "lemma": "preoccupy",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to fill someone's mind so much that they cannot think of other things",
+      "translationZh": "使全神貫注；使掛心",
+      "exampleSentence": "I could tell he was preoccupied with something, worried.",
+      "clozeSentence": "I could tell he was _____ with something, worried.",
+      "distractors": [
+        "to make someone feel relaxed",
+        "to make someone forget completely",
+        "to make someone extremely tired"
+      ],
+      "surfaceForms": [
+        "preoccupied"
+      ],
+      "clozeAnswerSurfaceForm": "preoccupied"
+    },
+    {
+      "lemma": "weary",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "very tired, especially from something repeated or long",
+      "translationZh": "疲憊的；厭倦的",
+      "exampleSentence": "I was weary of going back and forth between my parents’ houses.",
+      "clozeSentence": "I was _____ of going back and forth between my parents’ houses.",
+      "distractors": [
+        "extremely excited and energetic",
+        "confused and uncertain",
+        "calm and relaxed"
+      ],
+      "surfaceForms": [
+        "weary"
+      ],
+      "clozeAnswerSurfaceForm": "weary"
+    },
+    {
+      "lemma": "deflate",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to suddenly lose confidence, energy, or enthusiasm",
+      "translationZh": "洩氣；士氣低落",
+      "exampleSentence": "He seemed to deflate, all at once.",
+      "clozeSentence": "He seemed to _____, all at once.",
+      "distractors": [
+        "to gain sudden confidence",
+        "to grow physically larger",
+        "to become extremely angry"
+      ],
+      "surfaceForms": [
+        "deflate"
+      ],
+      "clozeAnswerSurfaceForm": "deflate"
+    },
+    {
+      "lemma": "brace",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to prepare oneself for something difficult or unpleasant",
+      "translationZh": "做好心理準備；繃緊身體以應對",
+      "exampleSentence": "“Fine,” I said, bracing.",
+      "clozeSentence": "“Fine,” I said, _____.",
+      "distractors": [
+        "to relax completely without worry",
+        "to celebrate an achievement",
+        "to forget about a problem"
+      ],
+      "surfaceForms": [
+        "bracing"
+      ],
+      "clozeAnswerSurfaceForm": "bracing"
+    },
+    {
+      "lemma": "incisive",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "showing clear, sharp understanding or judgment",
+      "translationZh": "犀利的；一針見血的",
+      "exampleSentence": "“The thing is, Lis,” he said, in the slow voice that meant he was about to say something incisive and possibly devastating, “you have no marketable skills.",
+      "clozeSentence": "“The thing is, Lis,” he said, in the slow voice that meant he was about to say something _____ and possibly devastating, “you have no marketable skills.",
+      "distractors": [
+        "vague and unclear",
+        "gentle and comforting",
+        "slow and hesitant"
+      ],
+      "surfaceForms": [
+        "incisive"
+      ],
+      "clozeAnswerSurfaceForm": "incisive"
+    },
+    {
+      "lemma": "marketable",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "able to be sold or valued by employers or buyers",
+      "translationZh": "有市場價值的；適銷的",
+      "exampleSentence": "“The thing is, Lis,” he said, in the slow voice that meant he was about to say something incisive and possibly devastating, “you have no marketable skills.",
+      "clozeSentence": "“The thing is, Lis,” he said, in the slow voice that meant he was about to say something incisive and possibly devastating, “you have no _____ skills.",
+      "distractors": [
+        "impossible to sell or use",
+        "extremely expensive to produce",
+        "created only for personal enjoyment"
+      ],
+      "surfaceForms": [
+        "marketable"
+      ],
+      "clozeAnswerSurfaceForm": "marketable"
+    },
+    {
+      "lemma": "polar",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "completely opposite in nature",
+      "translationZh": "截然相反的",
+      "exampleSentence": "“The two houses are polar opposites.",
+      "clozeSentence": "“The two houses are _____ opposites.",
+      "distractors": [
+        "almost identical in nature",
+        "slightly different in style",
+        "connected in some way"
+      ],
+      "surfaceForms": [
+        "polar"
+      ],
+      "clozeAnswerSurfaceForm": "polar"
+    },
+    {
+      "lemma": "confection",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "something elaborately created or put together",
+      "translationZh": "精心構築之物；(比喻)拼湊而成的組合",
+      "exampleSentence": "The confection of extracurricular activities, the flurry of self-importance—it was just a fever dream.",
+      "clozeSentence": "The _____ of extracurricular activities, the flurry of self-importance—it was just a fever dream.",
+      "distractors": [
+        "a simple, plain arrangement",
+        "a broken or damaged object",
+        "a written legal agreement"
+      ],
+      "surfaceForms": [
+        "confection"
+      ],
+      "clozeAnswerSurfaceForm": "confection"
+    },
+    {
+      "lemma": "extracurricular",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "outside the normal school curriculum",
+      "translationZh": "課外的",
+      "exampleSentence": "The confection of extracurricular activities, the flurry of self-importance—it was just a fever dream.",
+      "clozeSentence": "The confection of _____ activities, the flurry of self-importance—it was just a fever dream.",
+      "distractors": [
+        "required for graduation",
+        "related to household chores",
+        "connected to part-time jobs"
+      ],
+      "surfaceForms": [
+        "extracurricular"
+      ],
+      "clozeAnswerSurfaceForm": "extracurricular"
+    },
+    {
+      "lemma": "apathy",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "a lack of interest, enthusiasm, or concern",
+      "translationZh": "冷漠；無動於衷",
+      "exampleSentence": "I’d figured out that to negotiate effectively, you must be willing to give up the thing you want, entirely, for something else; you need a fierce apathy.",
+      "clozeSentence": "I’d figured out that to negotiate effectively, you must be willing to give up the thing you want, entirely, for something else; you need a fierce _____.",
+      "distractors": [
+        "a strong desire to succeed",
+        "an intense fear of failure",
+        "a deep sense of guilt"
+      ],
+      "surfaceForms": [
+        "apathy"
+      ],
+      "clozeAnswerSurfaceForm": "apathy"
+    },
+    {
+      "lemma": "recant",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to formally withdraw a previously stated belief or opinion",
+      "translationZh": "撤回言論；公開否認",
+      "exampleSentence": "“He’s just being silly.” I wanted her to say he was totally insane—to make him recant—in part because I worried he was right, if not about now, then about later, that I’d never be a success, never be able to get a job.",
+      "clozeSentence": "“He’s just being silly.” I wanted her to say he was totally insane—to make him _____—in part because I worried he was right, if not about now, then about later, that I’d never be a success, never be able to get a job.",
+      "distractors": [
+        "to strongly repeat a belief",
+        "to invent a new idea",
+        "to keep a secret hidden"
+      ],
+      "surfaceForms": [
+        "recant"
+      ],
+      "clozeAnswerSurfaceForm": "recant—in"
+    },
+    {
+      "lemma": "eccentricity",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "unusual or strange behavior",
+      "translationZh": "古怪行為",
+      "exampleSentence": "We all made allowances for his eccentricities, the ways he attacked other people, because he was also brilliant, and sometimes kind and insightful.",
+      "clozeSentence": "We all made allowances for his _____, the ways he attacked other people, because he was also brilliant, and sometimes kind and insightful.",
+      "distractors": [
+        "ordinary, predictable behavior",
+        "a strong sense of responsibility",
+        "a talent for organization"
+      ],
+      "surfaceForms": [
+        "eccentricities"
+      ],
+      "clozeAnswerSurfaceForm": "eccentricities"
+    },
+    {
+      "lemma": "insightful",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "showing a clear, deep understanding of something",
+      "translationZh": "有洞察力的",
+      "exampleSentence": "We all made allowances for his eccentricities, the ways he attacked other people, because he was also brilliant, and sometimes kind and insightful.",
+      "clozeSentence": "We all made allowances for his eccentricities, the ways he attacked other people, because he was also brilliant, and sometimes kind and _____.",
+      "distractors": [
+        "showing confusion about a topic",
+        "showing a lack of interest",
+        "showing excessive caution"
+      ],
+      "surfaceForms": [
+        "insightful"
+      ],
+      "clozeAnswerSurfaceForm": "insightful"
+    },
+    {
+      "lemma": "dissonant",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "clashing or not in harmony; unpleasant-sounding",
+      "translationZh": "不和諧的；刺耳的",
+      "exampleSentence": "“It’s not all right.” Other people sought resolution, but he could sustain a dissonant note.",
+      "clozeSentence": "“It’s not all right.” Other people sought resolution, but he could sustain a _____ note.",
+      "distractors": [
+        "smooth and pleasant-sounding",
+        "loud and joyful",
+        "quiet and soothing"
+      ],
+      "surfaceForms": [
+        "dissonant"
+      ],
+      "clozeAnswerSurfaceForm": "dissonant"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "wordLemma": "preoccupy",
+      "prompt": "preoccupy",
+      "options": [
+        "to fill someone's mind so much that they cannot think of other things",
+        "to make someone extremely tired",
+        "to make someone feel relaxed",
+        "to make someone forget completely"
+      ],
+      "answer": "to fill someone's mind so much that they cannot think of other things"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "polar",
+      "prompt": "polar",
+      "options": [
+        "completely opposite in nature",
+        "connected in some way",
+        "almost identical in nature",
+        "slightly different in style"
+      ],
+      "answer": "completely opposite in nature"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "brace",
+      "prompt": "brace",
+      "options": [
+        "to prepare oneself for something difficult or unpleasant",
+        "to relax completely without worry",
+        "to celebrate an achievement",
+        "to forget about a problem"
+      ],
+      "answer": "to prepare oneself for something difficult or unpleasant"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "dangle",
+      "prompt": "懸掛；晃蕩",
+      "options": [
+        "deflate",
+        "dangle",
+        "brace",
+        "weary"
+      ],
+      "answer": "dangle"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "recant",
+      "prompt": "“He’s just being silly.” I wanted her to say he was totally insane—to make him _____—in part because I worried he was right, if not about now, then about later, that I’d never be a success, never be able to get a job.",
+      "options": [
+        "marketable",
+        "recant—in",
+        "bracing",
+        "eccentricities"
+      ],
+      "answer": "recant—in"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "merciful",
+      "prompt": "I felt an obligation to be _____.",
+      "options": [
+        "obligation",
+        "merciful",
+        "apathy",
+        "dissonant"
+      ],
+      "answer": "merciful"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "obligation",
+      "prompt": "義務；責任",
+      "options": [
+        "deflate",
+        "ascend",
+        "dangle",
+        "obligation"
+      ],
+      "answer": "obligation"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "extracurricular",
+      "prompt": "課外的",
+      "options": [
+        "polar",
+        "extracurricular",
+        "obligation",
+        "recant"
+      ],
+      "answer": "extracurricular"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "incisive",
+      "prompt": "“The thing is, Lis,” he said, in the slow voice that meant he was about to say something _____ and possibly devastating, “you have no marketable skills.",
+      "options": [
+        "insightful",
+        "eccentricities",
+        "obligation",
+        "incisive"
+      ],
+      "answer": "incisive"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "weary",
+      "prompt": "I was _____ of going back and forth between my parents’ houses.",
+      "options": [
+        "weary",
+        "dangle",
+        "eccentricities",
+        "apathy"
+      ],
+      "answer": "weary"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "marketable",
+      "prompt": "有市場價值的；適銷的",
+      "options": [
+        "marketable",
+        "extracurricular",
+        "incisive",
+        "brace"
+      ],
+      "answer": "marketable"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "arch",
+      "prompt": "arch",
+      "options": [
+        "broken into pieces",
+        "hanging straight down",
+        "curving in the shape of an arch",
+        "covered in leaves"
+      ],
+      "answer": "curving in the shape of an arch"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "deflate",
+      "prompt": "洩氣；士氣低落",
+      "options": [
+        "obligation",
+        "deflate",
+        "dangle",
+        "dissonant"
+      ],
+      "answer": "deflate"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "apathy",
+      "prompt": "apathy",
+      "options": [
+        "a deep sense of guilt",
+        "a lack of interest, enthusiasm, or concern",
+        "an intense fear of failure",
+        "a strong desire to succeed"
+      ],
+      "answer": "a lack of interest, enthusiasm, or concern"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "ascend",
+      "prompt": "I assumed that activities led to other activities in a ladder _____ to adult responsibility.",
+      "options": [
+        "insightful",
+        "confection",
+        "ascending",
+        "recant—in"
+      ],
+      "answer": "ascending"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "limb",
+      "prompt": "limb",
+      "options": [
+        "a section of a road",
+        "a lock of hair",
+        "an arm or leg of a person or animal",
+        "a piece of clothing"
+      ],
+      "answer": "an arm or leg of a person or animal"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "insightful",
+      "prompt": "insightful",
+      "options": [
+        "showing confusion about a topic",
+        "showing excessive caution",
+        "showing a clear, deep understanding of something",
+        "showing a lack of interest"
+      ],
+      "answer": "showing a clear, deep understanding of something"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "eccentricity",
+      "prompt": "古怪行為",
+      "options": [
+        "eccentricity",
+        "insightful",
+        "preoccupy",
+        "limb"
+      ],
+      "answer": "eccentricity"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "dissonant",
+      "prompt": "“It’s not all right.” Other people sought resolution, but he could sustain a _____ note.",
+      "options": [
+        "bracing",
+        "dissonant",
+        "limbs",
+        "polar"
+      ],
+      "answer": "dissonant"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "confection",
+      "prompt": "The _____ of extracurricular activities, the flurry of self-importance—it was just a fever dream.",
+      "options": [
+        "extracurricular",
+        "eccentricities",
+        "dangle",
+        "confection"
+      ],
+      "answer": "confection"
+    }
+  ]
+}

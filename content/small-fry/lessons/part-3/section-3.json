@@ -1,0 +1,1319 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 3,
+  "partTitle": "Let’s Blast",
+  "sectionIndex": 3,
+  "paragraphs": [
+    "One day he came over and brought someone with him. She was petite and pretty, wore jeans, had red hair that fell in a line below her jaw, large dark-blue eyes, and a wide mouth that took over her face in a pleasing way when she smiled.",
+    "“This is my sister,” he said. She was an author, Mona Simpson. After giving my father up for adoption, his biological parents got married, had a daughter a few years later, and kept her. She and my father were soon close, kindred spirits, alike even though they’d just met. She had just published her first novel, Anywhere but Here, a book that would be on the bestseller list for many weeks and would become a movie starring Susan Sarandon and Natalie Portman. I read it when I was twelve: it was brilliant. Steve and Mona looked different—tall and petite, dark and light, man and woman—you couldn’t tell they were brother and sister until they both smiled and their faces opened and folded in the same way. They had similar lips, and wide teeth.",
+    "That my father’s sister happened to be named Mona struck me as a great coincidence. What were the chances that she would have a name that went so well with mine as to form, in combination, the name of the most famous painting in the world?",
+    "They’d both been successful on their own, neither knowing of the other’s existence. They shared an aesthetic sensibility, my father buying expensive lamps, carpets, and books while Mona patrolled flea markets for vintage mercury bulbs, wooden figures, magnolia-patterned plates, glasses with a stripe of silver painted on the rim.",
+    "Later, it was Mona who insisted that he rent us a nicer house than our tiny one on Melville; who insisted that he re-carpet and paint the small apartment within the Woodside house where he slept and I slept when I stayed with him, and that he change my bedroom from the one with the red shag rug, which required me to walk through his room to get to the bathroom, to one beside the bathroom. She who bought me a bed, and later argued that he should buy my mother and me a house. She was supportive of my mother’s artwork and took intense interest in the details of my life in a way that seemed to elevate them. When Mona visited, she brought with her excitement about food, jewelry, clothing. She would find the good restaurants, the places that served the best pie. She wore the same pair of earrings, always, that looked like a long drip of gold on each ear, the front and back sides hitting below her jawline.",
+    "Mona had also grown up with a single mother, after her father left. It seemed to me that her mother was unhinged, from stories I insisted she tell me later—one Christmas her mother had bought gifts for her boyfriend’s children but not for Mona; once she’d made her order the steak at a restaurant when they didn’t have the money for it. Mona’s stories gave me a thrill like looking down a steep cliff face, close to danger but safe at the same time. Mona took an interest in me: she noticed and commented on my tastes, judged me wise, gave me a first gift, the Arabian Nights.",
+    "Mona gazed at me as if she was particularly interested in my face; she watched me sometimes even when she was conversing with the adults. At a restaurant, I doodled on a paper placemat and she pronounced it great, took it, framed it, and put it up in her apartment in New York.",
+    "I would grow to be the same height as Mona, and also petite; I would also study English literature in college, and write.",
+    "One year she wrote me long letters every week on thick paper in sepia ink. She gave me adult gifts: silver pointed dangly earrings, a set of collected Chekhov stories in pastel-colored paperbacks, a gold Tiffany ring with an amethyst eye.",
+    "These gifts were windows into a more sophisticated world to which I hoped I’d belong, later. She had survived her own childhood, and now was successful; the gifts were proof of that.",
+    "When I was a senior in high school, she would publish a new book. Before it was published, she sent me the bound galleys and asked me what I thought of the novel, if there was anything I would change. I was honored, but when I started reading I was surprised to find characters like my father, my mother, and myself in the pages. My character was named Jane. I’d had no idea she was writing about us. Mona had collected details of my life and put them into her book—an antique Chinese enameled pillbox she bought for me, with chrysanthemums and multicolored birds painted on a blue background. Other parts were made up—it was fiction—and the combination was confusing. At first I’d felt hurt to find my things on the pages, as if she’d taken the gifts back. Still, when I read Mona’s books, they made me want to write my own sentences.",
+    "“People write about family in fictional form,” she said. “Fiction writers use details from life.” We were at Caffe Verona, where we’d gone to talk about it. When she’d learned I was upset after reading the galleys, she flew to Palo Alto the next day from where she lived in Los Angeles to talk with me.",
+    "“It’s just what writers do. I didn’t mean to upset you. Not at all.”",
+    "Reading her book, I felt there would be nothing left for me to write about. I felt emptied out. Jane didn’t like sushi because it felt like a tongue on her tongue. The details she described made me disconsolate, as if, having described them so well, they belonged to her now, not to me.",
+    "“Why didn’t you tell me right after you read it?” she asked. “I would have changed it, or waited, or even not published at all.” But at eighteen, the idea that I could have told her what to do with her work had not felt possible.",
+    "Now the book was almost on the shelves.",
+    "Also, after reading half the book, I’d stopped. I didn’t even know what happened with my character in the end.",
+    "“You haven’t finished?” she asked. “You’ll like it, what happens to Jane.”",
+    "“Maybe,” I said.",
+    "“Perhaps you’ll mention my book in your book someday,” she said, surprising me with the idea that one book might refer to another like Russian dolls; and that there might be room for more than one book about the same people, and the same time.",
+    "In the end Jane is wearing a school uniform and she rushes into a classroom with the other children. She finally belongs."
+  ],
+  "words": [
+    {
+      "lemma": "sepia",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A reddish-brown color, often associated with old photographs",
+      "translationZh": "深褐色；棕褐色（懷舊色調）",
+      "exampleSentence": "One year she wrote me long letters every week on thick paper in sepia ink.",
+      "clozeSentence": "One year she wrote me long letters every week on thick paper in _____ ink.",
+      "distractors": [
+        "A bright, vivid blue color",
+        "A pale, almost white color",
+        "A shiny silver color"
+      ],
+      "surfaceForms": [
+        "sepia"
+      ],
+      "clozeAnswerSurfaceForm": "sepia"
+    },
+    {
+      "lemma": "amethyst",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A purple gemstone used in jewelry",
+      "translationZh": "紫水晶",
+      "exampleSentence": "She gave me adult gifts: silver pointed dangly earrings, a set of collected Chekhov stories in pastel-colored paperbacks, a gold Tiffany ring with an amethyst eye.",
+      "clozeSentence": "She gave me adult gifts: silver pointed dangly earrings, a set of collected Chekhov stories in pastel-colored paperbacks, a gold Tiffany ring with an _____ eye.",
+      "distractors": [
+        "A bright red gemstone",
+        "A type of gold coin",
+        "A clear, colorless diamond"
+      ],
+      "surfaceForms": [
+        "amethyst"
+      ],
+      "clozeAnswerSurfaceForm": "amethyst"
+    },
+    {
+      "lemma": "artwork",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Paintings, drawings, or other creative visual work",
+      "translationZh": "藝術作品",
+      "exampleSentence": "She was supportive of my mother’s artwork and took intense interest in the details of my life in a way that seemed to elevate them.",
+      "clozeSentence": "She was supportive of my mother’s _____ and took intense interest in the details of my life in a way that seemed to elevate them.",
+      "distractors": [
+        "A piece of written literature",
+        "A type of musical instrument",
+        "A legal business document"
+      ],
+      "surfaceForms": [
+        "artwork"
+      ],
+      "clozeAnswerSurfaceForm": "artwork"
+    },
+    {
+      "lemma": "bestseller",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A book or product that has sold in very large numbers",
+      "translationZh": "暢銷書（商品）",
+      "exampleSentence": "She had just published her first novel, Anywhere but Here, a book that would be on the bestseller list for many weeks and would become a movie starring Susan Sarandon and Natalie Portman.",
+      "clozeSentence": "She had just published her first novel, Anywhere but Here, a book that would be on the _____ list for many weeks and would become a movie starring Susan Sarandon and Natalie Portman.",
+      "distractors": [
+        "A book that received poor reviews",
+        "A very old, rare book",
+        "A book written for children only"
+      ],
+      "surfaceForms": [
+        "bestseller"
+      ],
+      "clozeAnswerSurfaceForm": "bestseller"
+    },
+    {
+      "lemma": "dangly",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "(informal) Hanging loosely, especially as jewelry",
+      "translationZh": "垂墜的；晃來晃去的",
+      "exampleSentence": "She gave me adult gifts: silver pointed dangly earrings, a set of collected Chekhov stories in pastel-colored paperbacks, a gold Tiffany ring with an amethyst eye.",
+      "clozeSentence": "She gave me adult gifts: silver pointed _____ earrings, a set of collected Chekhov stories in pastel-colored paperbacks, a gold Tiffany ring with an amethyst eye.",
+      "distractors": [
+        "Tightly fitted and fixed in place",
+        "Extremely heavy and solid",
+        "Bright and shiny like metal"
+      ],
+      "surfaceForms": [
+        "dangly"
+      ],
+      "clozeAnswerSurfaceForm": "dangly"
+    },
+    {
+      "lemma": "drip",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A shape or form resembling a falling drop of liquid",
+      "translationZh": "水滴狀（物）；滴落",
+      "exampleSentence": "She wore the same pair of earrings, always, that looked like a long drip of gold on each ear, the front and back sides hitting below her jawline.",
+      "clozeSentence": "She wore the same pair of earrings, always, that looked like a long _____ of gold on each ear, the front and back sides hitting below her jawline.",
+      "distractors": [
+        "A flat, round disc shape",
+        "A tightly coiled spiral",
+        "A short, straight bar"
+      ],
+      "surfaceForms": [
+        "drip"
+      ],
+      "clozeAnswerSurfaceForm": "drip"
+    },
+    {
+      "lemma": "elevate",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "To raise something to a higher level or position of importance",
+      "translationZh": "提升；抬高",
+      "exampleSentence": "She was supportive of my mother’s artwork and took intense interest in the details of my life in a way that seemed to elevate them.",
+      "clozeSentence": "She was supportive of my mother’s artwork and took intense interest in the details of my life in a way that seemed to _____ them.",
+      "distractors": [
+        "To lower something in value",
+        "To hide something from view",
+        "To destroy something completely"
+      ],
+      "surfaceForms": [
+        "elevate"
+      ],
+      "clozeAnswerSurfaceForm": "elevate"
+    },
+    {
+      "lemma": "jaw",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Either of the two bones that form the framework of the mouth",
+      "translationZh": "下巴；顎",
+      "exampleSentence": "She was petite and pretty, wore jeans, had red hair that fell in a line below her jaw, large dark-blue eyes, and a wide mouth that took over her face in a pleasing way when she smiled.",
+      "clozeSentence": "She was petite and pretty, wore jeans, had red hair that fell in a line below her _____, large dark-blue eyes, and a wide mouth that took over her face in a pleasing way when she smiled.",
+      "distractors": [
+        "The bone that forms the forehead",
+        "The muscle that moves the arm",
+        "The joint that connects the leg"
+      ],
+      "surfaceForms": [
+        "jaw"
+      ],
+      "clozeAnswerSurfaceForm": "jaw"
+    },
+    {
+      "lemma": "jawline",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The outline or shape of the lower jaw",
+      "translationZh": "下顎線條",
+      "exampleSentence": "She wore the same pair of earrings, always, that looked like a long drip of gold on each ear, the front and back sides hitting below her jawline.",
+      "clozeSentence": "She wore the same pair of earrings, always, that looked like a long drip of gold on each ear, the front and back sides hitting below her _____.",
+      "distractors": [
+        "The shape of one's eyebrows",
+        "The line where hair begins on the forehead",
+        "The curve of the shoulders"
+      ],
+      "surfaceForms": [
+        "jawline"
+      ],
+      "clozeAnswerSurfaceForm": "jawline"
+    },
+    {
+      "lemma": "kindred",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Similar in nature or character; closely related in feeling",
+      "translationZh": "志趣相投的；同類的",
+      "exampleSentence": "She and my father were soon close, kindred spirits, alike even though they’d just met.",
+      "clozeSentence": "She and my father were soon close, _____ spirits, alike even though they’d just met.",
+      "distractors": [
+        "Completely opposite in personality",
+        "Unfamiliar and distant",
+        "Formally connected by contract only"
+      ],
+      "surfaceForms": [
+        "kindred"
+      ],
+      "clozeAnswerSurfaceForm": "kindred"
+    },
+    {
+      "lemma": "paperback",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A book with a flexible paper cover, rather than a hard one",
+      "translationZh": "平裝本（書）",
+      "exampleSentence": "She gave me adult gifts: silver pointed dangly earrings, a set of collected Chekhov stories in pastel-colored paperbacks, a gold Tiffany ring with an amethyst eye.",
+      "clozeSentence": "She gave me adult gifts: silver pointed dangly earrings, a set of collected Chekhov stories in pastel-colored _____, a gold Tiffany ring with an amethyst eye.",
+      "distractors": [
+        "A book with a stiff, hard cover",
+        "A book read only on a screen",
+        "A very short pamphlet"
+      ],
+      "surfaceForms": [
+        "paperbacks"
+      ],
+      "clozeAnswerSurfaceForm": "paperbacks"
+    },
+    {
+      "lemma": "petite",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "(of a woman) Small and slim in build",
+      "translationZh": "嬌小的（多形容女性身形）",
+      "exampleSentence": "She was petite and pretty, wore jeans, had red hair that fell in a line below her jaw, large dark-blue eyes, and a wide mouth that took over her face in a pleasing way when she smiled.",
+      "clozeSentence": "She was _____ and pretty, wore jeans, had red hair that fell in a line below her jaw, large dark-blue eyes, and a wide mouth that took over her face in a pleasing way when she smiled.",
+      "distractors": [
+        "Tall and broad in build",
+        "Elderly and frail",
+        "Muscular and athletic"
+      ],
+      "surfaceForms": [
+        "petite"
+      ],
+      "clozeAnswerSurfaceForm": "petite"
+    },
+    {
+      "lemma": "chrysanthemum",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A garden plant with brightly colored, round flowers",
+      "translationZh": "菊花",
+      "exampleSentence": "Mona had collected details of my life and put them into her book—an antique Chinese enameled pillbox she bought for me, with chrysanthemums and multicolored birds painted on a blue background.",
+      "clozeSentence": "Mona had collected details of my life and put them into her book—an antique Chinese enameled pillbox she bought for me, with _____ and multicolored birds painted on a blue background.",
+      "distractors": [
+        "A tall tree with needle-like leaves",
+        "A type of climbing vine with thorns",
+        "A small green vegetable"
+      ],
+      "surfaceForms": [
+        "chrysanthemums"
+      ],
+      "clozeAnswerSurfaceForm": "chrysanthemums"
+    },
+    {
+      "lemma": "converse",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To talk with someone, exchanging thoughts or ideas",
+      "translationZh": "交談；對話",
+      "exampleSentence": "Mona gazed at me as if she was particularly interested in my face; she watched me sometimes even when she was conversing with the adults.",
+      "clozeSentence": "Mona gazed at me as if she was particularly interested in my face; she watched me sometimes even when she was _____ with the adults.",
+      "distractors": [
+        "To argue angrily with someone",
+        "To write a long letter",
+        "To remain completely silent"
+      ],
+      "surfaceForms": [
+        "conversing"
+      ],
+      "clozeAnswerSurfaceForm": "conversing"
+    },
+    {
+      "lemma": "enamel",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A glossy, colored coating applied to metal or other surfaces for decoration",
+      "translationZh": "琺瑯（瓷釉）",
+      "exampleSentence": "Mona had collected details of my life and put them into her book—an antique Chinese enameled pillbox she bought for me, with chrysanthemums and multicolored birds painted on a blue background.",
+      "clozeSentence": "Mona had collected details of my life and put them into her book—an antique Chinese _____ pillbox she bought for me, with chrysanthemums and multicolored birds painted on a blue background.",
+      "distractors": [
+        "A soft fabric used for clothing",
+        "A type of clear glass",
+        "A flexible rubber material"
+      ],
+      "surfaceForms": [
+        "enameled"
+      ],
+      "clozeAnswerSurfaceForm": "enameled"
+    },
+    {
+      "lemma": "gaze",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To look steadily and continuously at someone or something",
+      "translationZh": "凝視；注視",
+      "exampleSentence": "Mona gazed at me as if she was particularly interested in my face; she watched me sometimes even when she was conversing with the adults.",
+      "clozeSentence": "Mona _____ at me as if she was particularly interested in my face; she watched me sometimes even when she was conversing with the adults.",
+      "distractors": [
+        "To glance briefly and look away",
+        "To close one's eyes completely",
+        "To read something out loud"
+      ],
+      "surfaceForms": [
+        "gazed"
+      ],
+      "clozeAnswerSurfaceForm": "gazed"
+    },
+    {
+      "lemma": "multicolored",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Having many different colors",
+      "translationZh": "多彩的；五顏六色的",
+      "exampleSentence": "Mona had collected details of my life and put them into her book—an antique Chinese enameled pillbox she bought for me, with chrysanthemums and multicolored birds painted on a blue background.",
+      "clozeSentence": "Mona had collected details of my life and put them into her book—an antique Chinese enameled pillbox she bought for me, with chrysanthemums and _____ birds painted on a blue background.",
+      "distractors": [
+        "Having only one plain color",
+        "Made entirely of transparent material",
+        "Having a rough, textured surface"
+      ],
+      "surfaceForms": [
+        "multicolored"
+      ],
+      "clozeAnswerSurfaceForm": "multicolored"
+    },
+    {
+      "lemma": "pillbox",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A small box or container used for holding pills, or a small round hat of similar shape",
+      "translationZh": "藥盒；小圓帽",
+      "exampleSentence": "Mona had collected details of my life and put them into her book—an antique Chinese enameled pillbox she bought for me, with chrysanthemums and multicolored birds painted on a blue background.",
+      "clozeSentence": "Mona had collected details of my life and put them into her book—an antique Chinese enameled _____ she bought for me, with chrysanthemums and multicolored birds painted on a blue background.",
+      "distractors": [
+        "A large container for storing books",
+        "A bag used for carrying groceries",
+        "A case used for holding jewelry only"
+      ],
+      "surfaceForms": [
+        "pillbox"
+      ],
+      "clozeAnswerSurfaceForm": "pillbox"
+    },
+    {
+      "lemma": "adoption",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The legal process of becoming the parent of someone else's child",
+      "translationZh": "收養；領養",
+      "exampleSentence": "After giving my father up for adoption, his biological parents got married, had a daughter a few years later, and kept her.",
+      "clozeSentence": "After giving my father up for _____, his biological parents got married, had a daughter a few years later, and kept her.",
+      "distractors": [
+        "The process of getting married",
+        "The act of moving to a new country",
+        "The process of starting a new job"
+      ],
+      "surfaceForms": [
+        "adoption"
+      ],
+      "clozeAnswerSurfaceForm": "adoption"
+    },
+    {
+      "lemma": "biological",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Related by blood or birth, rather than by adoption or marriage",
+      "translationZh": "親生的；生物（學）的",
+      "exampleSentence": "After giving my father up for adoption, his biological parents got married, had a daughter a few years later, and kept her.",
+      "clozeSentence": "After giving my father up for adoption, his _____ parents got married, had a daughter a few years later, and kept her.",
+      "distractors": [
+        "Related through marriage only",
+        "Related through a long friendship",
+        "Related through a legal contract"
+      ],
+      "surfaceForms": [
+        "biological"
+      ],
+      "clozeAnswerSurfaceForm": "biological"
+    },
+    {
+      "lemma": "aesthetic",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Relating to beauty or the appreciation of what is beautiful",
+      "translationZh": "美學的；審美的",
+      "exampleSentence": "They shared an aesthetic sensibility, my father buying expensive lamps, carpets, and books while Mona patrolled flea markets for vintage mercury bulbs, wooden figures, magnolia-patterned plates, glasses with a stripe of silver painted on the rim.",
+      "clozeSentence": "They shared an _____ sensibility, my father buying expensive lamps, carpets, and books while Mona patrolled flea markets for vintage mercury bulbs, wooden figures, magnolia-patterned plates, glasses with a stripe of silver painted on the rim.",
+      "distractors": [
+        "Relating to money and finance",
+        "Relating to physical health",
+        "Relating to legal rules"
+      ],
+      "surfaceForms": [
+        "aesthetic"
+      ],
+      "clozeAnswerSurfaceForm": "aesthetic"
+    },
+    {
+      "lemma": "disconsolate",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "Very unhappy and unable to be comforted",
+      "translationZh": "悲痛欲絕的；無法安慰的",
+      "exampleSentence": "The details she described made me disconsolate, as if, having described them so well, they belonged to her now, not to me.",
+      "clozeSentence": "The details she described made me _____, as if, having described them so well, they belonged to her now, not to me.",
+      "distractors": [
+        "Extremely cheerful and content",
+        "Calm and emotionally neutral",
+        "Confused but not upset"
+      ],
+      "surfaceForms": [
+        "disconsolate"
+      ],
+      "clozeAnswerSurfaceForm": "disconsolate"
+    },
+    {
+      "lemma": "rim",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The outer edge of something, especially something circular",
+      "translationZh": "邊緣；（圓形物的）邊",
+      "exampleSentence": "They shared an aesthetic sensibility, my father buying expensive lamps, carpets, and books while Mona patrolled flea markets for vintage mercury bulbs, wooden figures, magnolia-patterned plates, glasses with a stripe of silver painted on the rim.",
+      "clozeSentence": "They shared an aesthetic sensibility, my father buying expensive lamps, carpets, and books while Mona patrolled flea markets for vintage mercury bulbs, wooden figures, magnolia-patterned plates, glasses with a stripe of silver painted on the _____.",
+      "distractors": [
+        "The exact center of something",
+        "The inside lining of a container",
+        "A small hole in the middle"
+      ],
+      "surfaceForms": [
+        "rim"
+      ],
+      "clozeAnswerSurfaceForm": "rim"
+    },
+    {
+      "lemma": "sensibility",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "The ability to appreciate and respond to complex or subtle influences, such as art",
+      "translationZh": "（審美或情感的）敏感度；感受力",
+      "exampleSentence": "They shared an aesthetic sensibility, my father buying expensive lamps, carpets, and books while Mona patrolled flea markets for vintage mercury bulbs, wooden figures, magnolia-patterned plates, glasses with a stripe of silver painted on the rim.",
+      "clozeSentence": "They shared an aesthetic _____, my father buying expensive lamps, carpets, and books while Mona patrolled flea markets for vintage mercury bulbs, wooden figures, magnolia-patterned plates, glasses with a stripe of silver painted on the rim.",
+      "distractors": [
+        "The ability to calculate numbers quickly",
+        "The habit of making quick decisions",
+        "The tendency to avoid social contact"
+      ],
+      "surfaceForms": [
+        "sensibility"
+      ],
+      "clozeAnswerSurfaceForm": "sensibility"
+    },
+    {
+      "lemma": "vintage",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "From the past and of high quality or interest, especially referring to older items",
+      "translationZh": "復古的；經典懷舊的",
+      "exampleSentence": "They shared an aesthetic sensibility, my father buying expensive lamps, carpets, and books while Mona patrolled flea markets for vintage mercury bulbs, wooden figures, magnolia-patterned plates, glasses with a stripe of silver painted on the rim.",
+      "clozeSentence": "They shared an aesthetic sensibility, my father buying expensive lamps, carpets, and books while Mona patrolled flea markets for _____ mercury bulbs, wooden figures, magnolia-patterned plates, glasses with a stripe of silver painted on the rim.",
+      "distractors": [
+        "Brand new and just released",
+        "Cheaply made and low quality",
+        "Designed for children only"
+      ],
+      "surfaceForms": [
+        "vintage"
+      ],
+      "clozeAnswerSurfaceForm": "vintage"
+    },
+    {
+      "lemma": "coincidence",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A situation in which two things happen at the same time by chance",
+      "translationZh": "巧合",
+      "exampleSentence": "That my father’s sister happened to be named Mona struck me as a great coincidence.",
+      "clozeSentence": "That my father’s sister happened to be named Mona struck me as a great _____.",
+      "distractors": [
+        "A carefully planned event",
+        "A serious disagreement between people",
+        "A long-standing tradition"
+      ],
+      "surfaceForms": [
+        "coincidence"
+      ],
+      "clozeAnswerSurfaceForm": "coincidence"
+    },
+    {
+      "lemma": "neither",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Not one nor the other of two things",
+      "translationZh": "兩者皆不",
+      "exampleSentence": "They’d both been successful on their own, neither knowing of the other’s existence.",
+      "clozeSentence": "They’d both been successful on their own, _____ knowing of the other’s existence.",
+      "distractors": [
+        "Both of two things equally",
+        "Only the first of two things",
+        "Every one of several things"
+      ],
+      "surfaceForms": [
+        "neither"
+      ],
+      "clozeAnswerSurfaceForm": "neither"
+    },
+    {
+      "lemma": "rug",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A piece of thick fabric used to cover part of a floor",
+      "translationZh": "地毯",
+      "exampleSentence": "Later, it was Mona who insisted that he rent us a nicer house than our tiny one on Melville; who insisted that he re-carpet and paint the small apartment within the Woodside house where he slept and I slept when I stayed with him, and that he change my bedroom from the one with the red shag rug, which required me to walk through his room to get to the bathroom, to one beside the bathroom.",
+      "clozeSentence": "Later, it was Mona who insisted that he rent us a nicer house than our tiny one on Melville; who insisted that he re-carpet and paint the small apartment within the Woodside house where he slept and I slept when I stayed with him, and that he change my bedroom from the one with the red shag _____, which required me to walk through his room to get to the bathroom, to one beside the bathroom.",
+      "distractors": [
+        "A curtain hung over a window",
+        "A blanket used for sleeping outdoors",
+        "A cushion placed on a chair"
+      ],
+      "surfaceForms": [
+        "rug"
+      ],
+      "clozeAnswerSurfaceForm": "rug"
+    },
+    {
+      "lemma": "shag",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "(of carpet) Having a long, thick, rough pile",
+      "translationZh": "長毛絨（地毯）的",
+      "exampleSentence": "Later, it was Mona who insisted that he rent us a nicer house than our tiny one on Melville; who insisted that he re-carpet and paint the small apartment within the Woodside house where he slept and I slept when I stayed with him, and that he change my bedroom from the one with the red shag rug, which required me to walk through his room to get to the bathroom, to one beside the bathroom.",
+      "clozeSentence": "Later, it was Mona who insisted that he rent us a nicer house than our tiny one on Melville; who insisted that he re-carpet and paint the small apartment within the Woodside house where he slept and I slept when I stayed with him, and that he change my bedroom from the one with the red _____ rug, which required me to walk through his room to get to the bathroom, to one beside the bathroom.",
+      "distractors": [
+        "Extremely thin and smooth",
+        "Made of hard, polished wood",
+        "Woven with a shiny, silky finish"
+      ],
+      "surfaceForms": [
+        "shag"
+      ],
+      "clozeAnswerSurfaceForm": "shag"
+    },
+    {
+      "lemma": "clothe",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Clothing; garments worn on the body",
+      "translationZh": "衣物；服裝",
+      "exampleSentence": "When Mona visited, she brought with her excitement about food, jewelry, clothing.",
+      "clozeSentence": "When Mona visited, she brought with her excitement about food, jewelry, _____.",
+      "distractors": [
+        "Furniture used in a home",
+        "Food eaten at a meal",
+        "Tools used for repair work"
+      ],
+      "surfaceForms": [
+        "clothing"
+      ],
+      "clozeAnswerSurfaceForm": "clothing"
+    },
+    {
+      "lemma": "unhinge",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To make someone mentally unstable or unable to think clearly",
+      "translationZh": "使（心理）失常；使錯亂",
+      "exampleSentence": "It seemed to me that her mother was unhinged, from stories I insisted she tell me later—one Christmas her mother had bought gifts for her boyfriend’s children but not for Mona; once she’d made her order the steak at a restaurant when they didn’t have the money for it.",
+      "clozeSentence": "It seemed to me that her mother was _____, from stories I insisted she tell me later—one Christmas her mother had bought gifts for her boyfriend’s children but not for Mona; once she’d made her order the steak at a restaurant when they didn’t have the money for it.",
+      "distractors": [
+        "To make someone extremely calm and relaxed",
+        "To make someone more organized",
+        "To make someone physically stronger"
+      ],
+      "surfaceForms": [
+        "unhinged"
+      ],
+      "clozeAnswerSurfaceForm": "unhinged"
+    },
+    {
+      "lemma": "thrill",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A sudden feeling of excitement or pleasure",
+      "translationZh": "興奮感；刺激感",
+      "exampleSentence": "Mona’s stories gave me a thrill like looking down a steep cliff face, close to danger but safe at the same time.",
+      "clozeSentence": "Mona’s stories gave me a _____ like looking down a steep cliff face, close to danger but safe at the same time.",
+      "distractors": [
+        "A feeling of deep boredom",
+        "A sense of quiet sadness",
+        "A feeling of physical pain"
+      ],
+      "surfaceForms": [
+        "thrill"
+      ],
+      "clozeAnswerSurfaceForm": "thrill"
+    },
+    {
+      "lemma": "doodle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To draw simple pictures or patterns absentmindedly",
+      "translationZh": "隨手塗鴉",
+      "exampleSentence": "At a restaurant, I doodled on a paper placemat and she pronounced it great, took it, framed it, and put it up in her apartment in New York.",
+      "clozeSentence": "At a restaurant, I _____ on a paper placemat and she pronounced it great, took it, framed it, and put it up in her apartment in New York.",
+      "distractors": [
+        "To write a formal essay",
+        "To paint a detailed portrait",
+        "To carve a design into wood"
+      ],
+      "surfaceForms": [
+        "doodled"
+      ],
+      "clozeAnswerSurfaceForm": "doodled"
+    },
+    {
+      "lemma": "placemat",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A small mat placed under a plate on a dining table",
+      "translationZh": "餐墊",
+      "exampleSentence": "At a restaurant, I doodled on a paper placemat and she pronounced it great, took it, framed it, and put it up in her apartment in New York.",
+      "clozeSentence": "At a restaurant, I doodled on a paper _____ and she pronounced it great, took it, framed it, and put it up in her apartment in New York.",
+      "distractors": [
+        "A cloth used to clean the floor",
+        "A cover placed over furniture",
+        "A decorative item hung on a wall"
+      ],
+      "surfaceForms": [
+        "placemat"
+      ],
+      "clozeAnswerSurfaceForm": "placemat"
+    },
+    {
+      "lemma": "sophisticate",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Having refined taste, knowledge, or experience of the world",
+      "translationZh": "世故的；老練的（見多識廣的）",
+      "exampleSentence": "These gifts were windows into a more sophisticated world to which I hoped I’d belong, later.",
+      "clozeSentence": "These gifts were windows into a more _____ world to which I hoped I’d belong, later.",
+      "distractors": [
+        "Simple and lacking in experience",
+        "Loud and poorly mannered",
+        "Anxious and easily frightened"
+      ],
+      "surfaceForms": [
+        "sophisticated"
+      ],
+      "clozeAnswerSurfaceForm": "sophisticated"
+    },
+    {
+      "lemma": "bind",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To fasten pages together to form a book, or tie something tightly",
+      "translationZh": "裝訂（書）；綁緊",
+      "exampleSentence": "Before it was published, she sent me the bound galleys and asked me what I thought of the novel, if there was anything I would change.",
+      "clozeSentence": "Before it was published, she sent me the _____ galleys and asked me what I thought of the novel, if there was anything I would change.",
+      "distractors": [
+        "To completely erase something",
+        "To translate something into another language",
+        "To publicly announce something"
+      ],
+      "surfaceForms": [
+        "bound"
+      ],
+      "clozeAnswerSurfaceForm": "bound"
+    },
+    {
+      "lemma": "galley",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "An early printed version of a book, used for proofreading before publication",
+      "translationZh": "校樣（印刷校對用的書稿）",
+      "exampleSentence": "Before it was published, she sent me the bound galleys and asked me what I thought of the novel, if there was anything I would change.",
+      "clozeSentence": "Before it was published, she sent me the bound _____ and asked me what I thought of the novel, if there was anything I would change.",
+      "distractors": [
+        "The final, bound edition of a book",
+        "A handwritten personal diary",
+        "A summary of a book's plot"
+      ],
+      "surfaceForms": [
+        "galleys"
+      ],
+      "clozeAnswerSurfaceForm": "galleys"
+    },
+    {
+      "lemma": "fictional",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Invented or imagined, not based on real events",
+      "translationZh": "虛構的",
+      "exampleSentence": "“People write about family in fictional form,” she said.",
+      "clozeSentence": "“People write about family in _____ form,” she said.",
+      "distractors": [
+        "Based entirely on true, documented facts",
+        "Written in a foreign language",
+        "Published a very long time ago"
+      ],
+      "surfaceForms": [
+        "fictional"
+      ],
+      "clozeAnswerSurfaceForm": "fictional"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "sepia",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A reddish-brown color, often associated with old photographs",
+      "translationZh": "深褐色；棕褐色（懷舊色調）",
+      "exampleSentence": "One year she wrote me long letters every week on thick paper in sepia ink.",
+      "clozeSentence": "One year she wrote me long letters every week on thick paper in _____ ink.",
+      "distractors": [
+        "A bright, vivid blue color",
+        "A pale, almost white color",
+        "A shiny silver color"
+      ],
+      "surfaceForms": [
+        "sepia"
+      ],
+      "clozeAnswerSurfaceForm": "sepia"
+    },
+    {
+      "lemma": "amethyst",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A purple gemstone used in jewelry",
+      "translationZh": "紫水晶",
+      "exampleSentence": "She gave me adult gifts: silver pointed dangly earrings, a set of collected Chekhov stories in pastel-colored paperbacks, a gold Tiffany ring with an amethyst eye.",
+      "clozeSentence": "She gave me adult gifts: silver pointed dangly earrings, a set of collected Chekhov stories in pastel-colored paperbacks, a gold Tiffany ring with an _____ eye.",
+      "distractors": [
+        "A bright red gemstone",
+        "A type of gold coin",
+        "A clear, colorless diamond"
+      ],
+      "surfaceForms": [
+        "amethyst"
+      ],
+      "clozeAnswerSurfaceForm": "amethyst"
+    },
+    {
+      "lemma": "elevate",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "To raise something to a higher level or position of importance",
+      "translationZh": "提升；抬高",
+      "exampleSentence": "She was supportive of my mother’s artwork and took intense interest in the details of my life in a way that seemed to elevate them.",
+      "clozeSentence": "She was supportive of my mother’s artwork and took intense interest in the details of my life in a way that seemed to _____ them.",
+      "distractors": [
+        "To lower something in value",
+        "To hide something from view",
+        "To destroy something completely"
+      ],
+      "surfaceForms": [
+        "elevate"
+      ],
+      "clozeAnswerSurfaceForm": "elevate"
+    },
+    {
+      "lemma": "kindred",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Similar in nature or character; closely related in feeling",
+      "translationZh": "志趣相投的；同類的",
+      "exampleSentence": "She and my father were soon close, kindred spirits, alike even though they’d just met.",
+      "clozeSentence": "She and my father were soon close, _____ spirits, alike even though they’d just met.",
+      "distractors": [
+        "Completely opposite in personality",
+        "Unfamiliar and distant",
+        "Formally connected by contract only"
+      ],
+      "surfaceForms": [
+        "kindred"
+      ],
+      "clozeAnswerSurfaceForm": "kindred"
+    },
+    {
+      "lemma": "artwork",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Paintings, drawings, or other creative visual work",
+      "translationZh": "藝術作品",
+      "exampleSentence": "She was supportive of my mother’s artwork and took intense interest in the details of my life in a way that seemed to elevate them.",
+      "clozeSentence": "She was supportive of my mother’s _____ and took intense interest in the details of my life in a way that seemed to elevate them.",
+      "distractors": [
+        "A piece of written literature",
+        "A type of musical instrument",
+        "A legal business document"
+      ],
+      "surfaceForms": [
+        "artwork"
+      ],
+      "clozeAnswerSurfaceForm": "artwork"
+    },
+    {
+      "lemma": "bestseller",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A book or product that has sold in very large numbers",
+      "translationZh": "暢銷書（商品）",
+      "exampleSentence": "She had just published her first novel, Anywhere but Here, a book that would be on the bestseller list for many weeks and would become a movie starring Susan Sarandon and Natalie Portman.",
+      "clozeSentence": "She had just published her first novel, Anywhere but Here, a book that would be on the _____ list for many weeks and would become a movie starring Susan Sarandon and Natalie Portman.",
+      "distractors": [
+        "A book that received poor reviews",
+        "A very old, rare book",
+        "A book written for children only"
+      ],
+      "surfaceForms": [
+        "bestseller"
+      ],
+      "clozeAnswerSurfaceForm": "bestseller"
+    },
+    {
+      "lemma": "dangly",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "(informal) Hanging loosely, especially as jewelry",
+      "translationZh": "垂墜的；晃來晃去的",
+      "exampleSentence": "She gave me adult gifts: silver pointed dangly earrings, a set of collected Chekhov stories in pastel-colored paperbacks, a gold Tiffany ring with an amethyst eye.",
+      "clozeSentence": "She gave me adult gifts: silver pointed _____ earrings, a set of collected Chekhov stories in pastel-colored paperbacks, a gold Tiffany ring with an amethyst eye.",
+      "distractors": [
+        "Tightly fitted and fixed in place",
+        "Extremely heavy and solid",
+        "Bright and shiny like metal"
+      ],
+      "surfaceForms": [
+        "dangly"
+      ],
+      "clozeAnswerSurfaceForm": "dangly"
+    },
+    {
+      "lemma": "drip",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A shape or form resembling a falling drop of liquid",
+      "translationZh": "水滴狀（物）；滴落",
+      "exampleSentence": "She wore the same pair of earrings, always, that looked like a long drip of gold on each ear, the front and back sides hitting below her jawline.",
+      "clozeSentence": "She wore the same pair of earrings, always, that looked like a long _____ of gold on each ear, the front and back sides hitting below her jawline.",
+      "distractors": [
+        "A flat, round disc shape",
+        "A tightly coiled spiral",
+        "A short, straight bar"
+      ],
+      "surfaceForms": [
+        "drip"
+      ],
+      "clozeAnswerSurfaceForm": "drip"
+    },
+    {
+      "lemma": "jaw",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Either of the two bones that form the framework of the mouth",
+      "translationZh": "下巴；顎",
+      "exampleSentence": "She was petite and pretty, wore jeans, had red hair that fell in a line below her jaw, large dark-blue eyes, and a wide mouth that took over her face in a pleasing way when she smiled.",
+      "clozeSentence": "She was petite and pretty, wore jeans, had red hair that fell in a line below her _____, large dark-blue eyes, and a wide mouth that took over her face in a pleasing way when she smiled.",
+      "distractors": [
+        "The bone that forms the forehead",
+        "The muscle that moves the arm",
+        "The joint that connects the leg"
+      ],
+      "surfaceForms": [
+        "jaw"
+      ],
+      "clozeAnswerSurfaceForm": "jaw"
+    },
+    {
+      "lemma": "jawline",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The outline or shape of the lower jaw",
+      "translationZh": "下顎線條",
+      "exampleSentence": "She wore the same pair of earrings, always, that looked like a long drip of gold on each ear, the front and back sides hitting below her jawline.",
+      "clozeSentence": "She wore the same pair of earrings, always, that looked like a long drip of gold on each ear, the front and back sides hitting below her _____.",
+      "distractors": [
+        "The shape of one's eyebrows",
+        "The line where hair begins on the forehead",
+        "The curve of the shoulders"
+      ],
+      "surfaceForms": [
+        "jawline"
+      ],
+      "clozeAnswerSurfaceForm": "jawline"
+    },
+    {
+      "lemma": "chrysanthemum",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A garden plant with brightly colored, round flowers",
+      "translationZh": "菊花",
+      "exampleSentence": "Mona had collected details of my life and put them into her book—an antique Chinese enameled pillbox she bought for me, with chrysanthemums and multicolored birds painted on a blue background.",
+      "clozeSentence": "Mona had collected details of my life and put them into her book—an antique Chinese enameled pillbox she bought for me, with _____ and multicolored birds painted on a blue background.",
+      "distractors": [
+        "A tall tree with needle-like leaves",
+        "A type of climbing vine with thorns",
+        "A small green vegetable"
+      ],
+      "surfaceForms": [
+        "chrysanthemums"
+      ],
+      "clozeAnswerSurfaceForm": "chrysanthemums"
+    },
+    {
+      "lemma": "enamel",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A glossy, colored coating applied to metal or other surfaces for decoration",
+      "translationZh": "琺瑯（瓷釉）",
+      "exampleSentence": "Mona had collected details of my life and put them into her book—an antique Chinese enameled pillbox she bought for me, with chrysanthemums and multicolored birds painted on a blue background.",
+      "clozeSentence": "Mona had collected details of my life and put them into her book—an antique Chinese _____ pillbox she bought for me, with chrysanthemums and multicolored birds painted on a blue background.",
+      "distractors": [
+        "A soft fabric used for clothing",
+        "A type of clear glass",
+        "A flexible rubber material"
+      ],
+      "surfaceForms": [
+        "enameled"
+      ],
+      "clozeAnswerSurfaceForm": "enameled"
+    },
+    {
+      "lemma": "pillbox",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A small box or container used for holding pills, or a small round hat of similar shape",
+      "translationZh": "藥盒；小圓帽",
+      "exampleSentence": "Mona had collected details of my life and put them into her book—an antique Chinese enameled pillbox she bought for me, with chrysanthemums and multicolored birds painted on a blue background.",
+      "clozeSentence": "Mona had collected details of my life and put them into her book—an antique Chinese enameled _____ she bought for me, with chrysanthemums and multicolored birds painted on a blue background.",
+      "distractors": [
+        "A large container for storing books",
+        "A bag used for carrying groceries",
+        "A case used for holding jewelry only"
+      ],
+      "surfaceForms": [
+        "pillbox"
+      ],
+      "clozeAnswerSurfaceForm": "pillbox"
+    },
+    {
+      "lemma": "disconsolate",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "Very unhappy and unable to be comforted",
+      "translationZh": "悲痛欲絕的；無法安慰的",
+      "exampleSentence": "The details she described made me disconsolate, as if, having described them so well, they belonged to her now, not to me.",
+      "clozeSentence": "The details she described made me _____, as if, having described them so well, they belonged to her now, not to me.",
+      "distractors": [
+        "Extremely cheerful and content",
+        "Calm and emotionally neutral",
+        "Confused but not upset"
+      ],
+      "surfaceForms": [
+        "disconsolate"
+      ],
+      "clozeAnswerSurfaceForm": "disconsolate"
+    },
+    {
+      "lemma": "aesthetic",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Relating to beauty or the appreciation of what is beautiful",
+      "translationZh": "美學的；審美的",
+      "exampleSentence": "They shared an aesthetic sensibility, my father buying expensive lamps, carpets, and books while Mona patrolled flea markets for vintage mercury bulbs, wooden figures, magnolia-patterned plates, glasses with a stripe of silver painted on the rim.",
+      "clozeSentence": "They shared an _____ sensibility, my father buying expensive lamps, carpets, and books while Mona patrolled flea markets for vintage mercury bulbs, wooden figures, magnolia-patterned plates, glasses with a stripe of silver painted on the rim.",
+      "distractors": [
+        "Relating to money and finance",
+        "Relating to physical health",
+        "Relating to legal rules"
+      ],
+      "surfaceForms": [
+        "aesthetic"
+      ],
+      "clozeAnswerSurfaceForm": "aesthetic"
+    },
+    {
+      "lemma": "sensibility",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "The ability to appreciate and respond to complex or subtle influences, such as art",
+      "translationZh": "（審美或情感的）敏感度；感受力",
+      "exampleSentence": "They shared an aesthetic sensibility, my father buying expensive lamps, carpets, and books while Mona patrolled flea markets for vintage mercury bulbs, wooden figures, magnolia-patterned plates, glasses with a stripe of silver painted on the rim.",
+      "clozeSentence": "They shared an aesthetic _____, my father buying expensive lamps, carpets, and books while Mona patrolled flea markets for vintage mercury bulbs, wooden figures, magnolia-patterned plates, glasses with a stripe of silver painted on the rim.",
+      "distractors": [
+        "The ability to calculate numbers quickly",
+        "The habit of making quick decisions",
+        "The tendency to avoid social contact"
+      ],
+      "surfaceForms": [
+        "sensibility"
+      ],
+      "clozeAnswerSurfaceForm": "sensibility"
+    },
+    {
+      "lemma": "shag",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "(of carpet) Having a long, thick, rough pile",
+      "translationZh": "長毛絨（地毯）的",
+      "exampleSentence": "Later, it was Mona who insisted that he rent us a nicer house than our tiny one on Melville; who insisted that he re-carpet and paint the small apartment within the Woodside house where he slept and I slept when I stayed with him, and that he change my bedroom from the one with the red shag rug, which required me to walk through his room to get to the bathroom, to one beside the bathroom.",
+      "clozeSentence": "Later, it was Mona who insisted that he rent us a nicer house than our tiny one on Melville; who insisted that he re-carpet and paint the small apartment within the Woodside house where he slept and I slept when I stayed with him, and that he change my bedroom from the one with the red _____ rug, which required me to walk through his room to get to the bathroom, to one beside the bathroom.",
+      "distractors": [
+        "Extremely thin and smooth",
+        "Made of hard, polished wood",
+        "Woven with a shiny, silky finish"
+      ],
+      "surfaceForms": [
+        "shag"
+      ],
+      "clozeAnswerSurfaceForm": "shag"
+    },
+    {
+      "lemma": "unhinge",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To make someone mentally unstable or unable to think clearly",
+      "translationZh": "使（心理）失常；使錯亂",
+      "exampleSentence": "It seemed to me that her mother was unhinged, from stories I insisted she tell me later—one Christmas her mother had bought gifts for her boyfriend’s children but not for Mona; once she’d made her order the steak at a restaurant when they didn’t have the money for it.",
+      "clozeSentence": "It seemed to me that her mother was _____, from stories I insisted she tell me later—one Christmas her mother had bought gifts for her boyfriend’s children but not for Mona; once she’d made her order the steak at a restaurant when they didn’t have the money for it.",
+      "distractors": [
+        "To make someone extremely calm and relaxed",
+        "To make someone more organized",
+        "To make someone physically stronger"
+      ],
+      "surfaceForms": [
+        "unhinged"
+      ],
+      "clozeAnswerSurfaceForm": "unhinged"
+    },
+    {
+      "lemma": "sophisticate",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Having refined taste, knowledge, or experience of the world",
+      "translationZh": "世故的；老練的（見多識廣的）",
+      "exampleSentence": "These gifts were windows into a more sophisticated world to which I hoped I’d belong, later.",
+      "clozeSentence": "These gifts were windows into a more _____ world to which I hoped I’d belong, later.",
+      "distractors": [
+        "Simple and lacking in experience",
+        "Loud and poorly mannered",
+        "Anxious and easily frightened"
+      ],
+      "surfaceForms": [
+        "sophisticated"
+      ],
+      "clozeAnswerSurfaceForm": "sophisticated"
+    },
+    {
+      "lemma": "galley",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "An early printed version of a book, used for proofreading before publication",
+      "translationZh": "校樣（印刷校對用的書稿）",
+      "exampleSentence": "Before it was published, she sent me the bound galleys and asked me what I thought of the novel, if there was anything I would change.",
+      "clozeSentence": "Before it was published, she sent me the bound _____ and asked me what I thought of the novel, if there was anything I would change.",
+      "distractors": [
+        "The final, bound edition of a book",
+        "A handwritten personal diary",
+        "A summary of a book's plot"
+      ],
+      "surfaceForms": [
+        "galleys"
+      ],
+      "clozeAnswerSurfaceForm": "galleys"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "cloze",
+      "wordLemma": "amethyst",
+      "prompt": "She gave me adult gifts: silver pointed dangly earrings, a set of collected Chekhov stories in pastel-colored paperbacks, a gold Tiffany ring with an _____ eye.",
+      "options": [
+        "artwork",
+        "sensibility",
+        "amethyst",
+        "aesthetic"
+      ],
+      "answer": "amethyst"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "sepia",
+      "prompt": "sepia",
+      "options": [
+        "A reddish-brown color, often associated with old photographs",
+        "A bright, vivid blue color",
+        "A shiny silver color",
+        "A pale, almost white color"
+      ],
+      "answer": "A reddish-brown color, often associated with old photographs"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "bestseller",
+      "prompt": "暢銷書（商品）",
+      "options": [
+        "disconsolate",
+        "unhinge",
+        "bestseller",
+        "elevate"
+      ],
+      "answer": "bestseller"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "chrysanthemum",
+      "prompt": "Mona had collected details of my life and put them into her book—an antique Chinese enameled pillbox she bought for me, with _____ and multicolored birds painted on a blue background.",
+      "options": [
+        "chrysanthemums",
+        "drip",
+        "dangly",
+        "shag"
+      ],
+      "answer": "chrysanthemums"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "jawline",
+      "prompt": "jawline",
+      "options": [
+        "The outline or shape of the lower jaw",
+        "The line where hair begins on the forehead",
+        "The shape of one's eyebrows",
+        "The curve of the shoulders"
+      ],
+      "answer": "The outline or shape of the lower jaw"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "dangly",
+      "prompt": "dangly",
+      "options": [
+        "Bright and shiny like metal",
+        "Tightly fitted and fixed in place",
+        "Extremely heavy and solid",
+        "(informal) Hanging loosely, especially as jewelry"
+      ],
+      "answer": "(informal) Hanging loosely, especially as jewelry"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "drip",
+      "prompt": "She wore the same pair of earrings, always, that looked like a long _____ of gold on each ear, the front and back sides hitting below her jawline.",
+      "options": [
+        "elevate",
+        "drip",
+        "artwork",
+        "unhinged"
+      ],
+      "answer": "drip"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "shag",
+      "prompt": "Later, it was Mona who insisted that he rent us a nicer house than our tiny one on Melville; who insisted that he re-carpet and paint the small apartment within the Woodside house where he slept and I slept when I stayed with him, and that he change my bedroom from the one with the red _____ rug, which required me to walk through his room to get to the bathroom, to one beside the bathroom.",
+      "options": [
+        "shag",
+        "artwork",
+        "kindred",
+        "jaw"
+      ],
+      "answer": "shag"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "sophisticate",
+      "prompt": "sophisticate",
+      "options": [
+        "Simple and lacking in experience",
+        "Loud and poorly mannered",
+        "Having refined taste, knowledge, or experience of the world",
+        "Anxious and easily frightened"
+      ],
+      "answer": "Having refined taste, knowledge, or experience of the world"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "artwork",
+      "prompt": "She was supportive of my mother’s _____ and took intense interest in the details of my life in a way that seemed to elevate them.",
+      "options": [
+        "artwork",
+        "shag",
+        "bestseller",
+        "chrysanthemums"
+      ],
+      "answer": "artwork"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "elevate",
+      "prompt": "提升；抬高",
+      "options": [
+        "elevate",
+        "galley",
+        "jawline",
+        "disconsolate"
+      ],
+      "answer": "elevate"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "kindred",
+      "prompt": "kindred",
+      "options": [
+        "Unfamiliar and distant",
+        "Completely opposite in personality",
+        "Formally connected by contract only",
+        "Similar in nature or character; closely related in feeling"
+      ],
+      "answer": "Similar in nature or character; closely related in feeling"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "pillbox",
+      "prompt": "pillbox",
+      "options": [
+        "A small box or container used for holding pills, or a small round hat of similar shape",
+        "A case used for holding jewelry only",
+        "A large container for storing books",
+        "A bag used for carrying groceries"
+      ],
+      "answer": "A small box or container used for holding pills, or a small round hat of similar shape"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "jaw",
+      "prompt": "下巴；顎",
+      "options": [
+        "shag",
+        "amethyst",
+        "jaw",
+        "aesthetic"
+      ],
+      "answer": "jaw"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "enamel",
+      "prompt": "琺瑯（瓷釉）",
+      "options": [
+        "amethyst",
+        "unhinge",
+        "sepia",
+        "enamel"
+      ],
+      "answer": "enamel"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "sensibility",
+      "prompt": "sensibility",
+      "options": [
+        "The ability to calculate numbers quickly",
+        "The ability to appreciate and respond to complex or subtle influences, such as art",
+        "The tendency to avoid social contact",
+        "The habit of making quick decisions"
+      ],
+      "answer": "The ability to appreciate and respond to complex or subtle influences, such as art"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "disconsolate",
+      "prompt": "The details she described made me _____, as if, having described them so well, they belonged to her now, not to me.",
+      "options": [
+        "disconsolate",
+        "pillbox",
+        "chrysanthemums",
+        "kindred"
+      ],
+      "answer": "disconsolate"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "galley",
+      "prompt": "Before it was published, she sent me the bound _____ and asked me what I thought of the novel, if there was anything I would change.",
+      "options": [
+        "sophisticated",
+        "artwork",
+        "galleys",
+        "sepia"
+      ],
+      "answer": "galleys"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "aesthetic",
+      "prompt": "美學的；審美的",
+      "options": [
+        "galley",
+        "sepia",
+        "aesthetic",
+        "jawline"
+      ],
+      "answer": "aesthetic"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "unhinge",
+      "prompt": "使（心理）失常；使錯亂",
+      "options": [
+        "amethyst",
+        "aesthetic",
+        "unhinge",
+        "sophisticate"
+      ],
+      "answer": "unhinge"
+    }
+  ]
+}

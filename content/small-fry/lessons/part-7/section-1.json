@@ -1,0 +1,1087 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 7,
+  "partTitle": "Marketable Skills",
+  "sectionIndex": 1,
+  "paragraphs": [
+    "I joined the debate team. It was one more thing I might do to get into college, and like the other activities I did for that purpose, it consumed me until I’d forgotten why I started to do it in the first place. The type of debate I chose was called Lincoln-Douglas, named for the famous debates between Abraham Lincoln and Stephen Douglas. The debate topic was printed on a long, thin sheet of paper: “Majority rule versus minority rights.” What did it mean, exactly? And how would we make questions about a statement? I didn’t know.",
+    "After we had prepared our arguments for both sides, done many practice rounds, and gone to one small competition at Stanford, which I’d lost, a small group of us left for another debate competition at a school called Lincoln, an hour away. Debates were held in empty classrooms, moderated by volunteers, parents, and teachers. After each round, paper assignments were posted on the wall with the next classroom assignment. In between we found each other, the four people from our school; we bought snacks, sat on the lips of concrete planters, this school much larger than ours, with charts on classroom walls that seemed more sophisticated and difficult than our charts. We whispered stories about the inanity of our opponents’ arguments.",
+    "When I argued, my cheeks got red. When that happened, I felt as if I were floating and sparking. Ideas seemed to be delivered to me, the right series of words in the right time allotments. While my opponents spoke, I had ideas for how to crush them rhetorically. The issue of minority rights or majority rule felt personally important to me. The only debate I was pretty sure I’d lost was against a boy in the first round.",
+    "That night, we returned home. The following day, Sunday, was the second and last day of the tournament. We left early, in the same van.",
+    "“We’ll return home as soon as we’ve all lost or, otherwise, we’ll wait as long as someone is still being placed in tournaments,” the coach said. I’d told my father I’d be gone for another day; he seemed wary, as if I’d made up the debate team. “I should be back by dinnertime,” I said.",
+    "But I kept winning. My cheeks continued to burn, so hot that as I formulated my counterarguments, I put a hand on my cheek, alternating between left and right, to cool them down.",
+    "I called home in between rounds, letting Laurene know that I would be later than I thought. I could tell from her flat voice that my father wasn’t pleased.",
+    "“You can talk to the debate coach, if you’d like,” I said. “To verify.”",
+    "“No, thanks,” she said. “We’ll just see you when you get back. We might be asleep.”",
+    "If I won, I could show him the trophy. I’d never won a trophy before, and it began to seem necessary to get it.",
+    "Day turned to night, the number of competitors who remained on the white sheet of paper pinned onto the wall after each round dwindled to very few, and when I walked into a room for what I heard were the semifinals (it wasn’t clear), there were three judges instead of one.",
+    "I don’t remember the look of any of the contestants I debated except the first, but I do remember the feeling in the room, during the final round, when I knew I was winning. It didn’t take long. By that time I didn’t care which side I got, my opinion papers were wrinkled from use. Any arguments could be overcome; I knew them all. We shook hands at the end. I felt a great magnanimous love for my opponent as well as for all the competitors who had come before.",
+    "Twenty minutes later, we gathered for the awards ceremony. “We have two winners in the Lincoln-Douglas category,” the man said. He was holding only one trophy in his hand. I started up from my seat. “Unfortunately, we only seem to have one trophy, so I’m afraid it’ll go to whoever gets up here first.”",
+    "I was already scrambling up the steps to the stage, trying to look graceful and nonchalant. The other winner, I saw now, was the boy I’d debated first, who had probably won the first round, meaning that his opponents had been more difficult after that. But he had not been quick, and as I neared the podium, the man reached out with the trophy. I grabbed it, transferring it to my left hand as the boy arrived behind me. We shook hands, and smiled.",
+    "The next day, in the car with my father, I mentioned the tournament.",
+    "“I won the whole thing!” I lied. I’d pulled out the trophy that morning, but he hadn’t seemed sufficiently impressed, so I’d brought it up again.",
+    "“I know, Lis. Maybe that’s all you need,” he said.",
+    "“What?”",
+    "“You’re done. You proved it,” he said.",
+    "“But that was just one. There are others. It might help me get into college.”",
+    "“Better to debate in real life,” he said. “Better to save it for when you need it. The club’s kind of lame.”"
+  ],
+  "words": [
+    {
+      "lemma": "contestant",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a person who takes part in a competition",
+      "translationZh": "參賽者",
+      "exampleSentence": "I don’t remember the look of any of the contestants I debated except the first, but I do remember the feeling in the room, during the final round, when I knew I was winning.",
+      "clozeSentence": "I don’t remember the look of any of the _____ I debated except the first, but I do remember the feeling in the room, during the final round, when I knew I was winning.",
+      "distractors": [
+        "a person who judges a competition",
+        "an audience member watching an event",
+        "a person who organizes an event"
+      ],
+      "surfaceForms": [
+        "contestants"
+      ],
+      "clozeAnswerSurfaceForm": "contestants"
+    },
+    {
+      "lemma": "magnanimous",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "generous and forgiving, especially toward a rival",
+      "translationZh": "寬宏大量的",
+      "exampleSentence": "I felt a great magnanimous love for my opponent as well as for all the competitors who had come before.",
+      "clozeSentence": "I felt a great _____ love for my opponent as well as for all the competitors who had come before.",
+      "distractors": [
+        "extremely jealous of others' success",
+        "unwilling to forgive small mistakes",
+        "overly cautious and fearful"
+      ],
+      "surfaceForms": [
+        "magnanimous"
+      ],
+      "clozeAnswerSurfaceForm": "magnanimous"
+    },
+    {
+      "lemma": "nonchalant",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "calm and relaxed, not showing worry or excitement",
+      "translationZh": "若無其事的；漠不關心的",
+      "exampleSentence": "I was already scrambling up the steps to the stage, trying to look graceful and nonchalant.",
+      "clozeSentence": "I was already scrambling up the steps to the stage, trying to look graceful and _____.",
+      "distractors": [
+        "extremely anxious and nervous",
+        "loudly enthusiastic and excited",
+        "deeply confused and lost"
+      ],
+      "surfaceForms": [
+        "nonchalant"
+      ],
+      "clozeAnswerSurfaceForm": "nonchalant"
+    },
+    {
+      "lemma": "scramble",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to move quickly and awkwardly, often using hands and feet",
+      "translationZh": "匆忙攀爬；急忙爬行",
+      "exampleSentence": "I was already scrambling up the steps to the stage, trying to look graceful and nonchalant.",
+      "clozeSentence": "I was already _____ up the steps to the stage, trying to look graceful and nonchalant.",
+      "distractors": [
+        "to walk slowly and calmly",
+        "to sit down and rest",
+        "to speak very quickly"
+      ],
+      "surfaceForms": [
+        "scrambling"
+      ],
+      "clozeAnswerSurfaceForm": "scrambling"
+    },
+    {
+      "lemma": "sufficiently",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to a degree that is enough",
+      "translationZh": "足夠地；充分地",
+      "exampleSentence": "I’d pulled out the trophy that morning, but he hadn’t seemed sufficiently impressed, so I’d brought it up again.",
+      "clozeSentence": "I’d pulled out the trophy that morning, but he hadn’t seemed _____ impressed, so I’d brought it up again.",
+      "distractors": [
+        "excessively; far too much",
+        "barely at all",
+        "in an unclear way"
+      ],
+      "surfaceForms": [
+        "sufficiently"
+      ],
+      "clozeAnswerSurfaceForm": "sufficiently"
+    },
+    {
+      "lemma": "wary",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "cautious because you think something might be a problem",
+      "translationZh": "謹慎的；提防的",
+      "exampleSentence": "I’d told my father I’d be gone for another day; he seemed wary, as if I’d made up the debate team.",
+      "clozeSentence": "I’d told my father I’d be gone for another day; he seemed _____, as if I’d made up the debate team.",
+      "distractors": [
+        "extremely confident and sure",
+        "completely relaxed and unconcerned",
+        "very excited and eager"
+      ],
+      "surfaceForms": [
+        "wary"
+      ],
+      "clozeAnswerSurfaceForm": "wary"
+    },
+    {
+      "lemma": "lame",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "(informal) not good; boring or disappointing",
+      "translationZh": "（口語）遜；無聊的",
+      "exampleSentence": "The club’s kind of lame.”",
+      "clozeSentence": "The club’s kind of _____.”",
+      "distractors": [
+        "extremely exciting and fun",
+        "physically unable to walk",
+        "very expensive"
+      ],
+      "surfaceForms": [
+        "lame"
+      ],
+      "clozeAnswerSurfaceForm": "lame"
+    },
+    {
+      "lemma": "versus",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "used to compare two people, ideas, or things, especially opposing ones",
+      "translationZh": "對；相對於",
+      "exampleSentence": "The debate topic was printed on a long, thin sheet of paper: “Majority rule versus minority rights.” What did it mean, exactly?",
+      "clozeSentence": "The debate topic was printed on a long, thin sheet of paper: “Majority rule _____ minority rights.” What did it mean, exactly?",
+      "distractors": [
+        "in addition to",
+        "similar to",
+        "because of"
+      ],
+      "surfaceForms": [
+        "versus"
+      ],
+      "clozeAnswerSurfaceForm": "versus"
+    },
+    {
+      "lemma": "concrete",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a hard building material made from cement, sand, and water",
+      "translationZh": "混凝土",
+      "exampleSentence": "In between we found each other, the four people from our school; we bought snacks, sat on the lips of concrete planters, this school much larger than ours, with charts on classroom walls that seemed more sophisticated and difficult than our charts.",
+      "clozeSentence": "In between we found each other, the four people from our school; we bought snacks, sat on the lips of _____ planters, this school much larger than ours, with charts on classroom walls that seemed more sophisticated and difficult than our charts.",
+      "distractors": [
+        "a soft, bendable plastic material",
+        "a type of polished wood",
+        "a thin sheet of glass"
+      ],
+      "surfaceForms": [
+        "concrete"
+      ],
+      "clozeAnswerSurfaceForm": "concrete"
+    },
+    {
+      "lemma": "planter",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a container used for growing plants",
+      "translationZh": "花盆；種植容器",
+      "exampleSentence": "In between we found each other, the four people from our school; we bought snacks, sat on the lips of concrete planters, this school much larger than ours, with charts on classroom walls that seemed more sophisticated and difficult than our charts.",
+      "clozeSentence": "In between we found each other, the four people from our school; we bought snacks, sat on the lips of concrete _____, this school much larger than ours, with charts on classroom walls that seemed more sophisticated and difficult than our charts.",
+      "distractors": [
+        "a small gardening tool for digging",
+        "a type of outdoor bench",
+        "a person who plants seeds professionally"
+      ],
+      "surfaceForms": [
+        "planters"
+      ],
+      "clozeAnswerSurfaceForm": "planters"
+    },
+    {
+      "lemma": "sophisticate",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "complex and advanced, showing a high level of skill or knowledge",
+      "translationZh": "複雜精密的；高水準的",
+      "exampleSentence": "In between we found each other, the four people from our school; we bought snacks, sat on the lips of concrete planters, this school much larger than ours, with charts on classroom walls that seemed more sophisticated and difficult than our charts.",
+      "clozeSentence": "In between we found each other, the four people from our school; we bought snacks, sat on the lips of concrete planters, this school much larger than ours, with charts on classroom walls that seemed more _____ and difficult than our charts.",
+      "distractors": [
+        "simple and easy to understand",
+        "old-fashioned and outdated",
+        "cheap and poorly made"
+      ],
+      "surfaceForms": [
+        "sophisticated"
+      ],
+      "clozeAnswerSurfaceForm": "sophisticated"
+    },
+    {
+      "lemma": "inanity",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "the quality of being silly or lacking sense",
+      "translationZh": "愚蠢；空洞無意義",
+      "exampleSentence": "We whispered stories about the inanity of our opponents’ arguments.",
+      "clozeSentence": "We whispered stories about the _____ of our opponents’ arguments.",
+      "distractors": [
+        "the quality of being extremely intelligent",
+        "a strong feeling of anger",
+        "a deep sense of sadness"
+      ],
+      "surfaceForms": [
+        "inanity"
+      ],
+      "clozeAnswerSurfaceForm": "inanity"
+    },
+    {
+      "lemma": "spark",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to feel a sudden burst of excitement or energy",
+      "translationZh": "感到興奮；活力四射",
+      "exampleSentence": "When that happened, I felt as if I were floating and sparking.",
+      "clozeSentence": "When that happened, I felt as if I were floating and _____.",
+      "distractors": [
+        "to feel extremely tired",
+        "to feel calm and sleepy",
+        "to feel physically cold"
+      ],
+      "surfaceForms": [
+        "sparking"
+      ],
+      "clozeAnswerSurfaceForm": "sparking"
+    },
+    {
+      "lemma": "allotment",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "the amount of something given or assigned to someone",
+      "translationZh": "分配額；配額（此指分配到的時間量）",
+      "exampleSentence": "Ideas seemed to be delivered to me, the right series of words in the right time allotments.",
+      "clozeSentence": "Ideas seemed to be delivered to me, the right series of words in the right time _____.",
+      "distractors": [
+        "a formal written complaint",
+        "a small decorative garden ornament",
+        "a sudden burst of noise"
+      ],
+      "surfaceForms": [
+        "allotments"
+      ],
+      "clozeAnswerSurfaceForm": "allotments"
+    },
+    {
+      "lemma": "opponent",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a person who competes against another",
+      "translationZh": "對手",
+      "exampleSentence": "While my opponents spoke, I had ideas for how to crush them rhetorically.",
+      "clozeSentence": "While my _____ spoke, I had ideas for how to crush them rhetorically.",
+      "distractors": [
+        "a close friend or ally",
+        "a teacher or instructor",
+        "a person who watches a game"
+      ],
+      "surfaceForms": [
+        "opponents",
+        "opponent"
+      ],
+      "clozeAnswerSurfaceForm": "opponents"
+    },
+    {
+      "lemma": "rhetorically",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "in a way meant to persuade or create an effect rather than get an answer",
+      "translationZh": "以修辭方式；反問式地",
+      "exampleSentence": "While my opponents spoke, I had ideas for how to crush them rhetorically.",
+      "clozeSentence": "While my opponents spoke, I had ideas for how to crush them _____.",
+      "distractors": [
+        "in a calm and quiet manner",
+        "in a literal, exact way",
+        "in a confused, unclear way"
+      ],
+      "surfaceForms": [
+        "rhetorically"
+      ],
+      "clozeAnswerSurfaceForm": "rhetorically"
+    },
+    {
+      "lemma": "podium",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a small raised platform for a speaker or performer",
+      "translationZh": "講台；頒獎台",
+      "exampleSentence": "But he had not been quick, and as I neared the podium, the man reached out with the trophy.",
+      "clozeSentence": "But he had not been quick, and as I neared the _____, the man reached out with the trophy.",
+      "distractors": [
+        "a large open stage for concerts",
+        "a trophy given to winners",
+        "a seat reserved for judges"
+      ],
+      "surfaceForms": [
+        "podium"
+      ],
+      "clozeAnswerSurfaceForm": "podium"
+    },
+    {
+      "lemma": "alternate",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to do or use two things in turn, one after the other",
+      "translationZh": "交替；輪流",
+      "exampleSentence": "My cheeks continued to burn, so hot that as I formulated my counterarguments, I put a hand on my cheek, alternating between left and right, to cool them down.",
+      "clozeSentence": "My cheeks continued to burn, so hot that as I formulated my counterarguments, I put a hand on my cheek, _____ between left and right, to cool them down.",
+      "distractors": [
+        "to combine two things into one",
+        "to stop doing something completely",
+        "to repeat the same action twice"
+      ],
+      "surfaceForms": [
+        "alternating"
+      ],
+      "clozeAnswerSurfaceForm": "alternating"
+    },
+    {
+      "lemma": "counterargument",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "an argument made to oppose another argument",
+      "translationZh": "反駁論點；反論",
+      "exampleSentence": "My cheeks continued to burn, so hot that as I formulated my counterarguments, I put a hand on my cheek, alternating between left and right, to cool them down.",
+      "clozeSentence": "My cheeks continued to burn, so hot that as I formulated my _____, I put a hand on my cheek, alternating between left and right, to cool them down.",
+      "distractors": [
+        "a summary of the main point",
+        "a question asked for clarification",
+        "a personal opinion stated without evidence"
+      ],
+      "surfaceForms": [
+        "counterarguments"
+      ],
+      "clozeAnswerSurfaceForm": "counterarguments"
+    },
+    {
+      "lemma": "formulate",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "to create or develop an idea, plan, or argument carefully",
+      "translationZh": "構思；擬定",
+      "exampleSentence": "My cheeks continued to burn, so hot that as I formulated my counterarguments, I put a hand on my cheek, alternating between left and right, to cool them down.",
+      "clozeSentence": "My cheeks continued to burn, so hot that as I _____ my counterarguments, I put a hand on my cheek, alternating between left and right, to cool them down.",
+      "distractors": [
+        "to memorize something by repetition",
+        "to copy someone else's idea",
+        "to reject an idea completely"
+      ],
+      "surfaceForms": [
+        "formulated"
+      ],
+      "clozeAnswerSurfaceForm": "formulated"
+    },
+    {
+      "lemma": "verify",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to check that something is true or correct",
+      "translationZh": "核實；驗證",
+      "exampleSentence": "“To verify.”",
+      "clozeSentence": "“To _____.”",
+      "distractors": [
+        "to guess something without checking",
+        "to completely ignore a fact",
+        "to create a false statement"
+      ],
+      "surfaceForms": [
+        "verify"
+      ],
+      "clozeAnswerSurfaceForm": "verify"
+    },
+    {
+      "lemma": "trophy",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "an object, such as a cup, given as a prize for winning",
+      "translationZh": "獎盃",
+      "exampleSentence": "If I won, I could show him the trophy.",
+      "clozeSentence": "If I won, I could show him the _____.",
+      "distractors": [
+        "a certificate of participation",
+        "a piece of sports equipment",
+        "a written record of scores"
+      ],
+      "surfaceForms": [
+        "trophy"
+      ],
+      "clozeAnswerSurfaceForm": "trophy"
+    },
+    {
+      "lemma": "dwindle",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to become gradually smaller or fewer",
+      "translationZh": "逐漸減少",
+      "exampleSentence": "Day turned to night, the number of competitors who remained on the white sheet of paper pinned onto the wall after each round dwindled to very few, and when I walked into a room for what I heard were the semifinals (it wasn’t clear), there were three judges instead of one.",
+      "clozeSentence": "Day turned to night, the number of competitors who remained on the white sheet of paper pinned onto the wall after each round _____ to very few, and when I walked into a room for what I heard were the semifinals (it wasn’t clear), there were three judges instead of one.",
+      "distractors": [
+        "to increase steadily over time",
+        "to stay exactly the same",
+        "to disappear suddenly and completely"
+      ],
+      "surfaceForms": [
+        "dwindled"
+      ],
+      "clozeAnswerSurfaceForm": "dwindled"
+    },
+    {
+      "lemma": "semifinal",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a match or round just before the final one in a competition",
+      "translationZh": "準決賽",
+      "exampleSentence": "Day turned to night, the number of competitors who remained on the white sheet of paper pinned onto the wall after each round dwindled to very few, and when I walked into a room for what I heard were the semifinals (it wasn’t clear), there were three judges instead of one.",
+      "clozeSentence": "Day turned to night, the number of competitors who remained on the white sheet of paper pinned onto the wall after each round dwindled to very few, and when I walked into a room for what I heard were the _____ (it wasn’t clear), there were three judges instead of one.",
+      "distractors": [
+        "the very first round of a competition",
+        "the opening ceremony of an event",
+        "a practice match with no result"
+      ],
+      "surfaceForms": [
+        "semifinals"
+      ],
+      "clozeAnswerSurfaceForm": "semifinals"
+    },
+    {
+      "lemma": "wrinkle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to become creased or folded from use",
+      "translationZh": "（紙張等）變皺",
+      "exampleSentence": "By that time I didn’t care which side I got, my opinion papers were wrinkled from use.",
+      "clozeSentence": "By that time I didn’t care which side I got, my opinion papers were _____ from use.",
+      "distractors": [
+        "to become torn into pieces",
+        "to become perfectly smooth",
+        "to change color"
+      ],
+      "surfaceForms": [
+        "wrinkled"
+      ],
+      "clozeAnswerSurfaceForm": "wrinkled"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "magnanimous",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "generous and forgiving, especially toward a rival",
+      "translationZh": "寬宏大量的",
+      "exampleSentence": "I felt a great magnanimous love for my opponent as well as for all the competitors who had come before.",
+      "clozeSentence": "I felt a great _____ love for my opponent as well as for all the competitors who had come before.",
+      "distractors": [
+        "extremely jealous of others' success",
+        "unwilling to forgive small mistakes",
+        "overly cautious and fearful"
+      ],
+      "surfaceForms": [
+        "magnanimous"
+      ],
+      "clozeAnswerSurfaceForm": "magnanimous"
+    },
+    {
+      "lemma": "nonchalant",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "calm and relaxed, not showing worry or excitement",
+      "translationZh": "若無其事的；漠不關心的",
+      "exampleSentence": "I was already scrambling up the steps to the stage, trying to look graceful and nonchalant.",
+      "clozeSentence": "I was already scrambling up the steps to the stage, trying to look graceful and _____.",
+      "distractors": [
+        "extremely anxious and nervous",
+        "loudly enthusiastic and excited",
+        "deeply confused and lost"
+      ],
+      "surfaceForms": [
+        "nonchalant"
+      ],
+      "clozeAnswerSurfaceForm": "nonchalant"
+    },
+    {
+      "lemma": "contestant",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a person who takes part in a competition",
+      "translationZh": "參賽者",
+      "exampleSentence": "I don’t remember the look of any of the contestants I debated except the first, but I do remember the feeling in the room, during the final round, when I knew I was winning.",
+      "clozeSentence": "I don’t remember the look of any of the _____ I debated except the first, but I do remember the feeling in the room, during the final round, when I knew I was winning.",
+      "distractors": [
+        "a person who judges a competition",
+        "an audience member watching an event",
+        "a person who organizes an event"
+      ],
+      "surfaceForms": [
+        "contestants"
+      ],
+      "clozeAnswerSurfaceForm": "contestants"
+    },
+    {
+      "lemma": "scramble",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to move quickly and awkwardly, often using hands and feet",
+      "translationZh": "匆忙攀爬；急忙爬行",
+      "exampleSentence": "I was already scrambling up the steps to the stage, trying to look graceful and nonchalant.",
+      "clozeSentence": "I was already _____ up the steps to the stage, trying to look graceful and nonchalant.",
+      "distractors": [
+        "to walk slowly and calmly",
+        "to sit down and rest",
+        "to speak very quickly"
+      ],
+      "surfaceForms": [
+        "scrambling"
+      ],
+      "clozeAnswerSurfaceForm": "scrambling"
+    },
+    {
+      "lemma": "wary",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "cautious because you think something might be a problem",
+      "translationZh": "謹慎的；提防的",
+      "exampleSentence": "I’d told my father I’d be gone for another day; he seemed wary, as if I’d made up the debate team.",
+      "clozeSentence": "I’d told my father I’d be gone for another day; he seemed _____, as if I’d made up the debate team.",
+      "distractors": [
+        "extremely confident and sure",
+        "completely relaxed and unconcerned",
+        "very excited and eager"
+      ],
+      "surfaceForms": [
+        "wary"
+      ],
+      "clozeAnswerSurfaceForm": "wary"
+    },
+    {
+      "lemma": "sufficiently",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to a degree that is enough",
+      "translationZh": "足夠地；充分地",
+      "exampleSentence": "I’d pulled out the trophy that morning, but he hadn’t seemed sufficiently impressed, so I’d brought it up again.",
+      "clozeSentence": "I’d pulled out the trophy that morning, but he hadn’t seemed _____ impressed, so I’d brought it up again.",
+      "distractors": [
+        "excessively; far too much",
+        "barely at all",
+        "in an unclear way"
+      ],
+      "surfaceForms": [
+        "sufficiently"
+      ],
+      "clozeAnswerSurfaceForm": "sufficiently"
+    },
+    {
+      "lemma": "lame",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "(informal) not good; boring or disappointing",
+      "translationZh": "（口語）遜；無聊的",
+      "exampleSentence": "The club’s kind of lame.”",
+      "clozeSentence": "The club’s kind of _____.”",
+      "distractors": [
+        "extremely exciting and fun",
+        "physically unable to walk",
+        "very expensive"
+      ],
+      "surfaceForms": [
+        "lame"
+      ],
+      "clozeAnswerSurfaceForm": "lame"
+    },
+    {
+      "lemma": "versus",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "used to compare two people, ideas, or things, especially opposing ones",
+      "translationZh": "對；相對於",
+      "exampleSentence": "The debate topic was printed on a long, thin sheet of paper: “Majority rule versus minority rights.” What did it mean, exactly?",
+      "clozeSentence": "The debate topic was printed on a long, thin sheet of paper: “Majority rule _____ minority rights.” What did it mean, exactly?",
+      "distractors": [
+        "in addition to",
+        "similar to",
+        "because of"
+      ],
+      "surfaceForms": [
+        "versus"
+      ],
+      "clozeAnswerSurfaceForm": "versus"
+    },
+    {
+      "lemma": "concrete",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a hard building material made from cement, sand, and water",
+      "translationZh": "混凝土",
+      "exampleSentence": "In between we found each other, the four people from our school; we bought snacks, sat on the lips of concrete planters, this school much larger than ours, with charts on classroom walls that seemed more sophisticated and difficult than our charts.",
+      "clozeSentence": "In between we found each other, the four people from our school; we bought snacks, sat on the lips of _____ planters, this school much larger than ours, with charts on classroom walls that seemed more sophisticated and difficult than our charts.",
+      "distractors": [
+        "a soft, bendable plastic material",
+        "a type of polished wood",
+        "a thin sheet of glass"
+      ],
+      "surfaceForms": [
+        "concrete"
+      ],
+      "clozeAnswerSurfaceForm": "concrete"
+    },
+    {
+      "lemma": "planter",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a container used for growing plants",
+      "translationZh": "花盆；種植容器",
+      "exampleSentence": "In between we found each other, the four people from our school; we bought snacks, sat on the lips of concrete planters, this school much larger than ours, with charts on classroom walls that seemed more sophisticated and difficult than our charts.",
+      "clozeSentence": "In between we found each other, the four people from our school; we bought snacks, sat on the lips of concrete _____, this school much larger than ours, with charts on classroom walls that seemed more sophisticated and difficult than our charts.",
+      "distractors": [
+        "a small gardening tool for digging",
+        "a type of outdoor bench",
+        "a person who plants seeds professionally"
+      ],
+      "surfaceForms": [
+        "planters"
+      ],
+      "clozeAnswerSurfaceForm": "planters"
+    },
+    {
+      "lemma": "sophisticate",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "complex and advanced, showing a high level of skill or knowledge",
+      "translationZh": "複雜精密的；高水準的",
+      "exampleSentence": "In between we found each other, the four people from our school; we bought snacks, sat on the lips of concrete planters, this school much larger than ours, with charts on classroom walls that seemed more sophisticated and difficult than our charts.",
+      "clozeSentence": "In between we found each other, the four people from our school; we bought snacks, sat on the lips of concrete planters, this school much larger than ours, with charts on classroom walls that seemed more _____ and difficult than our charts.",
+      "distractors": [
+        "simple and easy to understand",
+        "old-fashioned and outdated",
+        "cheap and poorly made"
+      ],
+      "surfaceForms": [
+        "sophisticated"
+      ],
+      "clozeAnswerSurfaceForm": "sophisticated"
+    },
+    {
+      "lemma": "inanity",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "the quality of being silly or lacking sense",
+      "translationZh": "愚蠢；空洞無意義",
+      "exampleSentence": "We whispered stories about the inanity of our opponents’ arguments.",
+      "clozeSentence": "We whispered stories about the _____ of our opponents’ arguments.",
+      "distractors": [
+        "the quality of being extremely intelligent",
+        "a strong feeling of anger",
+        "a deep sense of sadness"
+      ],
+      "surfaceForms": [
+        "inanity"
+      ],
+      "clozeAnswerSurfaceForm": "inanity"
+    },
+    {
+      "lemma": "spark",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to feel a sudden burst of excitement or energy",
+      "translationZh": "感到興奮；活力四射",
+      "exampleSentence": "When that happened, I felt as if I were floating and sparking.",
+      "clozeSentence": "When that happened, I felt as if I were floating and _____.",
+      "distractors": [
+        "to feel extremely tired",
+        "to feel calm and sleepy",
+        "to feel physically cold"
+      ],
+      "surfaceForms": [
+        "sparking"
+      ],
+      "clozeAnswerSurfaceForm": "sparking"
+    },
+    {
+      "lemma": "allotment",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "the amount of something given or assigned to someone",
+      "translationZh": "分配額；配額（此指分配到的時間量）",
+      "exampleSentence": "Ideas seemed to be delivered to me, the right series of words in the right time allotments.",
+      "clozeSentence": "Ideas seemed to be delivered to me, the right series of words in the right time _____.",
+      "distractors": [
+        "a formal written complaint",
+        "a small decorative garden ornament",
+        "a sudden burst of noise"
+      ],
+      "surfaceForms": [
+        "allotments"
+      ],
+      "clozeAnswerSurfaceForm": "allotments"
+    },
+    {
+      "lemma": "rhetorically",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "in a way meant to persuade or create an effect rather than get an answer",
+      "translationZh": "以修辭方式；反問式地",
+      "exampleSentence": "While my opponents spoke, I had ideas for how to crush them rhetorically.",
+      "clozeSentence": "While my opponents spoke, I had ideas for how to crush them _____.",
+      "distractors": [
+        "in a calm and quiet manner",
+        "in a literal, exact way",
+        "in a confused, unclear way"
+      ],
+      "surfaceForms": [
+        "rhetorically"
+      ],
+      "clozeAnswerSurfaceForm": "rhetorically"
+    },
+    {
+      "lemma": "opponent",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a person who competes against another",
+      "translationZh": "對手",
+      "exampleSentence": "While my opponents spoke, I had ideas for how to crush them rhetorically.",
+      "clozeSentence": "While my _____ spoke, I had ideas for how to crush them rhetorically.",
+      "distractors": [
+        "a close friend or ally",
+        "a teacher or instructor",
+        "a person who watches a game"
+      ],
+      "surfaceForms": [
+        "opponents",
+        "opponent"
+      ],
+      "clozeAnswerSurfaceForm": "opponents"
+    },
+    {
+      "lemma": "podium",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a small raised platform for a speaker or performer",
+      "translationZh": "講台；頒獎台",
+      "exampleSentence": "But he had not been quick, and as I neared the podium, the man reached out with the trophy.",
+      "clozeSentence": "But he had not been quick, and as I neared the _____, the man reached out with the trophy.",
+      "distractors": [
+        "a large open stage for concerts",
+        "a trophy given to winners",
+        "a seat reserved for judges"
+      ],
+      "surfaceForms": [
+        "podium"
+      ],
+      "clozeAnswerSurfaceForm": "podium"
+    },
+    {
+      "lemma": "counterargument",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "an argument made to oppose another argument",
+      "translationZh": "反駁論點；反論",
+      "exampleSentence": "My cheeks continued to burn, so hot that as I formulated my counterarguments, I put a hand on my cheek, alternating between left and right, to cool them down.",
+      "clozeSentence": "My cheeks continued to burn, so hot that as I formulated my _____, I put a hand on my cheek, alternating between left and right, to cool them down.",
+      "distractors": [
+        "a summary of the main point",
+        "a question asked for clarification",
+        "a personal opinion stated without evidence"
+      ],
+      "surfaceForms": [
+        "counterarguments"
+      ],
+      "clozeAnswerSurfaceForm": "counterarguments"
+    },
+    {
+      "lemma": "formulate",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "to create or develop an idea, plan, or argument carefully",
+      "translationZh": "構思；擬定",
+      "exampleSentence": "My cheeks continued to burn, so hot that as I formulated my counterarguments, I put a hand on my cheek, alternating between left and right, to cool them down.",
+      "clozeSentence": "My cheeks continued to burn, so hot that as I _____ my counterarguments, I put a hand on my cheek, alternating between left and right, to cool them down.",
+      "distractors": [
+        "to memorize something by repetition",
+        "to copy someone else's idea",
+        "to reject an idea completely"
+      ],
+      "surfaceForms": [
+        "formulated"
+      ],
+      "clozeAnswerSurfaceForm": "formulated"
+    },
+    {
+      "lemma": "dwindle",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to become gradually smaller or fewer",
+      "translationZh": "逐漸減少",
+      "exampleSentence": "Day turned to night, the number of competitors who remained on the white sheet of paper pinned onto the wall after each round dwindled to very few, and when I walked into a room for what I heard were the semifinals (it wasn’t clear), there were three judges instead of one.",
+      "clozeSentence": "Day turned to night, the number of competitors who remained on the white sheet of paper pinned onto the wall after each round _____ to very few, and when I walked into a room for what I heard were the semifinals (it wasn’t clear), there were three judges instead of one.",
+      "distractors": [
+        "to increase steadily over time",
+        "to stay exactly the same",
+        "to disappear suddenly and completely"
+      ],
+      "surfaceForms": [
+        "dwindled"
+      ],
+      "clozeAnswerSurfaceForm": "dwindled"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "wordLemma": "lame",
+      "prompt": "lame",
+      "options": [
+        "very expensive",
+        "(informal) not good; boring or disappointing",
+        "extremely exciting and fun",
+        "physically unable to walk"
+      ],
+      "answer": "(informal) not good; boring or disappointing"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "sophisticate",
+      "prompt": "In between we found each other, the four people from our school; we bought snacks, sat on the lips of concrete planters, this school much larger than ours, with charts on classroom walls that seemed more _____ and difficult than our charts.",
+      "options": [
+        "lame",
+        "allotments",
+        "versus",
+        "sophisticated"
+      ],
+      "answer": "sophisticated"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "opponent",
+      "prompt": "opponent",
+      "options": [
+        "a teacher or instructor",
+        "a person who watches a game",
+        "a close friend or ally",
+        "a person who competes against another"
+      ],
+      "answer": "a person who competes against another"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "allotment",
+      "prompt": "Ideas seemed to be delivered to me, the right series of words in the right time _____.",
+      "options": [
+        "rhetorically",
+        "inanity",
+        "allotments",
+        "opponents"
+      ],
+      "answer": "allotments"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "versus",
+      "prompt": "The debate topic was printed on a long, thin sheet of paper: “Majority rule _____ minority rights.” What did it mean, exactly?",
+      "options": [
+        "counterarguments",
+        "opponents",
+        "lame",
+        "versus"
+      ],
+      "answer": "versus"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "nonchalant",
+      "prompt": "I was already scrambling up the steps to the stage, trying to look graceful and _____.",
+      "options": [
+        "versus",
+        "wary",
+        "sophisticated",
+        "nonchalant"
+      ],
+      "answer": "nonchalant"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "scramble",
+      "prompt": "scramble",
+      "options": [
+        "to sit down and rest",
+        "to walk slowly and calmly",
+        "to speak very quickly",
+        "to move quickly and awkwardly, often using hands and feet"
+      ],
+      "answer": "to move quickly and awkwardly, often using hands and feet"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "magnanimous",
+      "prompt": "magnanimous",
+      "options": [
+        "overly cautious and fearful",
+        "unwilling to forgive small mistakes",
+        "extremely jealous of others' success",
+        "generous and forgiving, especially toward a rival"
+      ],
+      "answer": "generous and forgiving, especially toward a rival"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "counterargument",
+      "prompt": "反駁論點；反論",
+      "options": [
+        "counterargument",
+        "lame",
+        "inanity",
+        "spark"
+      ],
+      "answer": "counterargument"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "inanity",
+      "prompt": "愚蠢；空洞無意義",
+      "options": [
+        "concrete",
+        "inanity",
+        "podium",
+        "dwindle"
+      ],
+      "answer": "inanity"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "sufficiently",
+      "prompt": "足夠地；充分地",
+      "options": [
+        "scramble",
+        "spark",
+        "sufficiently",
+        "versus"
+      ],
+      "answer": "sufficiently"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "podium",
+      "prompt": "But he had not been quick, and as I neared the _____, the man reached out with the trophy.",
+      "options": [
+        "nonchalant",
+        "scrambling",
+        "podium",
+        "dwindled"
+      ],
+      "answer": "podium"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "concrete",
+      "prompt": "混凝土",
+      "options": [
+        "concrete",
+        "magnanimous",
+        "opponent",
+        "dwindle"
+      ],
+      "answer": "concrete"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "planter",
+      "prompt": "planter",
+      "options": [
+        "a small gardening tool for digging",
+        "a type of outdoor bench",
+        "a container used for growing plants",
+        "a person who plants seeds professionally"
+      ],
+      "answer": "a container used for growing plants"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "formulate",
+      "prompt": "formulate",
+      "options": [
+        "to memorize something by repetition",
+        "to copy someone else's idea",
+        "to reject an idea completely",
+        "to create or develop an idea, plan, or argument carefully"
+      ],
+      "answer": "to create or develop an idea, plan, or argument carefully"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "spark",
+      "prompt": "spark",
+      "options": [
+        "to feel a sudden burst of excitement or energy",
+        "to feel extremely tired",
+        "to feel physically cold",
+        "to feel calm and sleepy"
+      ],
+      "answer": "to feel a sudden burst of excitement or energy"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "rhetorically",
+      "prompt": "以修辭方式；反問式地",
+      "options": [
+        "versus",
+        "rhetorically",
+        "spark",
+        "wary"
+      ],
+      "answer": "rhetorically"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "dwindle",
+      "prompt": "Day turned to night, the number of competitors who remained on the white sheet of paper pinned onto the wall after each round _____ to very few, and when I walked into a room for what I heard were the semifinals (it wasn’t clear), there were three judges instead of one.",
+      "options": [
+        "dwindled",
+        "nonchalant",
+        "podium",
+        "concrete"
+      ],
+      "answer": "dwindled"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "contestant",
+      "prompt": "參賽者",
+      "options": [
+        "contestant",
+        "planter",
+        "allotment",
+        "rhetorically"
+      ],
+      "answer": "contestant"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "wary",
+      "prompt": "I’d told my father I’d be gone for another day; he seemed _____, as if I’d made up the debate team.",
+      "options": [
+        "wary",
+        "dwindled",
+        "concrete",
+        "formulated"
+      ],
+      "answer": "wary"
+    }
+  ]
+}

@@ -1,0 +1,1035 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 5,
+  "partTitle": "Runaway",
+  "sectionIndex": 2,
+  "paragraphs": [
+    "For my twelfth birthday, Mona gave me a CD by Patsy Cline, with a sad song about a weeping willow and walking all alone at night. Soon after, she came to visit, and after she’d come into the house to see my mother, I followed her outside. She and I stood on the lawn. It was evening, the light was yellow, the air quiet without the lawn mowers, leaf blowers, and prop planes. Gnats bounced like the surface of carbonated water where the grass met the air.",
+    "Mona was small, five feet two, but stood as if she belonged, as if wherever she stood became her plot of land. Her small stomach poked out like a girl’s. I thought of her as both a woman and a girl. I believed she understood me and I trusted her to help me in the future. I knew her father had also left, that she and her mother had struggled with money. Unlike my parents, she’d been to college and graduate school. When she walked, she ticked her hips back and forth. She taught at a college called Bard and used words I had to look up like “amortize” and “salubrious.” She didn’t repeat the good words but said new ones each time, in a clipped way, folded into sentences, as if she expected I knew the meanings.",
+    "Now we stood in front of my house together, tips of grass catching the slanting light and becoming translucent, like backlit straw.",
+    "“If Steve doesn’t pay for your college, I will,” Mona said, apropos of nothing. College was a long way off, but it worried me in a way I had not been able to articulate to anyone, and I wondered how she knew. When he talked about college, it was often with contempt; he didn’t need it, so why would I? Also, sometimes he decided not to pay for things at the very last minute, walking out of restaurants without paying the bill, refusing to buy things other people bought as a matter of course, like furniture. Everyone in his life had been treated to his whimsy about money, offering and rescinding payments for small and large things.",
+    "Once Mona, my father, and I went shopping at a vintage clothing store in Palo Alto. Mona and I found hats and jackets we liked, and he watched us try them on. “They don’t look as good as you think. When you’re shopping in vintage stores, you start to think the things look good when they don’t,” he said too loudly, and walked off down the street, when it had seemed only a moment before that he might treat us to a hat each, at least.",
+    "“Thank you,” I said to Mona.",
+    "She walked to her car parked under the magnolia tree, waving before she drove off. I ran inside to tell my mother. My mother said, “Did she?” as if she was pondering the significance, or didn’t believe it."
+  ],
+  "words": [
+    {
+      "lemma": "willow",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a tree with thin, flexible branches that often droop, especially near water",
+      "translationZh": "柳樹",
+      "exampleSentence": "For my twelfth birthday, Mona gave me a CD by Patsy Cline, with a sad song about a weeping willow and walking all alone at night.",
+      "clozeSentence": "For my twelfth birthday, Mona gave me a CD by Patsy Cline, with a sad song about a weeping _____ and walking all alone at night.",
+      "distractors": [
+        "a tree that grows very short and wide",
+        "a plant that only grows in deserts",
+        "a bush covered in sharp thorns"
+      ],
+      "surfaceForms": [
+        "willow"
+      ],
+      "clozeAnswerSurfaceForm": "willow"
+    },
+    {
+      "lemma": "plot",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a small piece of land, especially one used for a particular purpose",
+      "translationZh": "（土地的）一塊；地段",
+      "exampleSentence": "Mona was small, five feet two, but stood as if she belonged, as if wherever she stood became her plot of land.",
+      "clozeSentence": "Mona was small, five feet two, but stood as if she belonged, as if wherever she stood became her _____ of land.",
+      "distractors": [
+        "a detailed plan to deceive someone",
+        "a tall building with many floors",
+        "a natural body of water"
+      ],
+      "surfaceForms": [
+        "plot"
+      ],
+      "clozeAnswerSurfaceForm": "plot"
+    },
+    {
+      "lemma": "amortize",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "to gradually pay off a debt through regular payments over time",
+      "translationZh": "分期償還",
+      "exampleSentence": "She taught at a college called Bard and used words I had to look up like “amortize” and “salubrious.” She didn’t repeat the good words but said new ones each time, in a clipped way, folded into sentences, as if she expected I knew the meanings.",
+      "clozeSentence": "She taught at a college called Bard and used words I had to look up like “_____” and “salubrious.” She didn’t repeat the good words but said new ones each time, in a clipped way, folded into sentences, as if she expected I knew the meanings.",
+      "distractors": [
+        "to suddenly cancel a financial agreement",
+        "to increase the value of an investment",
+        "to combine two companies into one"
+      ],
+      "surfaceForms": [
+        "amortize"
+      ],
+      "clozeAnswerSurfaceForm": "amortize"
+    },
+    {
+      "lemma": "lawn",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "an area of ground covered with short, cut grass",
+      "translationZh": "草坪",
+      "exampleSentence": "She and I stood on the lawn.",
+      "clozeSentence": "She and I stood on the _____.",
+      "distractors": [
+        "a paved area for parking cars",
+        "a small decorative garden pond",
+        "a fenced area for animals"
+      ],
+      "surfaceForms": [
+        "lawn"
+      ],
+      "clozeAnswerSurfaceForm": "lawn"
+    },
+    {
+      "lemma": "magnolia",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a tree or shrub with large, showy white, pink, or purple flowers",
+      "translationZh": "木蘭（樹）",
+      "exampleSentence": "She walked to her car parked under the magnolia tree, waving before she drove off.",
+      "clozeSentence": "She walked to her car parked under the _____ tree, waving before she drove off.",
+      "distractors": [
+        "a tree that produces edible nuts",
+        "a type of tall grass",
+        "a bush covered in thorns"
+      ],
+      "surfaceForms": [
+        "magnolia"
+      ],
+      "clozeAnswerSurfaceForm": "magnolia"
+    },
+    {
+      "lemma": "salubrious",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "good for health, or pleasant and agreeable",
+      "translationZh": "有益健康的；宜人的",
+      "exampleSentence": "She taught at a college called Bard and used words I had to look up like “amortize” and “salubrious.” She didn’t repeat the good words but said new ones each time, in a clipped way, folded into sentences, as if she expected I knew the meanings.",
+      "clozeSentence": "She taught at a college called Bard and used words I had to look up like “amortize” and “_____.” She didn’t repeat the good words but said new ones each time, in a clipped way, folded into sentences, as if she expected I knew the meanings.",
+      "distractors": [
+        "extremely dangerous or harmful",
+        "difficult to understand or explain",
+        "lacking in confidence"
+      ],
+      "surfaceForms": [
+        "salubrious"
+      ],
+      "clozeAnswerSurfaceForm": "salubrious"
+    },
+    {
+      "lemma": "blower",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a machine that produces a strong current of air",
+      "translationZh": "吹風機；鼓風機",
+      "exampleSentence": "It was evening, the light was yellow, the air quiet without the lawn mowers, leaf blowers, and prop planes.",
+      "clozeSentence": "It was evening, the light was yellow, the air quiet without the lawn mowers, leaf _____, and prop planes.",
+      "distractors": [
+        "a machine that cuts grass",
+        "a device that measures wind speed",
+        "a tool used to dig soil"
+      ],
+      "surfaceForms": [
+        "blowers"
+      ],
+      "clozeAnswerSurfaceForm": "blowers"
+    },
+    {
+      "lemma": "mower",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a machine used for cutting grass",
+      "translationZh": "割草機",
+      "exampleSentence": "It was evening, the light was yellow, the air quiet without the lawn mowers, leaf blowers, and prop planes.",
+      "clozeSentence": "It was evening, the light was yellow, the air quiet without the lawn _____, leaf blowers, and prop planes.",
+      "distractors": [
+        "a machine used for blowing leaves",
+        "a tool used for watering plants",
+        "a vehicle used for hauling soil"
+      ],
+      "surfaceForms": [
+        "mowers"
+      ],
+      "clozeAnswerSurfaceForm": "mowers"
+    },
+    {
+      "lemma": "prop",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "powered by a propeller (used to describe small aircraft)",
+      "translationZh": "螺旋槳（驅動）的",
+      "exampleSentence": "It was evening, the light was yellow, the air quiet without the lawn mowers, leaf blowers, and prop planes.",
+      "clozeSentence": "It was evening, the light was yellow, the air quiet without the lawn mowers, leaf blowers, and _____ planes.",
+      "distractors": [
+        "powered by jet engines",
+        "flown without any engine",
+        "used only for military purposes"
+      ],
+      "surfaceForms": [
+        "prop"
+      ],
+      "clozeAnswerSurfaceForm": "prop"
+    },
+    {
+      "lemma": "carbonate",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "containing dissolved carbon dioxide gas, making it fizzy",
+      "translationZh": "使含碳酸氣的；碳酸化的",
+      "exampleSentence": "Gnats bounced like the surface of carbonated water where the grass met the air.",
+      "clozeSentence": "Gnats bounced like the surface of _____ water where the grass met the air.",
+      "distractors": [
+        "containing a high amount of sugar",
+        "heated to a very high temperature",
+        "filtered to remove impurities"
+      ],
+      "surfaceForms": [
+        "carbonated"
+      ],
+      "clozeAnswerSurfaceForm": "carbonated"
+    },
+    {
+      "lemma": "gnat",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a very small flying insect that bites",
+      "translationZh": "蚋；小飛蟲",
+      "exampleSentence": "Gnats bounced like the surface of carbonated water where the grass met the air.",
+      "clozeSentence": "_____ bounced like the surface of carbonated water where the grass met the air.",
+      "distractors": [
+        "a small furry rodent",
+        "a type of colorful butterfly",
+        "a small water-dwelling fish"
+      ],
+      "surfaceForms": [
+        "gnats"
+      ],
+      "clozeAnswerSurfaceForm": "Gnats"
+    },
+    {
+      "lemma": "poke",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to stick out or protrude",
+      "translationZh": "突出；伸出",
+      "exampleSentence": "Her small stomach poked out like a girl’s.",
+      "clozeSentence": "Her small stomach _____ out like a girl’s.",
+      "distractors": [
+        "to shrink back out of sight",
+        "to shake uncontrollably",
+        "to change color suddenly"
+      ],
+      "surfaceForms": [
+        "poked"
+      ],
+      "clozeAnswerSurfaceForm": "poked"
+    },
+    {
+      "lemma": "contempt",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a strong feeling that someone or something deserves no respect",
+      "translationZh": "輕蔑；鄙視",
+      "exampleSentence": "When he talked about college, it was often with contempt; he didn’t need it, so why would I?",
+      "clozeSentence": "When he talked about college, it was often with _____; he didn’t need it, so why would I?",
+      "distractors": [
+        "a deep sense of admiration",
+        "a feeling of mild curiosity",
+        "a strong desire to help"
+      ],
+      "surfaceForms": [
+        "contempt"
+      ],
+      "clozeAnswerSurfaceForm": "contempt"
+    },
+    {
+      "lemma": "backlit",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "lit from behind, so that light shows through or around the edges",
+      "translationZh": "逆光的；背後打光的",
+      "exampleSentence": "Now we stood in front of my house together, tips of grass catching the slanting light and becoming translucent, like backlit straw.",
+      "clozeSentence": "Now we stood in front of my house together, tips of grass catching the slanting light and becoming translucent, like _____ straw.",
+      "distractors": [
+        "covered in a thick layer of dust",
+        "reflecting light like a mirror",
+        "completely dark and shadowed"
+      ],
+      "surfaceForms": [
+        "backlit"
+      ],
+      "clozeAnswerSurfaceForm": "backlit"
+    },
+    {
+      "lemma": "slant",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "sloping or leaning at an angle",
+      "translationZh": "傾斜的",
+      "exampleSentence": "Now we stood in front of my house together, tips of grass catching the slanting light and becoming translucent, like backlit straw.",
+      "clozeSentence": "Now we stood in front of my house together, tips of grass catching the _____ light and becoming translucent, like backlit straw.",
+      "distractors": [
+        "shining very brightly and directly",
+        "spreading out in all directions",
+        "moving very slowly and steadily"
+      ],
+      "surfaceForms": [
+        "slanting"
+      ],
+      "clozeAnswerSurfaceForm": "slanting"
+    },
+    {
+      "lemma": "translucent",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "allowing light to pass through but not fully transparent",
+      "translationZh": "半透明的",
+      "exampleSentence": "Now we stood in front of my house together, tips of grass catching the slanting light and becoming translucent, like backlit straw.",
+      "clozeSentence": "Now we stood in front of my house together, tips of grass catching the slanting light and becoming _____, like backlit straw.",
+      "distractors": [
+        "completely see-through like glass",
+        "solid and impossible to see through",
+        "reflective like a mirror"
+      ],
+      "surfaceForms": [
+        "translucent"
+      ],
+      "clozeAnswerSurfaceForm": "translucent"
+    },
+    {
+      "lemma": "apropos",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "said without any clear connection to what was said before (in 'apropos of nothing')",
+      "translationZh": "毫無來由地；不相干地（用於「apropos of nothing」片語）",
+      "exampleSentence": "“If Steve doesn’t pay for your college, I will,” Mona said, apropos of nothing.",
+      "clozeSentence": "“If Steve doesn’t pay for your college, I will,” Mona said, _____ of nothing.",
+      "distractors": [
+        "in complete agreement with someone",
+        "as a direct response to a question",
+        "in a very formal and polite way"
+      ],
+      "surfaceForms": [
+        "apropos"
+      ],
+      "clozeAnswerSurfaceForm": "apropos"
+    },
+    {
+      "lemma": "articulate",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to express an idea or feeling clearly in words",
+      "translationZh": "清楚表達；闡明",
+      "exampleSentence": "College was a long way off, but it worried me in a way I had not been able to articulate to anyone, and I wondered how she knew.",
+      "clozeSentence": "College was a long way off, but it worried me in a way I had not been able to _____ to anyone, and I wondered how she knew.",
+      "distractors": [
+        "to ignore a problem completely",
+        "to solve a problem by chance",
+        "to hide a feeling from others"
+      ],
+      "surfaceForms": [
+        "articulate"
+      ],
+      "clozeAnswerSurfaceForm": "articulate"
+    },
+    {
+      "lemma": "payment",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "an amount of money given for something",
+      "translationZh": "付款；款項",
+      "exampleSentence": "Everyone in his life had been treated to his whimsy about money, offering and rescinding payments for small and large things.",
+      "clozeSentence": "Everyone in his life had been treated to his whimsy about money, offering and rescinding _____ for small and large things.",
+      "distractors": [
+        "a written legal agreement",
+        "a formal apology",
+        "a public announcement"
+      ],
+      "surfaceForms": [
+        "payments"
+      ],
+      "clozeAnswerSurfaceForm": "payments"
+    },
+    {
+      "lemma": "rescind",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to officially cancel or withdraw something previously agreed",
+      "translationZh": "撤回；廢除",
+      "exampleSentence": "Everyone in his life had been treated to his whimsy about money, offering and rescinding payments for small and large things.",
+      "clozeSentence": "Everyone in his life had been treated to his whimsy about money, offering and _____ payments for small and large things.",
+      "distractors": [
+        "to officially approve something new",
+        "to publicly announce something",
+        "to secretly plan something"
+      ],
+      "surfaceForms": [
+        "rescinding"
+      ],
+      "clozeAnswerSurfaceForm": "rescinding"
+    },
+    {
+      "lemma": "whimsy",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "playful, unpredictable, and impulsive behavior or ideas",
+      "translationZh": "異想天開；隨興",
+      "exampleSentence": "Everyone in his life had been treated to his whimsy about money, offering and rescinding payments for small and large things.",
+      "clozeSentence": "Everyone in his life had been treated to his _____ about money, offering and rescinding payments for small and large things.",
+      "distractors": [
+        "careful, methodical planning",
+        "strict and unbending rules",
+        "deep, long-lasting sadness"
+      ],
+      "surfaceForms": [
+        "whimsy"
+      ],
+      "clozeAnswerSurfaceForm": "whimsy"
+    },
+    {
+      "lemma": "vintage",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "from the past and considered to be of high quality or interest",
+      "translationZh": "復古的；古董的",
+      "exampleSentence": "Once Mona, my father, and I went shopping at a vintage clothing store in Palo Alto.",
+      "clozeSentence": "Once Mona, my father, and I went shopping at a _____ clothing store in Palo Alto.",
+      "distractors": [
+        "made very recently and cheaply",
+        "designed for children specifically",
+        "produced in large factory quantities"
+      ],
+      "surfaceForms": [
+        "vintage"
+      ],
+      "clozeAnswerSurfaceForm": "vintage"
+    },
+    {
+      "lemma": "ponder",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to think about something carefully for a period of time",
+      "translationZh": "沉思；仔細考慮",
+      "exampleSentence": "My mother said, “Did she?” as if she was pondering the significance, or didn’t believe it.",
+      "clozeSentence": "My mother said, “Did she?” as if she was _____ the significance, or didn’t believe it.",
+      "distractors": [
+        "to forget something immediately",
+        "to argue about something loudly",
+        "to explain something quickly"
+      ],
+      "surfaceForms": [
+        "pondering"
+      ],
+      "clozeAnswerSurfaceForm": "pondering"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "willow",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a tree with thin, flexible branches that often droop, especially near water",
+      "translationZh": "柳樹",
+      "exampleSentence": "For my twelfth birthday, Mona gave me a CD by Patsy Cline, with a sad song about a weeping willow and walking all alone at night.",
+      "clozeSentence": "For my twelfth birthday, Mona gave me a CD by Patsy Cline, with a sad song about a weeping _____ and walking all alone at night.",
+      "distractors": [
+        "a tree that grows very short and wide",
+        "a plant that only grows in deserts",
+        "a bush covered in sharp thorns"
+      ],
+      "surfaceForms": [
+        "willow"
+      ],
+      "clozeAnswerSurfaceForm": "willow"
+    },
+    {
+      "lemma": "plot",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a small piece of land, especially one used for a particular purpose",
+      "translationZh": "（土地的）一塊；地段",
+      "exampleSentence": "Mona was small, five feet two, but stood as if she belonged, as if wherever she stood became her plot of land.",
+      "clozeSentence": "Mona was small, five feet two, but stood as if she belonged, as if wherever she stood became her _____ of land.",
+      "distractors": [
+        "a detailed plan to deceive someone",
+        "a tall building with many floors",
+        "a natural body of water"
+      ],
+      "surfaceForms": [
+        "plot"
+      ],
+      "clozeAnswerSurfaceForm": "plot"
+    },
+    {
+      "lemma": "amortize",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "to gradually pay off a debt through regular payments over time",
+      "translationZh": "分期償還",
+      "exampleSentence": "She taught at a college called Bard and used words I had to look up like “amortize” and “salubrious.” She didn’t repeat the good words but said new ones each time, in a clipped way, folded into sentences, as if she expected I knew the meanings.",
+      "clozeSentence": "She taught at a college called Bard and used words I had to look up like “_____” and “salubrious.” She didn’t repeat the good words but said new ones each time, in a clipped way, folded into sentences, as if she expected I knew the meanings.",
+      "distractors": [
+        "to suddenly cancel a financial agreement",
+        "to increase the value of an investment",
+        "to combine two companies into one"
+      ],
+      "surfaceForms": [
+        "amortize"
+      ],
+      "clozeAnswerSurfaceForm": "amortize"
+    },
+    {
+      "lemma": "salubrious",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "good for health, or pleasant and agreeable",
+      "translationZh": "有益健康的；宜人的",
+      "exampleSentence": "She taught at a college called Bard and used words I had to look up like “amortize” and “salubrious.” She didn’t repeat the good words but said new ones each time, in a clipped way, folded into sentences, as if she expected I knew the meanings.",
+      "clozeSentence": "She taught at a college called Bard and used words I had to look up like “amortize” and “_____.” She didn’t repeat the good words but said new ones each time, in a clipped way, folded into sentences, as if she expected I knew the meanings.",
+      "distractors": [
+        "extremely dangerous or harmful",
+        "difficult to understand or explain",
+        "lacking in confidence"
+      ],
+      "surfaceForms": [
+        "salubrious"
+      ],
+      "clozeAnswerSurfaceForm": "salubrious"
+    },
+    {
+      "lemma": "lawn",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "an area of ground covered with short, cut grass",
+      "translationZh": "草坪",
+      "exampleSentence": "She and I stood on the lawn.",
+      "clozeSentence": "She and I stood on the _____.",
+      "distractors": [
+        "a paved area for parking cars",
+        "a small decorative garden pond",
+        "a fenced area for animals"
+      ],
+      "surfaceForms": [
+        "lawn"
+      ],
+      "clozeAnswerSurfaceForm": "lawn"
+    },
+    {
+      "lemma": "magnolia",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a tree or shrub with large, showy white, pink, or purple flowers",
+      "translationZh": "木蘭（樹）",
+      "exampleSentence": "She walked to her car parked under the magnolia tree, waving before she drove off.",
+      "clozeSentence": "She walked to her car parked under the _____ tree, waving before she drove off.",
+      "distractors": [
+        "a tree that produces edible nuts",
+        "a type of tall grass",
+        "a bush covered in thorns"
+      ],
+      "surfaceForms": [
+        "magnolia"
+      ],
+      "clozeAnswerSurfaceForm": "magnolia"
+    },
+    {
+      "lemma": "prop",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "powered by a propeller (used to describe small aircraft)",
+      "translationZh": "螺旋槳（驅動）的",
+      "exampleSentence": "It was evening, the light was yellow, the air quiet without the lawn mowers, leaf blowers, and prop planes.",
+      "clozeSentence": "It was evening, the light was yellow, the air quiet without the lawn mowers, leaf blowers, and _____ planes.",
+      "distractors": [
+        "powered by jet engines",
+        "flown without any engine",
+        "used only for military purposes"
+      ],
+      "surfaceForms": [
+        "prop"
+      ],
+      "clozeAnswerSurfaceForm": "prop"
+    },
+    {
+      "lemma": "blower",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a machine that produces a strong current of air",
+      "translationZh": "吹風機；鼓風機",
+      "exampleSentence": "It was evening, the light was yellow, the air quiet without the lawn mowers, leaf blowers, and prop planes.",
+      "clozeSentence": "It was evening, the light was yellow, the air quiet without the lawn mowers, leaf _____, and prop planes.",
+      "distractors": [
+        "a machine that cuts grass",
+        "a device that measures wind speed",
+        "a tool used to dig soil"
+      ],
+      "surfaceForms": [
+        "blowers"
+      ],
+      "clozeAnswerSurfaceForm": "blowers"
+    },
+    {
+      "lemma": "mower",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a machine used for cutting grass",
+      "translationZh": "割草機",
+      "exampleSentence": "It was evening, the light was yellow, the air quiet without the lawn mowers, leaf blowers, and prop planes.",
+      "clozeSentence": "It was evening, the light was yellow, the air quiet without the lawn _____, leaf blowers, and prop planes.",
+      "distractors": [
+        "a machine used for blowing leaves",
+        "a tool used for watering plants",
+        "a vehicle used for hauling soil"
+      ],
+      "surfaceForms": [
+        "mowers"
+      ],
+      "clozeAnswerSurfaceForm": "mowers"
+    },
+    {
+      "lemma": "carbonate",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "containing dissolved carbon dioxide gas, making it fizzy",
+      "translationZh": "使含碳酸氣的；碳酸化的",
+      "exampleSentence": "Gnats bounced like the surface of carbonated water where the grass met the air.",
+      "clozeSentence": "Gnats bounced like the surface of _____ water where the grass met the air.",
+      "distractors": [
+        "containing a high amount of sugar",
+        "heated to a very high temperature",
+        "filtered to remove impurities"
+      ],
+      "surfaceForms": [
+        "carbonated"
+      ],
+      "clozeAnswerSurfaceForm": "carbonated"
+    },
+    {
+      "lemma": "gnat",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "a very small flying insect that bites",
+      "translationZh": "蚋；小飛蟲",
+      "exampleSentence": "Gnats bounced like the surface of carbonated water where the grass met the air.",
+      "clozeSentence": "_____ bounced like the surface of carbonated water where the grass met the air.",
+      "distractors": [
+        "a small furry rodent",
+        "a type of colorful butterfly",
+        "a small water-dwelling fish"
+      ],
+      "surfaceForms": [
+        "gnats"
+      ],
+      "clozeAnswerSurfaceForm": "Gnats"
+    },
+    {
+      "lemma": "poke",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "to stick out or protrude",
+      "translationZh": "突出；伸出",
+      "exampleSentence": "Her small stomach poked out like a girl’s.",
+      "clozeSentence": "Her small stomach _____ out like a girl’s.",
+      "distractors": [
+        "to shrink back out of sight",
+        "to shake uncontrollably",
+        "to change color suddenly"
+      ],
+      "surfaceForms": [
+        "poked"
+      ],
+      "clozeAnswerSurfaceForm": "poked"
+    },
+    {
+      "lemma": "contempt",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "a strong feeling that someone or something deserves no respect",
+      "translationZh": "輕蔑；鄙視",
+      "exampleSentence": "When he talked about college, it was often with contempt; he didn’t need it, so why would I?",
+      "clozeSentence": "When he talked about college, it was often with _____; he didn’t need it, so why would I?",
+      "distractors": [
+        "a deep sense of admiration",
+        "a feeling of mild curiosity",
+        "a strong desire to help"
+      ],
+      "surfaceForms": [
+        "contempt"
+      ],
+      "clozeAnswerSurfaceForm": "contempt"
+    },
+    {
+      "lemma": "backlit",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "lit from behind, so that light shows through or around the edges",
+      "translationZh": "逆光的；背後打光的",
+      "exampleSentence": "Now we stood in front of my house together, tips of grass catching the slanting light and becoming translucent, like backlit straw.",
+      "clozeSentence": "Now we stood in front of my house together, tips of grass catching the slanting light and becoming translucent, like _____ straw.",
+      "distractors": [
+        "covered in a thick layer of dust",
+        "reflecting light like a mirror",
+        "completely dark and shadowed"
+      ],
+      "surfaceForms": [
+        "backlit"
+      ],
+      "clozeAnswerSurfaceForm": "backlit"
+    },
+    {
+      "lemma": "slant",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "sloping or leaning at an angle",
+      "translationZh": "傾斜的",
+      "exampleSentence": "Now we stood in front of my house together, tips of grass catching the slanting light and becoming translucent, like backlit straw.",
+      "clozeSentence": "Now we stood in front of my house together, tips of grass catching the _____ light and becoming translucent, like backlit straw.",
+      "distractors": [
+        "shining very brightly and directly",
+        "spreading out in all directions",
+        "moving very slowly and steadily"
+      ],
+      "surfaceForms": [
+        "slanting"
+      ],
+      "clozeAnswerSurfaceForm": "slanting"
+    },
+    {
+      "lemma": "translucent",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "allowing light to pass through but not fully transparent",
+      "translationZh": "半透明的",
+      "exampleSentence": "Now we stood in front of my house together, tips of grass catching the slanting light and becoming translucent, like backlit straw.",
+      "clozeSentence": "Now we stood in front of my house together, tips of grass catching the slanting light and becoming _____, like backlit straw.",
+      "distractors": [
+        "completely see-through like glass",
+        "solid and impossible to see through",
+        "reflective like a mirror"
+      ],
+      "surfaceForms": [
+        "translucent"
+      ],
+      "clozeAnswerSurfaceForm": "translucent"
+    },
+    {
+      "lemma": "apropos",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "said without any clear connection to what was said before (in 'apropos of nothing')",
+      "translationZh": "毫無來由地；不相干地（用於「apropos of nothing」片語）",
+      "exampleSentence": "“If Steve doesn’t pay for your college, I will,” Mona said, apropos of nothing.",
+      "clozeSentence": "“If Steve doesn’t pay for your college, I will,” Mona said, _____ of nothing.",
+      "distractors": [
+        "in complete agreement with someone",
+        "as a direct response to a question",
+        "in a very formal and polite way"
+      ],
+      "surfaceForms": [
+        "apropos"
+      ],
+      "clozeAnswerSurfaceForm": "apropos"
+    },
+    {
+      "lemma": "articulate",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "to express an idea or feeling clearly in words",
+      "translationZh": "清楚表達；闡明",
+      "exampleSentence": "College was a long way off, but it worried me in a way I had not been able to articulate to anyone, and I wondered how she knew.",
+      "clozeSentence": "College was a long way off, but it worried me in a way I had not been able to _____ to anyone, and I wondered how she knew.",
+      "distractors": [
+        "to ignore a problem completely",
+        "to solve a problem by chance",
+        "to hide a feeling from others"
+      ],
+      "surfaceForms": [
+        "articulate"
+      ],
+      "clozeAnswerSurfaceForm": "articulate"
+    },
+    {
+      "lemma": "rescind",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "to officially cancel or withdraw something previously agreed",
+      "translationZh": "撤回；廢除",
+      "exampleSentence": "Everyone in his life had been treated to his whimsy about money, offering and rescinding payments for small and large things.",
+      "clozeSentence": "Everyone in his life had been treated to his whimsy about money, offering and _____ payments for small and large things.",
+      "distractors": [
+        "to officially approve something new",
+        "to publicly announce something",
+        "to secretly plan something"
+      ],
+      "surfaceForms": [
+        "rescinding"
+      ],
+      "clozeAnswerSurfaceForm": "rescinding"
+    },
+    {
+      "lemma": "whimsy",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "playful, unpredictable, and impulsive behavior or ideas",
+      "translationZh": "異想天開；隨興",
+      "exampleSentence": "Everyone in his life had been treated to his whimsy about money, offering and rescinding payments for small and large things.",
+      "clozeSentence": "Everyone in his life had been treated to his _____ about money, offering and rescinding payments for small and large things.",
+      "distractors": [
+        "careful, methodical planning",
+        "strict and unbending rules",
+        "deep, long-lasting sadness"
+      ],
+      "surfaceForms": [
+        "whimsy"
+      ],
+      "clozeAnswerSurfaceForm": "whimsy"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "wordLemma": "contempt",
+      "prompt": "contempt",
+      "options": [
+        "a strong feeling that someone or something deserves no respect",
+        "a strong desire to help",
+        "a deep sense of admiration",
+        "a feeling of mild curiosity"
+      ],
+      "answer": "a strong feeling that someone or something deserves no respect"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "lawn",
+      "prompt": "She and I stood on the _____.",
+      "options": [
+        "articulate",
+        "mowers",
+        "lawn",
+        "whimsy"
+      ],
+      "answer": "lawn"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "backlit",
+      "prompt": "Now we stood in front of my house together, tips of grass catching the slanting light and becoming translucent, like _____ straw.",
+      "options": [
+        "translucent",
+        "backlit",
+        "apropos",
+        "prop"
+      ],
+      "answer": "backlit"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "apropos",
+      "prompt": "“If Steve doesn’t pay for your college, I will,” Mona said, _____ of nothing.",
+      "options": [
+        "apropos",
+        "mowers",
+        "articulate",
+        "lawn"
+      ],
+      "answer": "apropos"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "mower",
+      "prompt": "割草機",
+      "options": [
+        "mower",
+        "magnolia",
+        "plot",
+        "articulate"
+      ],
+      "answer": "mower"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "amortize",
+      "prompt": "分期償還",
+      "options": [
+        "blower",
+        "amortize",
+        "carbonate",
+        "contempt"
+      ],
+      "answer": "amortize"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "whimsy",
+      "prompt": "Everyone in his life had been treated to his _____ about money, offering and rescinding payments for small and large things.",
+      "options": [
+        "whimsy",
+        "translucent",
+        "prop",
+        "amortize"
+      ],
+      "answer": "whimsy"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "carbonate",
+      "prompt": "carbonate",
+      "options": [
+        "heated to a very high temperature",
+        "containing a high amount of sugar",
+        "containing dissolved carbon dioxide gas, making it fizzy",
+        "filtered to remove impurities"
+      ],
+      "answer": "containing dissolved carbon dioxide gas, making it fizzy"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "plot",
+      "prompt": "Mona was small, five feet two, but stood as if she belonged, as if wherever she stood became her _____ of land.",
+      "options": [
+        "plot",
+        "amortize",
+        "backlit",
+        "translucent"
+      ],
+      "answer": "plot"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "magnolia",
+      "prompt": "木蘭（樹）",
+      "options": [
+        "magnolia",
+        "whimsy",
+        "gnat",
+        "amortize"
+      ],
+      "answer": "magnolia"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "willow",
+      "prompt": "willow",
+      "options": [
+        "a plant that only grows in deserts",
+        "a bush covered in sharp thorns",
+        "a tree with thin, flexible branches that often droop, especially near water",
+        "a tree that grows very short and wide"
+      ],
+      "answer": "a tree with thin, flexible branches that often droop, especially near water"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "blower",
+      "prompt": "It was evening, the light was yellow, the air quiet without the lawn mowers, leaf _____, and prop planes.",
+      "options": [
+        "lawn",
+        "mowers",
+        "blowers",
+        "whimsy"
+      ],
+      "answer": "blowers"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "slant",
+      "prompt": "傾斜的",
+      "options": [
+        "lawn",
+        "slant",
+        "backlit",
+        "poke"
+      ],
+      "answer": "slant"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "salubrious",
+      "prompt": "salubrious",
+      "options": [
+        "lacking in confidence",
+        "good for health, or pleasant and agreeable",
+        "extremely dangerous or harmful",
+        "difficult to understand or explain"
+      ],
+      "answer": "good for health, or pleasant and agreeable"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "prop",
+      "prompt": "prop",
+      "options": [
+        "used only for military purposes",
+        "powered by jet engines",
+        "powered by a propeller (used to describe small aircraft)",
+        "flown without any engine"
+      ],
+      "answer": "powered by a propeller (used to describe small aircraft)"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "articulate",
+      "prompt": "清楚表達；闡明",
+      "options": [
+        "blower",
+        "plot",
+        "articulate",
+        "salubrious"
+      ],
+      "answer": "articulate"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "rescind",
+      "prompt": "rescind",
+      "options": [
+        "to publicly announce something",
+        "to secretly plan something",
+        "to officially approve something new",
+        "to officially cancel or withdraw something previously agreed"
+      ],
+      "answer": "to officially cancel or withdraw something previously agreed"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "gnat",
+      "prompt": "_____ bounced like the surface of carbonated water where the grass met the air.",
+      "options": [
+        "Gnats",
+        "magnolia",
+        "whimsy",
+        "willow"
+      ],
+      "answer": "Gnats"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "translucent",
+      "prompt": "translucent",
+      "options": [
+        "completely see-through like glass",
+        "allowing light to pass through but not fully transparent",
+        "solid and impossible to see through",
+        "reflective like a mirror"
+      ],
+      "answer": "allowing light to pass through but not fully transparent"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "poke",
+      "prompt": "突出；伸出",
+      "options": [
+        "amortize",
+        "poke",
+        "carbonate",
+        "rescind"
+      ],
+      "answer": "poke"
+    }
+  ]
+}

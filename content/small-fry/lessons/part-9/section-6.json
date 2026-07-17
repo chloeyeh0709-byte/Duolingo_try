@@ -1,0 +1,1042 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 9,
+  "partTitle": "Coda",
+  "sectionIndex": 6,
+  "paragraphs": [
+    "A few years later, I was living in New York. I went to visit my father in Palo Alto, and he wanted to go out for sushi, just the two of us.",
+    "By this point I knew he was sick with cancer. He was very thin.",
+    "Over the past month in New York it occurred to me that I should say the good things to him before it was too late, even if I had no sense of how sick he was. I believed he might soon recover.",
+    "“You know, in many ways you were good about sex,” I told him. Sex was our easiest subject. “When you put in a diaphragm,” he’d lectured me in high school, “you have a moment all to yourself to decide again what you want to do.” He had not insisted I take the pill, or worried openly about my becoming pregnant, instead giving the sense he trusted me, and knew me to be reasonable, profound even.",
+    "“You didn’t try to make me feel ashamed,” I said.",
+    "“Yes. Yes!” he said. He was hardly able to contain himself, bobbing his thin legs up and down in the seat beside me. We were in the car with the engine off because we had arrived at the sushi restaurant in the mall. “That’s what I was trying for,” he said. “And do you know what? I was the first person you talked to after you lost your virginity!” he said. “It was so great. It meant so much to me.” I’d forgotten this before he mentioned it.",
+    "“I know you better than I know the girls,” he said, as we got out of the car and walked toward the restaurant. I didn’t know what to say back; this was a shocking claim, considering I’d met him so late and they’d lived with him their whole lives. It couldn’t be true, I thought.",
+    "That night, I walked into his bedroom upstairs when he was watching old episodes of Law & Order. He’d asked me, abruptly, from bed, “Are you going to write about me?”",
+    "“No,” I said.",
+    "“Good,” he said, and turned back to face the television.",
+    "My mother became sick, a sinus and bone infection that we couldn’t diagnose at first, leaving her unable to work and unable to pay her rent. She had sold her house on Alameda de las Pulgas a few years before, against my wishes, and had used the money to travel and live for several years until the money ran out. Desperate, I called the parents of a friend from Nueva who offered her a place to live for a few months in their extra house in San Francisco. Another set of friends loaned me money to help her pay for oral surgery that made her cheek balloon out as if it had been stung by a bee.",
+    "A few weeks later, I went to visit my father in the hospital in Memphis after he’d had a liver transplant. He’d gone to Memphis because that’s where a liver became available, he and my stepmother flying there in his private jet late at night. Once, when he had to urinate, a nurse had tried to usher me out of the room.",
+    "“She can stay,” he’d said, and then proceeded to pee in a plastic jar under his gown while I stood there, talking to me as he peed, as if he couldn’t be away from me for even one second. He’d had two rooms at the hospital, a room with his hospital bed and a small anteroom, and in the anteroom were a couch and chairs, like the kind at elementary schools, with melamine bodies and metal legs, and in order to visit we had to move the chairs around, pushing the extras out of the way, making them clack. At one point, sitting in the anteroom with me and my aunt and stepmother, he started gasping for breath and turning purplish, and we all panicked, trying to find out what was wrong. I glanced down surreptitiously and noticed with dismay that the leg of my chair was crimping his oxygen tube. I moved my chair as quickly as I could, and he started to breathe again."
+  ],
+  "words": [
+    {
+      "lemma": "transplant",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A surgical operation to transfer an organ from one body to another.",
+      "translationZh": "器官移植",
+      "exampleSentence": "A few weeks later, I went to visit my father in the hospital in Memphis after he’d had a liver transplant.",
+      "clozeSentence": "A few weeks later, I went to visit my father in the hospital in Memphis after he’d had a liver _____.",
+      "distractors": [
+        "A routine medical check-up.",
+        "A treatment using medication only.",
+        "A physical therapy exercise program."
+      ],
+      "surfaceForms": [
+        "transplant"
+      ],
+      "clozeAnswerSurfaceForm": "transplant"
+    },
+    {
+      "lemma": "dismay",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "A strong feeling of worry, disappointment, or discouragement.",
+      "translationZh": "驚愕；沮喪",
+      "exampleSentence": "I glanced down surreptitiously and noticed with dismay that the leg of my chair was crimping his oxygen tube.",
+      "clozeSentence": "I glanced down surreptitiously and noticed with _____ that the leg of my chair was crimping his oxygen tube.",
+      "distractors": [
+        "A strong feeling of joy and relief.",
+        "A feeling of mild curiosity.",
+        "A sense of calm confidence."
+      ],
+      "surfaceForms": [
+        "dismay"
+      ],
+      "clozeAnswerSurfaceForm": "dismay"
+    },
+    {
+      "lemma": "surreptitiously",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "In a secretive way, trying not to be noticed.",
+      "translationZh": "偷偷摸摸地",
+      "exampleSentence": "I glanced down surreptitiously and noticed with dismay that the leg of my chair was crimping his oxygen tube.",
+      "clozeSentence": "I glanced down _____ and noticed with dismay that the leg of my chair was crimping his oxygen tube.",
+      "distractors": [
+        "In a loud and obvious way.",
+        "In a proud and confident way.",
+        "In a slow and careless way."
+      ],
+      "surfaceForms": [
+        "surreptitiously"
+      ],
+      "clozeAnswerSurfaceForm": "surreptitiously"
+    },
+    {
+      "lemma": "crimp",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To press or squeeze something so it bends or is compressed.",
+      "translationZh": "壓皺；夾扁",
+      "exampleSentence": "I glanced down surreptitiously and noticed with dismay that the leg of my chair was crimping his oxygen tube.",
+      "clozeSentence": "I glanced down surreptitiously and noticed with dismay that the leg of my chair was _____ his oxygen tube.",
+      "distractors": [
+        "To stretch something out fully.",
+        "To polish something until smooth.",
+        "To cut something into small pieces."
+      ],
+      "surfaceForms": [
+        "crimping"
+      ],
+      "clozeAnswerSurfaceForm": "crimping"
+    },
+    {
+      "lemma": "virginity",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The state of never having had sexual intercourse.",
+      "translationZh": "童貞；處子之身",
+      "exampleSentence": "I was the first person you talked to after you lost your virginity!” he said.",
+      "clozeSentence": "I was the first person you talked to after you lost your _____!” he said.",
+      "distractors": [
+        "The state of being legally married.",
+        "The state of being physically ill.",
+        "The state of financial independence."
+      ],
+      "surfaceForms": [
+        "virginity"
+      ],
+      "clozeAnswerSurfaceForm": "virginity"
+    },
+    {
+      "lemma": "bob",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To move quickly up and down.",
+      "translationZh": "上下擺動",
+      "exampleSentence": "He was hardly able to contain himself, bobbing his thin legs up and down in the seat beside me.",
+      "clozeSentence": "He was hardly able to contain himself, _____ his thin legs up and down in the seat beside me.",
+      "distractors": [
+        "To move slowly in a straight line.",
+        "To remain perfectly still.",
+        "To spin rapidly in circles."
+      ],
+      "surfaceForms": [
+        "bobbing"
+      ],
+      "clozeAnswerSurfaceForm": "bobbing"
+    },
+    {
+      "lemma": "openly",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Without hiding one's feelings or intentions; publicly.",
+      "translationZh": "公開地；坦率地",
+      "exampleSentence": "“When you put in a diaphragm,” he’d lectured me in high school, “you have a moment all to yourself to decide again what you want to do.” He had not insisted I take the pill, or worried openly about my becoming pregnant, instead giving the sense he trusted me, and knew me to be reasonable, profound even.",
+      "clozeSentence": "“When you put in a diaphragm,” he’d lectured me in high school, “you have a moment all to yourself to decide again what you want to do.” He had not insisted I take the pill, or worried _____ about my becoming pregnant, instead giving the sense he trusted me, and knew me to be reasonable, profound even.",
+      "distractors": [
+        "Secretly and without others knowing.",
+        "Reluctantly and with much hesitation.",
+        "Angrily and aggressively."
+      ],
+      "surfaceForms": [
+        "openly"
+      ],
+      "clozeAnswerSurfaceForm": "openly"
+    },
+    {
+      "lemma": "profound",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Very deep, intense, or showing great understanding.",
+      "translationZh": "深刻的",
+      "exampleSentence": "“When you put in a diaphragm,” he’d lectured me in high school, “you have a moment all to yourself to decide again what you want to do.” He had not insisted I take the pill, or worried openly about my becoming pregnant, instead giving the sense he trusted me, and knew me to be reasonable, profound even.",
+      "clozeSentence": "“When you put in a diaphragm,” he’d lectured me in high school, “you have a moment all to yourself to decide again what you want to do.” He had not insisted I take the pill, or worried openly about my becoming pregnant, instead giving the sense he trusted me, and knew me to be reasonable, _____ even.",
+      "distractors": [
+        "Shallow and lacking real meaning.",
+        "Brief and quickly forgotten.",
+        "Ordinary and unremarkable."
+      ],
+      "surfaceForms": [
+        "profound"
+      ],
+      "clozeAnswerSurfaceForm": "profound"
+    },
+    {
+      "lemma": "diaphragm",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A birth-control device worn inside the body, or the breathing muscle.",
+      "translationZh": "子宮帽（避孕器）；橫膈膜",
+      "exampleSentence": "“When you put in a diaphragm,” he’d lectured me in high school, “you have a moment all to yourself to decide again what you want to do.” He had not insisted I take the pill, or worried openly about my becoming pregnant, instead giving the sense he trusted me, and knew me to be reasonable, profound even.",
+      "clozeSentence": "“When you put in a _____,” he’d lectured me in high school, “you have a moment all to yourself to decide again what you want to do.” He had not insisted I take the pill, or worried openly about my becoming pregnant, instead giving the sense he trusted me, and knew me to be reasonable, profound even.",
+      "distractors": [
+        "A type of medication taken orally.",
+        "A surgical procedure performed on the heart.",
+        "A device used to measure blood pressure."
+      ],
+      "surfaceForms": [
+        "diaphragm"
+      ],
+      "clozeAnswerSurfaceForm": "diaphragm"
+    },
+    {
+      "lemma": "abruptly",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Suddenly and without warning.",
+      "translationZh": "突然地",
+      "exampleSentence": "He’d asked me, abruptly, from bed, “Are you going to write about me?”",
+      "clozeSentence": "He’d asked me, _____, from bed, “Are you going to write about me?”",
+      "distractors": [
+        "Slowly and gradually.",
+        "Calmly and predictably.",
+        "Cheerfully and warmly."
+      ],
+      "surfaceForms": [
+        "abruptly"
+      ],
+      "clozeAnswerSurfaceForm": "abruptly"
+    },
+    {
+      "lemma": "stepmother",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The woman who has married one's father, not one's birth mother.",
+      "translationZh": "繼母",
+      "exampleSentence": "He’d gone to Memphis because that’s where a liver became available, he and my stepmother flying there in his private jet late at night.",
+      "clozeSentence": "He’d gone to Memphis because that’s where a liver became available, he and my _____ flying there in his private jet late at night.",
+      "distractors": [
+        "A close family friend.",
+        "An older sister.",
+        "A legal guardian appointed by court."
+      ],
+      "surfaceForms": [
+        "stepmother"
+      ],
+      "clozeAnswerSurfaceForm": "stepmother"
+    },
+    {
+      "lemma": "anteroom",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A small room leading to a larger, main room.",
+      "translationZh": "前廳；接待室",
+      "exampleSentence": "He’d had two rooms at the hospital, a room with his hospital bed and a small anteroom, and in the anteroom were a couch and chairs, like the kind at elementary schools, with melamine bodies and metal legs, and in order to visit we had to move the chairs around, pushing the extras out of the way, making them clack.",
+      "clozeSentence": "He’d had two rooms at the hospital, a room with his hospital bed and a small _____, and in the anteroom were a couch and chairs, like the kind at elementary schools, with melamine bodies and metal legs, and in order to visit we had to move the chairs around, pushing the extras out of the way, making them clack.",
+      "distractors": [
+        "A large open courtyard.",
+        "An underground storage room.",
+        "A rooftop terrace."
+      ],
+      "surfaceForms": [
+        "anteroom"
+      ],
+      "clozeAnswerSurfaceForm": "anteroom"
+    },
+    {
+      "lemma": "clack",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To make a sharp, sudden knocking or clicking sound.",
+      "translationZh": "發出喀噠聲",
+      "exampleSentence": "He’d had two rooms at the hospital, a room with his hospital bed and a small anteroom, and in the anteroom were a couch and chairs, like the kind at elementary schools, with melamine bodies and metal legs, and in order to visit we had to move the chairs around, pushing the extras out of the way, making them clack.",
+      "clozeSentence": "He’d had two rooms at the hospital, a room with his hospital bed and a small anteroom, and in the anteroom were a couch and chairs, like the kind at elementary schools, with melamine bodies and metal legs, and in order to visit we had to move the chairs around, pushing the extras out of the way, making them _____.",
+      "distractors": [
+        "To make a soft, continuous humming sound.",
+        "To remain completely silent.",
+        "To produce a smooth, gliding motion."
+      ],
+      "surfaceForms": [
+        "clack"
+      ],
+      "clozeAnswerSurfaceForm": "clack"
+    },
+    {
+      "lemma": "melamine",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A hard plastic material used to make furniture and dishes.",
+      "translationZh": "美耐皿（塑膠材質）",
+      "exampleSentence": "He’d had two rooms at the hospital, a room with his hospital bed and a small anteroom, and in the anteroom were a couch and chairs, like the kind at elementary schools, with melamine bodies and metal legs, and in order to visit we had to move the chairs around, pushing the extras out of the way, making them clack.",
+      "clozeSentence": "He’d had two rooms at the hospital, a room with his hospital bed and a small anteroom, and in the anteroom were a couch and chairs, like the kind at elementary schools, with _____ bodies and metal legs, and in order to visit we had to move the chairs around, pushing the extras out of the way, making them clack.",
+      "distractors": [
+        "A soft natural fabric like cotton.",
+        "A type of polished stone.",
+        "A flexible rubber material."
+      ],
+      "surfaceForms": [
+        "melamine"
+      ],
+      "clozeAnswerSurfaceForm": "melamine"
+    },
+    {
+      "lemma": "diagnose",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To identify the nature of an illness through examination.",
+      "translationZh": "診斷",
+      "exampleSentence": "My mother became sick, a sinus and bone infection that we couldn’t diagnose at first, leaving her unable to work and unable to pay her rent.",
+      "clozeSentence": "My mother became sick, a sinus and bone infection that we couldn’t _____ at first, leaving her unable to work and unable to pay her rent.",
+      "distractors": [
+        "To completely cure an illness.",
+        "To prevent an illness from occurring.",
+        "To ignore the symptoms of an illness."
+      ],
+      "surfaceForms": [
+        "diagnose"
+      ],
+      "clozeAnswerSurfaceForm": "diagnose"
+    },
+    {
+      "lemma": "sinus",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "One of the air-filled spaces in the skull near the nose.",
+      "translationZh": "鼻竇",
+      "exampleSentence": "My mother became sick, a sinus and bone infection that we couldn’t diagnose at first, leaving her unable to work and unable to pay her rent.",
+      "clozeSentence": "My mother became sick, a _____ and bone infection that we couldn’t diagnose at first, leaving her unable to work and unable to pay her rent.",
+      "distractors": [
+        "A bone in the lower leg.",
+        "A muscle in the upper arm.",
+        "A gland near the throat."
+      ],
+      "surfaceForms": [
+        "sinus"
+      ],
+      "clozeAnswerSurfaceForm": "sinus"
+    },
+    {
+      "lemma": "loan",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To lend money or something else temporarily.",
+      "translationZh": "借出（錢）",
+      "exampleSentence": "Another set of friends loaned me money to help her pay for oral surgery that made her cheek balloon out as if it had been stung by a bee.",
+      "clozeSentence": "Another set of friends _____ me money to help her pay for oral surgery that made her cheek balloon out as if it had been stung by a bee.",
+      "distractors": [
+        "To give something away permanently.",
+        "To borrow money from a bank.",
+        "To invest money in a business."
+      ],
+      "surfaceForms": [
+        "loaned"
+      ],
+      "clozeAnswerSurfaceForm": "loaned"
+    },
+    {
+      "lemma": "sting",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A sharp, painful sensation, as from an insect bite.",
+      "translationZh": "螫傷；刺痛",
+      "exampleSentence": "Another set of friends loaned me money to help her pay for oral surgery that made her cheek balloon out as if it had been stung by a bee.",
+      "clozeSentence": "Another set of friends loaned me money to help her pay for oral surgery that made her cheek balloon out as if it had been _____ by a bee.",
+      "distractors": [
+        "A gentle, soothing touch.",
+        "A loud, sudden noise.",
+        "A pleasant, warm feeling."
+      ],
+      "surfaceForms": [
+        "stung"
+      ],
+      "clozeAnswerSurfaceForm": "stung"
+    },
+    {
+      "lemma": "usher",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To guide or escort someone somewhere.",
+      "translationZh": "引導；帶領",
+      "exampleSentence": "Once, when he had to urinate, a nurse had tried to usher me out of the room.",
+      "clozeSentence": "Once, when he had to urinate, a nurse had tried to _____ me out of the room.",
+      "distractors": [
+        "To forcefully remove someone.",
+        "To ignore someone's presence.",
+        "To formally introduce someone at an event."
+      ],
+      "surfaceForms": [
+        "usher"
+      ],
+      "clozeAnswerSurfaceForm": "usher"
+    },
+    {
+      "lemma": "urinate",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To pass urine from the body.",
+      "translationZh": "排尿",
+      "exampleSentence": "Once, when he had to urinate, a nurse had tried to usher me out of the room.",
+      "clozeSentence": "Once, when he had to _____, a nurse had tried to usher me out of the room.",
+      "distractors": [
+        "To perspire heavily.",
+        "To vomit suddenly.",
+        "To catch one's breath."
+      ],
+      "surfaceForms": [
+        "urinate"
+      ],
+      "clozeAnswerSurfaceForm": "urinate"
+    },
+    {
+      "lemma": "pee",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To urinate.",
+      "translationZh": "小便",
+      "exampleSentence": "“She can stay,” he’d said, and then proceeded to pee in a plastic jar under his gown while I stood there, talking to me as he peed, as if he couldn’t be away from me for even one second.",
+      "clozeSentence": "“She can stay,” he’d said, and then proceeded to _____ in a plastic jar under his gown while I stood there, talking to me as he peed, as if he couldn’t be away from me for even one second.",
+      "distractors": [
+        "To wash one's hands.",
+        "To brush one's teeth.",
+        "To take a short nap."
+      ],
+      "surfaceForms": [
+        "pee",
+        "peed"
+      ],
+      "clozeAnswerSurfaceForm": "pee"
+    },
+    {
+      "lemma": "gasp",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To breathe in suddenly, often from shock or difficulty.",
+      "translationZh": "喘氣；倒抽一口氣",
+      "exampleSentence": "At one point, sitting in the anteroom with me and my aunt and stepmother, he started gasping for breath and turning purplish, and we all panicked, trying to find out what was wrong.",
+      "clozeSentence": "At one point, sitting in the anteroom with me and my aunt and stepmother, he started _____ for breath and turning purplish, and we all panicked, trying to find out what was wrong.",
+      "distractors": [
+        "To breathe slowly and calmly.",
+        "To hold one's breath silently.",
+        "To sigh with contentment."
+      ],
+      "surfaceForms": [
+        "gasping"
+      ],
+      "clozeAnswerSurfaceForm": "gasping"
+    },
+    {
+      "lemma": "purplish",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Somewhat purple in color.",
+      "translationZh": "帶紫色的",
+      "exampleSentence": "At one point, sitting in the anteroom with me and my aunt and stepmother, he started gasping for breath and turning purplish, and we all panicked, trying to find out what was wrong.",
+      "clozeSentence": "At one point, sitting in the anteroom with me and my aunt and stepmother, he started gasping for breath and turning _____, and we all panicked, trying to find out what was wrong.",
+      "distractors": [
+        "Bright and vividly yellow.",
+        "Pale and almost colorless.",
+        "Deep and solid black."
+      ],
+      "surfaceForms": [
+        "purplish"
+      ],
+      "clozeAnswerSurfaceForm": "purplish"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "transplant",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A surgical operation to transfer an organ from one body to another.",
+      "translationZh": "器官移植",
+      "exampleSentence": "A few weeks later, I went to visit my father in the hospital in Memphis after he’d had a liver transplant.",
+      "clozeSentence": "A few weeks later, I went to visit my father in the hospital in Memphis after he’d had a liver _____.",
+      "distractors": [
+        "A routine medical check-up.",
+        "A treatment using medication only.",
+        "A physical therapy exercise program."
+      ],
+      "surfaceForms": [
+        "transplant"
+      ],
+      "clozeAnswerSurfaceForm": "transplant"
+    },
+    {
+      "lemma": "surreptitiously",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "In a secretive way, trying not to be noticed.",
+      "translationZh": "偷偷摸摸地",
+      "exampleSentence": "I glanced down surreptitiously and noticed with dismay that the leg of my chair was crimping his oxygen tube.",
+      "clozeSentence": "I glanced down _____ and noticed with dismay that the leg of my chair was crimping his oxygen tube.",
+      "distractors": [
+        "In a loud and obvious way.",
+        "In a proud and confident way.",
+        "In a slow and careless way."
+      ],
+      "surfaceForms": [
+        "surreptitiously"
+      ],
+      "clozeAnswerSurfaceForm": "surreptitiously"
+    },
+    {
+      "lemma": "dismay",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "A strong feeling of worry, disappointment, or discouragement.",
+      "translationZh": "驚愕；沮喪",
+      "exampleSentence": "I glanced down surreptitiously and noticed with dismay that the leg of my chair was crimping his oxygen tube.",
+      "clozeSentence": "I glanced down surreptitiously and noticed with _____ that the leg of my chair was crimping his oxygen tube.",
+      "distractors": [
+        "A strong feeling of joy and relief.",
+        "A feeling of mild curiosity.",
+        "A sense of calm confidence."
+      ],
+      "surfaceForms": [
+        "dismay"
+      ],
+      "clozeAnswerSurfaceForm": "dismay"
+    },
+    {
+      "lemma": "crimp",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To press or squeeze something so it bends or is compressed.",
+      "translationZh": "壓皺；夾扁",
+      "exampleSentence": "I glanced down surreptitiously and noticed with dismay that the leg of my chair was crimping his oxygen tube.",
+      "clozeSentence": "I glanced down surreptitiously and noticed with dismay that the leg of my chair was _____ his oxygen tube.",
+      "distractors": [
+        "To stretch something out fully.",
+        "To polish something until smooth.",
+        "To cut something into small pieces."
+      ],
+      "surfaceForms": [
+        "crimping"
+      ],
+      "clozeAnswerSurfaceForm": "crimping"
+    },
+    {
+      "lemma": "virginity",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The state of never having had sexual intercourse.",
+      "translationZh": "童貞；處子之身",
+      "exampleSentence": "I was the first person you talked to after you lost your virginity!” he said.",
+      "clozeSentence": "I was the first person you talked to after you lost your _____!” he said.",
+      "distractors": [
+        "The state of being legally married.",
+        "The state of being physically ill.",
+        "The state of financial independence."
+      ],
+      "surfaceForms": [
+        "virginity"
+      ],
+      "clozeAnswerSurfaceForm": "virginity"
+    },
+    {
+      "lemma": "bob",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To move quickly up and down.",
+      "translationZh": "上下擺動",
+      "exampleSentence": "He was hardly able to contain himself, bobbing his thin legs up and down in the seat beside me.",
+      "clozeSentence": "He was hardly able to contain himself, _____ his thin legs up and down in the seat beside me.",
+      "distractors": [
+        "To move slowly in a straight line.",
+        "To remain perfectly still.",
+        "To spin rapidly in circles."
+      ],
+      "surfaceForms": [
+        "bobbing"
+      ],
+      "clozeAnswerSurfaceForm": "bobbing"
+    },
+    {
+      "lemma": "profound",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Very deep, intense, or showing great understanding.",
+      "translationZh": "深刻的",
+      "exampleSentence": "“When you put in a diaphragm,” he’d lectured me in high school, “you have a moment all to yourself to decide again what you want to do.” He had not insisted I take the pill, or worried openly about my becoming pregnant, instead giving the sense he trusted me, and knew me to be reasonable, profound even.",
+      "clozeSentence": "“When you put in a diaphragm,” he’d lectured me in high school, “you have a moment all to yourself to decide again what you want to do.” He had not insisted I take the pill, or worried openly about my becoming pregnant, instead giving the sense he trusted me, and knew me to be reasonable, _____ even.",
+      "distractors": [
+        "Shallow and lacking real meaning.",
+        "Brief and quickly forgotten.",
+        "Ordinary and unremarkable."
+      ],
+      "surfaceForms": [
+        "profound"
+      ],
+      "clozeAnswerSurfaceForm": "profound"
+    },
+    {
+      "lemma": "diaphragm",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A birth-control device worn inside the body, or the breathing muscle.",
+      "translationZh": "子宮帽（避孕器）；橫膈膜",
+      "exampleSentence": "“When you put in a diaphragm,” he’d lectured me in high school, “you have a moment all to yourself to decide again what you want to do.” He had not insisted I take the pill, or worried openly about my becoming pregnant, instead giving the sense he trusted me, and knew me to be reasonable, profound even.",
+      "clozeSentence": "“When you put in a _____,” he’d lectured me in high school, “you have a moment all to yourself to decide again what you want to do.” He had not insisted I take the pill, or worried openly about my becoming pregnant, instead giving the sense he trusted me, and knew me to be reasonable, profound even.",
+      "distractors": [
+        "A type of medication taken orally.",
+        "A surgical procedure performed on the heart.",
+        "A device used to measure blood pressure."
+      ],
+      "surfaceForms": [
+        "diaphragm"
+      ],
+      "clozeAnswerSurfaceForm": "diaphragm"
+    },
+    {
+      "lemma": "openly",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Without hiding one's feelings or intentions; publicly.",
+      "translationZh": "公開地；坦率地",
+      "exampleSentence": "“When you put in a diaphragm,” he’d lectured me in high school, “you have a moment all to yourself to decide again what you want to do.” He had not insisted I take the pill, or worried openly about my becoming pregnant, instead giving the sense he trusted me, and knew me to be reasonable, profound even.",
+      "clozeSentence": "“When you put in a diaphragm,” he’d lectured me in high school, “you have a moment all to yourself to decide again what you want to do.” He had not insisted I take the pill, or worried _____ about my becoming pregnant, instead giving the sense he trusted me, and knew me to be reasonable, profound even.",
+      "distractors": [
+        "Secretly and without others knowing.",
+        "Reluctantly and with much hesitation.",
+        "Angrily and aggressively."
+      ],
+      "surfaceForms": [
+        "openly"
+      ],
+      "clozeAnswerSurfaceForm": "openly"
+    },
+    {
+      "lemma": "anteroom",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A small room leading to a larger, main room.",
+      "translationZh": "前廳；接待室",
+      "exampleSentence": "He’d had two rooms at the hospital, a room with his hospital bed and a small anteroom, and in the anteroom were a couch and chairs, like the kind at elementary schools, with melamine bodies and metal legs, and in order to visit we had to move the chairs around, pushing the extras out of the way, making them clack.",
+      "clozeSentence": "He’d had two rooms at the hospital, a room with his hospital bed and a small _____, and in the anteroom were a couch and chairs, like the kind at elementary schools, with melamine bodies and metal legs, and in order to visit we had to move the chairs around, pushing the extras out of the way, making them clack.",
+      "distractors": [
+        "A large open courtyard.",
+        "An underground storage room.",
+        "A rooftop terrace."
+      ],
+      "surfaceForms": [
+        "anteroom"
+      ],
+      "clozeAnswerSurfaceForm": "anteroom"
+    },
+    {
+      "lemma": "clack",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To make a sharp, sudden knocking or clicking sound.",
+      "translationZh": "發出喀噠聲",
+      "exampleSentence": "He’d had two rooms at the hospital, a room with his hospital bed and a small anteroom, and in the anteroom were a couch and chairs, like the kind at elementary schools, with melamine bodies and metal legs, and in order to visit we had to move the chairs around, pushing the extras out of the way, making them clack.",
+      "clozeSentence": "He’d had two rooms at the hospital, a room with his hospital bed and a small anteroom, and in the anteroom were a couch and chairs, like the kind at elementary schools, with melamine bodies and metal legs, and in order to visit we had to move the chairs around, pushing the extras out of the way, making them _____.",
+      "distractors": [
+        "To make a soft, continuous humming sound.",
+        "To remain completely silent.",
+        "To produce a smooth, gliding motion."
+      ],
+      "surfaceForms": [
+        "clack"
+      ],
+      "clozeAnswerSurfaceForm": "clack"
+    },
+    {
+      "lemma": "melamine",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A hard plastic material used to make furniture and dishes.",
+      "translationZh": "美耐皿（塑膠材質）",
+      "exampleSentence": "He’d had two rooms at the hospital, a room with his hospital bed and a small anteroom, and in the anteroom were a couch and chairs, like the kind at elementary schools, with melamine bodies and metal legs, and in order to visit we had to move the chairs around, pushing the extras out of the way, making them clack.",
+      "clozeSentence": "He’d had two rooms at the hospital, a room with his hospital bed and a small anteroom, and in the anteroom were a couch and chairs, like the kind at elementary schools, with _____ bodies and metal legs, and in order to visit we had to move the chairs around, pushing the extras out of the way, making them clack.",
+      "distractors": [
+        "A soft natural fabric like cotton.",
+        "A type of polished stone.",
+        "A flexible rubber material."
+      ],
+      "surfaceForms": [
+        "melamine"
+      ],
+      "clozeAnswerSurfaceForm": "melamine"
+    },
+    {
+      "lemma": "abruptly",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Suddenly and without warning.",
+      "translationZh": "突然地",
+      "exampleSentence": "He’d asked me, abruptly, from bed, “Are you going to write about me?”",
+      "clozeSentence": "He’d asked me, _____, from bed, “Are you going to write about me?”",
+      "distractors": [
+        "Slowly and gradually.",
+        "Calmly and predictably.",
+        "Cheerfully and warmly."
+      ],
+      "surfaceForms": [
+        "abruptly"
+      ],
+      "clozeAnswerSurfaceForm": "abruptly"
+    },
+    {
+      "lemma": "stepmother",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The woman who has married one's father, not one's birth mother.",
+      "translationZh": "繼母",
+      "exampleSentence": "He’d gone to Memphis because that’s where a liver became available, he and my stepmother flying there in his private jet late at night.",
+      "clozeSentence": "He’d gone to Memphis because that’s where a liver became available, he and my _____ flying there in his private jet late at night.",
+      "distractors": [
+        "A close family friend.",
+        "An older sister.",
+        "A legal guardian appointed by court."
+      ],
+      "surfaceForms": [
+        "stepmother"
+      ],
+      "clozeAnswerSurfaceForm": "stepmother"
+    },
+    {
+      "lemma": "diagnose",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To identify the nature of an illness through examination.",
+      "translationZh": "診斷",
+      "exampleSentence": "My mother became sick, a sinus and bone infection that we couldn’t diagnose at first, leaving her unable to work and unable to pay her rent.",
+      "clozeSentence": "My mother became sick, a sinus and bone infection that we couldn’t _____ at first, leaving her unable to work and unable to pay her rent.",
+      "distractors": [
+        "To completely cure an illness.",
+        "To prevent an illness from occurring.",
+        "To ignore the symptoms of an illness."
+      ],
+      "surfaceForms": [
+        "diagnose"
+      ],
+      "clozeAnswerSurfaceForm": "diagnose"
+    },
+    {
+      "lemma": "sinus",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "One of the air-filled spaces in the skull near the nose.",
+      "translationZh": "鼻竇",
+      "exampleSentence": "My mother became sick, a sinus and bone infection that we couldn’t diagnose at first, leaving her unable to work and unable to pay her rent.",
+      "clozeSentence": "My mother became sick, a _____ and bone infection that we couldn’t diagnose at first, leaving her unable to work and unable to pay her rent.",
+      "distractors": [
+        "A bone in the lower leg.",
+        "A muscle in the upper arm.",
+        "A gland near the throat."
+      ],
+      "surfaceForms": [
+        "sinus"
+      ],
+      "clozeAnswerSurfaceForm": "sinus"
+    },
+    {
+      "lemma": "loan",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To lend money or something else temporarily.",
+      "translationZh": "借出（錢）",
+      "exampleSentence": "Another set of friends loaned me money to help her pay for oral surgery that made her cheek balloon out as if it had been stung by a bee.",
+      "clozeSentence": "Another set of friends _____ me money to help her pay for oral surgery that made her cheek balloon out as if it had been stung by a bee.",
+      "distractors": [
+        "To give something away permanently.",
+        "To borrow money from a bank.",
+        "To invest money in a business."
+      ],
+      "surfaceForms": [
+        "loaned"
+      ],
+      "clozeAnswerSurfaceForm": "loaned"
+    },
+    {
+      "lemma": "sting",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A sharp, painful sensation, as from an insect bite.",
+      "translationZh": "螫傷；刺痛",
+      "exampleSentence": "Another set of friends loaned me money to help her pay for oral surgery that made her cheek balloon out as if it had been stung by a bee.",
+      "clozeSentence": "Another set of friends loaned me money to help her pay for oral surgery that made her cheek balloon out as if it had been _____ by a bee.",
+      "distractors": [
+        "A gentle, soothing touch.",
+        "A loud, sudden noise.",
+        "A pleasant, warm feeling."
+      ],
+      "surfaceForms": [
+        "stung"
+      ],
+      "clozeAnswerSurfaceForm": "stung"
+    },
+    {
+      "lemma": "usher",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To guide or escort someone somewhere.",
+      "translationZh": "引導；帶領",
+      "exampleSentence": "Once, when he had to urinate, a nurse had tried to usher me out of the room.",
+      "clozeSentence": "Once, when he had to urinate, a nurse had tried to _____ me out of the room.",
+      "distractors": [
+        "To forcefully remove someone.",
+        "To ignore someone's presence.",
+        "To formally introduce someone at an event."
+      ],
+      "surfaceForms": [
+        "usher"
+      ],
+      "clozeAnswerSurfaceForm": "usher"
+    },
+    {
+      "lemma": "urinate",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To pass urine from the body.",
+      "translationZh": "排尿",
+      "exampleSentence": "Once, when he had to urinate, a nurse had tried to usher me out of the room.",
+      "clozeSentence": "Once, when he had to _____, a nurse had tried to usher me out of the room.",
+      "distractors": [
+        "To perspire heavily.",
+        "To vomit suddenly.",
+        "To catch one's breath."
+      ],
+      "surfaceForms": [
+        "urinate"
+      ],
+      "clozeAnswerSurfaceForm": "urinate"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "wordLemma": "transplant",
+      "prompt": "transplant",
+      "options": [
+        "A surgical operation to transfer an organ from one body to another.",
+        "A physical therapy exercise program.",
+        "A treatment using medication only.",
+        "A routine medical check-up."
+      ],
+      "answer": "A surgical operation to transfer an organ from one body to another."
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "diaphragm",
+      "prompt": "“When you put in a _____,” he’d lectured me in high school, “you have a moment all to yourself to decide again what you want to do.” He had not insisted I take the pill, or worried openly about my becoming pregnant, instead giving the sense he trusted me, and knew me to be reasonable, profound even.",
+      "options": [
+        "profound",
+        "diaphragm",
+        "stepmother",
+        "stung"
+      ],
+      "answer": "diaphragm"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "bob",
+      "prompt": "上下擺動",
+      "options": [
+        "openly",
+        "usher",
+        "bob",
+        "sting"
+      ],
+      "answer": "bob"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "sting",
+      "prompt": "螫傷；刺痛",
+      "options": [
+        "abruptly",
+        "melamine",
+        "sting",
+        "transplant"
+      ],
+      "answer": "sting"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "profound",
+      "prompt": "profound",
+      "options": [
+        "Brief and quickly forgotten.",
+        "Ordinary and unremarkable.",
+        "Very deep, intense, or showing great understanding.",
+        "Shallow and lacking real meaning."
+      ],
+      "answer": "Very deep, intense, or showing great understanding."
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "urinate",
+      "prompt": "Once, when he had to _____, a nurse had tried to usher me out of the room.",
+      "options": [
+        "bobbing",
+        "profound",
+        "loaned",
+        "urinate"
+      ],
+      "answer": "urinate"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "surreptitiously",
+      "prompt": "I glanced down _____ and noticed with dismay that the leg of my chair was crimping his oxygen tube.",
+      "options": [
+        "urinate",
+        "virginity",
+        "surreptitiously",
+        "stepmother"
+      ],
+      "answer": "surreptitiously"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "stepmother",
+      "prompt": "He’d gone to Memphis because that’s where a liver became available, he and my _____ flying there in his private jet late at night.",
+      "options": [
+        "stepmother",
+        "dismay",
+        "stung",
+        "anteroom"
+      ],
+      "answer": "stepmother"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "melamine",
+      "prompt": "美耐皿（塑膠材質）",
+      "options": [
+        "melamine",
+        "sinus",
+        "clack",
+        "stepmother"
+      ],
+      "answer": "melamine"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "clack",
+      "prompt": "He’d had two rooms at the hospital, a room with his hospital bed and a small anteroom, and in the anteroom were a couch and chairs, like the kind at elementary schools, with melamine bodies and metal legs, and in order to visit we had to move the chairs around, pushing the extras out of the way, making them _____.",
+      "options": [
+        "dismay",
+        "loaned",
+        "anteroom",
+        "clack"
+      ],
+      "answer": "clack"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "anteroom",
+      "prompt": "anteroom",
+      "options": [
+        "A small room leading to a larger, main room.",
+        "A rooftop terrace.",
+        "An underground storage room.",
+        "A large open courtyard."
+      ],
+      "answer": "A small room leading to a larger, main room."
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "virginity",
+      "prompt": "I was the first person you talked to after you lost your _____!” he said.",
+      "options": [
+        "virginity",
+        "bobbing",
+        "clack",
+        "diagnose"
+      ],
+      "answer": "virginity"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "usher",
+      "prompt": "usher",
+      "options": [
+        "To guide or escort someone somewhere.",
+        "To forcefully remove someone.",
+        "To ignore someone's presence.",
+        "To formally introduce someone at an event."
+      ],
+      "answer": "To guide or escort someone somewhere."
+    },
+    {
+      "type": "translation",
+      "wordLemma": "diagnose",
+      "prompt": "診斷",
+      "options": [
+        "melamine",
+        "dismay",
+        "crimp",
+        "diagnose"
+      ],
+      "answer": "diagnose"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "crimp",
+      "prompt": "crimp",
+      "options": [
+        "To cut something into small pieces.",
+        "To press or squeeze something so it bends or is compressed.",
+        "To stretch something out fully.",
+        "To polish something until smooth."
+      ],
+      "answer": "To press or squeeze something so it bends or is compressed."
+    },
+    {
+      "type": "translation",
+      "wordLemma": "openly",
+      "prompt": "公開地；坦率地",
+      "options": [
+        "anteroom",
+        "openly",
+        "sting",
+        "diaphragm"
+      ],
+      "answer": "openly"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "dismay",
+      "prompt": "驚愕；沮喪",
+      "options": [
+        "stepmother",
+        "abruptly",
+        "dismay",
+        "diagnose"
+      ],
+      "answer": "dismay"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "sinus",
+      "prompt": "sinus",
+      "options": [
+        "A gland near the throat.",
+        "A bone in the lower leg.",
+        "A muscle in the upper arm.",
+        "One of the air-filled spaces in the skull near the nose."
+      ],
+      "answer": "One of the air-filled spaces in the skull near the nose."
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "abruptly",
+      "prompt": "abruptly",
+      "options": [
+        "Slowly and gradually.",
+        "Cheerfully and warmly.",
+        "Calmly and predictably.",
+        "Suddenly and without warning."
+      ],
+      "answer": "Suddenly and without warning."
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "loan",
+      "prompt": "Another set of friends _____ me money to help her pay for oral surgery that made her cheek balloon out as if it had been stung by a bee.",
+      "options": [
+        "surreptitiously",
+        "loaned",
+        "diaphragm",
+        "clack"
+      ],
+      "answer": "loaned"
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 9,
+  "partTitle": "Coda",
+  "sectionIndex": 2,
+  "paragraphs": [
+    "“I’m going to ask Steve to buy me a house,” my mother said on the phone, during my sophomore year of college.",
+    "She was still living with her boyfriend; I stayed with the neighbors during school breaks. “He’ll never do it,” I said.",
+    "“I’m going to keep on asking until he does.”",
+    "She had never owned a house. In all the years I was growing up, he had not bought us a house; we had never lived in a house we owned. Surely, if he had been willing, he would have done it then. I wondered why she thought she could get it now, especially now that I had already left home—and he wasn’t even talking with me—and why, if she could convince him to do things, she hadn’t done it sooner.",
+    "The idea that it was possible, that it might have even been possible before, enraged me, even if I wanted her to have it.",
+    "In fact, several months later, he agreed. She found a house for sale in Menlo Park that met his criteria: within a certain radius of his house, and less than four hundred thousand dollars. It was a thin-walled, two-bedroom wooden house on the busy Alameda de las Pulgas, with a nice back garden. He’d said it had to be close to his house so that he could see it before buying it, but in the end he didn’t even come to look before he bought the house in her name.",
+    "The summer after my sophomore year at Harvard, I got a job working at the Stanford Genetics lab, as I had done during high school. This would be the last time I lived in Palo Alto.",
+    "My mother made us salads with fresh tarragon leaves mixed in with the lettuces. She made curtains with French seams. She grew tomato plants in the garden in the back, forgetting to water them until the leaves wilted and browned, her neglect making the fruit the sweetest.",
+    "That summer, my father would not talk with me but insisted that I babysit my brother, who had been missing me. I’d been over to his house several times to babysit, hoping to talk with him, but he had ignored me. After that, I told my father I would need to talk with him first, and that I wouldn’t babysit unless he agreed to talk with me, but he refused, and said I had abandoned my brother.",
+    "One afternoon, Kevin and Dorothy came over to my mother’s house when my mother and I happened to be in a panic. My father had just called me, yelling that I had to babysit my brother, and then sent my mother an angry email. I was horrible and selfish, he wrote, shirking my responsibilities toward my brother. My mother and I were upset, not knowing how to respond. I suspected that, in some way, I must be wrong. I kept repeating to my father, on the phone and then over email, that I would love to see my brother, but would simply need to talk with him first.",
+    "“I don’t want to talk to you or see you,” he said to me on the phone. “You won’t see Reed, and I love Reed, and I don’t want to spend time with people who won’t spend time with the people I love,” he said.",
+    "Dorothy stood over my mother and dictated a response that began, “Cut the sanctimonious bullshit, Steve.” My mother typed it out. Dorothy spelled out sanctimonious. I was thrilled about Dorothy’s response, and the new word."
+  ],
+  "words": [
+    {
+      "lemma": "thrill",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A sudden feeling of excitement or pleasure.",
+      "translationZh": "興奮；激動",
+      "exampleSentence": "I was thrilled about Dorothy’s response, and the new word.",
+      "clozeSentence": "I was _____ about Dorothy’s response, and the new word.",
+      "distractors": [
+        "A feeling of deep boredom.",
+        "A quiet, calm sensation.",
+        "A sense of mild disappointment."
+      ],
+      "surfaceForms": [
+        "thrilled"
+      ],
+      "clozeAnswerSurfaceForm": "thrilled"
+    },
+    {
+      "lemma": "shirk",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To avoid a duty or responsibility.",
+      "translationZh": "逃避（責任）",
+      "exampleSentence": "I was horrible and selfish, he wrote, shirking my responsibilities toward my brother.",
+      "clozeSentence": "I was horrible and selfish, he wrote, _____ my responsibilities toward my brother.",
+      "distractors": [
+        "To complete a task very quickly.",
+        "To volunteer eagerly for extra work.",
+        "To carefully plan a task."
+      ],
+      "surfaceForms": [
+        "shirking"
+      ],
+      "clozeAnswerSurfaceForm": "shirking"
+    },
+    {
+      "lemma": "neglect",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Failure to give proper care or attention to something.",
+      "translationZh": "疏忽；忽略",
+      "exampleSentence": "She grew tomato plants in the garden in the back, forgetting to water them until the leaves wilted and browned, her neglect making the fruit the sweetest.",
+      "clozeSentence": "She grew tomato plants in the garden in the back, forgetting to water them until the leaves wilted and browned, her _____ making the fruit the sweetest.",
+      "distractors": [
+        "Excessive and careful attention.",
+        "A sudden burst of enthusiasm.",
+        "A formal written agreement."
+      ],
+      "surfaceForms": [
+        "neglect"
+      ],
+      "clozeAnswerSurfaceForm": "neglect"
+    },
+    {
+      "lemma": "criterion",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A standard used for judging or deciding something.",
+      "translationZh": "標準；準則",
+      "exampleSentence": "She found a house for sale in Menlo Park that met his criteria: within a certain radius of his house, and less than four hundred thousand dollars.",
+      "clozeSentence": "She found a house for sale in Menlo Park that met his _____: within a certain radius of his house, and less than four hundred thousand dollars.",
+      "distractors": [
+        "A financial reward for good work.",
+        "A formal complaint about a decision.",
+        "A written record of past events."
+      ],
+      "surfaceForms": [
+        "criteria"
+      ],
+      "clozeAnswerSurfaceForm": "criteria"
+    },
+    {
+      "lemma": "radius",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The distance from the center of a circle to its edge, or a surrounding area.",
+      "translationZh": "半徑；範圍",
+      "exampleSentence": "She found a house for sale in Menlo Park that met his criteria: within a certain radius of his house, and less than four hundred thousand dollars.",
+      "clozeSentence": "She found a house for sale in Menlo Park that met his criteria: within a certain _____ of his house, and less than four hundred thousand dollars.",
+      "distractors": [
+        "The total area enclosed by a shape.",
+        "The outer edge of a large city.",
+        "The height of a tall building."
+      ],
+      "surfaceForms": [
+        "radius"
+      ],
+      "clozeAnswerSurfaceForm": "radius"
+    },
+    {
+      "lemma": "seam",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A line where two pieces of fabric are sewn together.",
+      "translationZh": "縫線；接縫",
+      "exampleSentence": "She made curtains with French seams.",
+      "clozeSentence": "She made curtains with French _____.",
+      "distractors": [
+        "A decorative pattern printed on fabric.",
+        "A loose thread hanging from clothing.",
+        "A stiff collar on a shirt."
+      ],
+      "surfaceForms": [
+        "seams"
+      ],
+      "clozeAnswerSurfaceForm": "seams"
+    },
+    {
+      "lemma": "wilt",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To become limp and droop, especially of a plant.",
+      "translationZh": "枯萎；凋謝",
+      "exampleSentence": "She grew tomato plants in the garden in the back, forgetting to water them until the leaves wilted and browned, her neglect making the fruit the sweetest.",
+      "clozeSentence": "She grew tomato plants in the garden in the back, forgetting to water them until the leaves _____ and browned, her neglect making the fruit the sweetest.",
+      "distractors": [
+        "To grow rapidly and thrive.",
+        "To bloom brightly with color.",
+        "To spread widely across an area."
+      ],
+      "surfaceForms": [
+        "wilted"
+      ],
+      "clozeAnswerSurfaceForm": "wilted"
+    },
+    {
+      "lemma": "enrage",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To make someone extremely angry.",
+      "translationZh": "激怒",
+      "exampleSentence": "The idea that it was possible, that it might have even been possible before, enraged me, even if I wanted her to have it.",
+      "clozeSentence": "The idea that it was possible, that it might have even been possible before, _____ me, even if I wanted her to have it.",
+      "distractors": [
+        "To make someone feel calm and relaxed.",
+        "To make someone feel sleepy.",
+        "To make someone feel grateful."
+      ],
+      "surfaceForms": [
+        "enraged"
+      ],
+      "clozeAnswerSurfaceForm": "enraged"
+    },
+    {
+      "lemma": "thin-walled",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Having walls that are not thick.",
+      "translationZh": "薄壁的",
+      "exampleSentence": "It was a thin-walled, two-bedroom wooden house on the busy Alameda de las Pulgas, with a nice back garden.",
+      "clozeSentence": "It was a _____, two-bedroom wooden house on the busy Alameda de las Pulgas, with a nice back garden.",
+      "distractors": [
+        "Having extremely thick, solid walls.",
+        "Built entirely underground.",
+        "Painted in bright colors."
+      ],
+      "surfaceForms": [
+        "thin-walled"
+      ],
+      "clozeAnswerSurfaceForm": "thin-walled"
+    },
+    {
+      "lemma": "tarragon",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "An herb with a distinctive flavor, used in cooking.",
+      "translationZh": "龍蒿（香草的一種）",
+      "exampleSentence": "My mother made us salads with fresh tarragon leaves mixed in with the lettuces.",
+      "clozeSentence": "My mother made us salads with fresh _____ leaves mixed in with the lettuces.",
+      "distractors": [
+        "A type of citrus fruit.",
+        "A common cooking oil.",
+        "A type of leafy green vegetable eaten raw."
+      ],
+      "surfaceForms": [
+        "tarragon"
+      ],
+      "clozeAnswerSurfaceForm": "tarragon"
+    },
+    {
+      "lemma": "dictate",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To say something aloud for another person to write down.",
+      "translationZh": "口述；聽寫",
+      "exampleSentence": "Dorothy stood over my mother and dictated a response that began, “Cut the sanctimonious bullshit, Steve.” My mother typed it out.",
+      "clozeSentence": "Dorothy stood over my mother and _____ a response that began, “Cut the sanctimonious bullshit, Steve.” My mother typed it out.",
+      "distractors": [
+        "To listen quietly without responding.",
+        "To translate a document into another language.",
+        "To politely request permission."
+      ],
+      "surfaceForms": [
+        "dictated"
+      ],
+      "clozeAnswerSurfaceForm": "dictated"
+    },
+    {
+      "lemma": "sanctimonious",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "Acting as if morally superior to others in a self-righteous way.",
+      "translationZh": "假裝虔誠的；偽善的",
+      "exampleSentence": "Dorothy stood over my mother and dictated a response that began, “Cut the sanctimonious bullshit, Steve.” My mother typed it out.",
+      "clozeSentence": "Dorothy stood over my mother and dictated a response that began, “Cut the _____ bullshit, Steve.” My mother typed it out.",
+      "distractors": [
+        "Genuinely kind and humble.",
+        "Nervous and easily embarrassed.",
+        "Cheerful and lighthearted."
+      ],
+      "surfaceForms": [
+        "sanctimonious"
+      ],
+      "clozeAnswerSurfaceForm": "sanctimonious"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "shirk",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To avoid a duty or responsibility.",
+      "translationZh": "逃避（責任）",
+      "exampleSentence": "I was horrible and selfish, he wrote, shirking my responsibilities toward my brother.",
+      "clozeSentence": "I was horrible and selfish, he wrote, _____ my responsibilities toward my brother.",
+      "distractors": [
+        "To complete a task very quickly.",
+        "To volunteer eagerly for extra work.",
+        "To carefully plan a task."
+      ],
+      "surfaceForms": [
+        "shirking"
+      ],
+      "clozeAnswerSurfaceForm": "shirking"
+    },
+    {
+      "lemma": "thrill",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A sudden feeling of excitement or pleasure.",
+      "translationZh": "興奮；激動",
+      "exampleSentence": "I was thrilled about Dorothy’s response, and the new word.",
+      "clozeSentence": "I was _____ about Dorothy’s response, and the new word.",
+      "distractors": [
+        "A feeling of deep boredom.",
+        "A quiet, calm sensation.",
+        "A sense of mild disappointment."
+      ],
+      "surfaceForms": [
+        "thrilled"
+      ],
+      "clozeAnswerSurfaceForm": "thrilled"
+    },
+    {
+      "lemma": "criterion",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A standard used for judging or deciding something.",
+      "translationZh": "標準；準則",
+      "exampleSentence": "She found a house for sale in Menlo Park that met his criteria: within a certain radius of his house, and less than four hundred thousand dollars.",
+      "clozeSentence": "She found a house for sale in Menlo Park that met his _____: within a certain radius of his house, and less than four hundred thousand dollars.",
+      "distractors": [
+        "A financial reward for good work.",
+        "A formal complaint about a decision.",
+        "A written record of past events."
+      ],
+      "surfaceForms": [
+        "criteria"
+      ],
+      "clozeAnswerSurfaceForm": "criteria"
+    },
+    {
+      "lemma": "neglect",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Failure to give proper care or attention to something.",
+      "translationZh": "疏忽；忽略",
+      "exampleSentence": "She grew tomato plants in the garden in the back, forgetting to water them until the leaves wilted and browned, her neglect making the fruit the sweetest.",
+      "clozeSentence": "She grew tomato plants in the garden in the back, forgetting to water them until the leaves wilted and browned, her _____ making the fruit the sweetest.",
+      "distractors": [
+        "Excessive and careful attention.",
+        "A sudden burst of enthusiasm.",
+        "A formal written agreement."
+      ],
+      "surfaceForms": [
+        "neglect"
+      ],
+      "clozeAnswerSurfaceForm": "neglect"
+    },
+    {
+      "lemma": "radius",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The distance from the center of a circle to its edge, or a surrounding area.",
+      "translationZh": "半徑；範圍",
+      "exampleSentence": "She found a house for sale in Menlo Park that met his criteria: within a certain radius of his house, and less than four hundred thousand dollars.",
+      "clozeSentence": "She found a house for sale in Menlo Park that met his criteria: within a certain _____ of his house, and less than four hundred thousand dollars.",
+      "distractors": [
+        "The total area enclosed by a shape.",
+        "The outer edge of a large city.",
+        "The height of a tall building."
+      ],
+      "surfaceForms": [
+        "radius"
+      ],
+      "clozeAnswerSurfaceForm": "radius"
+    },
+    {
+      "lemma": "seam",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A line where two pieces of fabric are sewn together.",
+      "translationZh": "縫線；接縫",
+      "exampleSentence": "She made curtains with French seams.",
+      "clozeSentence": "She made curtains with French _____.",
+      "distractors": [
+        "A decorative pattern printed on fabric.",
+        "A loose thread hanging from clothing.",
+        "A stiff collar on a shirt."
+      ],
+      "surfaceForms": [
+        "seams"
+      ],
+      "clozeAnswerSurfaceForm": "seams"
+    },
+    {
+      "lemma": "wilt",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To become limp and droop, especially of a plant.",
+      "translationZh": "枯萎；凋謝",
+      "exampleSentence": "She grew tomato plants in the garden in the back, forgetting to water them until the leaves wilted and browned, her neglect making the fruit the sweetest.",
+      "clozeSentence": "She grew tomato plants in the garden in the back, forgetting to water them until the leaves _____ and browned, her neglect making the fruit the sweetest.",
+      "distractors": [
+        "To grow rapidly and thrive.",
+        "To bloom brightly with color.",
+        "To spread widely across an area."
+      ],
+      "surfaceForms": [
+        "wilted"
+      ],
+      "clozeAnswerSurfaceForm": "wilted"
+    },
+    {
+      "lemma": "enrage",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To make someone extremely angry.",
+      "translationZh": "激怒",
+      "exampleSentence": "The idea that it was possible, that it might have even been possible before, enraged me, even if I wanted her to have it.",
+      "clozeSentence": "The idea that it was possible, that it might have even been possible before, _____ me, even if I wanted her to have it.",
+      "distractors": [
+        "To make someone feel calm and relaxed.",
+        "To make someone feel sleepy.",
+        "To make someone feel grateful."
+      ],
+      "surfaceForms": [
+        "enraged"
+      ],
+      "clozeAnswerSurfaceForm": "enraged"
+    },
+    {
+      "lemma": "thin-walled",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Having walls that are not thick.",
+      "translationZh": "薄壁的",
+      "exampleSentence": "It was a thin-walled, two-bedroom wooden house on the busy Alameda de las Pulgas, with a nice back garden.",
+      "clozeSentence": "It was a _____, two-bedroom wooden house on the busy Alameda de las Pulgas, with a nice back garden.",
+      "distractors": [
+        "Having extremely thick, solid walls.",
+        "Built entirely underground.",
+        "Painted in bright colors."
+      ],
+      "surfaceForms": [
+        "thin-walled"
+      ],
+      "clozeAnswerSurfaceForm": "thin-walled"
+    },
+    {
+      "lemma": "tarragon",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "An herb with a distinctive flavor, used in cooking.",
+      "translationZh": "龍蒿（香草的一種）",
+      "exampleSentence": "My mother made us salads with fresh tarragon leaves mixed in with the lettuces.",
+      "clozeSentence": "My mother made us salads with fresh _____ leaves mixed in with the lettuces.",
+      "distractors": [
+        "A type of citrus fruit.",
+        "A common cooking oil.",
+        "A type of leafy green vegetable eaten raw."
+      ],
+      "surfaceForms": [
+        "tarragon"
+      ],
+      "clozeAnswerSurfaceForm": "tarragon"
+    },
+    {
+      "lemma": "sanctimonious",
+      "level": "C2",
+      "levelSource": "ai",
+      "definitionEn": "Acting as if morally superior to others in a self-righteous way.",
+      "translationZh": "假裝虔誠的；偽善的",
+      "exampleSentence": "Dorothy stood over my mother and dictated a response that began, “Cut the sanctimonious bullshit, Steve.” My mother typed it out.",
+      "clozeSentence": "Dorothy stood over my mother and dictated a response that began, “Cut the _____ bullshit, Steve.” My mother typed it out.",
+      "distractors": [
+        "Genuinely kind and humble.",
+        "Nervous and easily embarrassed.",
+        "Cheerful and lighthearted."
+      ],
+      "surfaceForms": [
+        "sanctimonious"
+      ],
+      "clozeAnswerSurfaceForm": "sanctimonious"
+    },
+    {
+      "lemma": "dictate",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To say something aloud for another person to write down.",
+      "translationZh": "口述；聽寫",
+      "exampleSentence": "Dorothy stood over my mother and dictated a response that began, “Cut the sanctimonious bullshit, Steve.” My mother typed it out.",
+      "clozeSentence": "Dorothy stood over my mother and _____ a response that began, “Cut the sanctimonious bullshit, Steve.” My mother typed it out.",
+      "distractors": [
+        "To listen quietly without responding.",
+        "To translate a document into another language.",
+        "To politely request permission."
+      ],
+      "surfaceForms": [
+        "dictated"
+      ],
+      "clozeAnswerSurfaceForm": "dictated"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "cloze",
+      "wordLemma": "enrage",
+      "prompt": "The idea that it was possible, that it might have even been possible before, _____ me, even if I wanted her to have it.",
+      "options": [
+        "enraged",
+        "sanctimonious",
+        "thrilled",
+        "radius"
+      ],
+      "answer": "enraged"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "neglect",
+      "prompt": "neglect",
+      "options": [
+        "A sudden burst of enthusiasm.",
+        "A formal written agreement.",
+        "Excessive and careful attention.",
+        "Failure to give proper care or attention to something."
+      ],
+      "answer": "Failure to give proper care or attention to something."
+    },
+    {
+      "type": "translation",
+      "wordLemma": "seam",
+      "prompt": "縫線；接縫",
+      "options": [
+        "thrill",
+        "seam",
+        "criterion",
+        "wilt"
+      ],
+      "answer": "seam"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "sanctimonious",
+      "prompt": "Dorothy stood over my mother and dictated a response that began, “Cut the _____ bullshit, Steve.” My mother typed it out.",
+      "options": [
+        "criteria",
+        "tarragon",
+        "sanctimonious",
+        "shirking"
+      ],
+      "answer": "sanctimonious"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "thrill",
+      "prompt": "I was _____ about Dorothy’s response, and the new word.",
+      "options": [
+        "enraged",
+        "shirking",
+        "neglect",
+        "thrilled"
+      ],
+      "answer": "thrilled"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "criterion",
+      "prompt": "標準；準則",
+      "options": [
+        "dictate",
+        "criterion",
+        "wilt",
+        "shirk"
+      ],
+      "answer": "criterion"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "tarragon",
+      "prompt": "tarragon",
+      "options": [
+        "A type of citrus fruit.",
+        "A type of leafy green vegetable eaten raw.",
+        "A common cooking oil.",
+        "An herb with a distinctive flavor, used in cooking."
+      ],
+      "answer": "An herb with a distinctive flavor, used in cooking."
+    },
+    {
+      "type": "translation",
+      "wordLemma": "thin-walled",
+      "prompt": "薄壁的",
+      "options": [
+        "seam",
+        "wilt",
+        "shirk",
+        "thin-walled"
+      ],
+      "answer": "thin-walled"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "radius",
+      "prompt": "She found a house for sale in Menlo Park that met his criteria: within a certain _____ of his house, and less than four hundred thousand dollars.",
+      "options": [
+        "radius",
+        "enraged",
+        "thrilled",
+        "shirking"
+      ],
+      "answer": "radius"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "dictate",
+      "prompt": "口述；聽寫",
+      "options": [
+        "radius",
+        "shirk",
+        "dictate",
+        "tarragon"
+      ],
+      "answer": "dictate"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "wilt",
+      "prompt": "wilt",
+      "options": [
+        "To spread widely across an area.",
+        "To grow rapidly and thrive.",
+        "To bloom brightly with color.",
+        "To become limp and droop, especially of a plant."
+      ],
+      "answer": "To become limp and droop, especially of a plant."
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "shirk",
+      "prompt": "shirk",
+      "options": [
+        "To volunteer eagerly for extra work.",
+        "To avoid a duty or responsibility.",
+        "To carefully plan a task.",
+        "To complete a task very quickly."
+      ],
+      "answer": "To avoid a duty or responsibility."
+    }
+  ]
+}

@@ -1,0 +1,1576 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 3,
+  "partTitle": "Let’s Blast",
+  "sectionIndex": 4,
+  "paragraphs": [
+    "Ron thought my private school was elitist and lacked academic rigor, and he managed to convince my mother, too, so we moved house in order to be in the Palo Alto School District so I could attend public school.",
+    "Our new place, an apartment in the back of another house, was less than half the size of the small house we’d moved from, but with just as many rooms. It was like a playhouse. The wooden floor, newly sanded and varnished for our arrival, yellow as hay, shone like it was wet. Before this, we’d lived on a series of old wall-to-wall carpets, and my mother’s joy about this floor surprised me. She reassembled the tubular bed in my new room.",
+    "One night, soon after we moved in, she rented Desperately Seeking Susan to watch on our new television. I wasn’t allowed to watch it. Before this, we hadn’t owned a television. After she put me to bed, I turned myself so my head was where my feet usually were, careful not to jostle the singing springs. From there I could open the door a crack and see the screen over the back of the couch.",
+    "In the movie, a woman wore tattered black clothing, her hair in spikes, necklaces layered. The more I watched, the more I knew I wanted to look like this woman.",
+    "My mother spun around and caught me watching.",
+    "“I thought so,” she said. “Get to sleep.” She came over and shut the door.",
+    "A few days later I found a picture in a magazine—it might have been an ad for Guess or Jordache jeans—in which a woman with short, tousled hair, wet maybe, was leaping. She flew above the dark asphalt, toes pointed: perfect splits in the air. She wore a T-shirt and stonewashed jeans. I wanted to be that girl too.",
+    "Ron came over while my mother and I were standing in the kitchen. The kitchen alcove was straight across from the front door; when he stepped in, he lifted his camera to his eye.",
+    "“Don’t move,” he said, clicking. “This is really good.” We didn’t own a camera.",
+    "At first the shots were candid, but now he wanted us to pose. Click click click. I could feel my smile hardening.",
+    "In his interactions with me and my mother he often insisted too much—my mother said he “went too far”—as if only by extreme repetition would he be noticed.",
+    "I knew Ron was kind. He’d bought us matching gold necklaces, hers wider and thicker than mine, made of two rows of jointed segments that met like herringbone. It was only because he went on too long and didn’t listen that we became infuriated and pushed him away. Now, in the kitchen, it was my mother and me against his frantic urgency. We gave him insolent looks. He turned on the flash.",
+    "“Ron, enough,” my mother said. “We’re done, okay?”",
+    "My mother ran into the bathroom; I ducked behind the wall.",
+    "“Guys, come back,” he said. “Let me take just a few more.”",
+    "When Ron didn’t stay over, I slept with my mother in her bed, which I preferred to sleeping alone.",
+    "“Why don’t you leave him?” I asked her the next day.",
+    "“I just might,” she said.",
+    "Ron brought over the developed photographs in a paper envelope. As soon as he stepped inside, my mother grabbed the envelope out of his hand and ran to the couch and started looking through the stack. I tried to get at the pictures, and so did he, but her back was curved against us as she flipped through them, yanking out the photos she didn’t like and hiding them in a pile beneath her leg.",
+    "She had long believed that the essential perspective of the photographer was captured in his or her photographs; flattering or interesting pictures would mean that Ron noticed her beauty and even her soul; ugly pictures would reveal that he did not see, appreciate, or love her.",
+    "“Let me see,” I said, reaching around her, trying to grab them, but it was too late: she ripped the photographs beneath her leg in half.",
+    "She turned and shrugged, tilted her head, lifted her eyebrows—acknowledging our anger and frustration, but smug, the way she always was when she ripped up photographs of herself.",
+    "It enraged me when she did this. I became more critical of her. I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes. She added flakes of brewer’s yeast to her salads and they smelled of dusty rooms. Her cakes collapsed with fault lines because she was too impatient to let them cool. Once, I had loved the way the tip of her nose bobbed up and down when she chewed, and sat in her lap to be closer to the sound, like a blade through tall grasses, but now both her nose and her chewing seemed strange and wrong. All these factors, I believed, were why she was only able to date someone like Ron, not my father. I came to believe it was her fault: she wasn’t beautiful enough, and was therefore unloved, unloveable—and might make me so, too."
+  ],
+  "words": [
+    {
+      "lemma": "elitist",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Believing that a select group of people deserve special treatment or privilege",
+      "translationZh": "菁英主義的；精英至上的",
+      "exampleSentence": "Ron thought my private school was elitist and lacked academic rigor, and he managed to convince my mother, too, so we moved house in order to be in the Palo Alto School District so I could attend public school.",
+      "clozeSentence": "Ron thought my private school was _____ and lacked academic rigor, and he managed to convince my mother, too, so we moved house in order to be in the Palo Alto School District so I could attend public school.",
+      "distractors": [
+        "Believing everyone should be treated exactly the same",
+        "Focused only on physical fitness",
+        "Relating to ancient history"
+      ],
+      "surfaceForms": [
+        "elitist"
+      ],
+      "clozeAnswerSurfaceForm": "elitist"
+    },
+    {
+      "lemma": "rigor",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Strictness and thoroughness in following rules or standards",
+      "translationZh": "嚴謹；嚴格（學術等的）要求",
+      "exampleSentence": "Ron thought my private school was elitist and lacked academic rigor, and he managed to convince my mother, too, so we moved house in order to be in the Palo Alto School District so I could attend public school.",
+      "clozeSentence": "Ron thought my private school was elitist and lacked academic _____, and he managed to convince my mother, too, so we moved house in order to be in the Palo Alto School District so I could attend public school.",
+      "distractors": [
+        "Carelessness in following instructions",
+        "A relaxed, informal atmosphere",
+        "A generous, forgiving attitude"
+      ],
+      "surfaceForms": [
+        "rigor"
+      ],
+      "clozeAnswerSurfaceForm": "rigor"
+    },
+    {
+      "lemma": "tousle",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To make hair untidy by ruffling it",
+      "translationZh": "弄亂（頭髮）",
+      "exampleSentence": "A few days later I found a picture in a magazine—it might have been an ad for Guess or Jordache jeans—in which a woman with short, tousled hair, wet maybe, was leaping.",
+      "clozeSentence": "A few days later I found a picture in a magazine—it might have been an ad for Guess or Jordache jeans—in which a woman with short, _____ hair, wet maybe, was leaping.",
+      "distractors": [
+        "To neatly comb and style hair",
+        "To cut hair very short",
+        "To dye hair a different color"
+      ],
+      "surfaceForms": [
+        "tousled"
+      ],
+      "clozeAnswerSurfaceForm": "tousled"
+    },
+    {
+      "lemma": "blade",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The flat cutting part of a knife or tool",
+      "translationZh": "刀刃；刀片",
+      "exampleSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "clozeSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as _____ that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "distractors": [
+        "The handle of a tool",
+        "A round, soft cushion",
+        "A long piece of rope"
+      ],
+      "surfaceForms": [
+        "blades",
+        "blade"
+      ],
+      "clozeAnswerSurfaceForm": "blades"
+    },
+    {
+      "lemma": "callus",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "An area of thickened, hardened skin",
+      "translationZh": "硬繭（老繭）",
+      "exampleSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "clozeSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow _____ sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "distractors": [
+        "A small red rash on the skin",
+        "A soft bruise caused by an injury",
+        "A scar left from a cut"
+      ],
+      "surfaceForms": [
+        "calluses"
+      ],
+      "clozeAnswerSurfaceForm": "calluses"
+    },
+    {
+      "lemma": "flatten",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To make something flat or level, often by pressing or crushing",
+      "translationZh": "使變平；壓扁",
+      "exampleSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "clozeSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been _____ in shoes.",
+      "distractors": [
+        "To make something rounder",
+        "To make something taller",
+        "To make something more colorful"
+      ],
+      "surfaceForms": [
+        "flattened"
+      ],
+      "clozeAnswerSurfaceForm": "flattened"
+    },
+    {
+      "lemma": "flip",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To turn something over quickly, or go through pages rapidly",
+      "translationZh": "快速翻動；翻閱",
+      "exampleSentence": "I tried to get at the pictures, and so did he, but her back was curved against us as she flipped through them, yanking out the photos she didn’t like and hiding them in a pile beneath her leg.",
+      "clozeSentence": "I tried to get at the pictures, and so did he, but her back was curved against us as she _____ through them, yanking out the photos she didn’t like and hiding them in a pile beneath her leg.",
+      "distractors": [
+        "To fold something neatly",
+        "To hide something from view",
+        "To carefully examine one item at a time"
+      ],
+      "surfaceForms": [
+        "flipped"
+      ],
+      "clozeAnswerSurfaceForm": "flipped"
+    },
+    {
+      "lemma": "harden",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To become stiff, firm, or unyielding",
+      "translationZh": "變硬；變得堅定（表情等）",
+      "exampleSentence": "I could feel my smile hardening.",
+      "clozeSentence": "I could feel my smile _____.",
+      "distractors": [
+        "To become soft and relaxed",
+        "To disappear gradually",
+        "To become brighter in color"
+      ],
+      "surfaceForms": [
+        "hardening"
+      ],
+      "clozeAnswerSurfaceForm": "hardening"
+    },
+    {
+      "lemma": "pad",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A soft, cushioned area, such as on the bottom of a toe or paw",
+      "translationZh": "（腳趾等的）肉墊；軟墊部位",
+      "exampleSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "clozeSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran vertically along the bottom _____ where the toes had been flattened in shoes.",
+      "distractors": [
+        "The hard nail at the end of a toe",
+        "A thin layer of skin covering a wound",
+        "A bone found inside the foot"
+      ],
+      "surfaceForms": [
+        "pad"
+      ],
+      "clozeAnswerSurfaceForm": "pad"
+    },
+    {
+      "lemma": "pinkie",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "(informal) The smallest finger or toe",
+      "translationZh": "小指（腳）；小拇指",
+      "exampleSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "clozeSentence": "I noticed the way she walked with her toes pointing in, and how her _____ toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "distractors": [
+        "The thumb or big toe",
+        "The middle finger",
+        "The whole hand or foot"
+      ],
+      "surfaceForms": [
+        "pinkie"
+      ],
+      "clozeAnswerSurfaceForm": "pinkie"
+    },
+    {
+      "lemma": "unloveable",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Not able to be loved; unlikely to be loved by others",
+      "translationZh": "不討人喜愛的；令人無法愛的",
+      "exampleSentence": "I came to believe it was her fault: she wasn’t beautiful enough, and was therefore unloved, unloveable—and might make me so, too.",
+      "clozeSentence": "I came to believe it was her fault: she wasn’t beautiful enough, and was therefore unloved, _____—and might make me so, too.",
+      "distractors": [
+        "Extremely popular and well-liked",
+        "Difficult to understand",
+        "Impossible to forget"
+      ],
+      "surfaceForms": [
+        "unloveable"
+      ],
+      "clozeAnswerSurfaceForm": "unloveable—and"
+    },
+    {
+      "lemma": "unloved",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Not loved or cared for by anyone",
+      "translationZh": "不被愛的；缺乏關愛的",
+      "exampleSentence": "I came to believe it was her fault: she wasn’t beautiful enough, and was therefore unloved, unloveable—and might make me so, too.",
+      "clozeSentence": "I came to believe it was her fault: she wasn’t beautiful enough, and was therefore _____, unloveable—and might make me so, too.",
+      "distractors": [
+        "Greatly admired and cherished",
+        "Famous and widely recognized",
+        "Wealthy and successful"
+      ],
+      "surfaceForms": [
+        "unloved"
+      ],
+      "clozeAnswerSurfaceForm": "unloved"
+    },
+    {
+      "lemma": "vertically",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "In a straight up-and-down direction",
+      "translationZh": "垂直地",
+      "exampleSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "clozeSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran _____ along the bottom pad where the toes had been flattened in shoes.",
+      "distractors": [
+        "In a side-to-side direction",
+        "In a circular direction",
+        "In a random, scattered direction"
+      ],
+      "surfaceForms": [
+        "vertically"
+      ],
+      "clozeAnswerSurfaceForm": "vertically"
+    },
+    {
+      "lemma": "yank",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To pull something suddenly and forcefully",
+      "translationZh": "猛拉；用力拉扯",
+      "exampleSentence": "I tried to get at the pictures, and so did he, but her back was curved against us as she flipped through them, yanking out the photos she didn’t like and hiding them in a pile beneath her leg.",
+      "clozeSentence": "I tried to get at the pictures, and so did he, but her back was curved against us as she flipped through them, _____ out the photos she didn’t like and hiding them in a pile beneath her leg.",
+      "distractors": [
+        "To push something gently forward",
+        "To hold something perfectly still",
+        "To carefully lower something down"
+      ],
+      "surfaceForms": [
+        "yanking"
+      ],
+      "clozeAnswerSurfaceForm": "yanking"
+    },
+    {
+      "lemma": "enrage",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To make someone extremely angry",
+      "translationZh": "使暴怒；激怒",
+      "exampleSentence": "It enraged me when she did this.",
+      "clozeSentence": "It _____ me when she did this.",
+      "distractors": [
+        "To make someone feel very calm",
+        "To make someone laugh uncontrollably",
+        "To make someone fall asleep"
+      ],
+      "surfaceForms": [
+        "enraged"
+      ],
+      "clozeAnswerSurfaceForm": "enraged"
+    },
+    {
+      "lemma": "infuriate",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To make someone extremely angry",
+      "translationZh": "激怒；使大為光火",
+      "exampleSentence": "It was only because he went on too long and didn’t listen that we became infuriated and pushed him away.",
+      "clozeSentence": "It was only because he went on too long and didn’t listen that we became _____ and pushed him away.",
+      "distractors": [
+        "To make someone very tired",
+        "To make someone extremely happy",
+        "To make someone feel embarrassed"
+      ],
+      "surfaceForms": [
+        "infuriated"
+      ],
+      "clozeAnswerSurfaceForm": "infuriated"
+    },
+    {
+      "lemma": "alcove",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A small recessed section of a room, set back from the main space",
+      "translationZh": "壁龕；凹室",
+      "exampleSentence": "The kitchen alcove was straight across from the front door; when he stepped in, he lifted his camera to his eye.",
+      "clozeSentence": "The kitchen _____ was straight across from the front door; when he stepped in, he lifted his camera to his eye.",
+      "distractors": [
+        "A tall tower attached to a building",
+        "A wide open courtyard",
+        "A narrow staircase leading upstairs"
+      ],
+      "surfaceForms": [
+        "alcove"
+      ],
+      "clozeAnswerSurfaceForm": "alcove"
+    },
+    {
+      "lemma": "hay",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Grass that has been cut and dried for use as animal feed",
+      "translationZh": "乾草",
+      "exampleSentence": "The wooden floor, newly sanded and varnished for our arrival, yellow as hay, shone like it was wet.",
+      "clozeSentence": "The wooden floor, newly sanded and varnished for our arrival, yellow as _____, shone like it was wet.",
+      "distractors": [
+        "Fresh green grass still growing in a field",
+        "A type of grain used to make bread",
+        "Dried leaves that have fallen from trees"
+      ],
+      "surfaceForms": [
+        "hay"
+      ],
+      "clozeAnswerSurfaceForm": "hay"
+    },
+    {
+      "lemma": "varnish",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A clear liquid coating applied to wood to give it a hard, shiny surface",
+      "translationZh": "亮光漆；清漆",
+      "exampleSentence": "The wooden floor, newly sanded and varnished for our arrival, yellow as hay, shone like it was wet.",
+      "clozeSentence": "The wooden floor, newly sanded and _____ for our arrival, yellow as hay, shone like it was wet.",
+      "distractors": [
+        "A soft cloth used for cleaning",
+        "A colored paint used on walls",
+        "A type of glue for paper"
+      ],
+      "surfaceForms": [
+        "varnished"
+      ],
+      "clozeAnswerSurfaceForm": "varnished"
+    },
+    {
+      "lemma": "wall-to-wall",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "(of carpet) Covering the entire floor of a room, from one wall to the other",
+      "translationZh": "整片鋪滿（地毯）的",
+      "exampleSentence": "Before this, we’d lived on a series of old wall-to-wall carpets, and my mother’s joy about this floor surprised me.",
+      "clozeSentence": "Before this, we’d lived on a series of old _____ carpets, and my mother’s joy about this floor surprised me.",
+      "distractors": [
+        "Covering only a small central area",
+        "Hung from the ceiling like a curtain",
+        "Placed only near doorways"
+      ],
+      "surfaceForms": [
+        "wall-to-wall"
+      ],
+      "clozeAnswerSurfaceForm": "wall-to-wall"
+    },
+    {
+      "lemma": "asphalt",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A black material used to surface roads and pavements",
+      "translationZh": "柏油；瀝青",
+      "exampleSentence": "She flew above the dark asphalt, toes pointed: perfect splits in the air.",
+      "clozeSentence": "She flew above the dark _____, toes pointed: perfect splits in the air.",
+      "distractors": [
+        "A soft material used for carpets",
+        "A type of clear glass",
+        "A light material used for roofing tiles"
+      ],
+      "surfaceForms": [
+        "asphalt"
+      ],
+      "clozeAnswerSurfaceForm": "asphalt"
+    },
+    {
+      "lemma": "eyebrow",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The line of hair above the eye",
+      "translationZh": "眉毛",
+      "exampleSentence": "She turned and shrugged, tilted her head, lifted her eyebrows—acknowledging our anger and frustration, but smug, the way she always was when she ripped up photographs of herself.",
+      "clozeSentence": "She turned and shrugged, tilted her head, lifted her _____—acknowledging our anger and frustration, but smug, the way she always was when she ripped up photographs of herself.",
+      "distractors": [
+        "The line of hair along the jaw",
+        "The skin below the eye",
+        "The hair covering the top of the head"
+      ],
+      "surfaceForms": [
+        "eyebrows"
+      ],
+      "clozeAnswerSurfaceForm": "eyebrows—acknowledging"
+    },
+    {
+      "lemma": "flake",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A small, thin, flat piece of something",
+      "translationZh": "薄片；碎片",
+      "exampleSentence": "She added flakes of brewer’s yeast to her salads and they smelled of dusty rooms.",
+      "clozeSentence": "She added _____ of brewer’s yeast to her salads and they smelled of dusty rooms.",
+      "distractors": [
+        "A large, heavy block",
+        "A round, solid ball",
+        "A long, thin thread"
+      ],
+      "surfaceForms": [
+        "flakes"
+      ],
+      "clozeAnswerSurfaceForm": "flakes"
+    },
+    {
+      "lemma": "flatter",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "To make someone look more attractive or impressive than they usually do",
+      "translationZh": "使顯得更好看（討好、美化）",
+      "exampleSentence": "She had long believed that the essential perspective of the photographer was captured in his or her photographs; flattering or interesting pictures would mean that Ron noticed her beauty and even her soul; ugly pictures would reveal that he did not see, appreciate, or love her.",
+      "clozeSentence": "She had long believed that the essential perspective of the photographer was captured in his or her photographs; _____ or interesting pictures would mean that Ron noticed her beauty and even her soul; ugly pictures would reveal that he did not see, appreciate, or love her.",
+      "distractors": [
+        "To make someone look older than they are",
+        "To criticize someone's appearance",
+        "To copy someone's exact appearance"
+      ],
+      "surfaceForms": [
+        "flattering"
+      ],
+      "clozeAnswerSurfaceForm": "flattering"
+    },
+    {
+      "lemma": "perspective",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A particular way of viewing or understanding something",
+      "translationZh": "觀點；視角",
+      "exampleSentence": "She had long believed that the essential perspective of the photographer was captured in his or her photographs; flattering or interesting pictures would mean that Ron noticed her beauty and even her soul; ugly pictures would reveal that he did not see, appreciate, or love her.",
+      "clozeSentence": "She had long believed that the essential _____ of the photographer was captured in his or her photographs; flattering or interesting pictures would mean that Ron noticed her beauty and even her soul; ugly pictures would reveal that he did not see, appreciate, or love her.",
+      "distractors": [
+        "A firm decision that cannot change",
+        "A detailed factual report",
+        "A strong emotional reaction"
+      ],
+      "surfaceForms": [
+        "perspective"
+      ],
+      "clozeAnswerSurfaceForm": "perspective"
+    },
+    {
+      "lemma": "reassemble",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To put the parts of something back together again",
+      "translationZh": "重新組裝",
+      "exampleSentence": "She reassembled the tubular bed in my new room.",
+      "clozeSentence": "She _____ the tubular bed in my new room.",
+      "distractors": [
+        "To take something apart for the first time",
+        "To throw something away permanently",
+        "To paint something a new color"
+      ],
+      "surfaceForms": [
+        "reassembled"
+      ],
+      "clozeAnswerSurfaceForm": "reassembled"
+    },
+    {
+      "lemma": "shrug",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To raise the shoulders briefly to show indifference or uncertainty",
+      "translationZh": "聳肩",
+      "exampleSentence": "She turned and shrugged, tilted her head, lifted her eyebrows—acknowledging our anger and frustration, but smug, the way she always was when she ripped up photographs of herself.",
+      "clozeSentence": "She turned and _____, tilted her head, lifted her eyebrows—acknowledging our anger and frustration, but smug, the way she always was when she ripped up photographs of herself.",
+      "distractors": [
+        "To nod the head in agreement",
+        "To clap the hands together",
+        "To cross the arms tightly"
+      ],
+      "surfaceForms": [
+        "shrugged"
+      ],
+      "clozeAnswerSurfaceForm": "shrugged"
+    },
+    {
+      "lemma": "smug",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Showing excessive pride or self-satisfaction",
+      "translationZh": "自鳴得意的；沾沾自喜的",
+      "exampleSentence": "She turned and shrugged, tilted her head, lifted her eyebrows—acknowledging our anger and frustration, but smug, the way she always was when she ripped up photographs of herself.",
+      "clozeSentence": "She turned and shrugged, tilted her head, lifted her eyebrows—acknowledging our anger and frustration, but _____, the way she always was when she ripped up photographs of herself.",
+      "distractors": [
+        "Deeply ashamed and embarrassed",
+        "Anxious and unsure of oneself",
+        "Sad and disappointed"
+      ],
+      "surfaceForms": [
+        "smug"
+      ],
+      "clozeAnswerSurfaceForm": "smug"
+    },
+    {
+      "lemma": "stonewash",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "(of denim) Treated with stones to produce a soft, faded look",
+      "translationZh": "石洗（水洗做舊處理）的（丹寧布）",
+      "exampleSentence": "She wore a T-shirt and stonewashed jeans.",
+      "clozeSentence": "She wore a T-shirt and _____ jeans.",
+      "distractors": [
+        "Dyed a bright, solid color",
+        "Made from a stiff, new fabric",
+        "Decorated with hand embroidery"
+      ],
+      "surfaceForms": [
+        "stonewashed"
+      ],
+      "clozeAnswerSurfaceForm": "stonewashed"
+    },
+    {
+      "lemma": "tilt",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To move into a sloping position; to lean to one side",
+      "translationZh": "傾斜；歪頭",
+      "exampleSentence": "She turned and shrugged, tilted her head, lifted her eyebrows—acknowledging our anger and frustration, but smug, the way she always was when she ripped up photographs of herself.",
+      "clozeSentence": "She turned and shrugged, _____ her head, lifted her eyebrows—acknowledging our anger and frustration, but smug, the way she always was when she ripped up photographs of herself.",
+      "distractors": [
+        "To stand perfectly upright",
+        "To shake rapidly back and forth",
+        "To fall over completely"
+      ],
+      "surfaceForms": [
+        "tilted"
+      ],
+      "clozeAnswerSurfaceForm": "tilted"
+    },
+    {
+      "lemma": "tubular",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Shaped like a tube, long and hollow",
+      "translationZh": "管狀的",
+      "exampleSentence": "She reassembled the tubular bed in my new room.",
+      "clozeSentence": "She reassembled the _____ bed in my new room.",
+      "distractors": [
+        "Flat and rectangular in shape",
+        "Perfectly square in shape",
+        "Shaped like a small ball"
+      ],
+      "surfaceForms": [
+        "tubular"
+      ],
+      "clozeAnswerSurfaceForm": "tubular"
+    },
+    {
+      "lemma": "yeast",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A microorganism used in baking and brewing to make dough rise or ferment liquid",
+      "translationZh": "酵母",
+      "exampleSentence": "She added flakes of brewer’s yeast to her salads and they smelled of dusty rooms.",
+      "clozeSentence": "She added flakes of brewer’s _____ to her salads and they smelled of dusty rooms.",
+      "distractors": [
+        "A type of flour used in baking",
+        "A sweetener used in desserts",
+        "A preservative added to canned food"
+      ],
+      "surfaceForms": [
+        "yeast"
+      ],
+      "clozeAnswerSurfaceForm": "yeast"
+    },
+    {
+      "lemma": "jostle",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To bump or push against someone or something, often in a crowd",
+      "translationZh": "推擠；碰撞",
+      "exampleSentence": "After she put me to bed, I turned myself so my head was where my feet usually were, careful not to jostle the singing springs.",
+      "clozeSentence": "After she put me to bed, I turned myself so my head was where my feet usually were, careful not to _____ the singing springs.",
+      "distractors": [
+        "To gently place something down",
+        "To pull something toward oneself slowly",
+        "To carry something carefully with both hands"
+      ],
+      "surfaceForms": [
+        "jostle"
+      ],
+      "clozeAnswerSurfaceForm": "jostle"
+    },
+    {
+      "lemma": "crack",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A narrow opening or gap",
+      "translationZh": "（門窗等的）縫隙；細縫",
+      "exampleSentence": "From there I could open the door a crack and see the screen over the back of the couch.",
+      "clozeSentence": "From there I could open the door a _____ and see the screen over the back of the couch.",
+      "distractors": [
+        "A loud, sudden noise",
+        "A wide, open field",
+        "A thick wooden beam"
+      ],
+      "surfaceForms": [
+        "crack"
+      ],
+      "clozeAnswerSurfaceForm": "crack"
+    },
+    {
+      "lemma": "clothe",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Clothing; garments worn on the body",
+      "translationZh": "衣物；服裝",
+      "exampleSentence": "In the movie, a woman wore tattered black clothing, her hair in spikes, necklaces layered.",
+      "clozeSentence": "In the movie, a woman wore tattered black _____, her hair in spikes, necklaces layered.",
+      "distractors": [
+        "Furniture found inside a home",
+        "Tools used for gardening",
+        "Food served at a meal"
+      ],
+      "surfaceForms": [
+        "clothing"
+      ],
+      "clozeAnswerSurfaceForm": "clothing"
+    },
+    {
+      "lemma": "repetition",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The act of doing or saying something over and over again",
+      "translationZh": "重複",
+      "exampleSentence": "In his interactions with me and my mother he often insisted too much—my mother said he “went too far”—as if only by extreme repetition would he be noticed.",
+      "clozeSentence": "In his interactions with me and my mother he often insisted too much—my mother said he “went too far”—as if only by extreme _____ would he be noticed.",
+      "distractors": [
+        "A single, one-time occurrence",
+        "A sudden, unexpected change",
+        "A quiet moment of reflection"
+      ],
+      "surfaceForms": [
+        "repetition"
+      ],
+      "clozeAnswerSurfaceForm": "repetition"
+    },
+    {
+      "lemma": "spike",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A sharp, pointed section of hair or object standing up",
+      "translationZh": "尖刺；（頭髮）豎起的尖狀",
+      "exampleSentence": "In the movie, a woman wore tattered black clothing, her hair in spikes, necklaces layered.",
+      "clozeSentence": "In the movie, a woman wore tattered black clothing, her hair in _____, necklaces layered.",
+      "distractors": [
+        "A soft, flowing curl",
+        "A smooth, flat surface",
+        "A round, curled shape"
+      ],
+      "surfaceForms": [
+        "spikes"
+      ],
+      "clozeAnswerSurfaceForm": "spikes"
+    },
+    {
+      "lemma": "tattered",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Old and torn, in a damaged condition",
+      "translationZh": "破爛的；殘破的",
+      "exampleSentence": "In the movie, a woman wore tattered black clothing, her hair in spikes, necklaces layered.",
+      "clozeSentence": "In the movie, a woman wore _____ black clothing, her hair in spikes, necklaces layered.",
+      "distractors": [
+        "Brand new and neatly pressed",
+        "Clean and freshly washed",
+        "Expensive and elegantly designed"
+      ],
+      "surfaceForms": [
+        "tattered"
+      ],
+      "clozeAnswerSurfaceForm": "tattered"
+    },
+    {
+      "lemma": "spin",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To turn around quickly on one spot",
+      "translationZh": "快速轉身；旋轉",
+      "exampleSentence": "My mother spun around and caught me watching.",
+      "clozeSentence": "My mother _____ around and caught me watching.",
+      "distractors": [
+        "To walk slowly forward",
+        "To sit down suddenly",
+        "To lean against a wall"
+      ],
+      "surfaceForms": [
+        "spun"
+      ],
+      "clozeAnswerSurfaceForm": "spun"
+    },
+    {
+      "lemma": "insolent",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Rude and disrespectful, especially toward someone in authority",
+      "translationZh": "無禮的；傲慢無禮的",
+      "exampleSentence": "We gave him insolent looks.",
+      "clozeSentence": "We gave him _____ looks.",
+      "distractors": [
+        "Extremely polite and respectful",
+        "Shy and reluctant to speak",
+        "Sad and withdrawn"
+      ],
+      "surfaceForms": [
+        "insolent"
+      ],
+      "clozeAnswerSurfaceForm": "insolent"
+    },
+    {
+      "lemma": "candid",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Honest and direct, or (of a photo) taken naturally without posing",
+      "translationZh": "坦率的；（照片）自然抓拍的",
+      "exampleSentence": "At first the shots were candid, but now he wanted us to pose.",
+      "clozeSentence": "At first the shots were _____, but now he wanted us to pose.",
+      "distractors": [
+        "Carefully staged and artificial",
+        "Deliberately misleading or dishonest",
+        "Overly formal and rehearsed"
+      ],
+      "surfaceForms": [
+        "candid"
+      ],
+      "clozeAnswerSurfaceForm": "candid"
+    },
+    {
+      "lemma": "pose",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To hold a particular position for a photograph or painting",
+      "translationZh": "擺姿勢",
+      "exampleSentence": "At first the shots were candid, but now he wanted us to pose.",
+      "clozeSentence": "At first the shots were candid, but now he wanted us to _____.",
+      "distractors": [
+        "To move around constantly without stopping",
+        "To hide from the camera",
+        "To speak loudly for a recording"
+      ],
+      "surfaceForms": [
+        "pose"
+      ],
+      "clozeAnswerSurfaceForm": "pose"
+    },
+    {
+      "lemma": "herringbone",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A pattern of short parallel lines forming a repeated V shape",
+      "translationZh": "人字紋（魚骨紋）圖案",
+      "exampleSentence": "He’d bought us matching gold necklaces, hers wider and thicker than mine, made of two rows of jointed segments that met like herringbone.",
+      "clozeSentence": "He’d bought us matching gold necklaces, hers wider and thicker than mine, made of two rows of jointed segments that met like _____.",
+      "distractors": [
+        "A pattern of large solid circles",
+        "A single continuous straight line",
+        "A random, scattered pattern of dots"
+      ],
+      "surfaceForms": [
+        "herringbone"
+      ],
+      "clozeAnswerSurfaceForm": "herringbone"
+    },
+    {
+      "lemma": "segment",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "One of the parts into which something is divided",
+      "translationZh": "節段；部分",
+      "exampleSentence": "He’d bought us matching gold necklaces, hers wider and thicker than mine, made of two rows of jointed segments that met like herringbone.",
+      "clozeSentence": "He’d bought us matching gold necklaces, hers wider and thicker than mine, made of two rows of jointed _____ that met like herringbone.",
+      "distractors": [
+        "The complete, whole object",
+        "A tool used for cutting",
+        "A decorative pattern on the surface"
+      ],
+      "surfaceForms": [
+        "segments"
+      ],
+      "clozeAnswerSurfaceForm": "segments"
+    },
+    {
+      "lemma": "frantic",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Wild or desperate with urgency, worry, or fear",
+      "translationZh": "慌亂的；狂躁不安的",
+      "exampleSentence": "Now, in the kitchen, it was my mother and me against his frantic urgency.",
+      "clozeSentence": "Now, in the kitchen, it was my mother and me against his _____ urgency.",
+      "distractors": [
+        "Calm and unhurried",
+        "Quietly confident",
+        "Slow and methodical"
+      ],
+      "surfaceForms": [
+        "frantic"
+      ],
+      "clozeAnswerSurfaceForm": "frantic"
+    },
+    {
+      "lemma": "urgency",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "The quality of requiring immediate action or attention",
+      "translationZh": "急迫性；緊急",
+      "exampleSentence": "Now, in the kitchen, it was my mother and me against his frantic urgency.",
+      "clozeSentence": "Now, in the kitchen, it was my mother and me against his frantic _____.",
+      "distractors": [
+        "A feeling of calm relaxation",
+        "A state of being ignored",
+        "A tendency to delay decisions"
+      ],
+      "surfaceForms": [
+        "urgency"
+      ],
+      "clozeAnswerSurfaceForm": "urgency"
+    },
+    {
+      "lemma": "rip",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To tear something apart quickly and forcefully",
+      "translationZh": "撕破；扯裂",
+      "exampleSentence": "“Let me see,” I said, reaching around her, trying to grab them, but it was too late: she ripped the photographs beneath her leg in half.",
+      "clozeSentence": "“Let me see,” I said, reaching around her, trying to grab them, but it was too late: she _____ the photographs beneath her leg in half.",
+      "distractors": [
+        "To fold something carefully",
+        "To glue two pieces together",
+        "To smooth out wrinkles in fabric"
+      ],
+      "surfaceForms": [
+        "ripped"
+      ],
+      "clozeAnswerSurfaceForm": "ripped"
+    },
+    {
+      "lemma": "stack",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A neat pile of things placed one on top of another",
+      "translationZh": "一疊；一堆",
+      "exampleSentence": "As soon as he stepped inside, my mother grabbed the envelope out of his hand and ran to the couch and started looking through the stack.",
+      "clozeSentence": "As soon as he stepped inside, my mother grabbed the envelope out of his hand and ran to the couch and started looking through the _____.",
+      "distractors": [
+        "A single, separate item",
+        "A container with a lid",
+        "A row of items placed side by side"
+      ],
+      "surfaceForms": [
+        "stack"
+      ],
+      "clozeAnswerSurfaceForm": "stack"
+    },
+    {
+      "lemma": "bob",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To move up and down quickly and repeatedly",
+      "translationZh": "上下晃動；浮動",
+      "exampleSentence": "Once, I had loved the way the tip of her nose bobbed up and down when she chewed, and sat in her lap to be closer to the sound, like a blade through tall grasses, but now both her nose and her chewing seemed strange and wrong.",
+      "clozeSentence": "Once, I had loved the way the tip of her nose _____ up and down when she chewed, and sat in her lap to be closer to the sound, like a blade through tall grasses, but now both her nose and her chewing seemed strange and wrong.",
+      "distractors": [
+        "To move in a perfectly straight line",
+        "To remain completely motionless",
+        "To spin rapidly in circles"
+      ],
+      "surfaceForms": [
+        "bobbed"
+      ],
+      "clozeAnswerSurfaceForm": "bobbed"
+    },
+    {
+      "lemma": "chew",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To crush food repeatedly with the teeth before swallowing",
+      "translationZh": "咀嚼",
+      "exampleSentence": "Once, I had loved the way the tip of her nose bobbed up and down when she chewed, and sat in her lap to be closer to the sound, like a blade through tall grasses, but now both her nose and her chewing seemed strange and wrong.",
+      "clozeSentence": "Once, I had loved the way the tip of her nose bobbed up and down when she _____, and sat in her lap to be closer to the sound, like a blade through tall grasses, but now both her nose and her chewing seemed strange and wrong.",
+      "distractors": [
+        "To swallow food without tasting it",
+        "To prepare food by cooking it",
+        "To spit food out immediately"
+      ],
+      "surfaceForms": [
+        "chewed",
+        "chewing"
+      ],
+      "clozeAnswerSurfaceForm": "chewed"
+    },
+    {
+      "lemma": "lap",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The flat area formed by the thighs of a seated person",
+      "translationZh": "大腿（坐時形成的膝上部位）",
+      "exampleSentence": "Once, I had loved the way the tip of her nose bobbed up and down when she chewed, and sat in her lap to be closer to the sound, like a blade through tall grasses, but now both her nose and her chewing seemed strange and wrong.",
+      "clozeSentence": "Once, I had loved the way the tip of her nose bobbed up and down when she chewed, and sat in her _____ to be closer to the sound, like a blade through tall grasses, but now both her nose and her chewing seemed strange and wrong.",
+      "distractors": [
+        "The back of a chair",
+        "The area behind the knees",
+        "A circuit around a track"
+      ],
+      "surfaceForms": [
+        "lap"
+      ],
+      "clozeAnswerSurfaceForm": "lap"
+    },
+    {
+      "lemma": "factor",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "One of several things that influence or cause a result",
+      "translationZh": "因素",
+      "exampleSentence": "All these factors, I believed, were why she was only able to date someone like Ron, not my father.",
+      "clozeSentence": "All these _____, I believed, were why she was only able to date someone like Ron, not my father.",
+      "distractors": [
+        "A final decision that cannot be changed",
+        "A written record of events",
+        "A person who supervises a team"
+      ],
+      "surfaceForms": [
+        "factors"
+      ],
+      "clozeAnswerSurfaceForm": "factors"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "elitist",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Believing that a select group of people deserve special treatment or privilege",
+      "translationZh": "菁英主義的；精英至上的",
+      "exampleSentence": "Ron thought my private school was elitist and lacked academic rigor, and he managed to convince my mother, too, so we moved house in order to be in the Palo Alto School District so I could attend public school.",
+      "clozeSentence": "Ron thought my private school was _____ and lacked academic rigor, and he managed to convince my mother, too, so we moved house in order to be in the Palo Alto School District so I could attend public school.",
+      "distractors": [
+        "Believing everyone should be treated exactly the same",
+        "Focused only on physical fitness",
+        "Relating to ancient history"
+      ],
+      "surfaceForms": [
+        "elitist"
+      ],
+      "clozeAnswerSurfaceForm": "elitist"
+    },
+    {
+      "lemma": "rigor",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Strictness and thoroughness in following rules or standards",
+      "translationZh": "嚴謹；嚴格（學術等的）要求",
+      "exampleSentence": "Ron thought my private school was elitist and lacked academic rigor, and he managed to convince my mother, too, so we moved house in order to be in the Palo Alto School District so I could attend public school.",
+      "clozeSentence": "Ron thought my private school was elitist and lacked academic _____, and he managed to convince my mother, too, so we moved house in order to be in the Palo Alto School District so I could attend public school.",
+      "distractors": [
+        "Carelessness in following instructions",
+        "A relaxed, informal atmosphere",
+        "A generous, forgiving attitude"
+      ],
+      "surfaceForms": [
+        "rigor"
+      ],
+      "clozeAnswerSurfaceForm": "rigor"
+    },
+    {
+      "lemma": "tousle",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To make hair untidy by ruffling it",
+      "translationZh": "弄亂（頭髮）",
+      "exampleSentence": "A few days later I found a picture in a magazine—it might have been an ad for Guess or Jordache jeans—in which a woman with short, tousled hair, wet maybe, was leaping.",
+      "clozeSentence": "A few days later I found a picture in a magazine—it might have been an ad for Guess or Jordache jeans—in which a woman with short, _____ hair, wet maybe, was leaping.",
+      "distractors": [
+        "To neatly comb and style hair",
+        "To cut hair very short",
+        "To dye hair a different color"
+      ],
+      "surfaceForms": [
+        "tousled"
+      ],
+      "clozeAnswerSurfaceForm": "tousled"
+    },
+    {
+      "lemma": "unloveable",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Not able to be loved; unlikely to be loved by others",
+      "translationZh": "不討人喜愛的；令人無法愛的",
+      "exampleSentence": "I came to believe it was her fault: she wasn’t beautiful enough, and was therefore unloved, unloveable—and might make me so, too.",
+      "clozeSentence": "I came to believe it was her fault: she wasn’t beautiful enough, and was therefore unloved, _____—and might make me so, too.",
+      "distractors": [
+        "Extremely popular and well-liked",
+        "Difficult to understand",
+        "Impossible to forget"
+      ],
+      "surfaceForms": [
+        "unloveable"
+      ],
+      "clozeAnswerSurfaceForm": "unloveable—and"
+    },
+    {
+      "lemma": "blade",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "The flat cutting part of a knife or tool",
+      "translationZh": "刀刃；刀片",
+      "exampleSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "clozeSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as _____ that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "distractors": [
+        "The handle of a tool",
+        "A round, soft cushion",
+        "A long piece of rope"
+      ],
+      "surfaceForms": [
+        "blades",
+        "blade"
+      ],
+      "clozeAnswerSurfaceForm": "blades"
+    },
+    {
+      "lemma": "callus",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "An area of thickened, hardened skin",
+      "translationZh": "硬繭（老繭）",
+      "exampleSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "clozeSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow _____ sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "distractors": [
+        "A small red rash on the skin",
+        "A soft bruise caused by an injury",
+        "A scar left from a cut"
+      ],
+      "surfaceForms": [
+        "calluses"
+      ],
+      "clozeAnswerSurfaceForm": "calluses"
+    },
+    {
+      "lemma": "flatten",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To make something flat or level, often by pressing or crushing",
+      "translationZh": "使變平；壓扁",
+      "exampleSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "clozeSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been _____ in shoes.",
+      "distractors": [
+        "To make something rounder",
+        "To make something taller",
+        "To make something more colorful"
+      ],
+      "surfaceForms": [
+        "flattened"
+      ],
+      "clozeAnswerSurfaceForm": "flattened"
+    },
+    {
+      "lemma": "flip",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To turn something over quickly, or go through pages rapidly",
+      "translationZh": "快速翻動；翻閱",
+      "exampleSentence": "I tried to get at the pictures, and so did he, but her back was curved against us as she flipped through them, yanking out the photos she didn’t like and hiding them in a pile beneath her leg.",
+      "clozeSentence": "I tried to get at the pictures, and so did he, but her back was curved against us as she _____ through them, yanking out the photos she didn’t like and hiding them in a pile beneath her leg.",
+      "distractors": [
+        "To fold something neatly",
+        "To hide something from view",
+        "To carefully examine one item at a time"
+      ],
+      "surfaceForms": [
+        "flipped"
+      ],
+      "clozeAnswerSurfaceForm": "flipped"
+    },
+    {
+      "lemma": "harden",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To become stiff, firm, or unyielding",
+      "translationZh": "變硬；變得堅定（表情等）",
+      "exampleSentence": "I could feel my smile hardening.",
+      "clozeSentence": "I could feel my smile _____.",
+      "distractors": [
+        "To become soft and relaxed",
+        "To disappear gradually",
+        "To become brighter in color"
+      ],
+      "surfaceForms": [
+        "hardening"
+      ],
+      "clozeAnswerSurfaceForm": "hardening"
+    },
+    {
+      "lemma": "pad",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "A soft, cushioned area, such as on the bottom of a toe or paw",
+      "translationZh": "（腳趾等的）肉墊；軟墊部位",
+      "exampleSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "clozeSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran vertically along the bottom _____ where the toes had been flattened in shoes.",
+      "distractors": [
+        "The hard nail at the end of a toe",
+        "A thin layer of skin covering a wound",
+        "A bone found inside the foot"
+      ],
+      "surfaceForms": [
+        "pad"
+      ],
+      "clozeAnswerSurfaceForm": "pad"
+    },
+    {
+      "lemma": "pinkie",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "(informal) The smallest finger or toe",
+      "translationZh": "小指（腳）；小拇指",
+      "exampleSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "clozeSentence": "I noticed the way she walked with her toes pointing in, and how her _____ toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "distractors": [
+        "The thumb or big toe",
+        "The middle finger",
+        "The whole hand or foot"
+      ],
+      "surfaceForms": [
+        "pinkie"
+      ],
+      "clozeAnswerSurfaceForm": "pinkie"
+    },
+    {
+      "lemma": "unloved",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Not loved or cared for by anyone",
+      "translationZh": "不被愛的；缺乏關愛的",
+      "exampleSentence": "I came to believe it was her fault: she wasn’t beautiful enough, and was therefore unloved, unloveable—and might make me so, too.",
+      "clozeSentence": "I came to believe it was her fault: she wasn’t beautiful enough, and was therefore _____, unloveable—and might make me so, too.",
+      "distractors": [
+        "Greatly admired and cherished",
+        "Famous and widely recognized",
+        "Wealthy and successful"
+      ],
+      "surfaceForms": [
+        "unloved"
+      ],
+      "clozeAnswerSurfaceForm": "unloved"
+    },
+    {
+      "lemma": "vertically",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "In a straight up-and-down direction",
+      "translationZh": "垂直地",
+      "exampleSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "clozeSentence": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as blades that ran _____ along the bottom pad where the toes had been flattened in shoes.",
+      "distractors": [
+        "In a side-to-side direction",
+        "In a circular direction",
+        "In a random, scattered direction"
+      ],
+      "surfaceForms": [
+        "vertically"
+      ],
+      "clozeAnswerSurfaceForm": "vertically"
+    },
+    {
+      "lemma": "wall-to-wall",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "(of carpet) Covering the entire floor of a room, from one wall to the other",
+      "translationZh": "整片鋪滿（地毯）的",
+      "exampleSentence": "Before this, we’d lived on a series of old wall-to-wall carpets, and my mother’s joy about this floor surprised me.",
+      "clozeSentence": "Before this, we’d lived on a series of old _____ carpets, and my mother’s joy about this floor surprised me.",
+      "distractors": [
+        "Covering only a small central area",
+        "Hung from the ceiling like a curtain",
+        "Placed only near doorways"
+      ],
+      "surfaceForms": [
+        "wall-to-wall"
+      ],
+      "clozeAnswerSurfaceForm": "wall-to-wall"
+    },
+    {
+      "lemma": "flatter",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "To make someone look more attractive or impressive than they usually do",
+      "translationZh": "使顯得更好看（討好、美化）",
+      "exampleSentence": "She had long believed that the essential perspective of the photographer was captured in his or her photographs; flattering or interesting pictures would mean that Ron noticed her beauty and even her soul; ugly pictures would reveal that he did not see, appreciate, or love her.",
+      "clozeSentence": "She had long believed that the essential perspective of the photographer was captured in his or her photographs; _____ or interesting pictures would mean that Ron noticed her beauty and even her soul; ugly pictures would reveal that he did not see, appreciate, or love her.",
+      "distractors": [
+        "To make someone look older than they are",
+        "To criticize someone's appearance",
+        "To copy someone's exact appearance"
+      ],
+      "surfaceForms": [
+        "flattering"
+      ],
+      "clozeAnswerSurfaceForm": "flattering"
+    },
+    {
+      "lemma": "smug",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Showing excessive pride or self-satisfaction",
+      "translationZh": "自鳴得意的；沾沾自喜的",
+      "exampleSentence": "She turned and shrugged, tilted her head, lifted her eyebrows—acknowledging our anger and frustration, but smug, the way she always was when she ripped up photographs of herself.",
+      "clozeSentence": "She turned and shrugged, tilted her head, lifted her eyebrows—acknowledging our anger and frustration, but _____, the way she always was when she ripped up photographs of herself.",
+      "distractors": [
+        "Deeply ashamed and embarrassed",
+        "Anxious and unsure of oneself",
+        "Sad and disappointed"
+      ],
+      "surfaceForms": [
+        "smug"
+      ],
+      "clozeAnswerSurfaceForm": "smug"
+    },
+    {
+      "lemma": "stonewash",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "(of denim) Treated with stones to produce a soft, faded look",
+      "translationZh": "石洗（水洗做舊處理）的（丹寧布）",
+      "exampleSentence": "She wore a T-shirt and stonewashed jeans.",
+      "clozeSentence": "She wore a T-shirt and _____ jeans.",
+      "distractors": [
+        "Dyed a bright, solid color",
+        "Made from a stiff, new fabric",
+        "Decorated with hand embroidery"
+      ],
+      "surfaceForms": [
+        "stonewashed"
+      ],
+      "clozeAnswerSurfaceForm": "stonewashed"
+    },
+    {
+      "lemma": "insolent",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Rude and disrespectful, especially toward someone in authority",
+      "translationZh": "無禮的；傲慢無禮的",
+      "exampleSentence": "We gave him insolent looks.",
+      "clozeSentence": "We gave him _____ looks.",
+      "distractors": [
+        "Extremely polite and respectful",
+        "Shy and reluctant to speak",
+        "Sad and withdrawn"
+      ],
+      "surfaceForms": [
+        "insolent"
+      ],
+      "clozeAnswerSurfaceForm": "insolent"
+    },
+    {
+      "lemma": "candid",
+      "level": "C1",
+      "levelSource": "wordlist",
+      "definitionEn": "Honest and direct, or (of a photo) taken naturally without posing",
+      "translationZh": "坦率的；（照片）自然抓拍的",
+      "exampleSentence": "At first the shots were candid, but now he wanted us to pose.",
+      "clozeSentence": "At first the shots were _____, but now he wanted us to pose.",
+      "distractors": [
+        "Carefully staged and artificial",
+        "Deliberately misleading or dishonest",
+        "Overly formal and rehearsed"
+      ],
+      "surfaceForms": [
+        "candid"
+      ],
+      "clozeAnswerSurfaceForm": "candid"
+    },
+    {
+      "lemma": "herringbone",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "A pattern of short parallel lines forming a repeated V shape",
+      "translationZh": "人字紋（魚骨紋）圖案",
+      "exampleSentence": "He’d bought us matching gold necklaces, hers wider and thicker than mine, made of two rows of jointed segments that met like herringbone.",
+      "clozeSentence": "He’d bought us matching gold necklaces, hers wider and thicker than mine, made of two rows of jointed segments that met like _____.",
+      "distractors": [
+        "A pattern of large solid circles",
+        "A single continuous straight line",
+        "A random, scattered pattern of dots"
+      ],
+      "surfaceForms": [
+        "herringbone"
+      ],
+      "clozeAnswerSurfaceForm": "herringbone"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "translation",
+      "wordLemma": "tousle",
+      "prompt": "弄亂（頭髮）",
+      "options": [
+        "tousle",
+        "callus",
+        "smug",
+        "unloved"
+      ],
+      "answer": "tousle"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "rigor",
+      "prompt": "Ron thought my private school was elitist and lacked academic _____, and he managed to convince my mother, too, so we moved house in order to be in the Palo Alto School District so I could attend public school.",
+      "options": [
+        "elitist",
+        "rigor",
+        "insolent",
+        "candid"
+      ],
+      "answer": "rigor"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "wall-to-wall",
+      "prompt": "Before this, we’d lived on a series of old _____ carpets, and my mother’s joy about this floor surprised me.",
+      "options": [
+        "calluses",
+        "wall-to-wall",
+        "vertically",
+        "pad"
+      ],
+      "answer": "wall-to-wall"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "candid",
+      "prompt": "candid",
+      "options": [
+        "Carefully staged and artificial",
+        "Deliberately misleading or dishonest",
+        "Overly formal and rehearsed",
+        "Honest and direct, or (of a photo) taken naturally without posing"
+      ],
+      "answer": "Honest and direct, or (of a photo) taken naturally without posing"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "smug",
+      "prompt": "smug",
+      "options": [
+        "Sad and disappointed",
+        "Deeply ashamed and embarrassed",
+        "Showing excessive pride or self-satisfaction",
+        "Anxious and unsure of oneself"
+      ],
+      "answer": "Showing excessive pride or self-satisfaction"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "pinkie",
+      "prompt": "I noticed the way she walked with her toes pointing in, and how her _____ toes formed yellow calluses sharp as blades that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "options": [
+        "flattened",
+        "pad",
+        "pinkie",
+        "hardening"
+      ],
+      "answer": "pinkie"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "callus",
+      "prompt": "硬繭（老繭）",
+      "options": [
+        "callus",
+        "tousle",
+        "elitist",
+        "insolent"
+      ],
+      "answer": "callus"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "flip",
+      "prompt": "I tried to get at the pictures, and so did he, but her back was curved against us as she _____ through them, yanking out the photos she didn’t like and hiding them in a pile beneath her leg.",
+      "options": [
+        "candid",
+        "vertically",
+        "unloved",
+        "flipped"
+      ],
+      "answer": "flipped"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "vertically",
+      "prompt": "vertically",
+      "options": [
+        "In a straight up-and-down direction",
+        "In a side-to-side direction",
+        "In a circular direction",
+        "In a random, scattered direction"
+      ],
+      "answer": "In a straight up-and-down direction"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "insolent",
+      "prompt": "無禮的；傲慢無禮的",
+      "options": [
+        "insolent",
+        "rigor",
+        "pad",
+        "tousle"
+      ],
+      "answer": "insolent"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "unloveable",
+      "prompt": "unloveable",
+      "options": [
+        "Extremely popular and well-liked",
+        "Difficult to understand",
+        "Impossible to forget",
+        "Not able to be loved; unlikely to be loved by others"
+      ],
+      "answer": "Not able to be loved; unlikely to be loved by others"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "blade",
+      "prompt": "I noticed the way she walked with her toes pointing in, and how her pinkie toes formed yellow calluses sharp as _____ that ran vertically along the bottom pad where the toes had been flattened in shoes.",
+      "options": [
+        "tousled",
+        "blades",
+        "hardening",
+        "rigor"
+      ],
+      "answer": "blades"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "herringbone",
+      "prompt": "He’d bought us matching gold necklaces, hers wider and thicker than mine, made of two rows of jointed segments that met like _____.",
+      "options": [
+        "unloved",
+        "herringbone",
+        "vertically",
+        "smug"
+      ],
+      "answer": "herringbone"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "flatten",
+      "prompt": "flatten",
+      "options": [
+        "To make something flat or level, often by pressing or crushing",
+        "To make something rounder",
+        "To make something taller",
+        "To make something more colorful"
+      ],
+      "answer": "To make something flat or level, often by pressing or crushing"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "unloved",
+      "prompt": "不被愛的；缺乏關愛的",
+      "options": [
+        "pad",
+        "wall-to-wall",
+        "callus",
+        "unloved"
+      ],
+      "answer": "unloved"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "harden",
+      "prompt": "變硬；變得堅定（表情等）",
+      "options": [
+        "flatten",
+        "rigor",
+        "candid",
+        "harden"
+      ],
+      "answer": "harden"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "pad",
+      "prompt": "pad",
+      "options": [
+        "A soft, cushioned area, such as on the bottom of a toe or paw",
+        "A thin layer of skin covering a wound",
+        "The hard nail at the end of a toe",
+        "A bone found inside the foot"
+      ],
+      "answer": "A soft, cushioned area, such as on the bottom of a toe or paw"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "stonewash",
+      "prompt": "She wore a T-shirt and _____ jeans.",
+      "options": [
+        "rigor",
+        "flattering",
+        "stonewashed",
+        "elitist"
+      ],
+      "answer": "stonewashed"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "elitist",
+      "prompt": "elitist",
+      "options": [
+        "Relating to ancient history",
+        "Focused only on physical fitness",
+        "Believing everyone should be treated exactly the same",
+        "Believing that a select group of people deserve special treatment or privilege"
+      ],
+      "answer": "Believing that a select group of people deserve special treatment or privilege"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "flatter",
+      "prompt": "使顯得更好看（討好、美化）",
+      "options": [
+        "flip",
+        "wall-to-wall",
+        "smug",
+        "flatter"
+      ],
+      "answer": "flatter"
+    }
+  ]
+}

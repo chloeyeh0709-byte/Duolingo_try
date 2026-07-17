@@ -1,0 +1,666 @@
+{
+  "bookSlug": "small-fry",
+  "partIndex": 6,
+  "partTitle": "Small Nation",
+  "sectionIndex": 9,
+  "paragraphs": [
+    "For a joke, my father would turn his back, moan, and move his hands up and down until they seemed disembodied, like someone else’s hands.",
+    "When he spoke to me directly about love and sex, he was curious and interested, the two of us equals, a team.",
+    "I did not feel the same revulsion I did when talking about sex with my mother. Maybe it was because I hadn’t grown up with him.",
+    "“Let’s go over the bases again,” he said, in a kind but officious tone. We used the language of baseball, a game neither of us knew or cared about.",
+    "“You mean—for making out?” I asked.",
+    "“Yeah. So first base is kissing …” he prompted.",
+    "I knew it was ridiculous, but I liked it. He asked me about once a week, as if he’d forgotten in between. This was a repetitive exercise. I didn’t have a boyfriend and wasn’t making any progress but I went through what I knew. He continued to prompt. The only confusion I had was third base, called “feeling down,” which may or may not have included oral sex, so I didn’t mention that part and hoped he wouldn’t want more details.",
+    "“And which base are you at?” he asked.",
+    "“Second,” I said, “from Nueva.”",
+    "“Ah,” he said. “Great.”",
+    "One evening when Laurene got home I went outside to meet her, near the roses beside the gate.",
+    "“You know that computer, the Lisa?” she said, closing the gate, the ring clanking, her hair flashing in the sunlight, a large leather satchel on her shoulder. “It was named after you, right?” We’d never talked about it before and I wasn’t sure why she was asking now. Maybe someone had asked her.",
+    "“I don’t know. I think so,” I lied. I hoped she’d drop it.",
+    "“It must have been,” she said. “Let’s ask him when he gets back.”",
+    "“It doesn’t really matter,” I said. I didn’t want him to say no again. Though maybe if she asked him, he would say yes?",
+    "A few minutes later, he came in the gate and Laurene walked up to him. I followed.",
+    "“Hon,” she said, “that computer was named after Lisa, right?”",
+    "“Nope,” he said.",
+    "“Seriously?”",
+    "“Yup. Seriously,” he said.",
+    "“Come on.” She looked him in the eye. I was impressed and grateful she kept pushing when I would have given up. They faced each other, stopped on the path on the way to the door.",
+    "“It wasn’t,” he said.",
+    "Then I wished she hadn’t asked. I was embarrassed for her to discover that I wasn’t as important to him as she might have thought.",
+    "“Well then, who was it named after?”",
+    "“An old girlfriend,” he said, looking off into the distance, as if remembering. Wistful. It was this dreamy quality that made me believe he was telling the truth, because otherwise it was quite an act. I had a strange feeling in my stomach, the same one I got when something was fake or phony, but I was getting that feeling a lot lately. And why would he lie, anyway? His true well of feeling was clearly reserved for the other Lisa. I’d never heard of a girlfriend named Lisa from when he was young, and when I mentioned it to my mother later she said, “Hogwash.” But maybe she didn’t know, maybe he’d kept the first Lisa from us both.",
+    "“Sorry, kid,” he said, patting me on the back, then walking into the house."
+  ],
+  "words": [
+    {
+      "lemma": "disembody",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Separated from or existing without a physical body",
+      "translationZh": "（使）脫離肉體的；無實體的",
+      "exampleSentence": "For a joke, my father would turn his back, moan, and move his hands up and down until they seemed disembodied, like someone else’s hands.",
+      "clozeSentence": "For a joke, my father would turn his back, moan, and move his hands up and down until they seemed _____, like someone else’s hands.",
+      "distractors": [
+        "Firmly attached to the body",
+        "Extremely strong and muscular",
+        "Covered in clothing or fabric"
+      ],
+      "surfaceForms": [
+        "disembodied"
+      ],
+      "clozeAnswerSurfaceForm": "disembodied"
+    },
+    {
+      "lemma": "moan",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To make a low sound expressing pain, sadness, or pleasure",
+      "translationZh": "呻吟；哀嘆",
+      "exampleSentence": "For a joke, my father would turn his back, moan, and move his hands up and down until they seemed disembodied, like someone else’s hands.",
+      "clozeSentence": "For a joke, my father would turn his back, _____, and move his hands up and down until they seemed disembodied, like someone else’s hands.",
+      "distractors": [
+        "To laugh loudly and happily",
+        "To speak very quickly",
+        "To remain completely silent"
+      ],
+      "surfaceForms": [
+        "moan"
+      ],
+      "clozeAnswerSurfaceForm": "moan"
+    },
+    {
+      "lemma": "revulsion",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "A strong feeling of disgust or horror",
+      "translationZh": "強烈的厭惡；反感",
+      "exampleSentence": "I did not feel the same revulsion I did when talking about sex with my mother.",
+      "clozeSentence": "I did not feel the same _____ I did when talking about sex with my mother.",
+      "distractors": [
+        "A feeling of deep affection",
+        "A sense of calm relief",
+        "A moment of sudden surprise"
+      ],
+      "surfaceForms": [
+        "revulsion"
+      ],
+      "clozeAnswerSurfaceForm": "revulsion"
+    },
+    {
+      "lemma": "phony",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Not genuine or sincere; fake",
+      "translationZh": "虛假的；不真誠的",
+      "exampleSentence": "I had a strange feeling in my stomach, the same one I got when something was fake or phony, but I was getting that feeling a lot lately.",
+      "clozeSentence": "I had a strange feeling in my stomach, the same one I got when something was fake or _____, but I was getting that feeling a lot lately.",
+      "distractors": [
+        "Extremely honest and open",
+        "Very expensive and rare",
+        "Old-fashioned and traditional"
+      ],
+      "surfaceForms": [
+        "phony"
+      ],
+      "clozeAnswerSurfaceForm": "phony"
+    },
+    {
+      "lemma": "officious",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Too eager to give orders or advice, in an annoying way",
+      "translationZh": "好管閒事的；自以為是的",
+      "exampleSentence": "“Let’s go over the bases again,” he said, in a kind but officious tone.",
+      "clozeSentence": "“Let’s go over the bases again,” he said, in a kind but _____ tone.",
+      "distractors": [
+        "Extremely shy and quiet",
+        "Calm and easygoing",
+        "Deeply sad and quiet"
+      ],
+      "surfaceForms": [
+        "officious"
+      ],
+      "clozeAnswerSurfaceForm": "officious"
+    },
+    {
+      "lemma": "neither",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Not one nor the other of two things or people",
+      "translationZh": "兩者都不",
+      "exampleSentence": "We used the language of baseball, a game neither of us knew or cared about.",
+      "clozeSentence": "We used the language of baseball, a game _____ of us knew or cared about.",
+      "distractors": [
+        "Both people or things equally",
+        "Only the first of two options",
+        "Every one of several things"
+      ],
+      "surfaceForms": [
+        "neither"
+      ],
+      "clozeAnswerSurfaceForm": "neither"
+    },
+    {
+      "lemma": "clank",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To make a loud, harsh metallic sound",
+      "translationZh": "發出鏗鏘聲",
+      "exampleSentence": "“You know that computer, the Lisa?” she said, closing the gate, the ring clanking, her hair flashing in the sunlight, a large leather satchel on her shoulder.",
+      "clozeSentence": "“You know that computer, the Lisa?” she said, closing the gate, the ring _____, her hair flashing in the sunlight, a large leather satchel on her shoulder.",
+      "distractors": [
+        "To move very quietly and smoothly",
+        "To shine brightly in the light",
+        "To break into small pieces"
+      ],
+      "surfaceForms": [
+        "clanking"
+      ],
+      "clozeAnswerSurfaceForm": "clanking"
+    },
+    {
+      "lemma": "satchel",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A bag, often with a strap, carried over the shoulder",
+      "translationZh": "書包；側背包",
+      "exampleSentence": "“You know that computer, the Lisa?” she said, closing the gate, the ring clanking, her hair flashing in the sunlight, a large leather satchel on her shoulder.",
+      "clozeSentence": "“You know that computer, the Lisa?” she said, closing the gate, the ring clanking, her hair flashing in the sunlight, a large leather _____ on her shoulder.",
+      "distractors": [
+        "A small piece of jewelry",
+        "A type of formal shoe",
+        "A long piece of rope"
+      ],
+      "surfaceForms": [
+        "satchel"
+      ],
+      "clozeAnswerSurfaceForm": "satchel"
+    },
+    {
+      "lemma": "prompt",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To encourage or help someone start speaking",
+      "translationZh": "提示；促使（某人說話）",
+      "exampleSentence": "So first base is kissing …” he prompted.",
+      "clozeSentence": "So first base is kissing …” he _____.",
+      "distractors": [
+        "To completely ignore someone",
+        "To strongly forbid something",
+        "To quietly leave a conversation"
+      ],
+      "surfaceForms": [
+        "prompted",
+        "prompt"
+      ],
+      "clozeAnswerSurfaceForm": "prompted"
+    },
+    {
+      "lemma": "repetitive",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Done or happening many times in the same way, often boringly",
+      "translationZh": "重複的；反覆的",
+      "exampleSentence": "This was a repetitive exercise.",
+      "clozeSentence": "This was a _____ exercise.",
+      "distractors": [
+        "Done only once, quickly",
+        "Very creative and original",
+        "Extremely difficult to understand"
+      ],
+      "surfaceForms": [
+        "repetitive"
+      ],
+      "clozeAnswerSurfaceForm": "repetitive"
+    },
+    {
+      "lemma": "dreamy",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Vague, gentle, or seeming lost in thought",
+      "translationZh": "恍惚的；夢幻般的",
+      "exampleSentence": "It was this dreamy quality that made me believe he was telling the truth, because otherwise it was quite an act.",
+      "clozeSentence": "It was this _____ quality that made me believe he was telling the truth, because otherwise it was quite an act.",
+      "distractors": [
+        "Extremely loud and energetic",
+        "Highly organized and precise",
+        "Angry and aggressive"
+      ],
+      "surfaceForms": [
+        "dreamy"
+      ],
+      "clozeAnswerSurfaceForm": "dreamy"
+    },
+    {
+      "lemma": "wistful",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "Feeling or showing sad longing, especially for the past",
+      "translationZh": "若有所思的；惆悵的",
+      "exampleSentence": "Wistful.",
+      "clozeSentence": "_____.",
+      "distractors": [
+        "Feeling extremely angry",
+        "Feeling proud and confident",
+        "Feeling completely indifferent"
+      ],
+      "surfaceForms": [
+        "wistful"
+      ],
+      "clozeAnswerSurfaceForm": "Wistful"
+    },
+    {
+      "lemma": "pat",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To gently tap or touch someone with an open hand",
+      "translationZh": "輕拍",
+      "exampleSentence": "“Sorry, kid,” he said, patting me on the back, then walking into the house.",
+      "clozeSentence": "“Sorry, kid,” he said, _____ me on the back, then walking into the house.",
+      "distractors": [
+        "To hit someone very hard",
+        "To push someone away roughly",
+        "To hold something tightly for a long time"
+      ],
+      "surfaceForms": [
+        "patting"
+      ],
+      "clozeAnswerSurfaceForm": "patting"
+    }
+  ],
+  "practiceWords": [
+    {
+      "lemma": "disembody",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Separated from or existing without a physical body",
+      "translationZh": "（使）脫離肉體的；無實體的",
+      "exampleSentence": "For a joke, my father would turn his back, moan, and move his hands up and down until they seemed disembodied, like someone else’s hands.",
+      "clozeSentence": "For a joke, my father would turn his back, moan, and move his hands up and down until they seemed _____, like someone else’s hands.",
+      "distractors": [
+        "Firmly attached to the body",
+        "Extremely strong and muscular",
+        "Covered in clothing or fabric"
+      ],
+      "surfaceForms": [
+        "disembodied"
+      ],
+      "clozeAnswerSurfaceForm": "disembodied"
+    },
+    {
+      "lemma": "moan",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To make a low sound expressing pain, sadness, or pleasure",
+      "translationZh": "呻吟；哀嘆",
+      "exampleSentence": "For a joke, my father would turn his back, moan, and move his hands up and down until they seemed disembodied, like someone else’s hands.",
+      "clozeSentence": "For a joke, my father would turn his back, _____, and move his hands up and down until they seemed disembodied, like someone else’s hands.",
+      "distractors": [
+        "To laugh loudly and happily",
+        "To speak very quickly",
+        "To remain completely silent"
+      ],
+      "surfaceForms": [
+        "moan"
+      ],
+      "clozeAnswerSurfaceForm": "moan"
+    },
+    {
+      "lemma": "revulsion",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "A strong feeling of disgust or horror",
+      "translationZh": "強烈的厭惡；反感",
+      "exampleSentence": "I did not feel the same revulsion I did when talking about sex with my mother.",
+      "clozeSentence": "I did not feel the same _____ I did when talking about sex with my mother.",
+      "distractors": [
+        "A feeling of deep affection",
+        "A sense of calm relief",
+        "A moment of sudden surprise"
+      ],
+      "surfaceForms": [
+        "revulsion"
+      ],
+      "clozeAnswerSurfaceForm": "revulsion"
+    },
+    {
+      "lemma": "phony",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Not genuine or sincere; fake",
+      "translationZh": "虛假的；不真誠的",
+      "exampleSentence": "I had a strange feeling in my stomach, the same one I got when something was fake or phony, but I was getting that feeling a lot lately.",
+      "clozeSentence": "I had a strange feeling in my stomach, the same one I got when something was fake or _____, but I was getting that feeling a lot lately.",
+      "distractors": [
+        "Extremely honest and open",
+        "Very expensive and rare",
+        "Old-fashioned and traditional"
+      ],
+      "surfaceForms": [
+        "phony"
+      ],
+      "clozeAnswerSurfaceForm": "phony"
+    },
+    {
+      "lemma": "officious",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "Too eager to give orders or advice, in an annoying way",
+      "translationZh": "好管閒事的；自以為是的",
+      "exampleSentence": "“Let’s go over the bases again,” he said, in a kind but officious tone.",
+      "clozeSentence": "“Let’s go over the bases again,” he said, in a kind but _____ tone.",
+      "distractors": [
+        "Extremely shy and quiet",
+        "Calm and easygoing",
+        "Deeply sad and quiet"
+      ],
+      "surfaceForms": [
+        "officious"
+      ],
+      "clozeAnswerSurfaceForm": "officious"
+    },
+    {
+      "lemma": "neither",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Not one nor the other of two things or people",
+      "translationZh": "兩者都不",
+      "exampleSentence": "We used the language of baseball, a game neither of us knew or cared about.",
+      "clozeSentence": "We used the language of baseball, a game _____ of us knew or cared about.",
+      "distractors": [
+        "Both people or things equally",
+        "Only the first of two options",
+        "Every one of several things"
+      ],
+      "surfaceForms": [
+        "neither"
+      ],
+      "clozeAnswerSurfaceForm": "neither"
+    },
+    {
+      "lemma": "clank",
+      "level": "C1",
+      "levelSource": "ai",
+      "definitionEn": "To make a loud, harsh metallic sound",
+      "translationZh": "發出鏗鏘聲",
+      "exampleSentence": "“You know that computer, the Lisa?” she said, closing the gate, the ring clanking, her hair flashing in the sunlight, a large leather satchel on her shoulder.",
+      "clozeSentence": "“You know that computer, the Lisa?” she said, closing the gate, the ring _____, her hair flashing in the sunlight, a large leather satchel on her shoulder.",
+      "distractors": [
+        "To move very quietly and smoothly",
+        "To shine brightly in the light",
+        "To break into small pieces"
+      ],
+      "surfaceForms": [
+        "clanking"
+      ],
+      "clozeAnswerSurfaceForm": "clanking"
+    },
+    {
+      "lemma": "satchel",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "A bag, often with a strap, carried over the shoulder",
+      "translationZh": "書包；側背包",
+      "exampleSentence": "“You know that computer, the Lisa?” she said, closing the gate, the ring clanking, her hair flashing in the sunlight, a large leather satchel on her shoulder.",
+      "clozeSentence": "“You know that computer, the Lisa?” she said, closing the gate, the ring clanking, her hair flashing in the sunlight, a large leather _____ on her shoulder.",
+      "distractors": [
+        "A small piece of jewelry",
+        "A type of formal shoe",
+        "A long piece of rope"
+      ],
+      "surfaceForms": [
+        "satchel"
+      ],
+      "clozeAnswerSurfaceForm": "satchel"
+    },
+    {
+      "lemma": "prompt",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "To encourage or help someone start speaking",
+      "translationZh": "提示；促使（某人說話）",
+      "exampleSentence": "So first base is kissing …” he prompted.",
+      "clozeSentence": "So first base is kissing …” he _____.",
+      "distractors": [
+        "To completely ignore someone",
+        "To strongly forbid something",
+        "To quietly leave a conversation"
+      ],
+      "surfaceForms": [
+        "prompted",
+        "prompt"
+      ],
+      "clozeAnswerSurfaceForm": "prompted"
+    },
+    {
+      "lemma": "repetitive",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "Done or happening many times in the same way, often boringly",
+      "translationZh": "重複的；反覆的",
+      "exampleSentence": "This was a repetitive exercise.",
+      "clozeSentence": "This was a _____ exercise.",
+      "distractors": [
+        "Done only once, quickly",
+        "Very creative and original",
+        "Extremely difficult to understand"
+      ],
+      "surfaceForms": [
+        "repetitive"
+      ],
+      "clozeAnswerSurfaceForm": "repetitive"
+    },
+    {
+      "lemma": "dreamy",
+      "level": "B2",
+      "levelSource": "wordlist",
+      "definitionEn": "Vague, gentle, or seeming lost in thought",
+      "translationZh": "恍惚的；夢幻般的",
+      "exampleSentence": "It was this dreamy quality that made me believe he was telling the truth, because otherwise it was quite an act.",
+      "clozeSentence": "It was this _____ quality that made me believe he was telling the truth, because otherwise it was quite an act.",
+      "distractors": [
+        "Extremely loud and energetic",
+        "Highly organized and precise",
+        "Angry and aggressive"
+      ],
+      "surfaceForms": [
+        "dreamy"
+      ],
+      "clozeAnswerSurfaceForm": "dreamy"
+    },
+    {
+      "lemma": "wistful",
+      "level": "C2",
+      "levelSource": "wordlist",
+      "definitionEn": "Feeling or showing sad longing, especially for the past",
+      "translationZh": "若有所思的；惆悵的",
+      "exampleSentence": "Wistful.",
+      "clozeSentence": "_____.",
+      "distractors": [
+        "Feeling extremely angry",
+        "Feeling proud and confident",
+        "Feeling completely indifferent"
+      ],
+      "surfaceForms": [
+        "wistful"
+      ],
+      "clozeAnswerSurfaceForm": "Wistful"
+    },
+    {
+      "lemma": "pat",
+      "level": "B2",
+      "levelSource": "ai",
+      "definitionEn": "To gently tap or touch someone with an open hand",
+      "translationZh": "輕拍",
+      "exampleSentence": "“Sorry, kid,” he said, patting me on the back, then walking into the house.",
+      "clozeSentence": "“Sorry, kid,” he said, _____ me on the back, then walking into the house.",
+      "distractors": [
+        "To hit someone very hard",
+        "To push someone away roughly",
+        "To hold something tightly for a long time"
+      ],
+      "surfaceForms": [
+        "patting"
+      ],
+      "clozeAnswerSurfaceForm": "patting"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "cloze",
+      "wordLemma": "moan",
+      "prompt": "For a joke, my father would turn his back, _____, and move his hands up and down until they seemed disembodied, like someone else’s hands.",
+      "options": [
+        "officious",
+        "moan",
+        "repetitive",
+        "phony"
+      ],
+      "answer": "moan"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "satchel",
+      "prompt": "“You know that computer, the Lisa?” she said, closing the gate, the ring clanking, her hair flashing in the sunlight, a large leather _____ on her shoulder.",
+      "options": [
+        "disembodied",
+        "officious",
+        "satchel",
+        "prompted"
+      ],
+      "answer": "satchel"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "disembody",
+      "prompt": "disembody",
+      "options": [
+        "Firmly attached to the body",
+        "Extremely strong and muscular",
+        "Covered in clothing or fabric",
+        "Separated from or existing without a physical body"
+      ],
+      "answer": "Separated from or existing without a physical body"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "pat",
+      "prompt": "pat",
+      "options": [
+        "To gently tap or touch someone with an open hand",
+        "To hit someone very hard",
+        "To hold something tightly for a long time",
+        "To push someone away roughly"
+      ],
+      "answer": "To gently tap or touch someone with an open hand"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "prompt",
+      "prompt": "提示；促使（某人說話）",
+      "options": [
+        "pat",
+        "repetitive",
+        "clank",
+        "prompt"
+      ],
+      "answer": "prompt"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "clank",
+      "prompt": "clank",
+      "options": [
+        "To break into small pieces",
+        "To move very quietly and smoothly",
+        "To make a loud, harsh metallic sound",
+        "To shine brightly in the light"
+      ],
+      "answer": "To make a loud, harsh metallic sound"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "wistful",
+      "prompt": "若有所思的；惆悵的",
+      "options": [
+        "repetitive",
+        "moan",
+        "revulsion",
+        "wistful"
+      ],
+      "answer": "wistful"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "revulsion",
+      "prompt": "強烈的厭惡；反感",
+      "options": [
+        "officious",
+        "revulsion",
+        "phony",
+        "pat"
+      ],
+      "answer": "revulsion"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "dreamy",
+      "prompt": "It was this _____ quality that made me believe he was telling the truth, because otherwise it was quite an act.",
+      "options": [
+        "clanking",
+        "moan",
+        "dreamy",
+        "repetitive"
+      ],
+      "answer": "dreamy"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "repetitive",
+      "prompt": "repetitive",
+      "options": [
+        "Extremely difficult to understand",
+        "Very creative and original",
+        "Done only once, quickly",
+        "Done or happening many times in the same way, often boringly"
+      ],
+      "answer": "Done or happening many times in the same way, often boringly"
+    },
+    {
+      "type": "cloze",
+      "wordLemma": "officious",
+      "prompt": "“Let’s go over the bases again,” he said, in a kind but _____ tone.",
+      "options": [
+        "satchel",
+        "phony",
+        "officious",
+        "Wistful"
+      ],
+      "answer": "officious"
+    },
+    {
+      "type": "multiple-choice",
+      "wordLemma": "phony",
+      "prompt": "phony",
+      "options": [
+        "Old-fashioned and traditional",
+        "Very expensive and rare",
+        "Extremely honest and open",
+        "Not genuine or sincere; fake"
+      ],
+      "answer": "Not genuine or sincere; fake"
+    },
+    {
+      "type": "translation",
+      "wordLemma": "neither",
+      "prompt": "兩者都不",
+      "options": [
+        "satchel",
+        "officious",
+        "phony",
+        "neither"
+      ],
+      "answer": "neither"
+    }
+  ]
+}
