@@ -15,11 +15,19 @@ export interface BookSource {
   /** CSS selector, relative to the part file's body, for the part title heading. */
   titleSelector: string;
   /**
-   * CSS selector for elements that mark a section break within a part
-   * (e.g. a decorative divider image between vignettes). Each divider
-   * starts a new section; content before the first divider is section 1.
+   * How a part's text is split into smaller lesson sections.
+   * - "divider": a decorative element (e.g. an image) marks a break between
+   *   sections; the divider itself is discarded. Content before the first
+   *   divider is section 1. Uses `sectionDividerSelector`.
+   * - "heading": a subheading element starts a new section and its own text
+   *   is kept as the section's first paragraph. Content before the first
+   *   heading is section 1. Uses `sectionHeadingSelector`.
    */
-  sectionDividerSelector: string;
+  sectionSplitMode: "divider" | "heading";
+  /** Divider mode only: CSS selector for elements that mark a section break within a part. */
+  sectionDividerSelector?: string;
+  /** Heading mode only: CSS selector for subheading elements that start a new section. */
+  sectionHeadingSelector?: string;
 }
 
 export interface RawSection {

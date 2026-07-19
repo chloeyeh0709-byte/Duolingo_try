@@ -12,9 +12,20 @@ export const BOOK_SOURCES: BookSource[] = [
     title: "Small Fry",
     author: "Lisa Brennan-Jobs",
     epubPath: process.env.SMALL_FRY_EPUB_PATH ?? "",
-    partFilePattern: /^part\d+\.html$/,
+    partFilePattern: /^part(\d+)\.html$/,
     titleSelector: "h1, h2",
+    sectionSplitMode: "divider",
     sectionDividerSelector: ".center-logo",
+  },
+  {
+    slug: "zero-to-one",
+    title: "Zero to One",
+    author: "Peter Thiel with Blake Masters",
+    epubPath: process.env.ZERO_TO_ONE_EPUB_PATH ?? "",
+    partFilePattern: /^Thie_9780804139304_epub_c(\d+)_r1\.htm$/,
+    titleSelector: "h1.chapter_title",
+    sectionSplitMode: "heading",
+    sectionHeadingSelector: "h2.A_Head",
   },
 ];
 
