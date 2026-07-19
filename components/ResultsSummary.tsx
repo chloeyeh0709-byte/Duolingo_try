@@ -1,3 +1,5 @@
+"use client";
+
 import Link from "next/link";
 
 export default function ResultsSummary({
@@ -7,6 +9,8 @@ export default function ResultsSummary({
   missedWords,
   nextHref,
   bookHref,
+  nextGroupLabel,
+  onNextGroup,
 }: {
   correctCount: number;
   totalCount: number;
@@ -14,6 +18,8 @@ export default function ResultsSummary({
   missedWords: string[];
   nextHref: string | null;
   bookHref: string;
+  nextGroupLabel?: string;
+  onNextGroup?: () => void;
 }) {
   const accuracy = totalCount === 0 ? 100 : Math.round((correctCount / totalCount) * 100);
 
@@ -40,6 +46,15 @@ export default function ResultsSummary({
       )}
 
       <div className="flex w-full max-w-sm flex-col gap-3">
+        {onNextGroup && nextGroupLabel && (
+          <button
+            type="button"
+            onClick={onNextGroup}
+            className="rounded-2xl border-b-4 border-duo-green-dark bg-duo-green py-3 text-center font-extrabold text-white active:translate-y-1 active:border-b-0"
+          >
+            ${nextGroupLabel} →
+          </button>
+        )}
         {nextHref && (
           <Link
             href={nextHref}
