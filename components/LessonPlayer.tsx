@@ -106,11 +106,12 @@ export default function LessonPlayer({
   const practiceWords = practiceGroups[groupIndex] ?? [];
   const exercises = useMemo(() => buildGroupExercises(practiceWords), [practiceWords]);
   const currentExercise = exercises[exerciseIndex];
+  const isFinalGroup = groupIndex + 1 >= practiceGroups.length;
 
-  const xpEarned = useMemo(() => correctCount * 10 + (step === "results" ? 20 : 0), [
-    correctCount,
-    step,
-  ]);
+  const xpEarned = useMemo(
+    () => correctCount * 10 + (step === "results" && isFinalGroup ? 20 : 0),
+    [correctCount, isFinalGroup, step]
+  );
 
   const handleExerciseComplete = (correct: boolean) => {
     const next = recordAnswer(progress, lesson.bookSlug, currentExercise.wordLemma, correct);
@@ -146,7 +147,7 @@ export default function LessonPlayer({
           groupIndex,
           accuracy
         );
-        if (groupIndex + 1 >= practiceGroups.length) {
+        if (isFinalGroup) {
           completeSection(
             afterGroup,
             lesson.bookSlug,
@@ -252,7 +253,7 @@ export default function LessonPlayer({
       totalCount={answeredCount}
       xpEarned={xpEarned}
       missedWords={Array.from(missedLemmas)}
-      nextHref={groupIndex + 1 >= practiceGroups.length ? nextHref : null}
+      nextHref={isFinalGroup ? nextHref : null}
       bookHref={bookHref}
       nextGroupLabel={
         groupIndex + 1 < practiceGroups.length
