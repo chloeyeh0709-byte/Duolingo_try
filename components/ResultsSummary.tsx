@@ -54,7 +54,7 @@ export default function ResultsSummary({
             onClick={onNextGroup}
             className="rounded-2xl border-b-4 border-duo-green-dark bg-duo-green py-3 text-center font-extrabold text-white active:translate-y-1 active:border-b-0"
           >
-            ${nextGroupLabel} →
+            {nextGroupLabel} →
           </button>
         )}
         {nextHref && (
