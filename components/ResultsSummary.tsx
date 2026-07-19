@@ -26,7 +26,9 @@ export default function ResultsSummary({
   return (
     <div className="flex flex-col items-center gap-6 text-center">
       <p className="text-6xl">🎉</p>
-      <h1 className="text-3xl font-extrabold text-duo-green-dark">課程完成！</h1>
+      <h1 className="text-3xl font-extrabold text-duo-green-dark">
+        {nextGroupLabel ? "本組完成！" : "課程完成！"}
+      </h1>
       <div className="flex gap-8">
         <div>
           <p className="text-3xl font-extrabold text-duo-yellow-dark">+{xpEarned}</p>
