@@ -17,16 +17,29 @@ export interface SectionProgressEntry {
   bestAccuracy: number;
 }
 
+export interface PracticeGroupProgressEntry {
+  completed: boolean;
+  bestAccuracy: number;
+}
+
 export interface AppProgress {
   xp: number;
   streakCount: number;
   lastActiveDate: string | null;
   wordMastery: Record<string, WordMasteryEntry>;
   sections: Record<string, SectionProgressEntry>;
+  practiceGroups: Record<string, PracticeGroupProgressEntry>;
 }
 
 function emptyProgress(): AppProgress {
-  return { xp: 0, streakCount: 0, lastActiveDate: null, wordMastery: {}, sections: {} };
+  return {
+    xp: 0,
+    streakCount: 0,
+    lastActiveDate: null,
+    wordMastery: {},
+    sections: {},
+    practiceGroups: {},
+  };
 }
 
 function todayIso(): string {
@@ -113,6 +126,15 @@ export function sectionKey(bookSlug: string, partIndex: number, sectionIndex: nu
   return `${bookSlug}:${partIndex}:${sectionIndex}`;
 }
 
+export function practiceGroupKey(
+  bookSlug: string,
+  partIndex: number,
+  sectionIndex: number,
+  groupIndex: number
+): string {
+  return `${sectionKey(bookSlug, partIndex, sectionIndex)}:group:${groupIndex}`;
+}
+
 export function recordAnswer(
   progress: AppProgress,
   bookSlug: string,
@@ -134,6 +156,42 @@ export function recordAnswer(
   };
   saveProgress(next);
   return next;
+}
+
+export function completePracticeGroup(
+  progress: AppProgress,
+  bookSlug: string,
+  partIndex: number,
+  sectionIndex: number,
+  groupIndex: number,
+  accuracy: number
+): AppProgress {
+  const key = practiceGroupKey(bookSlug, partIndex, sectionIndex, groupIndex);
+  const existing = progress.practiceGroups[key];
+  const next: AppProgress = {
+    ...progress,
+    practiceGroups: {
+      ...progress.practiceGroups,
+      [key]: {
+        completed: true,
+        bestAccuracy: Math.max(existing?.bestAccuracy ?? 0, accuracy),
+      },
+    },
+  };
+  saveProgress(next);
+  return next;
+}
+
+export function isPracticeGroupCompleted(
+  progress: AppProgress,
+  bookSlug: string,
+  partIndex: number,
+  sectionIndex: number,
+  groupIndex: number
+): boolean {
+  return Boolean(
+    progress.practiceGroups[practiceGroupKey(bookSlug, partIndex, sectionIndex, groupIndex)]?.completed
+  );
 }
 
 export function completeSection(
