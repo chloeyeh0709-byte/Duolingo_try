@@ -252,7 +252,7 @@ export default function LessonPlayer({
       totalCount={answeredCount}
       xpEarned={xpEarned}
       missedWords={Array.from(missedLemmas)}
-      nextHref={nextHref}
+      nextHref={groupIndex + 1 >= practiceGroups.length ? nextHref : null}
       bookHref={bookHref}
       nextGroupLabel={
         groupIndex + 1 < practiceGroups.length
