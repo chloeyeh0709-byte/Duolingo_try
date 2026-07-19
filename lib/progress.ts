@@ -51,7 +51,15 @@ export function loadProgress(): AppProgress {
   try {
     const raw = window.localStorage.getItem(STORAGE_KEY);
     if (!raw) return emptyProgress();
-    return { ...emptyProgress(), ...JSON.parse(raw) };
+    const saved = JSON.parse(raw) as Partial<AppProgress>;
+
+    // Earlier versions marked a section complete after only its first 20 words.
+    // Start those records over at the section level so every fixed group is completed.
+    if (!("practiceGroups" in saved)) {
+      return { ...emptyProgress(), ...saved, sections: {}, practiceGroups: {} };
+    }
+
+    return { ...emptyProgress(), ...saved, practiceGroups: saved.practiceGroups ?? {} };
   } catch {
     return emptyProgress();
   }
